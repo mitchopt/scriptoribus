@@ -79,11 +79,10 @@ Images are the only hand-authored JSON: add an entry to `data/images/manifest.js
 
 ## Deployment
 
-1. Push to `main`.
-2. In the repository **Settings → Pages**, set the source to **Deploy from a branch**, branch `main`, folder `/root`.
-3. The `.nojekyll` file at the root tells GitHub Pages not to run Jekyll, so the site is served as-is.
-
-The site will be available at `https://mitchub.github.io/scriptoribus/`.
+Deployment is automated via GitHub Actions. The [`Deploy`](.github/workflows/deploy.yml)
+workflow runs on every push to `main`: it rebuilds (`npm run build:strict`), validates
+(`npm run validate`), stamps the build date into `version.json`, and publishes the whole
+repository to GitHub Pages.
 
 ---
 
