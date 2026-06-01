@@ -19,6 +19,9 @@ npm-debug.log*
 # Baseline snapshots
 .baseline/
 
+# Build-date stamp
+version.json
+
 # Editor directories and files
 .vscode/
 .idea/
