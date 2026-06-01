@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bradley's Arnold Latin Prose Composition (TODO) — Scriptoribus</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/reset.css">
+  <link rel="stylesheet" href="./css/tokens.css">
+  <link rel="stylesheet" href="./css/typography.css">
+  <link rel="stylesheet" href="./css/layout.css">
+  <link rel="stylesheet" href="./css/components.css">
+  <style>
+    /* book-specific styles: not in the shared CSS files since they only apply here */
+    details {
+      outline: none;
+    }
+
+    .book-chapter {
+      margin-bottom: var(--s4);
+    }
+
+    .book-chapter-title {
+      cursor: pointer;
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: var(--ink);
+      padding: var(--s3) var(--s4);
+      background: var(--parchment-dark);
+      border: 1px solid var(--border);
+      border-radius: var(--r-lg);
+      user-select: none;
+    }
+
+    .book-chapter-title:hover {
+      background: var(--surface);
+    }
+
+    .book-chapter-body {
+      padding: var(--s4) 0;
+      display: flex;
+      flex-direction: column;
+      gap: var(--s3);
+    }
+
+    .book-section {
+      border-left: 3px solid var(--border);
+      padding-left: var(--s4);
+    }
+
+    .book-section-title {
+      cursor: pointer;
+      font-family: var(--font-body);
+      font-weight: 600;
+      color: var(--ink-muted);
+      font-size: 0.95rem;
+      user-select: none;
+    }
+
+    .book-section-title:hover {
+      color: var(--ink);
+    }
+
+    .book-section-body {
+      margin-top: var(--s3);
+      display: flex;
+      flex-direction: column;
+      gap: var(--s3);
+    }
+
+    .book-exercise {
+      background: var(--surface-raised);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: var(--s3);
+    }
+
+    .book-prompt {
+      color: var(--ink);
+      line-height: 1.6;
+      margin-bottom: var(--s2);
+      font-size: 0.95rem;
+    }
+
+    .book-key-btn {
+      padding: var(--s1) var(--s3);
+      font-size: 0.85rem;
+      color: var(--ink-muted);
+      background: var(--parchment-dark);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      cursor: pointer;
+      transition: background 100ms ease;
+    }
+
+    .book-key-btn:hover {
+      background: var(--border);
+      color: var(--ink);
+    }
+
+    .book-key {
+      margin-top: var(--s2);
+      padding: var(--s3);
+      background: var(--accent-subtle);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 var(--r) var(--r) 0;
+    }
+
+    .book-answer {
+      color: var(--ink);
+      font-style: italic;
+      line-height: 1.65;
+      margin: 0;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body data-page="book-detail">
+
+  <aside id="sidebar"></aside>
+
+  <main id="content" style="max-width: 800px;">
+
+    <h1 class="page-heading">Bradley's Arnold Latin Prose Composition (TODO)</h1>
+    <p class="text-muted" style="margin-bottom: var(--s6);">
+      T. K. Arnold, Rev. G. G. Bradley, Sir J. Mountford (1884)
+    </p>
+
+    <section id="exercises">
+      
+    <details class="book-chapter" open>
+      <summary class="book-chapter-title">Preface</summary>
+      <div class="book-chapter-body">
+        <div style="border-left: 3px solid var(--border); padding-left: var(--s4); margin-top: var(--s3);">
+          <p class="prose">The standard and most popular Latin Prose Composition textbook.</p>
+        </div>
+      </div>
+    </details>
+  
+    <details class="book-chapter">
+      <summary class="book-chapter-title">I. Elementary Rules</summary>
+      <div class="book-chapter-body">
+        
+          <details class="book-section">
+            <summary class="book-section-title">Exercise 1</summary>
+            <div class="book-section-body">
+              
+                <div class="book-exercise">
+                  <p class="book-prompt">I have been elected consul by the votes of the Roman people; you are favoured by enemies of the human race.</p>
+                  <button class="book-key-btn">
+                    Show key
+                  </button>
+                  <div class="book-key" style="display: none;">
+                    <p class="book-answer">TODO</p>
+                  </div>
+                </div>
+              
+                <div class="book-exercise">
+                  <p class="book-prompt">The town had now been blockaded for three days; it was taken by assault on the fourth day.</p>
+                  <button class="book-key-btn">
+                    Show key
+                  </button>
+                  <div class="book-key" style="display: none;">
+                    <p class="book-answer">TODO</p>
+                  </div>
+                </div>
+              
+                <div class="book-exercise">
+                  <p class="book-prompt">I sent three messengers to you in the month of January</p>
+                  <button class="book-key-btn">
+                    Show key
+                  </button>
+                  <div class="book-key" style="display: none;">
+                    <p class="book-answer">TODO</p>
+                  </div>
+                </div>
+              
+            </div>
+          </details>
+        
+      </div>
+    </details>
+  
+    </section>
+
+    <p style="text-align: center; margin-top: var(--s6); padding-top: var(--s4); border-top: 1px solid var(--border);">
+      <a href="./books.html" style="color: var(--accent); text-decoration: none; font-weight: 600;">← Back to Books</a>
+    </p>
+
+  </main>
+
+  <script src="./js/layout.js"></script>
+  <script src="./js/book-page.js"></script>
+
+</body>
+</html>

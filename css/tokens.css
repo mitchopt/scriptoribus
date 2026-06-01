@@ -1,0 +1,65 @@
+/* tokens.css — CSS custom properties (design tokens) */
+
+:root {
+  /* Parchment surfaces */
+  --parchment:      #F5EFE0;
+  --parchment-dark: #EDE4CC;
+  --surface:        #F0E8D4;
+  --surface-raised: #FBF7EF;
+
+  /* Ink text */
+  --ink:               #1F1B16;
+  --ink-muted:         #5A4F45;
+  --ink-on-dark:       #FFFFFF;
+  --ink-on-dark-muted: #DDDDDD;
+  --overlay-dark:      rgba(31, 27, 22, 0.85);
+
+  /* Borders & shadows */
+  --border:        #D9CFB8;
+  --shadow-paper:  0 1px 4px rgba(31, 27, 22, 0.10);
+  --shadow-raised: 0 3px 10px rgba(31, 27, 22, 0.18);
+
+  /* Accent — Roman red */
+  --accent:        #8B1A1A;
+  --accent-hover:  #6B1313;
+  --accent-subtle: rgba(139, 26, 26, 0.08);
+
+  /* Sidebar (inverted: dark ink surface, warm text) */
+  --sidebar-bg:     #1F1B16;
+  --sidebar-text:   #E8DFC8;
+  --sidebar-muted:  #7A6E5E;
+  --sidebar-active: rgba(139, 26, 26, 0.22);
+  --sidebar-border: rgba(255, 255, 255, 0.07);
+
+  /* Inflection badge colours */
+  --badge-fixed-text:    #7A3A32;
+  --badge-fixed-bg:      #F5E6E3;
+  --badge-flexible-text: #3A6035;
+  --badge-flexible-bg:   #E3EFE2;
+  --badge-todo-text:     #6A6060;
+  --badge-todo-bg:       #EDE8E0;
+
+  /* Spacing scale */
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 40px;
+  --s7: 64px;
+
+  /* Border radius */
+  --r:    4px;
+  --r-lg: 8px;
+  --r-xl: 999px;   /* pill shape */
+
+  /* Typography */
+  --font-display: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-body:    'Crimson Pro', Georgia, 'Times New Roman', serif;
+  --font-mono:    'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+
+  /* Layout widths */
+  --sidebar-w:           240px;
+  --sidebar-collapsed-w: 56px;
+  --filter-panel-w:      260px;
+}

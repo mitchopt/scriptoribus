@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "t001",
+    "name": "Greet a family member in the morning",
+    "category": "Greeting people",
+    "notes": ""
+  },
+  {
+    "id": "t002",
+    "name": "Greet a friend you haven't seen for a long time",
+    "category": "Greeting people",
+    "notes": ""
+  },
+  {
+    "id": "t003",
+    "name": "Exchange morning greetings with a neighbour on the street",
+    "category": "Greeting people",
+    "notes": ""
+  },
+  {
+    "id": "t004",
+    "name": "Greet your patron with appropriate deference",
+    "category": "Greeting people",
+    "notes": ""
+  },
+  {
+    "id": "t005",
+    "name": "Say farewell to a family member before a journey",
+    "category": "Saying goodbye",
+    "notes": ""
+  },
+  {
+    "id": "t006",
+    "name": "Say farewell to a host after a dinner party",
+    "category": "Saying goodbye",
+    "notes": ""
+  },
+  {
+    "id": "t007",
+    "name": "Politely dismiss a client from your villa",
+    "category": "Saying goodbye",
+    "notes": ""
+  },
+  {
+    "id": "t008",
+    "name": "Give your name, origin (*patria*), and tribe or family",
+    "category": "Asking for/giving personal details",
+    "notes": ""
+  },
+  {
+    "id": "t009",
+    "name": "State your age and physical description",
+    "category": "Asking for/giving personal details",
+    "notes": ""
+  },
+  {
+    "id": "t010",
+    "name": "Describe your social status and profession",
+    "category": "Asking for/giving personal details",
+    "notes": ""
+  },
+  {
+    "id": "t011",
+    "name": "Introduce one person to another",
+    "category": "Asking for/giving personal details",
+    "notes": ""
+  },
+  {
+    "id": "t012",
+    "name": "Order a meal at a *taberna* or *caupona*",
+    "category": "Ordering food or drinks",
+    "notes": ""
+  },
+  {
+    "id": "t013",
+    "name": "Ask what wine is available and choose one",
+    "category": "Ordering food or drinks",
+    "notes": ""
+  },
+  {
+    "id": "t014",
+    "name": "Request a specific dish and ask its price",
+    "category": "Ordering food or drinks",
+    "notes": ""
+  },
+  {
+    "id": "t015",
+    "name": "Complain that the food is cold or the wine watered",
+    "category": "Ordering food or drinks",
+    "notes": ""
+  },
+  {
+    "id": "t016",
+    "name": "Describe a hot summer day in the city",
+    "category": "Talking about the weather",
+    "notes": ""
+  },
+  {
+    "id": "t017",
+    "name": "Describe a storm at sea or on the road",
+    "category": "Talking about the weather",
+    "notes": ""
+  },
+  {
+    "id": "t018",
+    "name": "Comment on the cold in winter",
+    "category": "Talking about the weather",
+    "notes": ""
+  },
+  {
+    "id": "t019",
+    "name": "Ask someone to speak more slowly",
+    "category": "Saying you don't understand / Asking for clarification",
+    "notes": ""
+  },
+  {
+    "id": "t020",
+    "name": "Request that a word or phrase be repeated",
+    "category": "Saying you don't understand / Asking for clarification",
+    "notes": ""
+  },
+  {
+    "id": "t021",
+    "name": "Ask what a word means",
+    "category": "Saying you don't understand / Asking for clarification",
+    "notes": ""
+  },
+  {
+    "id": "t022",
+    "name": "Describe a visit to the baths (*thermae*)",
+    "category": "Talking about leisure time",
+    "notes": ""
+  },
+  {
+    "id": "t023",
+    "name": "Talk about attending the games (*ludi*) or gladiatorial shows",
+    "category": "Talking about leisure time",
+    "notes": ""
+  },
+  {
+    "id": "t024",
+    "name": "Describe watching chariot races at the circus",
+    "category": "Talking about leisure time",
+    "notes": ""
+  },
+  {
+    "id": "t025",
+    "name": "Talk about a dinner party (*convivium*)",
+    "category": "Talking about leisure time",
+    "notes": ""
+  },
+  {
+    "id": "t026",
+    "name": "Describe reading or reciting poetry",
+    "category": "Talking about leisure time",
+    "notes": ""
+  },
+  {
+    "id": "t027",
+    "name": "Talk about hunting or fishing",
+    "category": "Talking about leisure time",
+    "notes": ""
+  },
+  {
+    "id": "t028",
+    "name": "Describe a walk in the countryside or gardens",
+    "category": "Talking about leisure time",
+    "notes": ""
+  },
+  {
+    "id": "t029",
+    "name": "Describe your frequency of going to the forum",
+    "category": "Talking about how often you do something",
+    "notes": ""
+  },
+  {
+    "id": "t030",
+    "name": "Say how often you write letters to friends",
+    "category": "Talking about how often you do something",
+    "notes": ""
+  },
+  {
+    "id": "t031",
+    "name": "Talk about how regularly you exercise or study",
+    "category": "Talking about how often you do something",
+    "notes": ""
+  },
+  {
+    "id": "t032",
+    "name": "Express a preference for one author over another",
+    "category": "Expressing likes and preferences",
+    "notes": ""
+  },
+  {
+    "id": "t033",
+    "name": "Say which kind of wine, food, or entertainment you prefer",
+    "category": "Expressing likes and preferences",
+    "notes": ""
+  },
+  {
+    "id": "t034",
+    "name": "Compare city life with country life",
+    "category": "Expressing likes and preferences",
+    "notes": ""
+  },
+  {
+    "id": "t035",
+    "name": "Complain about the noise and crowds of the city",
+    "category": "Expressing dislikes and annoyances",
+    "notes": ""
+  },
+  {
+    "id": "t036",
+    "name": "Express displeasure at a bad performance or speech",
+    "category": "Expressing dislikes and annoyances",
+    "notes": ""
+  },
+  {
+    "id": "t037",
+    "name": "Say you dislike a certain type of person or behavior",
+    "category": "Expressing dislikes and annoyances",
+    "notes": ""
+  },
+  {
+    "id": "t038",
+    "name": "Describe the morning routine: rising, dressing, greeting clients",
+    "category": "Describing your typical daily routine",
+    "notes": ""
+  },
+  {
+    "id": "t039",
+    "name": "Talk about the hours of the day (*hora prima*, *hora sexta*, etc.)",
+    "category": "Describing your typical daily routine",
+    "notes": ""
+  },
+  {
+    "id": "t040",
+    "name": "Describe a trip to the forum",
+    "category": "Describing your typical daily routine",
+    "notes": ""
+  },
+  {
+    "id": "t041",
+    "name": "Talk about eating times: *ientaculum*, *prandium*, *cena*",
+    "category": "Describing your typical daily routine",
+    "notes": ""
+  },
+  {
+    "id": "t042",
+    "name": "Describe the work of a farmer, soldier, or merchant",
+    "category": "Talking about your work",
+    "notes": ""
+  },
+  {
+    "id": "t043",
+    "name": "Talk about a lawyer's duties in the forum",
+    "category": "Talking about your work",
+    "notes": ""
+  },
+  {
+    "id": "t044",
+    "name": "Describe the life of a teacher (*grammaticus* or *rhetor*)",
+    "category": "Talking about your work",
+    "notes": ""
+  },
+  {
+    "id": "t045",
+    "name": "Talk about a craftsman's or slave's daily tasks",
+    "category": "Talking about your work",
+    "notes": ""
+  },
+  {
+    "id": "t046",
+    "name": "Describe the courses of a Roman dinner",
+    "category": "Describing food",
+    "notes": ""
+  },
+  {
+    "id": "t047",
+    "name": "Talk about bread, vegetables, and staple foods of the poor",
+    "category": "Describing food",
+    "notes": ""
+  },
+  {
+    "id": "t048",
+    "name": "Describe an elaborate dish at a wealthy host's table",
+    "category": "Describing food",
+    "notes": ""
+  },
+  {
+    "id": "t049",
+    "name": "Talk about the production of wine or olive oil on a farm",
+    "category": "Describing food",
+    "notes": ""
+  },
+  {
+    "id": "t050",
+    "name": "Describe a toga and when it is worn",
+    "category": "Describing clothing",
+    "notes": ""
+  },
+  {
+    "id": "t051",
+    "name": "Talk about the dress of a soldier, a priest, or a woman",
+    "category": "Describing clothing",
+    "notes": ""
+  },
+  {
+    "id": "t052",
+    "name": "Describe mourning dress or festive clothing",
+    "category": "Describing clothing",
+    "notes": ""
+  },
+  {
+    "id": "t053",
+    "name": "Comment on whether someone is dressed appropriately",
+    "category": "Describing clothing",
+    "notes": ""
+  },
+  {
+    "id": "t054",
+    "name": "Describe someone's appearance in detail",
+    "category": "Describing body parts",
+    "notes": ""
+  },
+  {
+    "id": "t055",
+    "name": "Describe an injury or physical ailment",
+    "category": "Describing body parts",
+    "notes": ""
+  },
+  {
+    "id": "t056",
+    "name": "Describe the appearance of a statue or painted portrait",
+    "category": "Describing body parts",
+    "notes": ""
+  },
+  {
+    "id": "t057",
+    "name": "Describe a chariot race and its factions",
+    "category": "Talking about sports",
+    "notes": ""
+  },
+  {
+    "id": "t058",
+    "name": "Talk about wrestling or other athletic exercises",
+    "category": "Talking about sports",
+    "notes": ""
+  },
+  {
+    "id": "t059",
+    "name": "Describe a gladiatorial bout",
+    "category": "Talking about sports",
+    "notes": ""
+  },
+  {
+    "id": "t060",
+    "name": "Discuss ball games (*pila*) played at the baths",
+    "category": "Talking about sports",
+    "notes": ""
+  },
+  {
+    "id": "t061",
+    "name": "Describe a forest (*silva*)",
+    "category": "Talking about nature",
+    "notes": ""
+  },
+  {
+    "id": "t062",
+    "name": "Describe a river or lake",
+    "category": "Talking about nature",
+    "notes": ""
+  },
+  {
+    "id": "t063",
+    "name": "Talk about the sea, a harbour, or a beach",
+    "category": "Talking about nature",
+    "notes": ""
+  },
+  {
+    "id": "t064",
+    "name": "Describe mountains and their dangers",
+    "category": "Talking about nature",
+    "notes": ""
+  },
+  {
+    "id": "t065",
+    "name": "Talk about fields, crops, and the changing seasons",
+    "category": "Talking about nature",
+    "notes": ""
+  },
+  {
+    "id": "t066",
+    "name": "Describe the night sky and constellations",
+    "category": "Talking about nature",
+    "notes": ""
+  },
+  {
+    "id": "t067",
+    "name": "Talk about animals — wild, farm, or domestic",
+    "category": "Talking about nature",
+    "notes": ""
+  },
+  {
+    "id": "t068",
+    "name": "Describe a Roman house (*domus*): atrium, tablinum, garden",
+    "category": "Describing a building",
+    "notes": ""
+  },
+  {
+    "id": "t069",
+    "name": "Describe a temple and its features",
+    "category": "Describing a building",
+    "notes": ""
+  },
+  {
+    "id": "t070",
+    "name": "Describe an amphitheatre, theatre, or circus",
+    "category": "Describing a building",
+    "notes": ""
+  },
+  {
+    "id": "t071",
+    "name": "Describe a forum and the buildings around it",
+    "category": "Describing a building",
+    "notes": ""
+  },
+  {
+    "id": "t072",
+    "name": "Describe a country villa or farmhouse",
+    "category": "Describing a building",
+    "notes": ""
+  },
+  {
+    "id": "t073",
+    "name": "Describe Rome: its hills, districts, and monuments",
+    "category": "Describing a place",
+    "notes": ""
+  },
+  {
+    "id": "t074",
+    "name": "Describe a provincial town or military camp",
+    "category": "Describing a place",
+    "notes": ""
+  },
+  {
+    "id": "t075",
+    "name": "Describe a port city or trading hub",
+    "category": "Describing a place",
+    "notes": ""
+  },
+  {
+    "id": "t076",
+    "name": "Describe a rural landscape: farm, vineyard, or estate",
+    "category": "Describing a place",
+    "notes": ""
+  },
+  {
+    "id": "t077",
+    "name": "Describe a place you have visited on a journey",
+    "category": "Describing a place",
+    "notes": ""
+  },
+  {
+    "id": "t078",
+    "name": "Ask how to find the forum, a temple, or an inn",
+    "category": "Asking for/giving directions",
+    "notes": ""
+  },
+  {
+    "id": "t079",
+    "name": "Give directions through a city using landmarks",
+    "category": "Asking for/giving directions",
+    "notes": ""
+  },
+  {
+    "id": "t080",
+    "name": "Ask and explain the road between two towns",
+    "category": "Asking for/giving directions",
+    "notes": ""
+  },
+  {
+    "id": "t081",
+    "name": "Describe a journey by sea or land",
+    "category": "Asking for/giving directions",
+    "notes": ""
+  },
+  {
+    "id": "t082",
+    "name": "Ask a magistrate or host for permission to speak",
+    "category": "Asking for/giving/denying permission",
+    "notes": ""
+  },
+  {
+    "id": "t083",
+    "name": "Grant or refuse entry to your house",
+    "category": "Asking for/giving/denying permission",
+    "notes": ""
+  },
+  {
+    "id": "t084",
+    "name": "Ask permission to use someone's land or property",
+    "category": "Asking for/giving/denying permission",
+    "notes": ""
+  },
+  {
+    "id": "t085",
+    "name": "Praise someone's oratory or writing",
+    "category": "Complimenting someone",
+    "notes": ""
+  },
+  {
+    "id": "t086",
+    "name": "Compliment a host on their dinner or hospitality",
+    "category": "Complimenting someone",
+    "notes": ""
+  },
+  {
+    "id": "t087",
+    "name": "Praise a soldier's or athlete's performance",
+    "category": "Complimenting someone",
+    "notes": ""
+  },
+  {
+    "id": "t088",
+    "name": "Flatter someone on their wisdom or learning",
+    "category": "Complimenting someone",
+    "notes": ""
+  },
+  {
+    "id": "t089",
+    "name": "Describe your parents, siblings, and children",
+    "category": "Describing your family",
+    "notes": ""
+  },
+  {
+    "id": "t090",
+    "name": "Talk about your ancestors and family history (*gens*)",
+    "category": "Describing your family",
+    "notes": ""
+  },
+  {
+    "id": "t091",
+    "name": "Describe family roles and duties",
+    "category": "Describing your family",
+    "notes": ""
+  },
+  {
+    "id": "t092",
+    "name": "Talk about marriage and household management",
+    "category": "Describing your family",
+    "notes": ""
+  },
+  {
+    "id": "t093",
+    "name": "Describe a friend's virtues (*virtutes*)",
+    "category": "Giving a description of somebody's personality",
+    "notes": ""
+  },
+  {
+    "id": "t094",
+    "name": "Describe a political enemy's vices",
+    "category": "Giving a description of somebody's personality",
+    "notes": ""
+  },
+  {
+    "id": "t095",
+    "name": "Characterise a famous historical figure",
+    "category": "Giving a description of somebody's personality",
+    "notes": ""
+  },
+  {
+    "id": "t096",
+    "name": "Describe the ideal Roman citizen or general",
+    "category": "Giving a description of somebody's personality",
+    "notes": ""
+  },
+  {
+    "id": "t097",
+    "name": "Express grief at a death or loss",
+    "category": "Describing/asking about emotions",
+    "notes": ""
+  },
+  {
+    "id": "t098",
+    "name": "Describe joy at a victory or good news",
+    "category": "Describing/asking about emotions",
+    "notes": ""
+  },
+  {
+    "id": "t099",
+    "name": "Express anger at an injustice",
+    "category": "Describing/asking about emotions",
+    "notes": ""
+  },
+  {
+    "id": "t100",
+    "name": "Talk about fear before a battle or storm",
+    "category": "Describing/asking about emotions",
+    "notes": ""
+  },
+  {
+    "id": "t101",
+    "name": "Describe the emotions at a wedding or festival",
+    "category": "Describing/asking about emotions",
+    "notes": ""
+  },
+  {
+    "id": "t102",
+    "name": "Describe symptoms of illness to a doctor",
+    "category": "Talking about health and sickness",
+    "notes": ""
+  },
+  {
+    "id": "t103",
+    "name": "Talk about a plague or epidemic in the city",
+    "category": "Talking about health and sickness",
+    "notes": ""
+  },
+  {
+    "id": "t104",
+    "name": "Describe recovery from injury after battle",
+    "category": "Talking about health and sickness",
+    "notes": ""
+  },
+  {
+    "id": "t105",
+    "name": "Describe a major festival: *Saturnalia*, *Lupercalia*, *Parentalia*",
+    "category": "Describing holidays/traditions",
+    "notes": ""
+  },
+  {
+    "id": "t106",
+    "name": "Talk about sacrifices and religious rites",
+    "category": "Describing holidays/traditions",
+    "notes": ""
+  },
+  {
+    "id": "t107",
+    "name": "Describe a triumph (*triumphus*)",
+    "category": "Describing holidays/traditions",
+    "notes": ""
+  },
+  {
+    "id": "t108",
+    "name": "Talk about customs surrounding birth, marriage, or death",
+    "category": "Describing holidays/traditions",
+    "notes": ""
+  },
+  {
+    "id": "t109",
+    "name": "Plan a journey from Rome to a named destination",
+    "category": "Describing/planning a trip",
+    "notes": ""
+  },
+  {
+    "id": "t110",
+    "name": "Describe what provisions and equipment are needed on a journey",
+    "category": "Describing/planning a trip",
+    "notes": ""
+  },
+  {
+    "id": "t111",
+    "name": "Talk about the hazards of travel: bandits, weather, etc.",
+    "category": "Describing/planning a trip",
+    "notes": ""
+  },
+  {
+    "id": "t112",
+    "name": "Invite someone to dinner",
+    "category": "Making, accepting, and refusing invitations",
+    "notes": ""
+  },
+  {
+    "id": "t113",
+    "name": "Accept or decline an invitation to the games",
+    "category": "Making, accepting, and refusing invitations",
+    "notes": ""
+  },
+  {
+    "id": "t114",
+    "name": "Invite someone to accompany you on a journey",
+    "category": "Making, accepting, and refusing invitations",
+    "notes": ""
+  },
+  {
+    "id": "t115",
+    "name": "Decline politely on grounds of duty or illness",
+    "category": "Making, accepting, and refusing invitations",
+    "notes": ""
+  },
+  {
+    "id": "t116",
+    "name": "Describe the ideal of beauty in a person",
+    "category": "Describing what you find attractive/unattractive",
+    "notes": ""
+  },
+  {
+    "id": "t117",
+    "name": "Describe what makes a speech or poem pleasing or ugly",
+    "category": "Describing what you find attractive/unattractive",
+    "notes": ""
+  },
+  {
+    "id": "t118",
+    "name": "Talk about what makes a landscape or building beautiful",
+    "category": "Describing what you find attractive/unattractive",
+    "notes": ""
+  },
+  {
+    "id": "t119",
+    "name": "Describe virtues you admire in a person",
+    "category": "Describing what you find attractive/unattractive",
+    "notes": ""
+  },
+  {
+    "id": "t120",
+    "name": "Describe how long a journey between cities takes",
+    "category": "Describing how long something takes",
+    "notes": ""
+  },
+  {
+    "id": "t121",
+    "name": "Describe the duration of a siege or campaign",
+    "category": "Describing how long something takes",
+    "notes": ""
+  },
+  {
+    "id": "t122",
+    "name": "Describe the length of a festival or ceremony",
+    "category": "Describing how long something takes",
+    "notes": ""
+  },
+  {
+    "id": "t123",
+    "name": "Describe your early education: the *litterator* and *grammaticus*",
+    "category": "Talking about your childhood",
+    "notes": ""
+  },
+  {
+    "id": "t124",
+    "name": "Talk about childhood games and pastimes",
+    "category": "Talking about your childhood",
+    "notes": ""
+  },
+  {
+    "id": "t125",
+    "name": "Describe the town or region where you grew up",
+    "category": "Talking about your childhood",
+    "notes": ""
+  },
+  {
+    "id": "t126",
+    "name": "Talk about an early memory of a festival or public event",
+    "category": "Talking about your childhood",
+    "notes": ""
+  },
+  {
+    "id": "t127",
+    "name": "Describe conditions in Rome during a war or crisis",
+    "category": "Describing past situations",
+    "notes": ""
+  },
+  {
+    "id": "t128",
+    "name": "Talk about life before and after a major historical event",
+    "category": "Describing past situations",
+    "notes": ""
+  },
+  {
+    "id": "t129",
+    "name": "Describe the state of a place you visited years ago",
+    "category": "Describing past situations",
+    "notes": ""
+  },
+  {
+    "id": "t130",
+    "name": "Recount how things were done in your grandfather's time",
+    "category": "Describing past situations",
+    "notes": ""
+  },
+  {
+    "id": "t131",
+    "name": "Explain the causes of a war or political upheaval",
+    "category": "Describing why something in the past happened",
+    "notes": ""
+  },
+  {
+    "id": "t132",
+    "name": "Give reasons why a general won or lost a battle",
+    "category": "Describing why something in the past happened",
+    "notes": ""
+  },
+  {
+    "id": "t133",
+    "name": "Explain why a law was passed",
+    "category": "Describing why something in the past happened",
+    "notes": ""
+  },
+  {
+    "id": "t134",
+    "name": "Describe why someone fell from favour",
+    "category": "Describing why something in the past happened",
+    "notes": ""
+  },
+  {
+    "id": "t135",
+    "name": "Compare two orators, poets, or generals",
+    "category": "Making comparisons",
+    "notes": ""
+  },
+  {
+    "id": "t136",
+    "name": "Compare Roman customs with those of another people (Greeks, Gauls, etc.)",
+    "category": "Making comparisons",
+    "notes": ""
+  },
+  {
+    "id": "t137",
+    "name": "Compare city life and country life",
+    "category": "Making comparisons",
+    "notes": ""
+  },
+  {
+    "id": "t138",
+    "name": "Compare the present age with a better or worse past",
+    "category": "Making comparisons",
+    "notes": ""
+  },
+  {
+    "id": "t139",
+    "name": "Describe recurring seasonal activities on a farm",
+    "category": "Describing the frequency of patterns",
+    "notes": ""
+  },
+  {
+    "id": "t140",
+    "name": "Talk about regular religious observances throughout the year",
+    "category": "Describing the frequency of patterns",
+    "notes": ""
+  },
+  {
+    "id": "t141",
+    "name": "Describe the daily patterns of a soldier on campaign",
+    "category": "Describing the frequency of patterns",
+    "notes": ""
+  },
+  {
+    "id": "t142",
+    "name": "Argue why someone should study philosophy or rhetoric",
+    "category": "Giving reasons",
+    "notes": ""
+  },
+  {
+    "id": "t143",
+    "name": "Give reasons for choosing one course of action over another",
+    "category": "Giving reasons",
+    "notes": ""
+  },
+  {
+    "id": "t144",
+    "name": "Explain why a law or custom is justified",
+    "category": "Giving reasons",
+    "notes": ""
+  },
+  {
+    "id": "t145",
+    "name": "Give reasons for undertaking a journey or military campaign",
+    "category": "Giving reasons",
+    "notes": ""
+  },
+  {
+    "id": "t146",
+    "name": "Complain about the behaviour of a neighbour",
+    "category": "Complaining",
+    "notes": ""
+  },
+  {
+    "id": "t147",
+    "name": "Complain about corruption in public office",
+    "category": "Complaining",
+    "notes": ""
+  },
+  {
+    "id": "t148",
+    "name": "Grumble about prices, taxes, or the cost of living",
+    "category": "Complaining",
+    "notes": ""
+  },
+  {
+    "id": "t149",
+    "name": "Complain about a poor teacher, doctor, or tradesman",
+    "category": "Complaining",
+    "notes": ""
+  },
+  {
+    "id": "t150",
+    "name": "Propose a solution to a dispute between citizens",
+    "category": "Describing/offering a solution to a problem",
+    "notes": ""
+  },
+  {
+    "id": "t151",
+    "name": "Suggest how to repair a damaged road or aqueduct",
+    "category": "Describing/offering a solution to a problem",
+    "notes": ""
+  },
+  {
+    "id": "t152",
+    "name": "Offer advice on how to manage a farm or estate better",
+    "category": "Describing/offering a solution to a problem",
+    "notes": ""
+  },
+  {
+    "id": "t153",
+    "name": "Propose a remedy for civic disorder",
+    "category": "Describing/offering a solution to a problem",
+    "notes": ""
+  },
+  {
+    "id": "t154",
+    "name": "Ask a friend for advice about a legal matter",
+    "category": "Asking for/giving advice",
+    "notes": ""
+  },
+  {
+    "id": "t155",
+    "name": "Give advice on how to prepare a speech",
+    "category": "Asking for/giving advice",
+    "notes": ""
+  },
+  {
+    "id": "t156",
+    "name": "Ask an elder for guidance on a life decision",
+    "category": "Asking for/giving advice",
+    "notes": ""
+  },
+  {
+    "id": "t157",
+    "name": "Advise a young man entering public life",
+    "category": "Asking for/giving advice",
+    "notes": ""
+  },
+  {
+    "id": "t158",
+    "name": "Warn a traveller about dangerous roads or brigands",
+    "category": "Warning someone about something",
+    "notes": ""
+  },
+  {
+    "id": "t159",
+    "name": "Warn a friend about an untrustworthy person",
+    "category": "Warning someone about something",
+    "notes": ""
+  },
+  {
+    "id": "t160",
+    "name": "Warn about the risks of a military or political action",
+    "category": "Warning someone about something",
+    "notes": ""
+  },
+  {
+    "id": "t161",
+    "name": "Caution someone against excess or vice",
+    "category": "Warning someone about something",
+    "notes": ""
+  },
+  {
+    "id": "t162",
+    "name": "Persuade a friend to accompany you on a journey",
+    "category": "Persuading someone",
+    "notes": ""
+  },
+  {
+    "id": "t163",
+    "name": "Argue for a course of action in a debate",
+    "category": "Persuading someone",
+    "notes": ""
+  },
+  {
+    "id": "t164",
+    "name": "Try to convince a patron to support a project",
+    "category": "Persuading someone",
+    "notes": ""
+  },
+  {
+    "id": "t165",
+    "name": "Persuade a reluctant soldier to stand firm",
+    "category": "Persuading someone",
+    "notes": ""
+  },
+  {
+    "id": "t166",
+    "name": "Ask a favour of a social superior with appropriate deference",
+    "category": "Softening requests",
+    "notes": ""
+  },
+  {
+    "id": "t167",
+    "name": "Request something from a slave or freedman politely",
+    "category": "Softening requests",
+    "notes": ""
+  },
+  {
+    "id": "t168",
+    "name": "Soften a criticism with a compliment",
+    "category": "Softening requests",
+    "notes": ""
+  },
+  {
+    "id": "t169",
+    "name": "State what a soldier or magistrate is duty-bound to do",
+    "category": "Expressing obligation",
+    "notes": ""
+  },
+  {
+    "id": "t170",
+    "name": "Talk about what *pietas* demands of a Roman citizen",
+    "category": "Expressing obligation",
+    "notes": ""
+  },
+  {
+    "id": "t171",
+    "name": "Describe contractual or legal obligations",
+    "category": "Expressing obligation",
+    "notes": ""
+  },
+  {
+    "id": "t172",
+    "name": "State that a particular sacrifice or ritual is required",
+    "category": "Expressing necessity/lack of necessity",
+    "notes": ""
+  },
+  {
+    "id": "t173",
+    "name": "Explain that something is unnecessary or can be omitted",
+    "category": "Expressing necessity/lack of necessity",
+    "notes": ""
+  },
+  {
+    "id": "t174",
+    "name": "Say whether a sea voyage in winter is possible",
+    "category": "Expressing possibility/impossibility",
+    "notes": ""
+  },
+  {
+    "id": "t175",
+    "name": "Discuss whether a military objective is achievable",
+    "category": "Expressing possibility/impossibility",
+    "notes": ""
+  },
+  {
+    "id": "t176",
+    "name": "Speculate on whether a rumour could be true",
+    "category": "Expressing possibility/impossibility",
+    "notes": ""
+  },
+  {
+    "id": "t177",
+    "name": "Issue a prohibition as a magistrate or general",
+    "category": "Prohibiting something",
+    "notes": ""
+  },
+  {
+    "id": "t178",
+    "name": "Forbid entry to a place or use of property",
+    "category": "Prohibiting something",
+    "notes": ""
+  },
+  {
+    "id": "t179",
+    "name": "State what religious law (*fas*) prohibits",
+    "category": "Prohibiting something",
+    "notes": ""
+  },
+  {
+    "id": "t180",
+    "name": "Say what you expect a friend, slave, or soldier to do",
+    "category": "Expressing expectations",
+    "notes": ""
+  },
+  {
+    "id": "t181",
+    "name": "State what a host is expected to provide",
+    "category": "Expressing expectations",
+    "notes": ""
+  },
+  {
+    "id": "t182",
+    "name": "Talk about what Roman custom expects of a citizen",
+    "category": "Expressing expectations",
+    "notes": ""
+  },
+  {
+    "id": "t183",
+    "name": "Describe the position of buildings in a city or forum",
+    "category": "Expressing where something is relative to something else",
+    "notes": ""
+  },
+  {
+    "id": "t184",
+    "name": "Give the location of a place on a route",
+    "category": "Expressing where something is relative to something else",
+    "notes": ""
+  },
+  {
+    "id": "t185",
+    "name": "Describe the layout of a military camp",
+    "category": "Expressing where something is relative to something else",
+    "notes": ""
+  },
+  {
+    "id": "t186",
+    "name": "Describe where something is on a body or statue",
+    "category": "Expressing where something is relative to something else",
+    "notes": ""
+  },
+  {
+    "id": "t187",
+    "name": "Describe what you would do if you were consul",
+    "category": "Describing a hypothetical situation",
+    "notes": ""
+  },
+  {
+    "id": "t188",
+    "name": "Speculate on what Rome would be like without its laws",
+    "category": "Describing a hypothetical situation",
+    "notes": ""
+  },
+  {
+    "id": "t189",
+    "name": "Imagine what would have happened if a battle had gone differently",
+    "category": "Describing a hypothetical situation",
+    "notes": ""
+  },
+  {
+    "id": "t190",
+    "name": "Describe your ideal life if wealth were no object",
+    "category": "Describing a hypothetical situation",
+    "notes": ""
+  },
+  {
+    "id": "t191",
+    "name": "Report what an ambassador or envoy said",
+    "category": "Reporting speech",
+    "notes": ""
+  },
+  {
+    "id": "t192",
+    "name": "Relay a message from a general to his troops",
+    "category": "Reporting speech",
+    "notes": ""
+  },
+  {
+    "id": "t193",
+    "name": "Report what a philosopher or orator argued",
+    "category": "Reporting speech",
+    "notes": ""
+  },
+  {
+    "id": "t194",
+    "name": "Convey a rumour or piece of news heard in the forum",
+    "category": "Reporting speech",
+    "notes": ""
+  },
+  {
+    "id": "t195",
+    "name": "Revise a grammatical form mid-sentence",
+    "category": "Self-correcting",
+    "notes": ""
+  },
+  {
+    "id": "t196",
+    "name": "Correct a name or date you misstated",
+    "category": "Self-correcting",
+    "notes": ""
+  },
+  {
+    "id": "t197",
+    "name": "Revise a statement after reflection",
+    "category": "Self-correcting",
+    "notes": ""
+  },
+  {
+    "id": "t198",
+    "name": "Acknowledge an error in an argument",
+    "category": "Self-correcting",
+    "notes": ""
+  },
+  {
+    "id": "t199",
+    "name": "Express that you are gathering your thoughts",
+    "category": "Hesitating / Filling time",
+    "notes": ""
+  },
+  {
+    "id": "t200",
+    "name": "Use filler phrases while searching for the right word",
+    "category": "Hesitating / Filling time",
+    "notes": ""
+  },
+  {
+    "id": "t201",
+    "name": "Signal that you are about to make an important point",
+    "category": "Hesitating / Filling time",
+    "notes": ""
+  }
+]

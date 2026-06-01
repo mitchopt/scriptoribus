@@ -1,0 +1,83 @@
+name: Suggest a Public-Domain Book
+description: Propose a Latin composition textbook or resource for inclusion
+labels: ["books"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a book for Scriptoribus! Use this form to propose a public-domain or openly-licensed Latin composition textbook.
+
+        **Important:** The book must be in the **public domain** (typically published before 1928 in the US) or have an open license (CC0, CC-BY, etc.).
+
+  - type: input
+    id: title
+    attributes:
+      label: Book title
+      placeholder: "e.g., Bradley's Arnold Latin Prose Composition"
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      placeholder: "e.g., Thomas Kerchever Arnold"
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Publication year
+      placeholder: "e.g., 1884"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "A short paragraph describing the book and its level/focus"
+      placeholder: |
+        e.g., A comprehensive guide to Latin prose composition with systematic exercises progressing from simple constructions to complex sentences. Designed for intermediate to advanced students.
+    validations:
+      required: true
+
+  - type: textarea
+    id: content_overview
+    attributes:
+      label: Content overview
+      description: "What topics/chapters does the book cover? (optional)"
+      placeholder: "e.g., Chapters on nominative, genitive, dative constructions; exercises on ablative absolute; etc."
+    validations:
+      required: false
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Source or download link
+      description: "Where can the book be found? (e.g., Google Books, Internet Archive, etc.)"
+      placeholder: "https://archive.org/details/..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: license_context
+    attributes:
+      label: Public domain / license status
+      description: "Explain why this book is in the public domain or under an open license"
+      placeholder: |
+        e.g., Published in 1884 (pre-1928, public domain in US)
+        or: Available under CC-BY-SA on [source website]
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: By submitting, I confirm
+      options:
+        - label: This book is in the public domain or openly licensed
+          required: true
+        - label: The link/source is accurate and the book can be freely accessed
+          required: true

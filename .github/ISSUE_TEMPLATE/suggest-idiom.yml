@@ -1,0 +1,85 @@
+name: Suggest a New Idiom
+description: Propose a Latin idiom for inclusion in Scriptoribus
+labels: ["idioms"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to Scriptoribus! Use this form to suggest a new Latin idiom.
+
+        **Note:** If you'd like to add the idiom yourself, you can edit the markdown directly. See [`CONTRIBUTING.md`](../../CONTRIBUTING.md) for step-by-step instructions.
+
+  - type: input
+    id: latin_phrase
+    attributes:
+      label: Latin phrase
+      description: The idiom in Latin (e.g., "mihi videtur")
+      placeholder: "e.g., mihi videtur"
+    validations:
+      required: true
+
+  - type: input
+    id: gloss
+    attributes:
+      label: English gloss / meaning
+      description: Brief English translation (e.g., "it seems to me")
+      placeholder: "e.g., it seems to me"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: inflection
+    attributes:
+      label: Inflection type
+      description: "Does the idiom always appear in the same form, or can it vary?"
+      options:
+        - Fixed (same form always)
+        - Flexible (can change)
+        - Unsure
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes or variants
+      description: "Optional: variant forms, constraints, or related phrases"
+      placeholder: "e.g., The dative can vary: tibi videtur, ei videtur"
+    validations:
+      required: false
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples with citations
+      description: |
+        Provide one or more examples from ancient texts. Format each on a separate line:
+
+        `Author, *Work* X.Y: "Latin quote"`
+
+        Example:
+        `Cicero, *De Amicitia* 6.20: "Mihi quidem ita videtur."`
+      placeholder: |
+        Cicero, *De Amicitia* 6.20: "Mihi quidem ita videtur."
+        Seneca, *De Ira*: "Mihi videtur esse sapientia."
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: "Optional: where you encountered this idiom, why it's important, etc."
+      placeholder: "e.g., This is a common phrase in Cicero's philosophical works"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: By submitting, I confirm
+      options:
+        - label: I have verified this phrase in authentic Latin texts
+          required: true
+        - label: The examples I've provided are accurate or public domain
+          required: true

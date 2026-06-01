@@ -1,0 +1,73 @@
+name: Report Incorrect Content
+description: Found an error, typo, or inaccuracy in Scriptoribus content
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Scriptoribus! Use this form to report errors in our content.
+
+        **Before you submit:** please check that the issue isn't already reported by searching past issues.
+
+  - type: dropdown
+    id: content_type
+    attributes:
+      label: What type of content has an error?
+      options:
+        - Idiom
+        - Grammar construction
+        - Composition prompt
+        - Exercise template
+        - Link
+        - Name
+        - Book
+        - Image metadata
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: title_or_id
+    attributes:
+      label: Title or ID of the entry
+      description: "Example: 'mihi videtur' (idiom), 'Ablative Absolute' (grammar), or 'img042' (image)"
+      placeholder: "e.g., mihi videtur"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Describe the error or inaccuracy
+      placeholder: "e.g., The Latin phrase is spelled incorrectly, or the example is from the wrong source"
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it be?
+      description: Suggest the correct text or information
+      placeholder: "e.g., The correct spelling is..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: "Any sources, citations, or additional details (optional)"
+      placeholder: "e.g., See Allen & Greenough §343 for the correct construction"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: By submitting, I confirm
+      options:
+        - label: I have checked that this issue hasn't been reported before
+          required: true
+        - label: This information is accurate and I'm willing to help verify it
+          required: false

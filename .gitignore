@@ -1,0 +1,27 @@
+node_modules/
+__pycache__/
+*.pyc
+launch.py
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Baseline snapshots
+.baseline/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

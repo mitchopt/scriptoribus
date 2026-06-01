@@ -1,0 +1,36 @@
+{
+  "id": "bradley-arnold",
+  "title": "Bradley's Arnold Latin Prose Composition (TODO)",
+  "author": "T. K. Arnold, Rev. G. G. Bradley, Sir J. Mountford",
+  "year": 1884,
+  "blurb": "The standard and most popular Latin Prose Composition textbook.",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "I. Elementary Rules",
+      "sections": [
+        {
+          "id": "s01",
+          "title": "Exercise 1",
+          "exercises": [
+            {
+              "id": "ex01",
+              "prompt": "I have been elected consul by the votes of the Roman people; you are favoured by enemies of the human race.",
+              "key": "TODO"
+            },
+            {
+              "id": "ex02",
+              "prompt": "The town had now been blockaded for three days; it was taken by assault on the fourth day.",
+              "key": "TODO"
+            },
+            {
+              "id": "ex03",
+              "prompt": "I sent three messengers to you in the month of January",
+              "key": "TODO"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

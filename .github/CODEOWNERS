@@ -1,0 +1,20 @@
+# Scriptoribus CODEOWNERS
+# Automatically request review from the maintainer for certain changes.
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default: maintainer owns everything
+* @mitchopt
+
+# Explicit: critical paths that always need maintainer review
+/.github/       @mitchopt
+/scripts/       @mitchopt
+/js/            @mitchopt
+/css/           @mitchopt
+/tests/         @mitchopt
+/*.html         @mitchopt
+/package.json   @mitchopt
+
+# Data-only files: contributors should only touch these
+# (CODEOWNERS doesn't restrict, but makes it visible if someone edits code by mistake)
+/data/raw_md/*.md
+/data/images/manifest.json

@@ -1,0 +1,1792 @@
+[
+  {
+    "id": "i001",
+    "latin": "cum _ essem",
+    "gloss": "when I was _",
+    "category": "Temporal",
+    "inflection": "flexible",
+    "notes": "*essem* may inflect: e.g., *cum esset*, *cum essemus*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro Quinctio* 77.13",
+        "quote": "ne quid mihi eiusdem modi accideret, cum contra talem artificem dicturus essem, me vereri."
+      },
+      {
+        "citation": "Cicero, *De Oratore* 2.2.10",
+        "quote": "etiam illud saepe intelleximus, cum essemus eius domi"
+      }
+    ]
+  },
+  {
+    "id": "i002",
+    "latin": "cum haec agerentur",
+    "gloss": "while _ was happening",
+    "category": "Temporal",
+    "inflection": "flexible",
+    "notes": "Useful in either the singular or plural",
+    "examples": [
+      {
+        "citation": "Cicero, *In Verrem* 2.5.113.8",
+        "quote": "Iam illa praeclara: non testium modo catervas, cum tua res ageretur"
+      },
+      {
+        "citation": "Titus Livius, *Ab Urbe Condita* 4.41.8.1",
+        "quote": "cum haec agerentur, iam consul via Labicana ad fanum Quietis erat"
+      }
+    ]
+  },
+  {
+    "id": "i003",
+    "latin": "abhinc _ annōs",
+    "gloss": "_ years ago",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "accusative extent of time",
+    "examples": [
+      {
+        "citation": "Plautus, *Casina* 39",
+        "quote": "sed abhinc annos factum est sedecim, quom conspicatust primulo crepusculo"
+      },
+      {
+        "citation": "Plautus, *Mostellaria* 494",
+        "quote": "qui abhinc sexaginta annos occisus foret"
+      },
+      {
+        "citation": "Terentius, *Phormio* 1017",
+        "quote": "vinolentu' fere abhinc annos quindecim mulierculam eam compressit"
+      }
+    ]
+  },
+  {
+    "id": "i004",
+    "latin": "hodiē prīmum",
+    "gloss": "today for the first time",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "adverbial phrase",
+    "examples": [
+      {
+        "citation": "Plautus, *Mercator* 532",
+        "quote": "ita edepol deperit, atque hodie primum vidit"
+      },
+      {
+        "citation": "Seneca maior, *Controversiae* 7.1.19.9",
+        "quote": "hodie primum res in forum delata est"
+      }
+    ]
+  },
+  {
+    "id": "i005",
+    "latin": "tum temporis",
+    "gloss": "(at) that time",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "a partitive genitive",
+    "examples": [
+      {
+        "citation": "Terentius, *Phormio* 184",
+        "quote": "Ge. tum temporis mihi punctum ad hanc rem est: erus adest"
+      },
+      {
+        "citation": "Cicero, *Pro Rabirio Postumo* 36.3",
+        "quote": "umeris gestum agebant tum temporis, credo, causa; nunc scilicet tempus nullum est"
+      }
+    ]
+  },
+  {
+    "id": "i006",
+    "latin": "eō tempore quō",
+    "gloss": "(at) the time when",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "ablative of time",
+    "examples": [
+      {
+        "citation": "Caesar, *De Bello Gallico* 4.18.4.1",
+        "quote": "at Sugambri ex eo tempore quo pons institui coeptus est, fuga comparata hortantibus iis"
+      },
+      {
+        "citation": "Cicero, *Pro Quinctio* 16.3",
+        "quote": "eum non ita commode posse eo tempore quo proscripsisset vendere"
+      },
+      {
+        "citation": "Columella, *De Re Rustica* 12.30.1.1",
+        "quote": "Ab eo tempore, quo primum dolia operculaveris, usque ad aequinoctium vernum semel in diebus XXXVI vinum curare satis est"
+      }
+    ]
+  },
+  {
+    "id": "i007",
+    "latin": "proximīs diēbus",
+    "gloss": "in the next few days",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "ablative of time (although the noun may change: e.g., *proximis mensibus*).",
+    "examples": [
+      {
+        "citation": "Caesar, *Bellum Civile* 1.6.1.1",
+        "quote": "Proximis diebus habetur extra urbem senatus"
+      },
+      {
+        "citation": "Apuleius, *Metamorphoses* 7.1.18",
+        "quote": "qui proximis diebus fictis commendaticiis litteris Miloni sese virum commentitus bonum artius conciliaverat"
+      },
+      {
+        "citation": "Suetonius, *Divus Iulius* 81.2.3",
+        "quote": "proximis diebus equorum greges, quos in traiciendo Rubiconi flumini consecrarat ac vagos et sine custode dimiserat"
+      }
+    ]
+  },
+  {
+    "id": "i008",
+    "latin": "paucīs post diēbus",
+    "gloss": "a few days later",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "ablative of time (although the nouns may change: e.g., *paucis post mensibus*, *multis post diebus*).",
+    "examples": [
+      {
+        "citation": "Caesar, *De Bello Gallico* 6.10.1.1",
+        "quote": "Interim paucis post diebus fit ab Ubiis certior Suebos omnes unum in locum copias cogere atque iis nationibus"
+      },
+      {
+        "citation": "Caesar, *Bellum Civile* 3.82.1.1",
+        "quote": "Pompeius paucis post diebus in Thessaliam pervenit contionatusque apud cunctum exercitum suis agit gratias"
+      },
+      {
+        "citation": "Cicero, *De Oratore* 2.276.5",
+        "quote": "paucis post diebus cum ad Nasicam venisset Ennius et eum ad ianuam quaereret"
+      }
+    ]
+  },
+  {
+    "id": "i009",
+    "latin": "ubi prīmum",
+    "gloss": "as soon as",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "correlative conjunction",
+    "examples": [
+      {
+        "citation": "Plautus, *Amphitruo* 203",
+        "quote": "Principio ut illo advenimus, ubi primum terram tetigimus, continuo Amphitruo delegit viros primorum principes;"
+      },
+      {
+        "citation": "Plautus, *Poenulus* 1420",
+        "quote": "Ubi primum potero, ilico"
+      },
+      {
+        "citation": "Terentius, *Eunuchus* 628",
+        "quote": "hoc est signi: ubi primum poterit, se illinc subducet scio"
+      }
+    ]
+  },
+  {
+    "id": "i010",
+    "latin": "solitus sum (+inf)",
+    "gloss": "I used to",
+    "category": "Temporal",
+    "inflection": "flexible",
+    "notes": "*solitus* may inflect: e.g., *soliti sunt*, *solita es*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro Murena* 43.8",
+        "quote": "tibi solitus sum dicere magis te fortem accusatorem mihi videri quam sapientem candidatum"
+      },
+      {
+        "citation": "Cicero, *De Oratore* 1.135.8",
+        "quote": "qua quondam solitus sum uti, cum mihi in isto studio versari adulescenti licebat"
+      },
+      {
+        "citation": "Cicero, *Brutus* 107.2",
+        "quote": "ut ex familiari eius L. Accio poeta sum audire solitus"
+      },
+      {
+        "citation": "Cicero, *Pro Cluentio* 175.10",
+        "quote": "multa dicitur domino renuntiare solitus esse"
+      }
+    ]
+  },
+  {
+    "id": "i011",
+    "latin": "dē improvisō",
+    "gloss": "unexpectedly",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "prepositional phrase",
+    "examples": [
+      {
+        "citation": "Caesar, *De Bello Gallico* 2.3.1.1",
+        "quote": "Eo cum de improviso celeriusque omni opinione venisset"
+      },
+      {
+        "citation": "Caesar, *De Bello Gallico* 5.22.1.5",
+        "quote": "his imperat, uti coactis omnibus copiis castra navalia de improviso adoriantur atque oppugnent"
+      },
+      {
+        "citation": "Cicero, *Pro S. Roscio Amerino* 151.5",
+        "quote": "in quos si qui ex acie fugerint de improviso incidant"
+      }
+    ]
+  },
+  {
+    "id": "i012",
+    "latin": "_(abl) ineunte",
+    "gloss": "at the start of _",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "ablative of time",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro Lege Manilia* 35.15",
+        "quote": "Cn. Pompeius extrema hieme apparavit, ineunte vere suscepit, media aestate confecit"
+      },
+      {
+        "citation": "Plautus, *Trinummus* 301",
+        "quote": "Semper ego usque ad hanc aetatem ab ineunte adulescentia tuis servivi servitutem imperiis et praeceptis, pater."
+      },
+      {
+        "citation": "Cicero, *Philippicae* 5.47.5",
+        "quote": "C. Caesar ineunte aetate docuit ab excellenti eximiaque virtute progressum aetatis exspectari non oportere"
+      }
+    ]
+  },
+  {
+    "id": "i013",
+    "latin": "_(abl) exeunte",
+    "gloss": "at the end of _",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "ablative of time",
+    "examples": [
+      {
+        "citation": "Cicero, *De Divinatione* 1.53.16",
+        "quote": "quinto autem anno exeunte, cum esset spes ex illo somnio in Cyprum illum ex Sicilia esse rediturum"
+      },
+      {
+        "citation": "Pliny, *Naturalis Historia* 16.27.2",
+        "quote": "nascitur autem galla sole de geminis exeunte erumpens noctu semper universa"
+      }
+    ]
+  },
+  {
+    "id": "i014",
+    "latin": "hīs _ diēbus",
+    "gloss": "for _ days",
+    "category": "Temporal",
+    "inflection": "fixed",
+    "notes": "ablative construction",
+    "examples": [
+      {
+        "citation": "Plautus, *Mostellaria* 238",
+        "quote": "nam neque edes quicquam neque bibes apud me his decem diebus"
+      },
+      {
+        "citation": "Rutilius, *Schemata Lexeos* 1.16.7",
+        "quote": "immo vero nuper atque his paucis diebus simul et Atheniensis et eloquens est factus."
+      }
+    ]
+  },
+  {
+    "id": "i015",
+    "latin": "mihi vidētur",
+    "gloss": "it seems to me",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "*videtur* may inflect: e.g., *tibi videtur*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Persa* 536",
+        "quote": "Nil pericli mihi videtur"
+      },
+      {
+        "citation": "Plautus, *Bacchides* 842",
+        "quote": "Quid nunc? scelestus tibi videtur Chrysalus?"
+      },
+      {
+        "citation": "Cicero, *Pro S. Roscio Amerino* 83.4",
+        "quote": "Is enim mihi videtur amplissimus qui sua virtute in altiorem locum pervenit"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 1.1.15.6",
+        "quote": "Neque enim mihi videtur haec multitudo, quae ad audiendum convenit, cognoscere ex me causam voluisse"
+      },
+      {
+        "citation": "Cicero, *Pro Murena* 43.8",
+        "quote": "tibi solitus sum dicere magis te fortem accusatorem mihi videri quam sapientem candidatum"
+      }
+    ]
+  },
+  {
+    "id": "i016",
+    "latin": "fieri potest ut",
+    "gloss": "it can happen that",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "*potest* may vary in tense: e.g., *fieri poterat ut*.",
+    "examples": [
+      {
+        "citation": "Cicero, *De Oratore* 2.189.1",
+        "quote": "Neque fieri potest ut doleat is, qui audit, ut oderit, ut invideat, ut pertimescat aliquid, ut ad fletum misericordiamque deducatur"
+      },
+      {
+        "citation": "Cicero, *De Finibus* 1.23.8",
+        "quote": "ac fieri potest, ut errem, sed ita prorsus existimo"
+      },
+      {
+        "citation": "Cicero, *De Domo Sua* 53.3",
+        "quote": "nonne fieri poterat ut populo de Cyprio rege placeret"
+      }
+    ]
+  },
+  {
+    "id": "i017",
+    "latin": "nōn equidem dubitō quīn",
+    "gloss": "I do not doubt that",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "*dubito* may inflect: e.g., *non dubitabat quin*.",
+    "examples": [
+      {
+        "citation": "Catullus, *carmina* 108.3",
+        "quote": "non equidem dubito quin primum inimica bonorum lingua exsecta avido sit data vulturio"
+      },
+      {
+        "citation": "Ovid, *Tristia* 4.3.27",
+        "quote": "non equidem dubito, quin haec et cetera fiant, detque tuus maesti signa doloris amor"
+      }
+    ]
+  },
+  {
+    "id": "i018",
+    "latin": "hoc interest inter _ et _",
+    "gloss": "this is the difference between _ and _",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "*interest* may inflect: e.g., *hoc interfuit inter*.",
+    "examples": [
+      {
+        "citation": "Varro, *Menippeae* 315.1",
+        "quote": "et hoc interest inter Epicurum et ganeones nostros, quibus modulus est vitae culina"
+      },
+      {
+        "citation": "Seneca maior, *Controversiae excerpta* 9.1.1.4",
+        "quote": "hoc interest inter fortunam parentis et fili, quod illius calamitatum exitus fuit carcer, mearum initium"
+      },
+      {
+        "citation": "Seneca iunior, *Epistulae Morales* 95.12.8",
+        "quote": "Hoc interest inter decreta philosophiae et praecepta quod inter elementa et membra:"
+      },
+      {
+        "citation": "Aulus Gellius, *Noctes Atticae* 5.18.8.1",
+        "quote": "'Verum inter eos', inquit 'qui annales relinquere voluissent, et eos, qui res gestas a Romanis perscribere conati essent, omnium rerum hoc interfuit."
+      }
+    ]
+  },
+  {
+    "id": "i019",
+    "latin": "tantum abest ut",
+    "gloss": "so far from",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "*abest* may vary in tense: e.g., *tantum afuit ut*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Tusculanae Disputationes* 2.4.12",
+        "quote": "sed tamen tantum abest ut scribi contra nos nolimus, ut id etiam maxime optemus"
+      },
+      {
+        "citation": "Cicero, *Philippicae* 11.36.10",
+        "quote": "Ego vero istos oti, concordiae, legum, iudiciorum, libertatis inimicos tantum abest ut ornem ut effici non possit quin eos tam oderim quam rem publicam"
+      },
+      {
+        "citation": "Cicero, *De Finibus* 5.57.7",
+        "quote": "qua in vita tantum abest ut voluptates consectentur"
+      },
+      {
+        "citation": "Cicero, *Brutus* 278.8",
+        "quote": "itaque tantum afuit ut inflammares nostros animos, somnum isto loco vix tenebamus."
+      }
+    ]
+  },
+  {
+    "id": "i020",
+    "latin": "certum est mihi (+inf)",
+    "gloss": "I am determined/resolved to",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "you may adjust time or referant: e.g., *certum erat*, *certum tibi est*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Captivi* 772",
+        "quote": "nec cuiquam homini supplicare nunc certum est mihi"
+      },
+      {
+        "citation": "Plautus, *Casina* 91",
+        "quote": "Quia certum est mihi, quasi umbra, quoquo tu ibis, te semper sequi"
+      },
+      {
+        "citation": "Ovid, *Metamorphoses* 9.53",
+        "quote": "inpulsumque manu certum est mihi vera fateri"
+      },
+      {
+        "citation": "Plautus, *Cistellaria* 509",
+        "quote": "Satin istuc tibi in corde certumst?"
+      }
+    ]
+  },
+  {
+    "id": "i021",
+    "latin": "ut opīnor",
+    "gloss": "in my opinion",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "*opinor* may inflect: e.g., *ut opinatur*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Amphitruo* 574",
+        "quote": "Homo hic ebrius est, ut opinor"
+      },
+      {
+        "citation": "Plautus, *Aulularia* 77",
+        "quote": "neque quicquam melius mihi, ut opinor, quam ex me ut unam faciam litteram longam"
+      },
+      {
+        "citation": "Plautus, *Menaechmi* 661",
+        "quote": "Ex re tua, ut opinor, feceris"
+      },
+      {
+        "citation": "Festus, *De Verborum Significatione* 290.68",
+        "quote": "Itaque ne eatenus quidem, ut vulgus opinatur"
+      }
+    ]
+  },
+  {
+    "id": "i022",
+    "latin": "ut crēdō",
+    "gloss": "as I believe",
+    "category": "Opinions",
+    "inflection": "flexible",
+    "notes": "*credo* may inflect: e.g., *ut credit*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro Sestio* 110.20",
+        "quote": "qui, ut credo, non libidinis causa, sed ut plebicola videretur, libertinam duxit uxorem"
+      },
+      {
+        "citation": "Pliny, *Naturalis Historia* 6.80.3",
+        "quote": "fertilis metallis, ut credo"
+      },
+      {
+        "citation": "Pliny, *Naturalis Historia* 16.70.8",
+        "quote": "e silvestri, ut credo, mitigatum satu, diffusius et densitate parietum"
+      },
+      {
+        "citation": "Varro, *Atiquitates Rerum Divinarum* 8.4",
+        "quote": "ex igni sint, ut credit Heraclitus, an ex numeris, ut Pythagoras, an ex atomis, ut ait Epicurus"
+      }
+    ]
+  },
+  {
+    "id": "i023",
+    "latin": "meā sententiā",
+    "gloss": "in my opinion",
+    "category": "Opinions",
+    "inflection": "fixed",
+    "notes": "the idiom is ablative, but other cases do appear.",
+    "examples": [
+      {
+        "citation": "Plautus, *Menaechmi* 273",
+        "quote": "Bene opsonavi atque ex mea sententia, bonum anteponam prandium pransoribus"
+      },
+      {
+        "citation": "Terentius, *Phormio* 335",
+        "quote": "sapiunt mea sententia, pro maleficio si beneficium summum nolunt reddere"
+      },
+      {
+        "citation": "Cicero, *Pro S. Roscio Amerino* 88.10",
+        "quote": "id quod ad rem mea sententia maxime pertinet"
+      }
+    ]
+  },
+  {
+    "id": "i024",
+    "latin": "quantum meminisse",
+    "gloss": "as far as I know/remember",
+    "category": "Memory and Knowledge",
+    "inflection": "fixed",
+    "notes": "the idiom is overwhelmingly infinitive, although *quantulum memini* is attested.",
+    "examples": [
+      {
+        "citation": "Aulus Gellius, *Noctes Atticae* 12.1.24.2",
+        "quote": "sententias communis utilitatis gratia, quantum meminisse potui, rettuli"
+      },
+      {
+        "citation": "Ovidius, *Epistulae ex Ponto* 1.7.65",
+        "quote": "Idque facis, quantumque licet meminisse, solebas officii causa pluribus esse dati"
+      },
+      {
+        "citation": "Aulus Gellius, *Noctes Atticae* 19.12.pr.1",
+        "quote": "In ea dissertione, quantulum memini, huiuscemodi sensus est"
+      }
+    ]
+  },
+  {
+    "id": "i025",
+    "latin": "ut aiunt",
+    "gloss": "as they say",
+    "category": "Memory and Knowledge",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Cicero, *In Catilinam* 1.15.12",
+        "quote": "et, ut aiunt, corpore effugi"
+      },
+      {
+        "citation": "Cicero, *In Catilinam* 2.14.5",
+        "quote": "et ille eiectus in exsilium se Massiliam, ut aiunt, non in haec castra confert"
+      },
+      {
+        "citation": "Cicero, *Pro Murena* 29.7",
+        "quote": "Ut aiunt in Graecis artificibus eos auloedos esse qui citharoedi fieri non potuerint"
+      }
+    ]
+  },
+  {
+    "id": "i026",
+    "latin": "ut ferunt",
+    "gloss": "as they say",
+    "category": "Memory and Knowledge",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Cicero, *De Fato* fr5.3",
+        "quote": "qui admodum raro capitur, sed est piscis, ut ferunt, in primis nobilis"
+      },
+      {
+        "citation": "Cicero, *De Officiis* 3.38.9",
+        "quote": "descendit in illum hiatum aeneumque equum, ut ferunt fabulae, animadvertit"
+      },
+      {
+        "citation": "Livy, *Ab Urbe Condita* 1.36.4.2",
+        "quote": "eludensque artem ut ferunt, 'age dum' inquit, 'diuine tu, inaugura'"
+      }
+    ]
+  },
+  {
+    "id": "i027",
+    "latin": "nisi fallor",
+    "gloss": "unless I am mistaken",
+    "category": "Memory and Knowledge",
+    "inflection": "fixed",
+    "notes": "although *fallor* may technically inflect, the idiom is reflexive: \"unless I decieve myself.\"",
+    "examples": [
+      {
+        "citation": "Cicero, *Epistulae ad Atticum* 4.19.1.4",
+        "quote": "sed, nisi fallor, citius te quam scribis videbo"
+      },
+      {
+        "citation": "Virgil, *Aeneis* 5.49",
+        "quote": "iamque dies, nisi fallor, adest, quem semper acerbum, semper honoratum sic di voluistis habebo"
+      },
+      {
+        "citation": "Columella, *De Re Rustica* 3.2.23.2",
+        "quote": "ab heluo, nisi fallor, colore vocitatae"
+      }
+    ]
+  },
+  {
+    "id": "i028",
+    "latin": "causa est quod",
+    "gloss": "the reason is that",
+    "category": "Causal / Explanatory",
+    "inflection": "flexible",
+    "notes": "*est* may inflect: e.g., *causa fuit quod*.",
+    "examples": [
+      {
+        "citation": "Cicero, *De Finibus* 1.71.13",
+        "quote": "ea causa est, quod nullam eruditionem esse duxit, nisi quae beatae vitae disciplinam iuvaret."
+      },
+      {
+        "citation": "Pliny, *Naturalis Historia* 18.285.5",
+        "quote": "sed vera causa est, quod post dies undeviginti ab aequinoctio verno..."
+      },
+      {
+        "citation": "Quintilian, *Institutio Oratoria* 2.1.1.4",
+        "quote": "Eius rei duplex causa est, quod et rhetores utique nostri suas partis omiserunt et grammatici alienas"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Atticum* 3.2.1.1",
+        "quote": "Itineris nostri causa fuit quod non habebam locum ubi pro meo iure diutius esse possem quam fundum Siccae"
+      }
+    ]
+  },
+  {
+    "id": "i029",
+    "latin": "inde fit ut",
+    "gloss": "it happens that",
+    "category": "Causal / Explanatory",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Horace, *Sermones* 1.1.117",
+        "quote": "inde fit, ut raro, qui se vixisse beatum dicat et exacto contentus tempore vita"
+      },
+      {
+        "citation": "Ovid, *Ars Amatoria* 1.769",
+        "quote": "Inde fit, ut quae se timuit committere honesto, vilis ad amplexus inferioris eat."
+      },
+      {
+        "citation": "Ovid, *Epistulae* 20.113",
+        "quote": "inde fit ut, quotiens existere perfida temptas, peccatum totiens corrigat illa tuum."
+      }
+    ]
+  },
+  {
+    "id": "i030",
+    "latin": "ex quō fit ut",
+    "gloss": "from which it follows",
+    "category": "Causal / Explanatory",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Cicero, *De Republica* 1.67.18",
+        "quote": "ex quo fit, ut etiam servi se liberius gerant, uxores"
+      },
+      {
+        "citation": "Cicero, *De Finibus* 3.64.12",
+        "quote": "ex quo fit, ut laudandus is sit, qui mortem oppetat pro re publica, quod deceat cariorem nobis esse patriam quam nosmet ipsos"
+      },
+      {
+        "citation": "Cicero, *De Officiis* 1.21.4",
+        "quote": "ex quo fit, ut ager Arpinas Arpinatium dicatur, Tusculanus Tusculanorum"
+      }
+    ]
+  },
+  {
+    "id": "i031",
+    "latin": "proptereā quod",
+    "gloss": "because",
+    "category": "Causal / Explanatory",
+    "inflection": "fixed",
+    "notes": "adverbial phrase",
+    "examples": [
+      {
+        "citation": "Cato, *orationes* 130.1",
+        "quote": "propterea quod ex Aetolia complures venerant: Aetolos pacem velle"
+      },
+      {
+        "citation": "Terentius, *Andria* 38",
+        "quote": "propterea quod servibas liberaliter: quod habui summum pretium persolvi tibi."
+      },
+      {
+        "citation": "Caesar, *De Bello Gallico* 1.1.3.1",
+        "quote": "propterea quod a cultu atque humanitate provinciae longissime absunt"
+      }
+    ]
+  },
+  {
+    "id": "i032",
+    "latin": "quod cum ita sit",
+    "gloss": "because this is so",
+    "category": "Causal / Explanatory",
+    "inflection": "flexible",
+    "notes": "*sit* may inflect: e.g., *quod cum ita esset*.",
+    "examples": [
+      {
+        "citation": "Catullus, *carmina* 68A.37",
+        "quote": "quod cum ita sit, nolim statuas nos mente maligna id facere aut animo non satis ingenuo"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.2.179.1",
+        "quote": "Quod cum ita sit, nihil fingam tamen."
+      },
+      {
+        "citation": "Cicero, *Philippicae* 12.22.1",
+        "quote": "Quod cum ita sit, nihilne mihi de periculo meo cogitandum putatis?"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 12.10.2.1",
+        "quote": "quod cum ita esset, tamen litteris tuis quas Non. Mai. ex castris datas acceperamus"
+      }
+    ]
+  },
+  {
+    "id": "i033",
+    "latin": "quā dē causā",
+    "gloss": "for which reason",
+    "category": "Causal / Explanatory",
+    "inflection": "fixed",
+    "notes": "prepositional phrase",
+    "examples": [
+      {
+        "citation": "Caesar, *De Bello Gallico* 1.1.4.1",
+        "quote": "qua de causa Helvetii quoque reliquos Gallos virtute praecedunt"
+      },
+      {
+        "citation": "Cicero, *Pro Q. Roscio Comoedo* 7.2",
+        "quote": "qua de causa? Quia haec sunt menstrua, illae sunt aeternae"
+      },
+      {
+        "citation": "Cicero, *De Lege Agraria* 2.81.8",
+        "quote": "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt...voluerunt"
+      }
+    ]
+  },
+  {
+    "id": "i034",
+    "latin": "gaudeō quod",
+    "gloss": "I am glad that",
+    "category": "Emotional",
+    "inflection": "flexible",
+    "notes": "*gaudeo* may inflect: e.g., *gaudes quod*.",
+    "examples": [
+      {
+        "citation": "Cicero, *De Legibus* 3.1.15",
+        "quote": "Sane gaudeo quod te interpellavi, quoniam quidem tam praeclarum mihi dedisti iudicii tui"
+      },
+      {
+        "citation": "Pliny iunior, *Epistulae* 3.6.7.1",
+        "quote": "Gaudes quod me uenturum esse polliceor"
+      }
+    ]
+  },
+  {
+    "id": "i035",
+    "latin": "doleō quod",
+    "gloss": "I am sad that",
+    "category": "Emotional",
+    "inflection": "flexible",
+    "notes": "*doleo* may inflect: e.g., *nobis dolet quod*.",
+    "examples": [
+      {
+        "citation": "Catullus, *carmina* 21.10",
+        "quote": "nunc ipsum id doleo, quod esurire a temet puer et sitire discet."
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 12.23.3.2",
+        "quote": "in quo tuam vicem saepe doleo, quod nullam partem per aetatem sanae et salvae rei publicae gustare potuisti."
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Atticum* 14.4.1.3",
+        "quote": "equidem doleo, quod numquam in ulla civitate accidit, non una cum libertate rem publicam recuperatam."
+      },
+      {
+        "citation": "Seneca iunior, *Naturales Quaestiones* 4b.13.1.1",
+        "quote": "Nobis dolet quod spiritum, quod solem emere non possumus"
+      }
+    ]
+  },
+  {
+    "id": "i036",
+    "latin": "mīror quod",
+    "gloss": "I am surprised that",
+    "category": "Emotional",
+    "inflection": "flexible",
+    "notes": "*miror* may inflect: e.g., *miratus sum quod*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Epistulae ad Atticum* 12.31.1.2",
+        "quote": "equidem magis miror quod, cum in filium causam conferret"
+      },
+      {
+        "citation": "Quintilian, *Declamationes Minores* 254.13.3",
+        "quote": "Ego vero non miror quod hic timet adhuc civitati"
+      },
+      {
+        "citation": "Valerius Maximus, *Facta et Dicta Memorabilia* 4.1(ext).2.8",
+        "quote": "Quo minus miror quod in Xenocrate discipulo suo tam constanter moderatus fuit."
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 5.14.1.4",
+        "quote": "Romae quia postea non fuisti quam discesseras miratus sum, quod item nunc miror"
+      }
+    ]
+  },
+  {
+    "id": "i037",
+    "latin": "spērō fore ut",
+    "gloss": "I hope that",
+    "category": "Emotional",
+    "inflection": "flexible",
+    "notes": "*spero* may inflect: e.g., *sperare fore ut*.",
+    "examples": [
+      {
+        "citation": "Cicero, *De Legibus* 1.37.6",
+        "quote": "nec tamen spero fore ut omnibus probentur"
+      },
+      {
+        "citation": "Cicero, *Tusculanae Disputationes* 1.82.2",
+        "quote": "spero fore ut contingat id nobis."
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 13.43.1.1",
+        "quote": "Etsi plurimis rebus spero fore ut perspiciam"
+      },
+      {
+        "citation": "Cicero, *Lucullus* 69.1",
+        "quote": "quod erant qui illum gloriae causa facere dicerent, sperare etiam fore ut i qui se sequerentur Antiochii vocarentur"
+      }
+    ]
+  },
+  {
+    "id": "i038",
+    "latin": "exspectō ut",
+    "gloss": "I expect",
+    "category": "Emotional",
+    "inflection": "flexible",
+    "notes": "*exspecto* may inflect: e.g., *exspectatis ut*.",
+    "examples": [
+      {
+        "citation": "Terentius, *Hecyra* 280",
+        "quote": "nisi pol filium multimodis iam exspecto ut redeat domum."
+      },
+      {
+        "citation": "Cicero, *Pro. S. Roscio Amerino* 82.4",
+        "quote": "nisi forte exspectatis ut illa diluam quae de peculatu"
+      }
+    ]
+  },
+  {
+    "id": "i039",
+    "latin": "mē _ (gen/inf) pudet",
+    "gloss": "I am ashamed of _",
+    "category": "Emotional",
+    "inflection": "flexible",
+    "notes": "the referant may change: e.g., *tē pudet*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Asinaria* 933",
+        "quote": "Pol, si aliud nil sit, tui me, uxor, pudet."
+      },
+      {
+        "citation": "Plautus, *Bacchides* 1007",
+        "quote": "Pudet prodire me ad te in conspectum, pater: tantum flagitium te scire audivi meum"
+      },
+      {
+        "citation": "Terentius, *Adelphoe* 391",
+        "quote": "fratri' me quidem pudet pigetque."
+      },
+      {
+        "citation": "Plautus, *Amphitruo* 1034t",
+        "quote": "Amph. Nilne te pudet, sceleste, populi in conspectum ingredi?"
+      }
+    ]
+  },
+  {
+    "id": "i040",
+    "latin": "assentior _(dat)",
+    "gloss": "I agree with _",
+    "category": "Agreement and Disagreement",
+    "inflection": "flexible",
+    "notes": "*assentior* may inflect: e.g., *illis assentiar*.",
+    "examples": [
+      {
+        "citation": "Cicero, *De Finibus* 5.4.4",
+        "quote": "Ego autem tibi, Piso, assentior usu hoc venire, ut acrius aliquanto et attentius de claris viris locorum admonitu cogitemus."
+      },
+      {
+        "citation": "Cicero, *De Finibus* 4.2.1",
+        "quote": "Non mehercule, inquam, soleo temere contra Stoicos, non quo illis admodum assentiar, sed pudore impedior"
+      }
+    ]
+  },
+  {
+    "id": "i041",
+    "latin": "ā _(abl) dissentiō",
+    "gloss": "I disagree with _",
+    "category": "Agreement and Disagreement",
+    "inflection": "flexible",
+    "notes": "*dissentio* may inflect: e.g., *ā _ dissentitis*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro Lege Manilia* 59.9",
+        "quote": "Sed in hoc ipso ab eo vehementissime dissentio, quod quo minus certa est hominum ac minus diuturna vita"
+      },
+      {
+        "citation": "Cicero, *De Republica* 1.31.1",
+        "quote": "Non dissentio a te, Laeli, sed quaero, quae tu esse maiora intellegas."
+      },
+      {
+        "citation": "Cicero, *De Finibus* 1.5.1",
+        "quote": "A quibus tantum dissentio, ut, cum Sophocles vel optime scripserit Electram, tamen male conversam Atilii legam"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Quintum Fratrem* 3.6.1.1",
+        "quote": "eumque quod certum consulem cum Domitio numeratis nihil a nostra opinione dissentitis."
+      }
+    ]
+  },
+  {
+    "id": "i042",
+    "latin": "etiam ego",
+    "gloss": "I also",
+    "category": "Agreement and Disagreement",
+    "inflection": "flexible",
+    "notes": "The referant may change: e.g., *etiam tu*.",
+    "examples": [
+      {
+        "citation": "Petronius, *Satyrica* 72.2.1",
+        "quote": "immo iam coeperam etiam ego plorare, cum Trimalchio 'ergo' inquit 'cum sciamus nos morituros esse'"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Brutum* 11.3.8",
+        "quote": "etiam ego, cum me docueris..."
+      }
+    ]
+  },
+  {
+    "id": "i043",
+    "latin": "neque ego",
+    "gloss": "nor I",
+    "category": "Agreement and Disagreement",
+    "inflection": "flexible",
+    "notes": "The referant may change: e.g., *neque tu*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Amphitruo* 264",
+        "quote": "neque ego huc hominem hodie ad aedis has sinam umquam accedere"
+      },
+      {
+        "citation": "Plautus, *Amphitruo* 1036",
+        "quote": "neque ego umquam usquam tanta mira me vidisse censeo."
+      },
+      {
+        "citation": "Plautus, *Captivi* 634",
+        "quote": "Non fuit, neque ego istuc nomen umquam audivi ante hunc diem."
+      }
+    ]
+  },
+  {
+    "id": "i044",
+    "latin": "quidni?",
+    "gloss": "sure, why not?",
+    "category": "Agreement and Disagreement",
+    "inflection": "fixed",
+    "notes": "ironic/rhetorical",
+    "examples": [
+      {
+        "citation": "Plautus, *Curculio* 422",
+        "quote": "Cvrc. Ita. cape, signum nosce. nostin? Lyc. Quidni noverim?"
+      },
+      {
+        "citation": "Terentius, *Andria* 314",
+        "quote": "Ch. Byrria, quid tibi videtur? adeon ad eum? By. quidni?"
+      },
+      {
+        "citation": "Terentius, *Heauton Timorumenos* 684",
+        "quote": "Cl. o mi Syre, audisti obsecro? Sy. quidni? qui usque una adfuerim."
+      }
+    ]
+  },
+  {
+    "id": "i045",
+    "latin": "nihil moror",
+    "gloss": "I don't care",
+    "category": "Importance",
+    "inflection": "flexible",
+    "notes": "Although *moror* may technically inflect, e.g., *nihil moratur*, the idiom is reflexive. Lit. \"I delay nothing\".",
+    "examples": [
+      {
+        "citation": "Plautus, *Epidicus* 695",
+        "quote": "Per. Nihil moror. Ep. Obnoxiose."
+      },
+      {
+        "citation": "Cicero, *Philippicae* 13.35.4",
+        "quote": "Nihil moror eos salvos esse et ire quo libet, si tantum modo patiuntur perire eum qui meruit."
+      },
+      {
+        "citation": "Horace, *Epistulae* 1.15.16",
+        "quote": "nam vina nihil moror illius orae."
+      }
+    ]
+  },
+  {
+    "id": "i046",
+    "latin": "meā refert",
+    "gloss": "it matters to me",
+    "category": "Importance",
+    "inflection": "fixed",
+    "notes": "used almost exclusively in the negative.",
+    "examples": [
+      {
+        "citation": "Plautus, *Curculio* 530",
+        "quote": "quid id mea refert? ego argentum habeo."
+      },
+      {
+        "citation": "Plautus, *Rudens* 746",
+        "quote": "quid mea refert, haec Athenis natae an Thebis sient?"
+      },
+      {
+        "citation": "Terentius, *Eunuchus* 320",
+        "quote": "mea nil refert dum potiar modo."
+      }
+    ]
+  },
+  {
+    "id": "i047",
+    "latin": "magnī momentī",
+    "gloss": "of great importance",
+    "category": "Importance",
+    "inflection": "fixed",
+    "notes": "genetive expression.",
+    "examples": [
+      {
+        "citation": "Cicero, *In Verrem* 2.1.28.7",
+        "quote": "magni momenti nostra esset oratio."
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.5.177.10",
+        "quote": "permagni momenti est ratio atque inclinatio temporum."
+      },
+      {
+        "citation": "Livy, *Ab Urbe Condita* 10.16.5.1",
+        "quote": "temptasse etiam haud magni momenti finitimarum gentium auxilia."
+      }
+    ]
+  },
+  {
+    "id": "i048",
+    "latin": "ego equidem",
+    "gloss": "for my part",
+    "category": "Qualifiers and Hedges",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Plautus, *Amphitruo* 764",
+        "quote": "Ego equidem ex te audivi et ex tua accepi manu pateram auream."
+      },
+      {
+        "citation": "Terentius, *Andria* 310",
+        "quote": "ego equidem, Chreme, non sum dictis elutus; scio, haec commemorari omnia merito"
+      },
+      {
+        "citation": "Cicero, *De Natura Deorum* 1.60.4",
+        "quote": "Ego equidem non dubito quin fuerint ante Homerum poetae"
+      }
+    ]
+  },
+  {
+    "id": "i049",
+    "latin": "verisimile est",
+    "gloss": "it is likely that",
+    "category": "Qualifiers and Hedges",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Celsus, *De Medicina* 3.14.2.5",
+        "quote": "Id saepe posse fieri verisimile est."
+      },
+      {
+        "citation": "Pliny, *Naturalis Historia* 5.52.7",
+        "quote": "fonte, ut verisimile est, illo quem Nigrim vocavere"
+      },
+      {
+        "citation": "Cicero, *De Divinatione* 1.109.2",
+        "quote": "verisimile est hoc quidem—ex motu enim animorum aliquid atque ex statu corporis"
+      }
+    ]
+  },
+  {
+    "id": "i050",
+    "latin": "saltem",
+    "gloss": "at least, at any rate",
+    "category": "Qualifiers and Hedges",
+    "inflection": "fixed",
+    "notes": "adverb (not comparable)",
+    "examples": [
+      {
+        "citation": "Plautus, *Amphitruo* 438",
+        "quote": "Quis ego sum saltem, si non sum Sosia? te interrogo."
+      },
+      {
+        "citation": "Plautus, *Captivi* 486",
+        "quote": "saltem, si non arriderent, dentes ut restringerent."
+      },
+      {
+        "citation": "Plautus, *Bacchides* 337",
+        "quote": "Istuc sapienter saltem fecit filius, cum diviti homini id aurum servandum dedit."
+      }
+    ]
+  },
+  {
+    "id": "i051",
+    "latin": "dumtaxat",
+    "gloss": "to this extent and no more",
+    "category": "Qualifiers and Hedges",
+    "inflection": "fixed",
+    "notes": "adverb (not comparable)",
+    "examples": [
+      {
+        "citation": "Plautus, *Truculentus* 445",
+        "quote": "praeterea obsonari una dumtaxat mina."
+      },
+      {
+        "citation": "Caesar, *Bellum Civile* 2.41.2.3",
+        "quote": "sed peditatu dumtaxat procul ad speciem utitur, equites in aciem inmittit."
+      },
+      {
+        "citation": "Cicero, *Pro Quinctio* 59.12",
+        "quote": "dumtaxat usque eo ne cum bonis, fama fortunisque omnibus Sex. Naevi cupiditati crudelitatique dedatur."
+      }
+    ]
+  },
+  {
+    "id": "i052",
+    "latin": "necesse est mihi (+inf)",
+    "gloss": "I must",
+    "category": "Needs and Obligations",
+    "inflection": "flexible",
+    "notes": "Strong sense of necessity. The referant or tense may change: e.g., *necesse erat tibi*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Cato Maior de Senectute* 30.9",
+        "quote": "nihil necesse est mihi de me ipso dicere, quamquam est id quidem senile aetatique nostrae concedendum"
+      },
+      {
+        "citation": "Gaius, *Institutiones* 2.134.4",
+        "quote": "necesse est mihi vel heredem instituere vel exheredare, ne forte, me viuo filio mortuo succedendo in locum eius nepos neptisue"
+      },
+      {
+        "citation": "Cicero, *In Q. Caecilium* 56.4",
+        "quote": "Iudicant recuperatores id quod necesse erat"
+      }
+    ]
+  },
+  {
+    "id": "i053",
+    "latin": "opus est mihi (+abl/inf)",
+    "gloss": "I need",
+    "category": "Needs and Obligations",
+    "inflection": "flexible",
+    "notes": "Weaker, practical sense of necessity.  The referant or tense may change: e.g., *opus fuit tibi*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Miles Gloriosus* 705",
+        "quote": "Quando habeo multos cognatos, quid opus est mihi liberis?"
+      },
+      {
+        "citation": "Terentius, *Phormio* 560",
+        "quote": "opus est mihi Phormionem ad hanc rem adiutorem dari."
+      },
+      {
+        "citation": "Pliny iunior, *Epistulae* 6.6.1.2",
+        "quote": "Opus est mihi voti laboris sollicitudinis socio."
+      },
+      {
+        "citation": "Ovid, *Epistulae* 3.37",
+        "quote": "sed non opus est tibi coniuge"
+      }
+    ]
+  },
+  {
+    "id": "i054",
+    "latin": "mē oportet (+inf)",
+    "gloss": "I should",
+    "category": "Needs and Obligations",
+    "inflection": "flexible",
+    "notes": "*oportet* may inflect: e.g., *te oporteret*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Captivi* 955",
+        "quote": "Quid me oportet facere, ubi tu talis vir falsum autumas?"
+      },
+      {
+        "citation": "Cicero, *Pro Tullio* 4.3",
+        "quote": "quid me oportet Tullium pro Tullio facere, homine coniuncto mecum non minus animo quam nomine?"
+      },
+      {
+        "citation": "Seneca iunior, *De Beneficiis* 5.9.4.4",
+        "quote": "Accipere beneficium me oportet, deinde debere, deinde referre."
+      },
+      {
+        "citation": "Cicero, *In Pisonem* 40.4",
+        "quote": "ad senatum cum gratulatione aliqua scribi abs te oporteret?"
+      }
+    ]
+  },
+  {
+    "id": "i055",
+    "latin": "quid faciendum est?",
+    "gloss": "what should be done?",
+    "category": "Misc",
+    "inflection": "fixed",
+    "notes": "gerund of obligation",
+    "examples": [
+      {
+        "citation": "Cicero, *De Partitione Oratoria* 15.1",
+        "quote": "Quid faciendum est contra reo?"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.4.11.1",
+        "quote": "Quid igitur nobis faciendum est? num argumentis utendum in re eius modi?"
+      },
+      {
+        "citation": "Plautus, *Miles Gloriosus* 887",
+        "quote": "Si quid faciendum est mulieri male atque malitiose, ea síbi immortalis memoriast meminisse."
+      }
+    ]
+  },
+  {
+    "id": "i056",
+    "latin": "quid tibi vidētur?",
+    "gloss": "what do you think?",
+    "category": "Misc",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Terentius, *Andria* 315",
+        "quote": "quid tibi videtur? adeon ad eum? By. quidni? si nil impetres..."
+      },
+      {
+        "citation": "Phaedrus, *Fabulae Aesopiae* 4.7.17",
+        "quote": "Quid tibi videtur? 'Hoc quoque insulsum est' ait."
+      },
+      {
+        "citation": "Justinianus, *Digesta* 28.5.11.pr.3",
+        "quote": "quid tibi videtur? respondit: vera est Proculi opinio."
+      }
+    ]
+  },
+  {
+    "id": "i057",
+    "latin": "quantum possum",
+    "gloss": "as much as I can, how much I can",
+    "category": "Misc",
+    "inflection": "flexible",
+    "notes": "*possum* may inflect: e.g.,",
+    "examples": [
+      {
+        "citation": "Cicero, *In Verrem* 2.2.176.8",
+        "quote": "tantum mihi licet dicere quantum possum."
+      },
+      {
+        "citation": "Cicero, *De Provinciis Consularibus* 39.17",
+        "quote": "Praestare hoc senator debeo, quantum possum, ne quis vir clarus aut potens huic ordini iure irasci posse videatur."
+      },
+      {
+        "citation": "Seneca iunior, *Epistulae Morales* 14.3.1",
+        "quote": "Nihilominus quantum possumus evitemus incommoda quoque, non tantum pericula."
+      }
+    ]
+  },
+  {
+    "id": "i058",
+    "latin": "aliquid rogāre velim",
+    "gloss": "I would like to ask",
+    "category": "Clarifying and Asking",
+    "inflection": "flexible",
+    "notes": "*velim* may inflect: e.g., *rogare vellet*.",
+    "examples": [
+      {
+        "citation": "Quintilian, *Institutio Oratoria* 12.10.22.2",
+        "quote": "Rogare tamen velim an Isocrates Attice dixerit: nihil enim tam est Lysiae diuersum."
+      },
+      {
+        "citation": "Aulus Gellius, *Noctes Atticae* 14.7.9.13",
+        "quote": "ut is primus rogaretur, quem rogare vellet"
+      }
+    ]
+  },
+  {
+    "id": "i059",
+    "latin": "quid significat _?",
+    "gloss": "what does _ mean?",
+    "category": "Clarifying and Asking",
+    "inflection": "flexible",
+    "notes": "*significat* may inflect: e.g., *quid significent*.",
+    "examples": [
+      {
+        "citation": "Cicero, *De Divinatione* 2.42.10",
+        "quote": "Primum id quid interest? deinde quid significat?"
+      },
+      {
+        "citation": "Gellius, *Noctes Atticae* 13.31.13.1",
+        "quote": "'caninum prandium' in hoc loco, quem legisti, quid significat?'"
+      },
+      {
+        "citation": "Cicero, *De Haruspicum Responso* 32.10",
+        "quote": "Et quaerimus di immortales quae loca desiderent, quid significent, de quo loquantur?"
+      }
+    ]
+  },
+  {
+    "id": "i060",
+    "latin": "quid sibi _ vult?",
+    "gloss": "what does _ mean?",
+    "category": "Clarifying and Asking",
+    "inflection": "flexible",
+    "notes": "*vult* may inflect: e.g., *quid sibi volunt*",
+    "examples": [
+      {
+        "citation": "Petronius, *Satyrica* 95.3.1",
+        "quote": "quid sibi vult tam furtiva molitio?"
+      },
+      {
+        "citation": "Seneca iunior, *Epistulae Morales* 101.13.2",
+        "quote": "Quid sibi vult ista carminis effeminati turpitudo?"
+      },
+      {
+        "citation": "Martialis, *Epigrammata* 6.54.3",
+        "quote": "'Quid sibi vult?' inquis. Dicam, quid suspicer esse."
+      },
+      {
+        "citation": "Seneca iunior, *Dialogi* 12.7.1.2",
+        "quote": "Quid sibi uolunt in mediis barbarorum regionibus Graecae urbes?"
+      }
+    ]
+  },
+  {
+    "id": "i061",
+    "latin": "_ certiōrem facere",
+    "gloss": "to inform _",
+    "category": "Clarifying and Asking",
+    "inflection": "flexible",
+    "notes": "*certiorem* may inflect: e.g., *certiores facere*",
+    "examples": [
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 11.9.2.7",
+        "quote": "et te de omni re facere certiorem."
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 11.10.5.9",
+        "quote": "Cum primum de Antonio exploratum habuero, faciam te certiorem."
+      },
+      {
+        "citation": "Nepos, *Vitae* Att. 20.5.1",
+        "quote": "ex ultumis terris, quid ageret, curae sibi haberet certiorem facere Atticum."
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.3.122.14",
+        "quote": "At debet vos certiores facere quo pacto se habeat provincia."
+      }
+    ]
+  },
+  {
+    "id": "i062",
+    "latin": "sī placet",
+    "gloss": "if it pleases",
+    "category": "Softening / Politeness",
+    "inflection": "flexible",
+    "notes": "*placet* may inflect: e.g., *si placent*.",
+    "examples": [
+      {
+        "citation": "Plautus, *Trinummus* 763",
+        "quote": "Sed vide consilium, si placet. Call. Quid consilist?"
+      },
+      {
+        "citation": "Cicero, *In Catilinam* 4.8.1",
+        "quote": "Decernatur tamen, si placet. Ego enim suscipiam"
+      },
+      {
+        "citation": "Cicero, *De Oratore* 1.133.1",
+        "quote": "Sed, si placet, sermonem alio transferamus et nostro more aliquando, non rhetorico, loquamur."
+      },
+      {
+        "citation": "Sallustius, *Historiarum frr. ampliora Phil.1* 99",
+        "quote": "haec si placent, si tanta torpedo animos oppressit"
+      }
+    ]
+  },
+  {
+    "id": "i063",
+    "latin": "sī vacat",
+    "gloss": "if you have time",
+    "category": "Softening / Politeness",
+    "inflection": "fixed",
+    "notes": "Although *vacat* may technically inflect, the idiom is fixed.",
+    "examples": [
+      {
+        "citation": "Ovid, *Epistulae ex Ponto* 1.1.3",
+        "quote": "Si vacat, hospitio peregrinos, Brute, libellos excipe dumque aliquo, quolibet abde modo."
+      },
+      {
+        "citation": "Ovid, *Epistulae ex Ponto* 3.3.1",
+        "quote": "Si vacat exiguum profugo dare tempus amico, o sidus Fabiae, Maxime, gentis, ades"
+      },
+      {
+        "citation": "Juvenal, *Saturae* 1.21",
+        "quote": "si vacat ac placidi rationem admittitis, edam."
+      }
+    ]
+  },
+  {
+    "id": "i064",
+    "latin": "sī licet",
+    "gloss": "if I may",
+    "category": "Softening / Politeness",
+    "inflection": "flexible",
+    "notes": "*licet* may inflect: e.g., *si licessit*.",
+    "examples": [
+      {
+        "citation": "Terentius, *Heauton Timorumenos* 672",
+        "quote": "triumpho si licet me latere tecto abscedere"
+      },
+      {
+        "citation": "Cicero, *Pro Caelio* 27.10",
+        "quote": "respondeo primum precario, si licet, si fas est defendi a me eum"
+      },
+      {
+        "citation": "Tibullus, *Elegiae* 1.1.44",
+        "quote": "Parva seges satis est, satis requiescere lecto si licet et solito membra levare toro."
+      },
+      {
+        "citation": "Plautus, *Asinaria* 591",
+        "quote": "Ne iste hercle ab ista non pedem discedat, si licessit, qui nunc festinat atque ab hac minatur sese abire."
+      }
+    ]
+  },
+  {
+    "id": "i065",
+    "latin": "sī māvīs",
+    "gloss": "if you prefer",
+    "category": "Softening / Politeness",
+    "inflection": "flexible",
+    "notes": "*mavis* may inflect: e.g., *si mavult*.",
+    "examples": [
+      {
+        "citation": "Cicero, *Tusculanae Disputationes* 3.18.6",
+        "quote": "tali homine, ex quo idem 'nihili' dicitur.—qui sit frugi igitur vel, si mavis, moderatus et temperans, eum necesse est esse constantem"
+      },
+      {
+        "citation": "Seneca iunior, *Epistulae Morales* 75.11.7",
+        "quote": "vel, si mavis, ita finiamus: nimis inminere leviter petendis vel ex toto non petendis"
+      },
+      {
+        "citation": "Martialis, *Epigrammata* 2.93.3",
+        "quote": "Tu tamen hunc fieri si mavis, Regule, primum, unum de titulo tollere iota potes."
+      },
+      {
+        "citation": "Seneca maior, *Controversiae* 2.4.8.4",
+        "quote": "non habet, inquit, fiduciam si mavult videri recepisse puerum quam adduxisse"
+      }
+    ]
+  },
+  {
+    "id": "i066",
+    "latin": "velim scīre",
+    "gloss": "I would like to know",
+    "category": "Softening / Politeness",
+    "inflection": "flexible",
+    "notes": "*velim* may inflect: e.g., *velis scire*",
+    "examples": [
+      {
+        "citation": "Cicero, *De Republica* 1.46.3",
+        "quote": "ex tribus istis modis rerum publicarum velim scire quod optimum iudices."
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Atticum* 4.9.1.1",
+        "quote": "Sane velim scire num censum impediant tribuni diebus vitiandis"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Atticum* 4.10.1.2",
+        "quote": "si quid habes certius, velim scire. ego hic pascor bibliotheca Fausti."
+      },
+      {
+        "citation": "Porphyrio, *Commentum in Horati Epistulas* 1.19.35.1",
+        "quote": "si velis scire, audies."
+      }
+    ]
+  },
+  {
+    "id": "i067",
+    "latin": "ignōsce mihi",
+    "gloss": "forgive me",
+    "category": "Softening / Politeness",
+    "inflection": "flexible",
+    "notes": "*ignosce* may inflect, and the referant may change: e.g., *ei ignosceret*",
+    "examples": [
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 12.2.3.5",
+        "quote": "ignosce mihi, sed non numero consularis."
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Atticum* 16.16e.1.1",
+        "quote": "Ignosce mihi quod, cum antea accuratissime de Buthrotiis ad te scripserim, eadem de re saepius scribam."
+      },
+      {
+        "citation": "Seneca maior, *Controversiae* 10.1.11.12",
+        "quote": "Ignosce mihi, non magis quemquam adhuc accusare possum quam absolvere"
+      },
+      {
+        "citation": "Hyginus, *Fabulae* 72.3.4",
+        "quote": "cum Hercules pro Haemone deprecaretur ut ei ignosceret, non impetravit"
+      }
+    ]
+  },
+  {
+    "id": "i068",
+    "latin": "ut ita dīcam",
+    "gloss": "so to speak",
+    "category": "Discourse Management",
+    "inflection": "fixed",
+    "notes": "Although *dicam* may technically inflect, e.g. *ut ita diceret*, the idiom is fixed.",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro Caecina* 84.1",
+        "quote": "Sin hunc locum fugis et reformidas et me ex hoc, ut ita dicam, campo aequitatis ad istas verborum angustias et ad omnis litterarum angulos revocas"
+      },
+      {
+        "citation": "Cicero, *Pro Sestio* 114.16",
+        "quote": "populum ipsum, ut ita dicam, iam non esse popularem, qui ita vehementer eos qui populares habentur respuat"
+      },
+      {
+        "citation": "Cicero, *Philippicae* 6.19.4",
+        "quote": "Fuit aliquis fatalis casus, ut ita dicam, quem tulimus, quoquo modo ferendus fuit"
+      }
+    ]
+  },
+  {
+    "id": "i069",
+    "latin": "ut breviter dīcam",
+    "gloss": "to put it briefly",
+    "category": "Discourse Management",
+    "inflection": "fixed",
+    "notes": "Although *dicam* may technically inflect, the idiom is fixed.",
+    "examples": [
+      {
+        "citation": "Quintilian, *Declamationes Minores* 278.8.2",
+        "quote": "Et ut breviter dicam, tu exposuisti, ego sustuli."
+      },
+      {
+        "citation": "Seneca iunior, *Naturales Quaestiones* 1.1.6.4",
+        "quote": "Denique, ut breviter dicam, eadem ratione fiunt ista qua fulmina"
+      },
+      {
+        "citation": "Seneca iunior, *Naturales Quaestiones* 2.57.3.4",
+        "quote": "et, ut breviter dicam quod sentio, fulmen est fulgur intentum"
+      }
+    ]
+  },
+  {
+    "id": "i070",
+    "latin": "quod ad _ attinet",
+    "gloss": "as regards _",
+    "category": "Discourse Management",
+    "inflection": "flexible",
+    "notes": "*attinet* may inflect: e.g., *quod attineat*",
+    "examples": [
+      {
+        "citation": "Cato, *orationes* 166.5",
+        "quote": "ego, quod ad me attinet, nolim."
+      },
+      {
+        "citation": "Plautus, *Asinaria* 8",
+        "quote": "nam quod ad argumentum attinet, sane brevest."
+      },
+      {
+        "citation": "Terentius, *Adelphoe* 186",
+        "quote": "iamne me vis dicere id quod ad te attinet?"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.2.15.4",
+        "quote": "tamen vobis alio loco ut se tota res habeat, quod ad eam civitatem attineat, demonstrabitur."
+      }
+    ]
+  },
+  {
+    "id": "i071",
+    "latin": "ut ante dīxī",
+    "gloss": "as I said before",
+    "category": "Discourse Management",
+    "inflection": "flexible",
+    "notes": "*dixi* may inflect: e.g., *ut ante dictum est*.",
+    "examples": [
+      {
+        "citation": "Cicero, *In Verrem* 2.3.1.7",
+        "quote": "atque eo magis si id, ut ante dixi, faciunt nulla re commoti alia nisi utilitate communi"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.5.98.12",
+        "quote": "quo in loco maiores, ut ante dixi, Syracusanum habitare vetuerunt"
+      },
+      {
+        "citation": "Cicero, *Pro Lege Manilia* 16.9",
+        "quote": "servaveritis non solum, ut ante dixi, calamitate sed etiam calamitatis formidine liberatos"
+      },
+      {
+        "citation": "Caesar, *De Bello Gallico* 1.16.2.2",
+        "quote": "quod Gallia sub septentrionibus, ut ante dictum est, posita est"
+      }
+    ]
+  },
+  {
+    "id": "i072",
+    "latin": "quod dicebam",
+    "gloss": "as I was saying",
+    "category": "Discourse Management",
+    "inflection": "flexible",
+    "notes": "*dicebam* may technically inflect, e.g., *quod dicebat*, but this may alter the meaning.",
+    "examples": [
+      {
+        "citation": "Seneca iunior, *De Beneficiis* 3.14.4.3",
+        "quote": "Hoc est, quod dicebam, interituram tantae rei dignitatem, si beneficium mercem facimus."
+      },
+      {
+        "citation": "Seneca iunior, *De Clementia* 1.12.3.4",
+        "quote": "hoc quod dicebam, clementia efficit, ut magnum inter regem tyrannumque discrimen sit"
+      },
+      {
+        "citation": "Seneca maior, *Controversiae* 7.4.pr.1",
+        "quote": "illud unum quod dicebat Pollio Asinius referam: numquam debere temptari in causa verecunda inprobam quaestionem."
+      }
+    ]
+  },
+  {
+    "id": "i073",
+    "latin": "accēdit quod",
+    "gloss": "it is added that",
+    "category": "Discourse Management",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro S. Roscio Amerino* 22.10",
+        "quote": "Huc accedit quod, quamvis ille felix sit, sicut est, tamen in tanta felicitate nemo potest esse in magna familia qui neminem neque servum neque libertum improbum habeat."
+      },
+      {
+        "citation": "Cicero, *De Oratore* 3.66.1",
+        "quote": "Accedit quod orationis etiam genus habent fortasse subtile et certe acutum"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 6.6.8.6",
+        "quote": "accedit quod mirifice ingeniis excellentibus, quale est tuum, delectatur"
+      }
+    ]
+  },
+  {
+    "id": "i074",
+    "latin": "quod maius est",
+    "gloss": "what is greater",
+    "category": "Discourse Management",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Cicero, *Laelius de Amicitia* 29.2",
+        "quote": "vel in eis, quos numquam vidimus, vel, quod maius est, in hoste etiam diligamus"
+      },
+      {
+        "citation": "Titus Livius, *Ab Urbe Condita* 34.4.18.2",
+        "quote": "nunc volgo alienos viros rogant et, quod maius est, legem et suffragia rogant"
+      },
+      {
+        "citation": "Quintilian, *Institutio Oratoria* 1.6.44.3",
+        "quote": "non orationi modo sed, quod maius est, vitae: unde enim tantum boni"
+      }
+    ]
+  },
+  {
+    "id": "i075",
+    "latin": "quō modo dīcam",
+    "gloss": "how shall I say",
+    "category": "Discourse Management",
+    "inflection": "flexible",
+    "notes": "*dicam* may inflect: e.g., *quo modo dicat*.",
+    "examples": [
+      {
+        "citation": "Scriptores Historiae Augustae, *Maximus et Balbinus* 17.7.1",
+        "quote": "quomodo dicam aut prosequar? praesertim cum mediocritas mea non modo publicam felicitatem"
+      },
+      {
+        "citation": "Cicero, *Pro S. Roscio Amerino* 124.2",
+        "quote": "de quo, iudices, neque quo modo dicam neque quo modo taceam reperire possum."
+      },
+      {
+        "citation": "Cicero, *Orator* 137.10",
+        "quote": "ut addubitet ecquid potius aut quo modo dicat"
+      }
+    ]
+  },
+  {
+    "id": "i076",
+    "latin": "ut vērum dīcam",
+    "gloss": "to tell the truth",
+    "category": "Assertion and Emphasis",
+    "inflection": "fixed",
+    "notes": "*dicam* may technically inflect, e.g., *ut veram dicas*, but this strays from the idiom.",
+    "examples": [
+      {
+        "citation": "Seneca iunior, *Epistulae Morales* 50.5.5",
+        "quote": "laborandum est et, ut verum dicam, ne labor quidem magnus est"
+      },
+      {
+        "citation": "Plautus, *Trinummus* 762",
+        "quote": "Malim hercle ut verum dicas, quam ut des mutuom."
+      }
+    ]
+  },
+  {
+    "id": "i077",
+    "latin": "rē vēra",
+    "gloss": "in actual fact, but in reality",
+    "category": "Assertion and Emphasis",
+    "inflection": "fixed",
+    "notes": "Implies a contrast with a false alternative; not idiomatic to use as a general intensifier.",
+    "examples": [
+      {
+        "citation": "Cicero, *Pro Quinctio* 7.2",
+        "quote": "habet adversarium P. Quinctius verbo Sex. Naevium, re vera huiusce aetatis homines disertissimos"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 1.1.44.4",
+        "quote": "verbo illam poscere videbatur, re vera iudicia poscebat."
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.1.11.11",
+        "quote": "quae nomine illorum, re vera populi Romani et erant et habebantur"
+      }
+    ]
+  },
+  {
+    "id": "i078",
+    "latin": "itane?",
+    "gloss": "really? is that so?",
+    "category": "Assertion and Emphasis",
+    "inflection": "fixed",
+    "notes": "",
+    "examples": [
+      {
+        "citation": "Plautus, *Curculio* 725",
+        "quote": "Ther. Itane vero? Capp. Ita hercle vero."
+      },
+      {
+        "citation": "Plautus, *Mercator* 919",
+        "quote": "Itane? commodum illi non est, quae me amat, quam ego contra amo?"
+      },
+      {
+        "citation": "Plautus, *Miles Gloriosus* 1278",
+        "quote": "Mil. Quia aedís dotalis huius sunt. Pyrg. Itane?"
+      }
+    ]
+  },
+  {
+    "id": "i079",
+    "latin": "meā interest",
+    "gloss": "it matters to me",
+    "category": "Assertion and Emphasis",
+    "inflection": "flexible",
+    "notes": "The referant may change, e.g., *tuā interest*, but remains ablative; *mihi interest* is not idiomatic.",
+    "examples": [
+      {
+        "citation": "Cicero, *De Domo Sua* 39.10",
+        "quote": "neque enim mea iam quicquam interest, exceptis iis telis quae ex illius actionibus in meum corpus..."
+      },
+      {
+        "citation": "Cicero, *Pro Plancio* 13.15",
+        "quote": "quod mea minus interest, id te magis forte delectat, reddam tibi istam aedilitatem"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 6.10a.3.2",
+        "quote": "sed magni mea interest hoc tuos omnis scire, quod tuis litteris fieri potest"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lnk001",
+    "name": "Legentibus",
+    "url": "https://legentibus.com",
+    "description": "The Latin learning resource *per excellentiam*. Learn Latin by reading and listening.",
+    "thumbnail": "legentibus.png"
+  },
+  {
+    "id": "lnk002",
+    "name": "Latinitium",
+    "url": "https://latinitium.com",
+    "description": "Modern Latin language resources, podcasts, and articles aimed at active Latin learners. Run by Daniel Pettersson.",
+    "thumbnail": "latinitium.png"
+  },
+  {
+    "id": "lnk003",
+    "name": "Latinitas Animi Causa",
+    "url": "https://www.habesnelac.com",
+    "description": "Novice to advanced active Latin online courses.",
+    "thumbnail": "lac.png"
+  },
+  {
+    "id": "lnk004",
+    "name": "Allen and Greenough",
+    "url": "https://dcc.dickinson.edu/grammar/latin/credits-and-reuse",
+    "description": "A comprehensive grammar reference.",
+    "thumbnail": "dcc.png"
+  },
+  {
+    "id": "lnk005",
+    "name": "Classical Latin Texts (PHI)",
+    "url": "https://latin.packhum.org",
+    "description": "Search the classical Latin corpus.",
+    "thumbnail": "phi.png"
+  }
+]

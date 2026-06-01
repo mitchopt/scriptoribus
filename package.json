@@ -1,0 +1,15 @@
+{
+  "name": "scriptoribus",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A static website for Latin Prose Composition resources, hosted on GitHub Pages.",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build.mjs",
+    "build:strict": "node scripts/build.mjs --strict",
+    "validate": "node scripts/validate-data.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
