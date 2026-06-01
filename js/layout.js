@@ -52,13 +52,32 @@
         <button class="sidebar-toggle" id="sidebar-toggle"
                 title="Toggle sidebar" aria-label="Toggle sidebar">&#8942;</button>
       </div>
-      <nav class="sidebar-nav" aria-label="Main navigation">${linksHtml}</nav>`;
+      <nav class="sidebar-nav" aria-label="Main navigation">${linksHtml}</nav>
+      <div class="sidebar-footer" id="sidebar-footer" hidden></div>`;
 
     // all sidebar CSS rules target body.sidebar-collapsed, so toggling on <body> is enough
     document.getElementById('sidebar-toggle').addEventListener('click', () => {
       const collapsed = document.body.classList.toggle('sidebar-collapsed');
       localStorage.setItem(STORAGE_KEY, collapsed);
     });
+
+    stampBuildDate();
+  }
+
+  // version.json is written only at deploy time; absent locally, so the footer stays hidden
+  function stampBuildDate() {
+    fetch('./version.json')
+      .then(r => (r.ok ? r.json() : null))
+      .then(v => {
+        if (!v || !v.display) return;
+        const footer = document.getElementById('sidebar-footer');
+        if (!footer) return;
+        footer.innerHTML =
+          `<span class="footer-label">Updated</span>` +
+          `<span class="footer-date">${escapeHtml(v.display)}</span>`;
+        footer.hidden = false;
+      })
+      .catch(() => {});
   }
 
   document.addEventListener('DOMContentLoaded', render);

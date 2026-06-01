@@ -1,0 +1,36 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# only one Pages deploy at a time; a newer push supersedes an in-flight one
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm run build:strict        # belt-and-braces rebuild (no runtime deps to install)
+      - run: npm run validate            # independent reparse-and-diff gate
+      - run: node scripts/stamp-version.mjs   # writes version.json (deploy-time only)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."                      # whole repo is the site; bundles CNAME + version.json
+      - id: deployment
+        uses: actions/deploy-pages@v4
