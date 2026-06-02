@@ -22,9 +22,9 @@
   {
     "id": "img003",
     "file": "the-arrival-of-aeneas-in-latium.jpg",
-    "name": "Kustgezicht met landing van Aeneas in Latium, RP-P-OB-17.885",
-    "description": "The arrival of Aeneas in Latium. By Rijksmuseum. 1776-01-01",
-    "credit": "Wikimedia Commons, public domain (Rijksmuseum)",
+    "name": "Coastal Landscape with the Landing of Aeneas in Latium",
+    "description": "The arrival of Aeneas in Latium. Print by Richard Earlom after Claude Lorrain. 1776",
+    "credit": "Wikimedia Commons, public domain (Richard Earlom)",
     "link": "https://commons.wikimedia.org/wiki/File:Kustgezicht_met_landing_van_Aeneas_in_Latium,_RP-P-OB-17.885.jpg",
     "category": "Early / Mythic Roman History",
     "topic": "The arrival of Aeneas in Latium"
@@ -53,8 +53,8 @@
     "id": "img006",
     "file": "the-reconciliation-of-romans-and-sabines.jpg",
     "name": "The Reconciliation of the Romans and Sabines, one of a pair painted for a cassone, Master of Marradi, 1400s - Gallery - Harewood House - West Yorkshire, England - DSC02006",
-    "description": "The reconciliation of Romans and Sabines. By Daderot. 2016-06-16 08:17:40",
-    "credit": "Wikimedia Commons, public domain (Daderot)",
+    "description": "The reconciliation of Romans and Sabines. By Master of Marradi. circa 1400s",
+    "credit": "Wikimedia Commons, public domain (Master of Marradi)",
     "link": "https://commons.wikimedia.org/wiki/File:The_Reconciliation_of_the_Romans_and_Sabines,_one_of_a_pair_painted_for_a_cassone,_Master_of_Marradi,_1400s_-_Gallery_-_Harewood_House_-_West_Yorkshire,_England_-_DSC02006.jpg",
     "category": "Early / Mythic Roman History",
     "topic": "The reconciliation of Romans and Sabines"
@@ -63,7 +63,7 @@
     "id": "img007",
     "file": "numa-pompilius-and-the-nymph-egeria.jpg",
     "name": "Landscape with the Nymph Egeria and King Numa",
-    "description": "Il Paesaggio con la ninfa Egeria (particolare) è un quadro (olio su tela, cm 155 x 199) che si trova a Napoli nel Museo di Capodimonte (inv. Q 184). Pur trovandosi nella Galleria Farnese, non fa parte della Collezione Farnese, trattandosi di un'opera acquistata dai Borboni nel 1800.. By Claude Lorrain. 1669",
+    "description": "The nymph Egeria with King Numa Pompilius in a landscape. By Claude Lorrain. 1669",
     "credit": "Wikimedia Commons, public domain (Claude Lorrain)",
     "link": "https://commons.wikimedia.org/wiki/File:Claude_Lorrain_019.jpg",
     "category": "Early / Mythic Roman History",
@@ -102,9 +102,9 @@
   {
     "id": "img011",
     "file": "the-sacrifice-of-marcus-curtius-leaping-into-the-chasm.jpg",
-    "name": "Zelfopoffering van Marcus Curtius, RP-P-1905-2158",
-    "description": "The sacrifice of Marcus Curtius leaping into the chasm. By Rijksmuseum. 1794",
-    "credit": "Wikimedia Commons, public domain (Rijksmuseum)",
+    "name": "The Self-Sacrifice of Marcus Curtius",
+    "description": "The sacrifice of Marcus Curtius leaping into the chasm. Engraving by Ludwig Gottlieb Portman after Jacobus Buys. 1794",
+    "credit": "Wikimedia Commons, public domain (Ludwig Gottlieb Portman)",
     "link": "https://commons.wikimedia.org/wiki/File:Zelfopoffering_van_Marcus_Curtius,_RP-P-1905-2158.jpg",
     "category": "Early / Mythic Roman History",
     "topic": "The sacrifice of Marcus Curtius leaping into the chasm"
@@ -112,7 +112,7 @@
   {
     "id": "img012",
     "file": "the-assassination-of-julius-caesar-on-the-ides-of-march.jpg",
-    "name": "The Death of Caesar title",
+    "name": "The Death of Caesar",
     "description": "The assassination of Julius Caesar on the Ides of March. By Jean-Léon Gérôme. between 1859 and 1867",
     "credit": "Wikimedia Commons, public domain (Jean-Léon Gérôme)",
     "link": "https://commons.wikimedia.org/wiki/File:Jean-Léon_Gérôme_-_The_Death_of_Caesar_-_Walters_37884.jpg",
@@ -122,7 +122,7 @@
   {
     "id": "img013",
     "file": "cicero-discovering-the-tomb-of-archimedes.jpg",
-    "name": "Cicero Discovering the Tomb of Archimedes title",
+    "name": "Cicero Discovering the Tomb of Archimedes",
     "description": "Cicero discovering the overgrown tomb of Archimedes at Syracuse, with attendants and onlookers in a landscape. Benjamin West, 1804.",
     "credit": "Wikimedia Commons, public domain (Benjamin West)",
     "link": "https://commons.wikimedia.org/wiki/File:Cicero_Discovering_the_Tomb_of_Archimedes_by_Benjamin_West.jpeg",
@@ -142,7 +142,7 @@
   {
     "id": "img015",
     "file": "the-battle-of-actium.jpg",
-    "name": "The Battle of Actium , 2 September 31 BC",
+    "name": "The Battle of Actium, 2 September 31 BC",
     "description": "The Battle of Actium. By Laureys a Castro. 1672",
     "credit": "Wikimedia Commons, public domain (Laureys a Castro)",
     "link": "https://commons.wikimedia.org/wiki/File:Castro_Battle_of_Actium.jpg",
@@ -182,17 +182,17 @@
   {
     "id": "img019",
     "file": "the-great-fire-of-rome-under-nero.jpg",
-    "name": "German: Nero beim Brand von Rom",
-    "description": "Allegorical or deification scene with elevated female figure, putti, and ornate architectural elements. Baroque painting.",
+    "name": "Nero beim Brand von Rom",
+    "description": "Nero amid the burning of Rome. By Hans Makart. 1865",
     "credit": "Wikimedia Commons, public domain (Hans Makart)",
     "link": "https://commons.wikimedia.org/wiki/File:Makart,_Hans_—_Nero_beim_Brand_von_Rom_—_1865.jpg",
     "category": "Republican / Imperial Roman History",
-    "topic": "Allegorical apotheosis scene"
+    "topic": "The great fire of Rome under Nero"
   },
   {
     "id": "img020",
     "file": "the-destruction-of-jerusalem-and-the-temple.jpg",
-    "name": "The Destruction and Sack of the Temple of Jerusalem title",
+    "name": "The Destruction and Sack of the Temple of Jerusalem",
     "description": "The destruction of Jerusalem and the Temple. By Nicolas Poussin. (1625 - 1626)",
     "credit": "Wikimedia Commons, public domain (Nicolas Poussin)",
     "link": "https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_-_The_Destruction_and_Sack_of_the_Temple_of_Jerusalem_-_Google_Art_Project.jpg",
@@ -213,11 +213,11 @@
     "id": "img022",
     "file": "the-death-of-pliny-the-elder-at-vesuvius.jpg",
     "name": "Vesuvius in eruption, viewed from Posillipo",
-    "description": "The death of Pliny the Elder at Vesuvius. By Joseph Wright of Derby. 1789",
+    "description": "Vesuvius in eruption, viewed from Posillipo. By Joseph Wright of Derby. 1789",
     "credit": "Wikimedia Commons, public domain (Joseph Wright of Derby)",
     "link": "https://commons.wikimedia.org/wiki/File:Joseph_wright_of_derby_ara_vesuvius_in_eruption_viewed_from_posillipo081644).jpg",
     "category": "Republican / Imperial Roman History",
-    "topic": "The death of Pliny the Elder at Vesuvius"
+    "topic": "Vesuvius in eruption, viewed from Posillipo"
   },
   {
     "id": "img023",
@@ -232,11 +232,11 @@
   {
     "id": "img024",
     "file": "the-apotheosis-of-an-emperor.jpg",
-    "name": "German: Apotheose Kaiser Leopolds I. The apotheosis of Emperor Leopold I",
+    "name": " Apotheose Kaiser Leopolds I",
     "description": "The apotheosis of an emperor. By Pietro Liberi. circa 1658/1659",
     "credit": "Wikimedia Commons, public domain (Pietro Liberi)",
     "link": "https://commons.wikimedia.org/wiki/File:Pietro_Liberi_-_The_apotheosis_of_Emperor_Leopold_I.jpg",
-    "category": "Republican / Imperial Roman History",
+    "category": "Renaissance Allegory",
     "topic": "The apotheosis of an emperor"
   },
   {
@@ -273,7 +273,7 @@
     "id": "img028",
     "file": "landscape-of-aulis.jpg",
     "name": "Aulis",
-    "description": "Atmospheric landscape view of the bay of Aulis at sunset with distant hills and figures on a path. Carl Rottmann, 1841.",
+    "description": "Atmospheric landscape view of the bay of Aulis at sunset with distant hills and figures on a path. Carl Rottmann, 1847.",
     "credit": "Wikimedia Commons, public domain (Carl Rottmann)",
     "link": "https://commons.wikimedia.org/wiki/File:Rottmann_-_Aulis_1847.jpg",
     "category": "Nature Landscapes",
@@ -282,9 +282,9 @@
   {
     "id": "img029",
     "file": "the-death-of-patroclus.jpg",
-    "name": "Polish: Achilles rozpaczający nad zwłokami Patroklosa Achilles Lamenting the Death of Patroclus title",
-    "description": "The death of Patroclus. By Unknown author Unknown author. 1800",
-    "credit": "Wikimedia Commons, public domain (Unknown author Unknown author)",
+    "name": "Achilles rozpaczający nad zwłokami Patroklosa",
+    "description": "The death of Patroclus. By Unknown author. 1800",
+    "credit": "Wikimedia Commons, public domain (Unknown author)",
     "link": "https://commons.wikimedia.org/wiki/File:Unknown_-_Achilles_Lamenting_the_Death_of_Patroclus_-_MNK_XII-A-274_-_National_Museum_Kraków.jpg",
     "category": "Greek Mythology / History",
     "topic": "The death of Patroclus"
@@ -362,7 +362,7 @@
   {
     "id": "img037",
     "file": "prometheus-bound.jpg",
-    "name": "Prometheus Bound title",
+    "name": "Prometheus Bound",
     "description": "Prometheus bound — the eagle devouring his liver. By Thomas Cole. 1847",
     "credit": "Wikimedia Commons, public domain (Thomas Cole)",
     "link": "https://commons.wikimedia.org/wiki/File:Thomas_Cole_-_Prometheus_Bound_-_Google_Art_Project.jpg",
@@ -372,12 +372,12 @@
   {
     "id": "img038",
     "file": "pandora-opening-the-box.jpg",
-    "name": "Danish: Epimetheus åbner Pandoras æske Epimetheus Opening Pandora's Box title",
-    "description": "A woman at her toilette (personal grooming and dressing) with attendants. Classical interior scene.",
+    "name": "Epimetheus åbner Pandoras æske",
+    "description": "Epimetheus opening Pandora's box. By Anton Tischbein. 1771",
     "credit": "Wikimedia Commons, public domain (Anton Tischbein)",
     "link": "https://commons.wikimedia.org/wiki/File:Anton_Tischbein,_Epimetheus_åbner_Pandoras_æske,_1771,_KMS1006,_Statens_Museum_for_Kunst.jpg",
     "category": "Greek Mythology / History",
-    "topic": "A woman at her toilette"
+    "topic": "Epimetheus opening Pandora's box"
   },
   {
     "id": "img039",
@@ -402,8 +402,8 @@
   {
     "id": "img041",
     "file": "theseus-and-the-minotaur-in-the-labyrinth.jpg",
-    "name": "Tile Design - Theseus and the Minotaur in the Labyrinth",
-    "description": "http://www.preraphaelites.org/the-collection/1927p594/tile-design-theseus-and-the-minotaur-in-the-labyrinth/. By Edward Burne-Jones. 1861",
+    "name": "Theseus and the Minotaur in the Labyrinth",
+    "description": "Tile design—Theseus and the Minotaur in the labyrinth. By Edward Burne-Jones. 1861",
     "credit": "Wikimedia Commons, public domain (Edward Burne-Jones)",
     "link": "https://commons.wikimedia.org/wiki/File:Edward_Burne-Jones_-_Tile_Design_-_Theseus_and_the_Minotaur_in_the_Labyrinth_-_Google_Art_Project.jpg",
     "category": "Greek Mythology / History",
@@ -412,8 +412,8 @@
   {
     "id": "img042",
     "file": "theseus-abandoning-ariadne-on-naxos.jpg",
-    "name": "Theseus Ariadne MAN Napoli Inv115396",
-    "description": "Theseus abandons Ariadne on the island of Naxos.. 1 st century AD",
+    "name": "Theseus and Ariadne (Roman fresco, Naples)",
+    "description": "Theseus abandons Ariadne on the island of Naxos. 1st century AD",
     "credit": "Wikimedia Commons, public domain (unknown artist)",
     "link": "https://commons.wikimedia.org/wiki/File:Theseus_Ariadne_MAN_Napoli_Inv115396.jpg",
     "category": "Greek Mythology / History",
@@ -422,7 +422,7 @@
   {
     "id": "img043",
     "file": "icarus-falling-from-the-sky.jpg",
-    "name": "Roman fresco depicting the fall of Icarus found in the Casa della Danzatrice aka Casa della Ballerino (Pompeii VI 17,10) 01",
+    "name": "Roman Fresco of the Fall of Icarus (Pompeii)",
     "description": "Icarus falling from the sky. By unknown 1st century CE Roman artist (original fresco); probably Henri Roux the Elder, 1870 drawing of the original fresco. 1st century CE",
     "credit": "Wikimedia Commons, public domain (unknown 1st century CE Roman artist (original fresco); probably Henri Roux the Elder, 1870 drawing of the original fresco)",
     "link": "https://commons.wikimedia.org/wiki/File:Roman_fresco_depicting_the_fall_of_Icarus_found_in_the_Casa_della_Danzatrice_aka_Casa_della_Ballerino_(Pompeii_VI_17,10)_01.jpg",
@@ -442,7 +442,7 @@
   {
     "id": "img045",
     "file": "hercules-at-the-crossroads-between-virtue-and-vice.jpg",
-    "name": "Umbrian-sienese anonim - Hercules at the crossroads",
+    "name": "Hercules at the Crossroads",
     "description": "Hercules at the crossroads. By Umbrian-sienese school, follower of Bernardino Pinturiccio. circa 1505",
     "credit": "Wikimedia Commons, public domain (Umbrian-sienese school, follower of Bernardino Pinturiccio)",
     "link": "https://commons.wikimedia.org/wiki/File:Umbrian-sienese_anonim_-_Hercules_at_the_crossroads.jpg",
@@ -492,7 +492,7 @@
   {
     "id": "img050",
     "file": "apollo-and-daphne.jpg",
-    "name": "French: Apollon et Daphné Apollo and Daphne title",
+    "name": "Apollon et Daphné",
     "description": "Apollo and Daphne. By Attributed to Nicolas Poussin. circa 1626",
     "credit": "Wikimedia Commons, public domain (Attributed to Nicolas Poussin)",
     "link": "https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_-_Poussin_-_Private_coll.jpg",
@@ -502,7 +502,7 @@
   {
     "id": "img051",
     "file": "apollo-and-marsyas.jpg",
-    "name": "German: Apollo und Marsyas Apollo and Marsyas title",
+    "name": "Apollo und Marsyas",
     "description": "Apollo and Marsyas. By Hans Thoma. 1888",
     "credit": "Wikimedia Commons, public domain (Hans Thoma)",
     "link": "https://commons.wikimedia.org/wiki/File:Hans_Thoma_-_Apollo_und_Marsyas_(1888).jpg",
@@ -512,9 +512,9 @@
   {
     "id": "img052",
     "file": "diana-and-actaeon.jpg",
-    "name": "Diana and Actaeon title",
-    "description": "Diana and Actaeon. By Unknown artist Details on Google Art Project. turn of 17th/18th c.",
-    "credit": "Wikimedia Commons, public domain (Unknown artist Details on Google Art Project)",
+    "name": "Diana and Actaeon",
+    "description": "Diana and Actaeon. By Unknown artist. turn of 17th/18th c.",
+    "credit": "Wikimedia Commons, public domain (Unknown artist)",
     "link": "https://commons.wikimedia.org/wiki/File:Diana_and_Actaeon_-_Google_Art_Project.jpg",
     "category": "Greek Mythology / History",
     "topic": "Diana and Actaeon — the hunter transformed"
@@ -562,7 +562,7 @@
   {
     "id": "img057",
     "file": "the-birth-of-athena-from-zeus-s-head.jpg",
-    "name": "The Amazement of the Gods (?) title",
+    "name": "The Amazement of the Gods (?)",
     "description": "The birth of Athena from Zeus's head. By Hans von Aachen. probably 1590s",
     "credit": "Wikimedia Commons, public domain (Hans von Aachen)",
     "link": "https://commons.wikimedia.org/wiki/File:Hans_von_Aachen_-_The_Amazement_of_the_Gods_-_Google_Art_Project.jpg",
@@ -572,7 +572,7 @@
   {
     "id": "img058",
     "file": "athena-and-arachne.jpg",
-    "name": "Spanish: Las hilanderas o la fábula de Aracne o los afiladores Las Hilanderas (detail)",
+    "name": "Las hilanderas o la fábula de Aracne o los afiladores",
     "description": "La obra representa el momento en que la tejedora Aracne fue convertida en araña por la diosa Atenea , y es una de las obras mitológicas más conocidas del pintor sevillano Diego Velázquez .. By Diego Velázquez. between circa 1655 and circa 1660",
     "credit": "Wikimedia Commons, public domain (Diego Velázquez)",
     "link": "https://commons.wikimedia.org/wiki/File:Diego_Velázquez_-_The_Fable_of_Arachne_(detail)_-_WGA24456.jpg",
@@ -612,7 +612,7 @@
   {
     "id": "img062",
     "file": "alexander-the-great-at-the-battle-of-issus.jpg",
-    "name": "Polish: Zwycięstwo Aleksandra Wielkiego The Battle of Alexander at Issus title",
+    "name": "Zwycięstwo Aleksandra Wielkiego",
     "description": "Battle of Alexander the Great against Persian King Darius. By Albrecht Altdorfer. 1529",
     "credit": "Wikimedia Commons, public domain (Albrecht Altdorfer)",
     "link": "https://commons.wikimedia.org/wiki/File:The_Battle_of_Alexander_at_Issus_(by_Albrecht_Altdorfer,_1529)_-_Alte_Pinakothek,_Munich.jpg",
@@ -623,21 +623,21 @@
     "id": "img063",
     "file": "alexander-cutting-the-gordian-knot.jpg",
     "name": "Alexander Cutting the Gordian Knot",
-    "description": "Interior assembly or amphitheatre scene with multiple figures in dramatic poses within classical architecture with arches.",
+    "description": "Alexander cutting the Gordian knot. By Martino Altomonte",
     "credit": "Wikimedia Commons, public domain (Martino Altomonte)",
     "link": "https://commons.wikimedia.org/wiki/File:Alexander_Gordian_Knot_Altomonte.jpg",
     "category": "Greek Mythology / History",
-    "topic": "Interior assembly in classical architecture"
+    "topic": "Alexander cutting the Gordian knot"
   },
   {
     "id": "img064",
-    "file": "aesop-s-the-wolf-and-the-lamb.jpg",
-    "name": "The wolf, the lamb, and the crane .",
-    "description": "Aesop's The Wolf and the Lamb — wolf justifying the killing. By Wenceslaus Hollar. Unknown date (author lived 1607-1677)",
+    "file": "aesop-s-the-wolf-and-the-crane.jpg",
+    "name": "The Wolf and the Crane",
+    "description": "Aesop's The Wolf and the Crane — the crane removing the bone from the wolf's throat. By Wenceslaus Hollar. Unknown date.",
     "credit": "Wikimedia Commons, public domain (Wenceslaus Hollar)",
     "link": "https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_The_wolf,_the_lamb,_and_the_crane.jpg",
     "category": "Fables",
-    "topic": "Aesop's The Wolf and the Lamb — wolf justifying the killing"
+    "topic": "Aesop's The Wolf and the Crane"
   },
   {
     "id": "img065",
@@ -672,9 +672,9 @@
   {
     "id": "img068",
     "file": "aesop-s-the-stork-and-the-fox.png",
-    "name": "The Fox and The Stork Aesopus moralisatus 1487",
-    "description": "Aesopus moralisatus published by Bonini, Bonino. By Unknown author Unknown author. 1487",
-    "credit": "Wikimedia Commons, public domain (Unknown author Unknown author)",
+    "name": "The Fox and the Stork",
+    "description": "Aesopus moralisatus published by Bonini, Bonino. By Unknown author. 1487",
+    "credit": "Wikimedia Commons, public domain (Unknown author)",
     "link": "https://commons.wikimedia.org/wiki/File:The_Fox_and_The_Stork_Aesopus_moralisatus_1487.png",
     "category": "Fables",
     "topic": "Aesop's The Stork and the Fox — the unsuitable dishes"
@@ -682,7 +682,7 @@
   {
     "id": "img069",
     "file": "aesop-s-the-frogs-asking-for-a-king.jpg",
-    "name": "3-4 Les grenouilles qui demandent un roi",
+    "name": "The Frogs Who Asked for a King (Les grenouilles qui demandent un roi)",
     "description": "J.J. Grandville . Illustrations des Fables de La Fontaine . 1838-1840.. By Jean Ignace Isidore Gérard Grandville. 2012-10-11",
     "credit": "Wikimedia Commons, public domain (Jean Ignace Isidore Gérard Grandville)",
     "link": "https://commons.wikimedia.org/wiki/File:3-4_Les_grenouilles_qui_demandent_un_roi.jpg",
@@ -692,7 +692,7 @@
   {
     "id": "img070",
     "file": "aesop-s-the-wolf-in-sheep-s-clothing.png",
-    "name": "Wolfinfleece",
+    "name": "The Wolf in Sheep's Clothing",
     "description": "The wolf in sheep's clothing, hanged, is discussed by two shepherds.. By Illustrator unknown. 1851",
     "credit": "Wikimedia Commons, public domain (Illustrator unknown)",
     "link": "https://commons.wikimedia.org/wiki/File:Wolfinfleece.png",
@@ -702,7 +702,7 @@
   {
     "id": "img071",
     "file": "aesop-s-the-crow-and-the-pitcher.jpg",
-    "name": "The crow and the pitcher . State 2.",
+    "name": "The Crow and the Pitcher",
     "description": "Aesop's The Crow and the Pitcher — crow dropping stones. By Wenceslaus Hollar. Unknown date (author lived 1607-1677)",
     "credit": "Wikimedia Commons, public domain (Wenceslaus Hollar)",
     "link": "https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_The_crow_and_the_pitcher_(State_2).jpg",
@@ -712,7 +712,7 @@
   {
     "id": "img072",
     "file": "phaedrus-s-the-wolf-and-the-lamb.jpg",
-    "name": "P1270524 Jean-Baptiste Oudry",
+    "name": "Le Loup et L'agneau",
     "description": "Jean-Baptiste Oudry : \"Le loup et l'agneau\" (d'après la fable de La Fontaine).. By Jean-Baptiste Oudry (1686-1755). 2016-11-13",
     "credit": "Wikimedia Commons, public domain (Jean-Baptiste Oudry (1686-1755))",
     "link": "https://commons.wikimedia.org/wiki/File:P1270524_Jean-Baptiste_Oudry.jpg",
@@ -732,7 +732,7 @@
   {
     "id": "img074",
     "file": "la-fontaine-s-the-oak-and-the-reed.jpg",
-    "name": "The Oak and the Reed title",
+    "name": "The Oak and the Reed",
     "description": "La Fontaine's The Oak and the Reed. By Achille Etna Michallon. 1816",
     "credit": "Wikimedia Commons, public domain (Achille Etna Michallon)",
     "link": "https://commons.wikimedia.org/wiki/File:Achille_Etna_Michallon_(1796-1822)_-_The_Oak_and_the_Reed_-_PD.180-1991_-_Fitzwilliam_Museum.jpg",
@@ -742,7 +742,7 @@
   {
     "id": "img075",
     "file": "la-fontaine-s-death-and-the-woodcutter.jpg",
-    "name": "Death-and-the-woodcutter-detail",
+    "name": "Death and the Woodcutter",
     "description": "La Fontaine's Death and the Woodcutter. By Gustave Moreau",
     "credit": "Wikimedia Commons, public domain (Gustave Moreau)",
     "link": "https://commons.wikimedia.org/wiki/File:Death-and-the-woodcutter-detail.jpg",
@@ -762,9 +762,9 @@
   {
     "id": "img077",
     "file": "the-roman-campagna-at-dusk.jpg",
-    "name": "Antonio Francesco Peruzzini (1643- 1724), Landscape with Travellers at Dusk c. 1685 – 1690 Oil on linen canvas, 27 × 37 cm",
-    "description": "The Roman Campagna at dusk — cattle and ruins. By Antonio Francesco Peruzzini, (Ancona, 1643 – Milan, 1724). c. 1685 – 1690",
-    "credit": "Wikimedia Commons, public domain (Antonio Francesco Peruzzini, (Ancona, 1643 – Milan, 1724))",
+    "name": "Landscape with Travellers at Dusk",
+    "description": "The Roman Campagna at dusk — cattle and ruins. By Antonio Francesco Peruzzini. c. 1685–1690",
+    "credit": "Wikimedia Commons, public domain (Antonio Francesco Peruzzini)",
     "link": "https://commons.wikimedia.org/wiki/File:Antonio_Francesco_Peruzzini_(1643-_1724),_Landscape_with_Travellers_at_Dusk_c._1685_–_1690_Oil_on_linen_canvas,_27_×_37_cm.jpg",
     "category": "Nature Landscapes",
     "topic": "The Roman Campagna at dusk — cattle and ruins"
@@ -782,18 +782,18 @@
   {
     "id": "img079",
     "file": "the-arcadian-ideal.png",
-    "name": "Landscape with the Discovery of Callisto’s Pregnancy title",
-    "description": "The Arcadian ideal — shepherds in a golden landscape. By Workshop of Cornelius van Poelenburgh. between circa 1630 and circa 1640",
+    "name": "Landscape with the Discovery of Callisto’s Pregnancy",
+    "description": "The discovery of Callisto's pregnancy. By Workshop of Cornelius van Poelenburgh. between circa 1630 and circa 1640",
     "credit": "Wikimedia Commons, public domain (Workshop of Cornelius van Poelenburgh)",
     "link": "https://commons.wikimedia.org/wiki/File:Landscape_with_the_Discovery_of_Callisto’s_Pregnancy_(SM_625).png",
     "category": "Nature Landscapes",
-    "topic": "The Arcadian ideal — shepherds in a golden landscape"
+    "topic": "The discovery of Callisto's pregnancy"
   },
   {
     "id": "img080",
     "file": "a-stormy-sea-with-shipwrecked-sailors.png",
     "name": "Stormy Sea",
-    "description": "seascape · ship · wave (water) · animal · shipwreck · island · sailor · Netherlands · sea (seascape) · storm at sea · ships (in general) - CC - more than one ship · sailing-ship, sailing-boat · low clouds and those originating from rising air currents. By Porcellis, Julius. circa 1650",
+    "description": "Stormy seascape with shipwrecked sailors. By Julius Porcellis. circa 1650",
     "credit": "Wikimedia Commons, public domain (Porcellis, Julius)",
     "link": "https://commons.wikimedia.org/wiki/File:Stormy_Sea_(SM_593).png",
     "category": "Nature Landscapes",
@@ -842,7 +842,7 @@
   {
     "id": "img085",
     "file": "the-roman-forum-as-ruins.jpg",
-    "name": "Italian: Foro Romano Roman Forum title",
+    "name": "Foro Romano",
     "description": "Roman Forum (1883), by Cesare Tallone. By Cesare Tallone. 1883",
     "credit": "Wikimedia Commons, public domain (Cesare Tallone)",
     "link": "https://commons.wikimedia.org/wiki/File:Roman_Forum_(1883),_by_Cesare_Tallone.jpg",
@@ -852,7 +852,7 @@
   {
     "id": "img086",
     "file": "the-pantheon-and-the-piazza-della-rotonda.jpg",
-    "name": "German: Das Pantheon und die Piazza della Rotonda in Rom The Pantheon and the Piazza della Rotonda in Rome title",
+    "name": "Das Pantheon und die Piazza della Rotonda in Rom",
     "description": "The Pantheon and the Piazza della Rotonda. By Jakob Alt. 1836",
     "credit": "Wikimedia Commons, public domain (Jakob Alt)",
     "link": "https://commons.wikimedia.org/wiki/File:Jakob_Alt_-_Das_Pantheon_und_die_Piazza_della_Rotonda_in_Rom_-_1836.jpg",
@@ -882,17 +882,17 @@
   {
     "id": "img089",
     "file": "the-baths-of-caracalla.jpg",
-    "name": "The Baths of Caracalla title",
-    "description": "Pastoral landscape with Roman ruins in a valley, distant fortifications and water. Landscape painting.",
+    "name": "The Baths of Caracalla",
+    "description": "The Baths of Caracalla. By Andrew Wilson",
     "credit": "Wikimedia Commons, public domain (Andrew Wilson)",
     "link": "https://commons.wikimedia.org/wiki/File:Andrew_Wilson_-_The_Baths_of_Caracalla_-_B1977.14.358_-_Yale_Center_for_British_Art.jpg",
     "category": "City Landscapes",
-    "topic": "Pastoral landscape with Roman ruins"
+    "topic": "The Baths of Caracalla"
   },
   {
     "id": "img090",
     "file": "the-port-of-ostia-at-its-height.jpg",
-    "name": "French: Port de mer avec la villa Médicis Port Scene with the Villa Medici title",
+    "name": "Port de mer avec la villa Médicis",
     "description": "The port of Ostia at its height. By Claude Lorrain. 1637",
     "credit": "Wikimedia Commons, public domain (Claude Lorrain)",
     "link": "https://commons.wikimedia.org/wiki/File:Lorrain.seaport.jpg",
@@ -912,7 +912,7 @@
   {
     "id": "img092",
     "file": "pompeii-temple-of-isis-fresco.jpg",
-    "name": "Pompeii, Temple of Isis, East Portico, Harpocrates Niche with a reproduction of a Fresco (48442486262)",
+    "name": "Temple of Isis, Pompeii — Harpocrates Niche Fresco",
     "description": "Close-up of a fresco reproduction in the Harpocrates Niche of the Temple of Isis at Pompeii. Photographed by Gary Todd. 2019.",
     "credit": "Wikimedia Commons, public domain (Gary Todd from Xinzheng, China)",
     "link": "https://commons.wikimedia.org/wiki/File:Pompeii,_Temple_of_Isis,_East_Portico,_Harpocrates_Niche_with_a_reproduction_of_a_Fresco_(48442486262).jpg",
@@ -932,7 +932,7 @@
   {
     "id": "img094",
     "file": "cleombrotus-banished-by-leonidas.jpg",
-    "name": "Cleombrotus Ordered into Banishment by Leonidas II, King of Sparta title",
+    "name": "Cleombrotus Ordered into Banishment by Leonidas II, King of Sparta",
     "description": "Cleombrotus, his wife and children plead before King Leonidas II in a Spartan interior. By Benjamin West. 1768.",
     "credit": "Wikimedia Commons, public domain (Benjamin West)",
     "link": "https://commons.wikimedia.org/wiki/File:Benjamin_West_-_Cleombrotus_Ordered_into_Banishment_by_Leonidas_II,_King_of_Sparta_-_Google_Art_Project.jpg",
@@ -942,7 +942,7 @@
   {
     "id": "img096",
     "file": "syracuse-in-sicily.jpg",
-    "name": "Veduta-di-Siracusa-P Hacken",
+    "name": "Veduta di Siracusa",
     "description": "“Veduta di Siracusa” – Jakob Philipp Hackert – 1791, olio su tela. By Jacob Philipp Hackert. 1791",
     "credit": "Wikimedia Commons, public domain (Jacob Philipp Hackert)",
     "link": "https://commons.wikimedia.org/wiki/File:Veduta-di-Siracusa-P_Hacken.jpg",
@@ -952,7 +952,7 @@
   {
     "id": "img097",
     "file": "fall-of-constantinople-1453.jpg",
-    "name": "French: L'Entrée du sultan Mehmet II à Constantinople le vingt-neuf mai 1453 Entry of Sultan Mehmed II in Constantinople title",
+    "name": "L'Entrée du sultan Mehmet II à Constantinople le vingt-neuf mai 1453",
     "description": "Sultan Mehmed II enters Hagia Sophia on horseback over the bodies of defenders during the fall of Constantinople. By Jean-Joseph Benjamin-Constant. 1876.",
     "credit": "Wikimedia Commons, public domain (Jean-Joseph Benjamin-Constant)",
     "link": "https://commons.wikimedia.org/wiki/File:Benjamin-Constant-The_Entry_of_Mahomet_II_into_Constantinople-1876.jpg",
@@ -962,8 +962,8 @@
   {
     "id": "img098",
     "file": "baiae.jpg",
-    "name": "An Imaginary Coast Scene, with the Temple of Venus at Baiae title",
-    "description": "An Imaginary Coast Scene, with the Temple of Venus at Baiae In fact, this semicircular ruin seems to be the so-called Temple of Diana rather than the one of Venus.. By Thomas Jones. 1773",
+    "name": "An Imaginary Coast Scene, with the Temple of Venus at Baiae",
+    "description": "An imaginary coast scene with the Temple of Venus at Baiae. By Thomas Jones. 1773",
     "credit": "Wikimedia Commons, public domain (Thomas Jones)",
     "link": "https://commons.wikimedia.org/wiki/File:Thomas_Jones_-_An_Imaginary_Coast_Scene,_with_the_Temple_of_Venus_at_Baiae_-_Google_Art_Project.jpg",
     "category": "City Landscapes",
@@ -972,9 +972,9 @@
   {
     "id": "img099",
     "file": "pompeii-fresco-bacchus.jpg",
-    "name": "House of Marcus Lucretius Fronto Pompeii 2018 Room 'h', detail from central painting on south wall of tablinum courtesy of Annette Haug",
+    "name": "Fresco from the House of Marcus Lucretius Fronto, Pompeii",
     "description": "Detail of a Roman wall painting from a Pompeian house showing a figure with a drinking cup. 1st century BCE–1st century CE; photo by Annette Haug.",
-    "credit": "Wikimedia Commons, public domain (Unkknown 1st century CE Roman artist; photo by Annette Haug)",
+    "credit": "Wikimedia Commons, public domain (Unknown 1st century CE Roman artist; photo by Annette Haug)",
     "link": "https://commons.wikimedia.org/wiki/File:House_of_Marcus_Lucretius_Fronto_Pompeii_2018_Room_'h',_detail_from_central_painting_on_south_wall_of_tablinum_courtesy_of_Annette_Haug.jpg",
     "category": "Indoor Scenes",
     "topic": "Roman fresco — figure with drinking cup"
@@ -982,7 +982,7 @@
   {
     "id": "img100",
     "file": "paris-and-helen-pompeii-fresco.jpg",
-    "name": "Painting by Giuseppe Marsigli, of painting of Paris and Helen from center of north wall of cubiculum 29 (Mau-Overbeck 1884 plan) House of the Labyrinth",
+    "name": "Paris and Helen (Pompeian fresco, House of the Labyrinth)",
     "description": "19th-century watercolour copy by Giuseppe Marsigli of a Pompeian fresco depicting Paris and Helen, from the House of the Labyrinth. Before 1835.",
     "credit": "Wikimedia Commons, public domain (19th century artists working in Pompeii)",
     "link": "https://commons.wikimedia.org/wiki/File:Painting_by_Giuseppe_Marsigli,_of_painting_of_Paris_and_Helen_from_center_of_north_wall_of_cubiculum_29_(Mau-Overbeck_1884_plan)_House_of_the_Labyrinth.jpg",
@@ -992,7 +992,7 @@
   {
     "id": "img101",
     "file": "roman-women-at-a-spring.jpg",
-    "name": "At the fountain head – Roman idyll title",
+    "name": "At the fountain head – Roman idyll",
     "description": "Two Roman women at a stone fountain or spring in a rural setting. By Henryk Siemiradzki. Late 19th century.",
     "credit": "Wikimedia Commons, public domain (Henryk Siemiradzki)",
     "link": "https://commons.wikimedia.org/wiki/File:Henryk_Siemiradzki_-_At_the_fountain_head_–_Roman_idyll_-_MP_5517_-_National_Museum_in_Warsaw.jpg",
@@ -1002,7 +1002,7 @@
   {
     "id": "img102",
     "file": "the-roman-baths.jpg",
-    "name": "Polish: Ulubiony zwyczaj A Favourite Custom",
+    "name": "Ulubiony zwyczaj",
     "description": "The Roman baths — the frigidarium pool. By Lawrence Alma-Tadema. 1909",
     "credit": "Wikimedia Commons, public domain (Lawrence Alma-Tadema)",
     "link": "https://commons.wikimedia.org/wiki/File:Alma-Tadema_A_Favourite_Custom_1909_Tate_Britain.jpg",
@@ -1012,7 +1012,7 @@
   {
     "id": "img103",
     "file": "imaginary-view-of-the-roman-campagna.jpg",
-    "name": "Imaginary View of the Roman \"Campagna",
+    "name": "Imaginary View of the Roman \"Campagna\"",
     "description": "Wooded landscape of the Roman Campagna with travellers resting and a distant hilltop town. Workshop of Jan Frans van Bloemen. 1680–1720.",
     "credit": "Wikimedia Commons, public domain (Workshop of Jan Frans van Bloemen)",
     "link": "https://commons.wikimedia.org/wiki/File:Workshop_of_Jan_Frans_van_Bloemen_-_Imaginary_View_of_the_Roman_\"Campagna\"_-_Walters_37899.jpg",
@@ -1034,7 +1034,7 @@
     "file": "roman-fresco-of-pasiphae.jpg",
     "name": "Roman wall painting of Pasiphae from Tor Marancia (Vatican Library; Nogara pl. 35)",
     "description": "Roman wall painting of Pasiphae standing beside the bull, from a villa at Tor Marancia. 3rd century CE.",
-    "credit": "Wikimedia Commons, public domain (Unknown artist Unknown artist)",
+    "credit": "Wikimedia Commons, public domain (Unknown artist)",
     "link": "https://commons.wikimedia.org/wiki/File:Roman_wall_painting_of_Pasiphae_from_Tor_Marancia_(Vatican_Library;_Nogara_pl._35).jpg",
     "category": "Greek Mythology / History",
     "topic": "Roman fresco — Pasiphae and the bull"
@@ -1052,12 +1052,12 @@
   {
     "id": "img107",
     "file": "a-roman-temple-interior.jpg",
-    "name": "A Hermit Praying in the Ruins of a Roman Temple title",
+    "name": "A Hermit Praying in the Ruins of a Roman Temple",
     "description": "A Hermit Praying in the Ruins of a Roman Temple. By Hubert Robert. circa 1760",
     "credit": "Wikimedia Commons, public domain (Hubert Robert)",
     "link": "https://commons.wikimedia.org/wiki/File:A_Hermit_Praying_in_the_Ruins_of_a_Roman_Temple_by_Hubert_Robert,_Getty_Center.JPG",
     "category": "Indoor Scenes",
-    "topic": "A Roman temple interior — the cella and cult statue"
+    "topic": "A hermit praying in the ruins of a Roman temple"
   },
   {
     "id": "img108",
@@ -1103,8 +1103,8 @@
     "id": "img112",
     "file": "romulus-founding-rome-and-drawing-the-sacred-boundary.jpg",
     "name": "Romulus founding Rome and drawing the sacred boundary",
-    "description": "Romulus founding Rome and drawing the sacred boundary. By Rijksmuseum. 1818",
-    "credit": "Wikimedia Commons, public domain (Rijksmuseum)",
+    "description": "Romulus founding Rome and drawing the sacred boundary. Etching by Bartolomeo Pinelli. 1818",
+    "credit": "Wikimedia Commons, public domain (Bartolomeo Pinelli)",
     "link": "https://commons.wikimedia.org/wiki/File:Romulus_trekt_met_ploeg_een_lijn_om_de_Palatijn_Romolo_segna_con_l'Aratro_una_linea_intorno_al_Monte_Palatino,_per_fabricarvi_le_mura,_della_Città_di_Roma_(titel_op_object)_Geschiedenis_van_het_Romeinse_Rijk_(serietite,_RP-P-1929-170.jpg",
     "category": "Early / Mythic Roman History",
     "topic": "Romulus founding Rome and drawing the sacred boundary"
@@ -1113,8 +1113,8 @@
     "id": "img113",
     "file": "the-death-of-tarpeia.jpg",
     "name": "The death of Tarpeia",
-    "description": "The death of Tarpeia. By Rijksmuseum. 1818",
-    "credit": "Wikimedia Commons, public domain (Rijksmuseum)",
+    "description": "The death of Tarpeia. Etching by Bartolomeo Pinelli. 1818",
+    "credit": "Wikimedia Commons, public domain (Bartolomeo Pinelli)",
     "link": "https://commons.wikimedia.org/wiki/File:Tarpeia_gedood_door_Sabijnse_soldaten_Tarpeja_avendo_segretamente_aperta_una_porta,_ai_Sabini,_che_assediavano_la_Cittadella_del_Monte_Capitolino,_viene_dai_medesimi,_in_premio_del_tradimento,_uccisa_a_colpi_di_Scudi_(t,_RP-P-1929-173.jpg",
     "category": "Early / Mythic Roman History",
     "topic": "The death of Tarpeia"
@@ -1133,7 +1133,7 @@
     "id": "img115",
     "file": "lucretia-s-virtue-and-suicide.jpg",
     "name": "Lucretia",
-    "description": "suicide of Lucretia. By Rembrandt. 1664",
+    "description": "Suicide of Lucretia. By Rembrandt. 1664",
     "credit": "Wikimedia Commons, public domain (Rembrandt)",
     "link": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn,_Lucretia,_1664,_NGA_83.jpg",
     "category": "Early / Mythic Roman History",
@@ -1152,7 +1152,7 @@
   {
     "id": "img117",
     "file": "the-geese-of-the-capitol-warning-of-the-gauls.jpg",
-    "name": "MotteGeese",
+    "name": "The Geese of the Capitol",
     "description": "Scene from ancient Rome with the sacred geese kept as guardians in the temple of Juno. While the Roman soldiers and watch dogs slept, Juno's sacred geese on the Capitol warned Rome of the Gallic attack in 390 BC.. By Henri-Paul Motte. 1889",
     "credit": "Wikimedia Commons, public domain (Henri-Paul Motte)",
     "link": "https://commons.wikimedia.org/wiki/File:MotteGeese.jpg",
@@ -1162,7 +1162,7 @@
   {
     "id": "img118",
     "file": "aeneas-crowning-cloanthus.jpg",
-    "name": "Aeneas Crowning Cloanthus title",
+    "name": "Aeneas Crowning Cloanthus",
     "description": "Aeneas handing out prizes after the sea race and crowning the winner Cloanthus with a laurel wreath, ships in the background. By Ferdinand Bol, c. 1661-1663.",
     "credit": "Wikimedia Commons, public domain (Ferdinand Bol)",
     "link": "https://commons.wikimedia.org/wiki/File:Bol-aeneas.jpg",
@@ -1172,7 +1172,7 @@
   {
     "id": "img119",
     "file": "caesar-s-triumph-with-vercingetorix-in-chains.jpg",
-    "name": "French: Vercingetorix jette ses armes aux pieds de Jules César Vercingetorix throws down his arms at the feet of Julius Caesar title",
+    "name": "Vercingetorix jette ses armes aux pieds de Jules César",
     "description": "Caesar's triumph with Vercingetorix in chains. By Lionel Royer. 1899",
     "credit": "Wikimedia Commons, public domain (Lionel Royer)",
     "link": "https://commons.wikimedia.org/wiki/File:Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg",
@@ -1183,11 +1183,11 @@
     "id": "img120",
     "file": "augustus-receiving-the-submission-of-foreign-kings.jpg",
     "name": "Ceiling of Caesar Augustus speaks with essays",
-    "description": "Formal literary or philosophical discussion scene depicted in ceiling fresco.",
+    "description": "Augustus receiving the submission of foreign kings.",
     "credit": "Wikimedia Commons, CC BY-SA 4.0 (Livioandronico2013)",
     "link": "https://commons.wikimedia.org/wiki/File:Ceiling_of_Caesar_Augustus_speaks_with_essays.jpg",
     "category": "Republican / Imperial Roman History",
-    "topic": "Philosophical discussion or literary scene"
+    "topic": "Augustus receiving the submission of foreign kings"
   },
   {
     "id": "img121",
@@ -1213,8 +1213,8 @@
     "id": "img123",
     "file": "trajan-s-column-campaigns.jpg",
     "name": "Dacian ambassadors ask Traianus for mercy (Detail from Trajan's Column in Rome)",
-    "description": "Dacian ambassadors ask Traianus for mercy (Detail from Trajan's Column in Rome). By Unknown author Unknown author. circa 1895",
-    "credit": "Wikimedia Commons, public domain (Unknown author Unknown author)",
+    "description": "Dacian ambassadors ask Traianus for mercy (Detail from Trajan's Column in Rome). By Unknown author. circa 1895",
+    "credit": "Wikimedia Commons, public domain (Unknown author)",
     "link": "https://commons.wikimedia.org/wiki/File:Dacian_ambassadors_ask_Traianus_for_mercy_(Detail_from_Trajan's_Column_in_Rome).jpg",
     "category": "Republican / Imperial Roman History",
     "topic": "Trajan's column campaigns — scenes of Dacian conquest"
@@ -1222,18 +1222,18 @@
   {
     "id": "img124",
     "file": "marcus-aurelius-receiving-germanic-barbarians.jpg",
-    "name": "Reliëf met twee gevangenen knielend voor keizer Marcus Aurelius te paard Romeinse gebeeldhouwde reliëfs (serietitel) Icones et segment (serietitel op object), RP-P-2016-693-70",
-    "description": "Formal classical figures in a religious or diplomatic ceremony. Classical engraving.",
-    "credit": "Wikimedia Commons, public domain (Rijksmuseum)",
+    "name": "Captives Kneeling before Marcus Aurelius (Roman relief)",
+    "description": "Two captives kneeling before the emperor Marcus Aurelius on horseback, after a Roman sculpted relief. Etching by François Perrier. 1645",
+    "credit": "Wikimedia Commons, public domain (François Perrier)",
     "link": "https://commons.wikimedia.org/wiki/File:Reliëf_met_twee_gevangenen_knielend_voor_keizer_Marcus_Aurelius_te_paard_Romeinse_gebeeldhouwde_reliëfs_(serietitel)_Icones_et_segment_(serietitel_op_object),_RP-P-2016-693-70.jpg",
     "category": "Republican / Imperial Roman History",
-    "topic": "Formal diplomatic or religious ceremony"
+    "topic": "Marcus Aurelius receiving the submission of Germanic captives"
   },
   {
     "id": "img125",
     "file": "a-roman-triumph-procession-on-the-via-sacra.jpg",
     "name": "Triumph of the Roman Emperor",
-    "description": "Tapestry Triumph of the Roman Emperor .. By Flemish manufacture; author of photo unknown. circa 1600",
+    "description": "Tapestry Triumph of the Roman Emperor. By Flemish manufacture; author of photo unknown. circa 1600",
     "credit": "Wikimedia Commons, public domain (Flemish manufacture; author of photo unknown)",
     "link": "https://commons.wikimedia.org/wiki/File:Triumph_of_the_Roman_Emperor.JPG",
     "category": "Republican / Imperial Roman History",
@@ -1242,7 +1242,7 @@
   {
     "id": "img126",
     "file": "the-sacrifice-of-polyxena.jpg",
-    "name": "The Sacrifice of Polyxena title",
+    "name": "The Sacrifice of Polyxena",
     "description": "Polyxena is led to her death at the sacrificial altar to appease the ghost of Achilles; Neoptolemus raises his sword as her mother tries to restrain her. By Charles Le Brun, 1647.",
     "credit": "Wikimedia Commons, public domain (Charles Le Brun)",
     "link": "https://commons.wikimedia.org/wiki/File:Charles_Le_Brun_-_The_Sacrifice_of_Polyxena.jpg",
@@ -1272,7 +1272,7 @@
   {
     "id": "img129",
     "file": "a-roman-senate-session.png",
-    "name": "Italian: Cicerone denuncia Catilina Cicero Denounces Catiline title",
+    "name": "Cicerone denuncia Catilina",
     "description": "A fresco by Cesare Maccari (1840-1919) depicting Roman senator Cicero (106-43 BCE) denouncing Catiline's conspiracy to overthrow the Republic in the Roman senate. (Palazzo Madama, Rome).. By Cesare Maccari. 1889",
     "credit": "Wikimedia Commons, public domain (Cesare Maccari)",
     "link": "https://commons.wikimedia.org/wiki/File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png",
@@ -1284,7 +1284,7 @@
     "file": "suicide-of-cato-the-younger.jpg",
     "name": "Drawing, Suicide of Marcus Porcius Cato, late 19th century",
     "description": "Cato the Younger lies on his bed having stabbed himself with his sword, while a mourning crowd enters the room. Drawing by an unknown artist, late 19th century.",
-    "credit": "Wikimedia Commons, public domain (Unknown artist Unknown artist)",
+    "credit": "Wikimedia Commons, public domain (Unknown artist)",
     "link": "https://commons.wikimedia.org/wiki/File:Drawing,_Suicide_of_Marcus_Porcius_Cato,_late_19th_century_(CH_18116191).jpg",
     "category": "Republican / Imperial Roman History",
     "topic": "Suicide of Cato the Younger at Utica"
@@ -1312,7 +1312,7 @@
   {
     "id": "img133",
     "file": "the-birth-of-aphrodite-from-the-sea-foam.jpg",
-    "name": "Polish: Narodziny Wenus The Birth of Venus title",
+    "name": "Narodziny Wenus",
     "description": "Depicts the goddess Venus, having emerged from the sea as a fully grown woman, arriving at the sea-shore. The seashell she stands on was a symbol in classical antiquity for a woman's vulva. Thought to be based in part on the Venus de' Medici , an ancient Greek marble sculpture of Aphrodite.. By Sandro Botticelli. 1485",
     "credit": "Wikimedia Commons, public domain (Sandro Botticelli)",
     "link": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
@@ -1323,18 +1323,18 @@
     "id": "img134",
     "file": "achilles-sulking-in-his-tent.jpg",
     "name": "Achilles vertoornd op Agamemnon",
-    "description": "Formal palace or court scene with multiple figures in ceremonial interaction. Baroque painting by Rubens.",
+    "description": "The wrath of Achilles — his quarrel with Agamemnon. By Peter Paul Rubens",
     "credit": "Wikimedia Commons, public domain (Peter Paul Rubens)",
     "link": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Wrath_of_Achilles_-_Google_Art_Project.jpg",
     "category": "Greek Mythology / History",
-    "topic": "Formal palace or court scene"
+    "topic": "The wrath of Achilles"
   },
   {
     "id": "img135",
     "file": "achilles-dragging-hector-s-body-around-troy.jpg",
     "name": "Drawing, Achilles Drags the Body of Hector around Walls of Troy, Priam Pleads for the Body of Hector, Ceiling Designs for the Galleria di Achille, Palazzo Milzetti, Faenza, Italy, 1802–05",
-    "description": "Two lunette shaped drawings on one irregular sheet. In upper drawing, the figure of Achilles, driving a horse-drawn chariot, drags the body of Hector around city of Troy. In lower drawing, Priam, in the tent of Achilles, kneels before Achilles and kisses his right hand; some warriors watch the scene and others look at Priam's gifts.. By Unknown artist Unknown artist. 1802–05",
-    "credit": "Wikimedia Commons, public domain (Unknown artist Unknown artist)",
+    "description": "Two lunette shaped drawings on one irregular sheet. In upper drawing, the figure of Achilles, driving a horse-drawn chariot, drags the body of Hector around city of Troy. In lower drawing, Priam, in the tent of Achilles, kneels before Achilles and kisses his right hand; some warriors watch the scene and others look at Priam's gifts.. By Unknown artist. 1802–05",
+    "credit": "Wikimedia Commons, public domain (Unknown artist)",
     "link": "https://commons.wikimedia.org/wiki/File:Drawing,_Achilles_Drags_the_Body_of_Hector_around_Walls_of_Troy,_Priam_Pleads_for_the_Body_of_Hector,_Ceiling_Designs_for_the_Galleria_di_Achille,_Palazzo_Milzetti,_Faenza,_Italy,_1802–05_(CH_18122729).jpg",
     "category": "Greek Mythology / History",
     "topic": "Achilles dragging Hector's body around Troy"
@@ -1392,7 +1392,7 @@
   {
     "id": "img141",
     "file": "medea-preparing-the-potion.jpg",
-    "name": "French: Médée Medea title",
+    "name": "Médée",
     "description": "Medea stands before a brazier preparing her magical potion, with a ship and grove visible behind a gold patterned background. By Frederick Sandys, 1868.",
     "credit": "Wikimedia Commons, public domain (Frederick Sandys)",
     "link": "https://commons.wikimedia.org/wiki/File:Medea_-_Frederick_Sandys_-_Google_Cultural_Institute.jpg",
@@ -1402,7 +1402,7 @@
   {
     "id": "img142",
     "file": "echo-pining-away-for-narcissus.jpg",
-    "name": "Echo and Narcissus title",
+    "name": "Echo and Narcissus",
     "description": "Echo pining away for Narcissus. By John William Waterhouse. 1903",
     "credit": "Wikimedia Commons, public domain (John William Waterhouse)",
     "link": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg",
@@ -1442,9 +1442,9 @@
   {
     "id": "img146",
     "file": "alexander-visiting-diogenes-in-his-barrel.jpg",
-    "name": "Alexander de Grote bezoekt Diogenes, RP-P-2012-43",
-    "description": "Alexander visiting Diogenes in his barrel. By Rijksmuseum. ca. 1807 - ca. 1815",
-    "credit": "Wikimedia Commons, public domain (Rijksmuseum)",
+    "name": "Alexander Visiting Diogenes in his Barrel",
+    "description": "Alexander visiting Diogenes in his barrel. Etching by Karl Russ. ca. 1807–1815",
+    "credit": "Wikimedia Commons, public domain (Karl Russ)",
     "link": "https://commons.wikimedia.org/wiki/File:Alexander_de_Grote_bezoekt_Diogenes,_RP-P-2012-43.jpg",
     "category": "Greek Mythology / History",
     "topic": "Alexander visiting Diogenes in his barrel"
@@ -1492,7 +1492,7 @@
   {
     "id": "img151",
     "file": "phaedrus-s-the-bald-man-and-the-fly.jpg",
-    "name": "The bald man and the fly . State 2.",
+    "name": "The bald man and the fly.",
     "description": "Phaedrus's The Bald Man and the Fly. By Wenceslaus Hollar. Unknown date (author lived 1607-1677)",
     "credit": "Wikimedia Commons, public domain (Wenceslaus Hollar)",
     "link": "https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_The_bald_man_and_the_fly_(State_2).jpg",
@@ -1502,7 +1502,7 @@
   {
     "id": "img152",
     "file": "la-fontaine-s-the-raven-and-the-fox.png",
-    "name": "THE FOX RETREATED OUT OF RANGE",
+    "name": "The Raven and the Fox",
     "description": "THE FOX RETREATED OUT OF RANGE. By Author Guy Wetmore Carryl Illustrator Peter Newell. 1899",
     "credit": "Wikimedia Commons, public domain (Author Guy Wetmore Carryl Illustrator Peter Newell)",
     "link": "https://commons.wikimedia.org/wiki/File:THE_FOX_RETREATED_OUT_OF_RANGE.png",
@@ -1520,16 +1520,6 @@
     "topic": "La Fontaine's The Wolf and the Dog"
   },
   {
-    "id": "img154",
-    "file": "la-fontaine-s-the-hare-and-the-tortoise.jpg",
-    "name": "Fable of the hare and the tortoise",
-    "description": "La Fontaine's The Hare and the Tortoise. By Frans Snyders. between 1600 and 1657",
-    "credit": "Wikimedia Commons, public domain (Frans Snyders)",
-    "link": "https://commons.wikimedia.org/wiki/File:Frans_Snyders_-_Fable_of_the_hare_and_the_tortoise.jpg",
-    "category": "Fables",
-    "topic": "La Fontaine's The Hare and the Tortoise"
-  },
-  {
     "id": "img155",
     "file": "la-fontaine-s-the-animals-sick-with-the-plague.png",
     "name": "A Hundred Fables of La Fontaine - The Animals Sick of the Plague",
@@ -1542,8 +1532,8 @@
   {
     "id": "img156",
     "file": "the-pontine-marshes-and-the-appian-way.jpg",
-    "name": "Departure for the Hunt in the Pontine Marshes title",
-    "description": "Departure for the Hunt in the Pontine Marshes, by Horace Vernet, 1833, oil on canvas - National Gallery of Art, Washington, DC, USA. This painting is in the public domain because the artist died more than 70 years ago.. By Horace Vernet. 1833",
+    "name": "Departure for the Hunt in the Pontine Marshes",
+    "description": "Departure for the Hunt in the Pontine Marshes. By Horace Vernet. 1833",
     "credit": "Wikimedia Commons, public domain (Horace Vernet)",
     "link": "https://commons.wikimedia.org/wiki/File:Departure_for_the_Hunt_in_the_Pontine_Marshes,_by_Horace_Vernet,_1833,_oil_on_canvas_-_National_Gallery_of_Art,_Washington_-_DSC00136.JPG",
     "category": "Nature Landscapes",
@@ -1562,7 +1552,7 @@
   {
     "id": "img158",
     "file": "the-alban-hills-at-sunrise.jpg",
-    "name": "The Alban Hills title",
+    "name": "The Alban Hills",
     "description": "The Alban Hills. By George Inness. 1873",
     "credit": "Wikimedia Commons, public domain (George Inness)",
     "link": "https://commons.wikimedia.org/wiki/File:The_Alban_Hills,_1873,_by_George_Inness_(1825-1894)_-_Worcester_Art_Museum_-_IMG_7669.JPG",
@@ -1572,7 +1562,7 @@
   {
     "id": "img159",
     "file": "peasants-by-lake-nemi.jpg",
-    "name": "Italian: Giornata di sole sul lago di Nemi Sunny day on Lake Nemi title",
+    "name": "Giornata di sole sul lago di Nemi",
     "description": "Italian peasants and travellers on a road above Lake Nemi, with hills and water beyond. By Amanzio Cattaneo. by 1897",
     "credit": "Wikimedia Commons, public domain (Amanzio Cattaneo)",
     "link": "https://commons.wikimedia.org/wiki/File:Sunny_day_on_Lake_Nemi_(unknown_date),_by_Amanzio_Cattaneo.jpg",
@@ -1582,7 +1572,7 @@
   {
     "id": "img160",
     "file": "italian-cypress-and-umbrella-pine-landscapes.jpg",
-    "name": "Italian Landscape with Umbrella Pines title",
+    "name": "Italian Landscape with Umbrella Pines",
     "description": "Italian cypress and umbrella pine landscapes. By Hendrik Voogd. 1807",
     "credit": "Wikimedia Commons, public domain (Hendrik Voogd)",
     "link": "https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg",
@@ -1602,7 +1592,7 @@
   {
     "id": "img162",
     "file": "view-of-the-roman-forum-campo-vaccino.jpg",
-    "name": "Vue du Campo Vaccino - Claude Gellée dit le Lorrain - Louvre - INV 4713 ; MR 1741",
+    "name": "Vue du Campo Vaccino",
     "description": "View of the Campo Vaccino (Roman Forum) with the Arch of Septimius Severus and surrounding ruins. After Claude Lorrain.",
     "credit": "Wikimedia Commons, public domain (Shonagon)",
     "link": "https://commons.wikimedia.org/wiki/File:Vue_du_Campo_Vaccino_-_Claude_Gellée_dit_le_Lorrain_-_Louvre_-_INV_4713_;_MR_1741.jpg",
@@ -1623,7 +1613,7 @@
     "id": "img164",
     "file": "a-thunderstorm-over-an-ancient-plain.png",
     "name": "Gebirgslandschaft mit aufziehendem Gewitter",
-    "description": "landscape · mountains · thunderstorm · landscape with ruins. By Kobell, Franz Innocenz Josef Franz Kobell (Q1447844). Unknown date",
+    "description": "Mountainous landscape with approaching thunderstorm. By Franz Kobell. Unknown date",
     "credit": "Wikimedia Commons, public domain (Kobell, Franz Innocenz Josef Franz Kobell (Q1447844))",
     "link": "https://commons.wikimedia.org/wiki/File:Gebirgslandschaft_mit_aufziehendem_Gewitter_(SM_4614z).png",
     "category": "Nature Landscapes",
@@ -1632,7 +1622,7 @@
   {
     "id": "img166",
     "file": "winter-landscape-with-peasants.jpg",
-    "name": "Winter Landscape title",
+    "name": "Winter Landscape",
     "description": "Peasant women crossing a snowy field by a thatched village under grey skies. By Roman Kochanowski. 1886",
     "credit": "Wikimedia Commons, public domain (Roman Kochanowski)",
     "link": "https://commons.wikimedia.org/wiki/File:Roman_Kochanowski_-_Winter_Landscape_-_MNK_II-a-129_-_National_Museum_Kraków.jpg",
@@ -1643,7 +1633,7 @@
     "id": "img167",
     "file": "a-forest-fire-seen-from-a-distance.jpg",
     "name": "Yosemite (Forest Fire in Moonlit Landscape) by Jules Tavernier",
-    "description": "Yosemite ( Forest Fire in Moonlit Landscape ) by Jules Tavernier, 1881, 42 x 25 in., oil on canvas, Oakland Museum of California. By Jules Tavernier. 1881",
+    "description": "Forest fire illuminated by moonlight over Yosemite Valley. By Jules Tavernier. 1881",
     "credit": "Wikimedia Commons, public domain (Jules Tavernier)",
     "link": "https://commons.wikimedia.org/wiki/File:Yosemite_(Forest_Fire_in_Moonlit_Landscape)_by_Jules_Tavernier.jpg",
     "category": "Nature Landscapes",
@@ -1652,7 +1642,7 @@
   {
     "id": "img168",
     "file": "classical-ruins-overtaken-by-vines-and-trees.jpg",
-    "name": "Classsical Landscape with Shepherds near Overgrown Ruins title",
+    "name": "Classical Landscape with Shepherds near Overgrown Ruins",
     "description": "Classical ruins overtaken by vines and trees. By anonymous. between 1770 and 1829",
     "credit": "Wikimedia Commons, public domain (anonymous)",
     "link": "https://commons.wikimedia.org/wiki/File:Carlo_Labruzzi_(1747-1748-1817)_(circle_of)_-_Classical_Landscape_with_Shepherds_near_Overgrown_Ruins_-_1548002_-_National_Trust.jpg",
@@ -1682,7 +1672,7 @@
   {
     "id": "img171",
     "file": "view-of-the-colosseum-from-the-palatine-hill.jpg",
-    "name": "Colosseum Viewed from the Palatine title",
+    "name": "Colosseum Viewed from the Palatine",
     "description": "View of the Colosseum from the Palatine Hill. By Jean-Achille Benouville. 1844",
     "credit": "Wikimedia Commons, public domain (Jean-Achille Benouville)",
     "link": "https://commons.wikimedia.org/wiki/File:Jean–Achille_Benouville_-_Colosseum_Viewed_from_the_Palatine_-_1984.63_-_Dallas_Museum_of_Art.jpg",
@@ -1743,11 +1733,11 @@
     "id": "img178",
     "file": "ancient-alexandria.jpg",
     "name": "The City of Alexandria and the Lighthouse",
-    "description": "Hand-colored botanical and ornithological illustration. Natural history plate from Catesby's work.",
+    "description": "The city of Alexandria and the Pharos lighthouse. By Luigi Mayer",
     "credit": "Wikimedia Commons, public domain (Luigi Mayer)",
     "link": "https://commons.wikimedia.org/wiki/File:Alexandrie_et_phare.jpg",
     "category": "City Landscapes",
-    "topic": "Botanical and ornithological illustration"
+    "topic": "Ancient Alexandria and the Pharos lighthouse"
   },
   {
     "id": "img179",
@@ -1762,7 +1752,7 @@
   {
     "id": "img180",
     "file": "carthage-at-its-zenith.jpg",
-    "name": "The Decline of the Carthaginian Empire",
+    "name": "Carthage at its Zenith",
     "description": "Carthage at its zenith — harbor and city. By J. M. W. Turner. 1817",
     "credit": "Wikimedia Commons, public domain (J. M. W. Turner)",
     "link": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_The_Decline_of_the_Carthaginian_Empire_-_WGA23169.jpg",
@@ -1772,7 +1762,7 @@
   {
     "id": "img182",
     "file": "a-roman-aqueduct-crossing-a-river-valley.jpg",
-    "name": "French: Le Pont du Gard The Pont du Gard title",
+    "name": "Le Pont du Gard The Pont du Gard",
     "description": "A Roman aqueduct crossing a river valley. By Hubert Robert. 1786",
     "credit": "Wikimedia Commons, public domain (Hubert Robert)",
     "link": "https://commons.wikimedia.org/wiki/File:Le_pont_du_Gard_-_Hubert_Robert_-_Musée_du_Louvre_Peintures_INV_7650.jpg",
@@ -1810,16 +1800,6 @@
     "topic": "Pagan sacrifice in classical setting"
   },
   {
-    "id": "img190",
-    "file": "bahama-titmouse-botanical-illustration.jpg",
-    "name": "The natural history of Carolina, Florida, and the Bahama Islands, 1754 The Bahama Titmous (19714213936)",
-    "description": "Hand-colored botanical and ornithological illustration from Catesby's work showing Bahama Titmouse with flowering plant branch.",
-    "credit": "Wikimedia Commons, CC BY 2.0 (Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España)",
-    "link": "https://commons.wikimedia.org/wiki/File:The_natural_history_of_Carolina,_Florida,_and_the_Bahama_Islands,_1754_The_Bahama_Titmous_(19714213936).jpg",
-    "category": "Indoor Scenes",
-    "topic": "Botanical and ornithological illustration - Bahama Titmouse"
-  },
-  {
     "id": "img191",
     "file": "vestal-virgins-at-the-colosseum.jpg",
     "name": "Vestal virgins at the Roman Colosseum",
@@ -1842,7 +1822,7 @@
   {
     "id": "img193",
     "file": "socrates-in-discussion-in-the-agora-or-at-a-symposium.jpg",
-    "name": "Danish: Sokrates og Alkibiades Socrates and Alcibiades title",
+    "name": "Sokrates og Alkibiades Socrates and Alcibiades",
     "description": "Socrates in discussion in the Agora or at a symposium. By Kristian Zahrtmann. 1911",
     "credit": "Wikimedia Commons, public domain (Kristian Zahrtmann)",
     "link": "https://commons.wikimedia.org/wiki/File:Kristian_Zahrtmann_-_Socrates_and_Alcibiades_-_KMS8219_-_Statens_Museum_for_Kunst.jpg",
@@ -1862,8 +1842,8 @@
   {
     "id": "img197",
     "file": "imperial-family-at-vienna-hofburg-serenade.jpg",
-    "name": "German: Kaiserliche Familie und Wiener Hofgesellschaft bei der Serenade in den Redoutensälen der Wiener Hofburg title",
-    "description": "Large formal court gathering or ceremonial assembly in ornate Baroque interior. Not specifically a serenade.",
+    "name": "Kaiserliche Familie und Wiener Hofgesellschaft bei der Serenade in den Redoutensälen der Wiener Hofburg",
+    "description": "Large formal court gathering in an ornate Baroque interior. By Martin van Meytens / Johann Franz Greipel. Unknown date",
     "credit": "Wikimedia Commons, public domain (Martin van Meytens / Johann Franz Greipel)",
     "link": "https://commons.wikimedia.org/wiki/File:Adel_im_Wandel85.jpg",
     "category": "Indoor Scenes",
@@ -1873,7 +1853,7 @@
     "id": "img198",
     "file": "a-roman-deathbed-scene.jpg",
     "name": "La muerte de Séneca",
-    "description": "Death of Séneca: The full title given by the painter was: Seneca, after opening his veins, goes into a bathroom and his friends, possessed of pain, &amp; swear hatred to Nero who decreed the death of his master.. By Manuel Domínguez Sánchez. C.E.1871 / H.E.11,871",
+    "description": "Death of Séneca: The full title given by the painter was: Seneca, after opening his veins, goes into a bathroom and his friends, possessed of pain, & swear hatred to Nero who decreed the death of his master.. By Manuel Domínguez Sánchez. C.E.1871 / H.E.11,871",
     "credit": "Wikimedia Commons, public domain (Manuel Domínguez Sánchez)",
     "link": "https://commons.wikimedia.org/wiki/File:Manuel_Domínguez_Sánchez_-_El_suicidio_de_Séneca.jpg",
     "category": "Indoor Scenes",
@@ -1882,7 +1862,7 @@
   {
     "id": "img200",
     "file": "a-greek-sculptor-s-workshop-with-unfinished-marble-alt.jpg",
-    "name": "French: Pygmalion et Galatée Pygmalion and Galatea title",
+    "name": "Pygmalion et Galatée Pygmalion and Galatea",
     "description": "Pygmalion and Galatea. By Jean-Léon Gérôme. 1890",
     "credit": "Wikimedia Commons, public domain (Jean-Léon Gérôme)",
     "link": "https://commons.wikimedia.org/wiki/File:Jean-Léon_Gérôme,_Pygmalion_and_Galatea,_ca._1890.jpg",
@@ -1893,8 +1873,8 @@
     "id": "img201",
     "file": "a-philosopher-s-symposium-alt.jpg",
     "name": "Anselm feuerbach, il simposio (da platone), seconda versione, 1871-74",
-    "description": "A philosopher's symposium — Greek men reclining and debating. By Sailko. 2018-02-03",
-    "credit": "Wikimedia Commons, CC BY 3.0 (Sailko)",
+    "description": "A philosopher's symposium — Greek men reclining and debating. By Anselm Feuerbach. 1871–74",
+    "credit": "Wikimedia Commons, CC BY 3.0 (Sailko / Anselm Feuerbach)",
     "link": "https://commons.wikimedia.org/wiki/File:Anselm_feuerbach,_il_simposio_(da_platone),_seconda_versione,_1871-74.jpg",
     "category": "Indoor Scenes",
     "topic": "A philosopher's symposium — Greek men reclining and debating"
@@ -1907,12 +1887,12 @@
     "credit": "Wikimedia Commons, public domain (Juan de la Corte)",
     "link": "https://commons.wikimedia.org/wiki/File:Juan_de_la_Corte_-_Battle_Scene_with_a_Roman_Army_Besieging_a_Large_City_-_WGA05366.jpg",
     "category": "Holy Roman Empire",
-    "topic": "A (Holy) Roman army besieging a city"
+    "topic": "A HRE army besieging a city"
   },
   {
     "id": "img204",
     "file": "italian-peasant-family-in-a-cave.jpg",
-    "name": "Italian Peasant Scene title",
+    "name": "Italian Peasant Scene",
     "description": "Italian peasant family scene: mother offering food to an infant in a basket while the father rests inside a rocky shelter. Anonymous, 19th century.",
     "credit": "Wikimedia Commons, public domain (anonymous)",
     "link": "https://commons.wikimedia.org/wiki/File:Italian_(Roman)_School_-_Italian_Peasant_Scene_-_1298324_-_National_Trust.jpg",
@@ -1922,7 +1902,7 @@
   {
     "id": "img205",
     "file": "italian-peasant-women-and-child-by-lake.jpg",
-    "name": "An Italian Peasant Scene title",
+    "name": "An Italian Peasant Scene",
     "description": "Italian peasant women and a small child with a basket of flowers beside a lake. Anonymous, 19th century.",
     "credit": "Wikimedia Commons, public domain (anonymous)",
     "link": "https://commons.wikimedia.org/wiki/File:Italian_(Roman)_School_-_An_Italian_Peasant_Scene_-_1298325_-_National_Trust.jpg",
@@ -1956,7 +1936,7 @@
     "description": "Pompeian wall painting showing the entrance to a sanctuary flanked by columns, with a tholos visible inside and theatrical masks on the walls. Roman, 1st century CE.",
     "credit": "Wikimedia Commons, CC BY-SA 4.0 (ArchaiOptix)",
     "link": "https://commons.wikimedia.org/wiki/File:Wall_painting_-_entrance_to_a_sanctuary_with_tholos_-_Pompeii_(VI_41_Insula_Occidentalis)_-_Napoli_MAN_8594_-_03.jpg",
-    "category": "Religious / Christian Art",
+    "category": "Indoor Scenes",
     "topic": "A Roman sanctuary with tholos (Pompeii fresco)"
   },
   {
@@ -2002,7 +1982,7 @@
   {
     "id": "img213",
     "file": "socrates-in-discussion-in-the-agora-or-at-a-symposium-alt2.jpg",
-    "name": "French: Alcibiade recevant les leçons de Socrate Alcibiades being taught by Socrates title",
+    "name": "Alcibiade recevant les leçons de Socrate Alcibiades being taught by Socrates",
     "description": "The copy of the painting Alcibiades being taught by Socrates by Francois-André Vincent . Collection of the Nationalmuseum of Sweden .. By François-André Vincent. 1777",
     "credit": "Wikimedia Commons, public domain (François-André Vincent)",
     "link": "https://commons.wikimedia.org/wiki/File:Alcibiades_being_taught_by_Socrates,_Francois-André_Vincent_(copy_-_Nationalmuseum).jpg",
@@ -2012,7 +1992,7 @@
   {
     "id": "img214",
     "file": "socrates-in-discussion-in-the-agora-or-at-a-symposium-alt3.jpg",
-    "name": "Socrates and Alcibiades title",
+    "name": "Socrates and Alcibiades",
     "description": "Socrates in discussion in the Agora or at a symposium. By Christoffer Wilhelm Eckersberg. between 1813 and 1816",
     "credit": "Wikimedia Commons, public domain (Christoffer Wilhelm Eckersberg)",
     "link": "https://commons.wikimedia.org/wiki/File:Socrates_and_Alcibiades,_Christoffer_Wilhelm_Eckersberg.jpg",
@@ -2042,7 +2022,7 @@
   {
     "id": "img217",
     "file": "the-agora-of-athens-on-market-day-alt.jpg",
-    "name": "Greek: Το παζάρι των Αθηνών",
+    "name": "Το παζάρι των Αθηνών",
     "description": "Bazar of Athens. By Edward Dodwell. 1821",
     "credit": "Wikimedia Commons, public domain (Edward Dodwell)",
     "link": "https://commons.wikimedia.org/wiki/File:Bazar_of_Athens.jpg",
@@ -2064,7 +2044,7 @@
     "file": "temple-of-apollo-epicurius-at-bassae.jpg",
     "name": "The temple of Apollo Epicurius at Bassae by Edward Dodwell",
     "description": "The ruined Temple of Apollo Epicurius at Bassae, standing in a barren hilly landscape with two figures in the foreground. After Edward Dodwell, Views of Greece, 1821.",
-    "credit": "Wikimedia Commons, public domain (Edward Lear)",
+    "credit": "Wikimedia Commons, public domain (Edward Dodwell)",
     "link": "https://commons.wikimedia.org/wiki/File:The_temple_of_Apollo_Epicurius_at_Bassae_by_Edward_Dodwell.jpg",
     "category": "Nature Landscapes",
     "topic": "Temple of Apollo Epicurius at Bassae"
@@ -2113,7 +2093,7 @@
     "id": "img225",
     "file": "the-roman-baths-alt2.png",
     "name": "Roman Bath",
-    "description": "architecture · city view · ruin · bathing scene · column · interior space · building · Rome · Cestius Pyramid (Rome) · Castel Sant'Angelo (Rome) · man · group of people · architecture · city-view in general; 'veduta' · public baths · taking a bath · male sex; man · being shown undressed · sitting fi. By Antonio Joli. circa 1745",
+    "description": "Interior of Roman baths with figures bathing. By Antonio Joli. circa 1745",
     "credit": "Wikimedia Commons, public domain (Antonio Joli)",
     "link": "https://commons.wikimedia.org/wiki/File:Roman_Bath_(SM_27).png",
     "category": "Indoor Scenes",
