@@ -40,8 +40,8 @@
     "latin": "abhinc _ annōs",
     "gloss": "_ years ago",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "accusative extent of time",
+    "inflection": "flexible",
+    "notes": "accusative extent of time. The noun may vary: e.g., *abhinc menses*\nAttested in the ablative as part of an ablative absolute.",
     "examples": [
       {
         "citation": "Plautus, *Casina* 39",
@@ -54,6 +54,14 @@
       {
         "citation": "Terentius, *Phormio* 1017",
         "quote": "vinolentu' fere abhinc annos quindecim mulierculam eam compressit"
+      },
+      {
+        "citation": "Laberius, *Mimi Romani* 9",
+        "quote": "hic est ille gurdus, quem ego me abhinc menses duos ex Africa advenientem excepisse tibi narravi"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.2.130.4",
+        "quote": "comitiis iam abhinc xxx diebus factis"
       }
     ]
   },

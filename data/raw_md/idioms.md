@@ -38,14 +38,18 @@
 
 **Search:** `abhinc ~ annos`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** accusative extent of time
+**Note:** accusative extent of time. The noun may vary: e.g., *abhinc menses*
+
+Attested in the ablative as part of an ablative absolute.
 
 **Examples:**
 > Plautus, *Casina* 39: "sed abhinc annos factum est sedecim, quom conspicatust primulo crepusculo"
 > Plautus, *Mostellaria* 494: "qui abhinc sexaginta annos occisus foret"
 > Terentius, *Phormio* 1017: "vinolentu' fere abhinc annos quindecim mulierculam eam compressit"
+> Laberius, *Mimi Romani* 9: "hic est ille gurdus, quem ego me abhinc menses duos ex Africa advenientem excepisse tibi narravi"
+> Cicero, *In Verrem* 2.2.130.4: "comitiis iam abhinc xxx diebus factis"
 
 # hodiē prīmum
 
