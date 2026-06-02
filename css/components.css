@@ -397,6 +397,13 @@
   line-height: 1.65;
 }
 
+/* wrapper for multi-paragraph notes: tight paragraph gap, single flex item */
+.drawer-notes-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1em;
+}
+
 /* Numbered steps (Templates) */
 .steps-list {
   padding-left: var(--s5);

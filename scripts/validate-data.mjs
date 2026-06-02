@@ -131,7 +131,27 @@ export function reparseIdioms(mdText) {
   const out = [];
   let current = null;
 
+  // independent note-collection state mirroring build-idioms.mjs: paragraphs joined by '\n',
+  // lines within a paragraph by ' '. must match the builder exactly or diffRecords flags `notes`.
+  let noteParagraphs = null;
+  let noteBuffer = [];
+
+  const flushParagraph = () => {
+    if (noteBuffer.length > 0) {
+      noteParagraphs.push(noteBuffer.join(' '));
+      noteBuffer = [];
+    }
+  };
+
+  const flushNote = () => {
+    if (noteParagraphs === null) return;
+    flushParagraph();
+    current.notes = noteParagraphs.join('\n');
+    noteParagraphs = null;
+  };
+
   const commit = () => {
+    flushNote();
     if (current !== null) {
       out.push(current);
       current = null;
@@ -155,6 +175,16 @@ export function reparseIdioms(mdText) {
         line: i + 1,
       };
     } else if (current !== null) {
+      // while collecting a note, swallow blank/text lines; `**` or `>` terminates and dispatches.
+      if (noteParagraphs !== null) {
+        if (!line.startsWith('**') && !line.startsWith('>')) {
+          if (line.trim() === '') flushParagraph();
+          else noteBuffer.push(line.trim());
+          continue;
+        }
+        flushNote();
+      }
+
       if (line.startsWith('**Category:**')) {
         current.category = line.slice('**Category:**'.length).trim();
       } else if (line.startsWith('**Meaning:**')) {
@@ -162,7 +192,10 @@ export function reparseIdioms(mdText) {
       } else if (line.startsWith('**Inflection:**')) {
         current.inflection = line.slice('**Inflection:**'.length).trim();
       } else if (line.startsWith('**Note:**')) {
-        current.notes = line.slice('**Note:**'.length).trim();
+        noteParagraphs = [];
+        noteBuffer = [];
+        const inline = line.slice('**Note:**'.length).trim();
+        if (inline) noteBuffer.push(inline);
       } else if (line.startsWith('>') && IDIOM_EXAMPLE_RE.test(line)) {
         current.exampleCount += 1;
       }

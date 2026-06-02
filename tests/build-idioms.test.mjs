@@ -82,6 +82,81 @@ test('parseIdioms: --- dividers and **Search:** lines never create phantom entri
   assert.equal(warnings.length, 0);
 });
 
+test('parseIdioms: a single-line note still equals the inline text (regression)', () => {
+  const { data } = parseIdioms(SAMPLE);
+  assert.equal(data[0].notes, "videtur may inflect: e.g., 'tibi videtur'.");
+  assert.equal(data[1].notes, 'accusative extent of time');
+});
+
+test('parseIdioms: a multi-paragraph note joins paragraphs with \\n and stops at **Examples:**', () => {
+  const md = `# cum _ essem
+
+**Category:** Temporal
+
+**Meaning:** when I was _
+
+**Note:** *essem* may inflect.
+
+Test extra line.
+
+**Examples:**
+> Cicero, *De Oratore* 2.2.10: "cum essemus eius domi"
+`;
+  const { data, warnings } = parseIdioms(md);
+  assert.equal(warnings.length, 0);
+  assert.equal(data[0].notes, '*essem* may inflect.\nTest extra line.');
+  assert.equal(data[0].examples.length, 1);
+});
+
+test('parseIdioms: consecutive note lines (no blank) collapse into one paragraph', () => {
+  const md = `# x
+
+**Category:** C
+
+**Meaning:** y
+
+**Note:** first part
+second part
+
+**Inflection:** fixed
+`;
+  const { data } = parseIdioms(md);
+  assert.equal(data[0].notes, 'first part second part');
+  assert.equal(data[0].inflection, 'fixed');
+});
+
+test('parseIdioms: a note runs up to the next # idiom heading', () => {
+  const md = `# alpha
+
+**Category:** C
+
+**Note:** line one
+
+line two
+
+# beta
+
+**Category:** C
+`;
+  const { data } = parseIdioms(md);
+  assert.equal(data[0].latin, 'alpha');
+  assert.equal(data[0].notes, 'line one\nline two');
+  assert.equal(data[1].latin, 'beta');
+});
+
+test('parseIdioms: a bare **Note:** with no text yields an empty note', () => {
+  const md = `# x
+
+**Category:** C
+
+**Note:**
+
+**Inflection:** fixed
+`;
+  const { data } = parseIdioms(md);
+  assert.equal(data[0].notes, '');
+});
+
 test('parseIdioms: an idiom missing a category is skipped with a warning', () => {
   const md = `# no category
 
