@@ -170,8 +170,8 @@
     "latin": "paucīs post diēbus",
     "gloss": "a few days later",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "ablative of time (although the nouns may change: e.g., *paucis post mensibus*, *multis post diebus*).",
+    "inflection": "flexible",
+    "notes": "ablative of time. Number and referant may vary: e.g., *paucis post mensibus*, *multis post diebus*.\nWe also have the reverse construction, *paucis ante diebus (a few days earlier)*.",
     "examples": [
       {
         "citation": "Caesar, *De Bello Gallico* 6.10.1.1",
@@ -184,6 +184,10 @@
       {
         "citation": "Cicero, *De Oratore* 2.276.5",
         "quote": "paucis post diebus cum ad Nasicam venisset Ennius et eum ad ianuam quaereret"
+      },
+      {
+        "citation": "Cicero, *In Catilinam* 3.3.6",
+        "quote": "Principio, ut Catilina paucis ante diebus erupit ex urbe"
       }
     ]
   },

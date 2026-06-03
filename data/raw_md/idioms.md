@@ -130,14 +130,17 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `paucis post diebus`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** ablative of time (although the nouns may change: e.g., *paucis post mensibus*, *multis post diebus*).
+**Note:** ablative of time. Number and referant may vary: e.g., *paucis post mensibus*, *multis post diebus*.
+
+We also have the reverse construction, *paucis ante diebus (a few days earlier)*.
 
 **Examples:**
 > Caesar, *De Bello Gallico* 6.10.1.1: "Interim paucis post diebus fit ab Ubiis certior Suebos omnes unum in locum copias cogere atque iis nationibus"
 > Caesar, *Bellum Civile* 3.82.1.1: "Pompeius paucis post diebus in Thessaliam pervenit contionatusque apud cunctum exercitum suis agit gratias"
 > Cicero, *De Oratore* 2.276.5: "paucis post diebus cum ad Nasicam venisset Ennius et eum ad ianuam quaereret"
+> Cicero, *In Catilinam* 3.3.6: "Principio, ut Catilina paucis ante diebus erupit ex urbe"
 
 # ubi prīmum
 
