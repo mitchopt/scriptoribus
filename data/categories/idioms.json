@@ -641,7 +641,7 @@
     "gloss": "unless I am mistaken",
     "category": "Memory and Knowledge",
     "inflection": "fixed",
-    "notes": "although *fallor* may technically inflect, the idiom is reflexive: \"unless I decieve myself.\"",
+    "notes": "The plural *nisi fallimur* is attested once.",
     "examples": [
       {
         "citation": "Cicero, *Epistulae ad Atticum* 4.19.1.4",
@@ -654,6 +654,10 @@
       {
         "citation": "Columella, *De Re Rustica* 3.2.23.2",
         "quote": "ab heluo, nisi fallor, colore vocitatae"
+      },
+      {
+        "citation": "Terentianus Maurus, *De Litteris, De Syllabis, De Metris* 1151",
+        "quote": "bis decies unumque supra, nisi fallimur, ecce dactylon efficiet talis, quem dico, trochaeus, spondeum at nullum potuit dare versibus isdem."
       }
     ]
   },

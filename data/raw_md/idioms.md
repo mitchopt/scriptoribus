@@ -474,12 +474,13 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:** although *fallor* may technically inflect, the idiom is reflexive: "unless I decieve myself."
+**Note:** The plural *nisi fallimur* is attested once.
 
 **Examples:** 
 > Cicero, *Epistulae ad Atticum* 4.19.1.4: "sed, nisi fallor, citius te quam scribis videbo"
 > Virgil, *Aeneis* 5.49: "iamque dies, nisi fallor, adest, quem semper acerbum, semper honoratum sic di voluistis habebo"
 > Columella, *De Re Rustica* 3.2.23.2: "ab heluo, nisi fallor, colore vocitatae"
+> Terentianus Maurus, *De Litteris, De Syllabis, De Metris* 1151: "bis decies unumque supra, nisi fallimur, ecce dactylon efficiet talis, quem dico, trochaeus, spondeum at nullum potuit dare versibus isdem."
 
 # causa est quod
 
