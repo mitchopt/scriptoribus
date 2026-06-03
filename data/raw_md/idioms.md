@@ -82,7 +82,7 @@ Attested in the ablative as part of an ablative absolute.
 **Examples:**
 > Livy, *Ab Urbe Condita* 34.6.17.1: "si quae tunc temporis causa aut decreuit senatus aut populus iussit"
 > Apuleius, *Metamorphoses* 3.4.4: "At ego nihil tunc temporis amplius quam flere poteram"
-> Terentius, *Phormio* 184: "Ge. tum temporis mihi punctum ad hanc rem est: erus adest"
+> Terentius, *Phormio* 184: "tum temporis mihi punctum ad hanc rem est: erus adest"
 > Cicero, *Pro Rabirio Postumo* 36.3: "umeris gestum agebant tum temporis, credo, causa; nunc scilicet tempus nullum est"
 
 # eō tempore quō
@@ -93,14 +93,16 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `eo tempore quo`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** ablative of time
+**Note:** ablative of time. Number and referant may vary: e.g., *his temporibus quibus*.
 
 **Examples:**
 > Caesar, *De Bello Gallico* 4.18.4.1: "at Sugambri ex eo tempore quo pons institui coeptus est, fuga comparata hortantibus iis"
 > Cicero, *Pro Quinctio* 16.3: "eum non ita commode posse eo tempore quo proscripsisset vendere"
 > Columella, *De Re Rustica* 12.30.1.1: "Ab eo tempore, quo primum dolia operculaveris, usque ad aequinoctium vernum semel in diebus XXXVI vinum curare satis est"
+> Seneca maior, *Controversiae* 10.pr.8.6: "illo tempore quo libri Labieni ex senatus consulto urebantur"
+> Servius, *In Vergilii Aeneidos* 2.35.7: "nam his temporibus, quibus Caesar occidi habuit, Capuae iuvencae aeneae dicitur inscriptum fuisse"
 
 # proximīs diēbus
 

@@ -101,7 +101,7 @@
       },
       {
         "citation": "Terentius, *Phormio* 184",
-        "quote": "Ge. tum temporis mihi punctum ad hanc rem est: erus adest"
+        "quote": "tum temporis mihi punctum ad hanc rem est: erus adest"
       },
       {
         "citation": "Cicero, *Pro Rabirio Postumo* 36.3",
@@ -114,8 +114,8 @@
     "latin": "eō tempore quō",
     "gloss": "(at) the time when",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "ablative of time",
+    "inflection": "flexible",
+    "notes": "ablative of time. Number and referant may vary: e.g., *his temporibus quibus*.",
     "examples": [
       {
         "citation": "Caesar, *De Bello Gallico* 4.18.4.1",
@@ -128,6 +128,14 @@
       {
         "citation": "Columella, *De Re Rustica* 12.30.1.1",
         "quote": "Ab eo tempore, quo primum dolia operculaveris, usque ad aequinoctium vernum semel in diebus XXXVI vinum curare satis est"
+      },
+      {
+        "citation": "Seneca maior, *Controversiae* 10.pr.8.6",
+        "quote": "illo tempore quo libri Labieni ex senatus consulto urebantur"
+      },
+      {
+        "citation": "Servius, *In Vergilii Aeneidos* 2.35.7",
+        "quote": "nam his temporibus, quibus Caesar occidi habuit, Capuae iuvencae aeneae dicitur inscriptum fuisse"
       }
     ]
   },
