@@ -80,7 +80,7 @@ Attested in the ablative as part of an ablative absolute.
 **Note:** a partitive genitive. Other adverbs of time may be used: e.g., *tum temporis*.
 
 **Examples:**
-> Livy, *Ab Urbe Condita* 34.6.17.1: "si quae tunc temporis causa aut decreuit senatus aut populus iussit"
+> Livy, *Ab Urbe Condita* 34.6.17.1: "nam si quae tunc temporis causa aut decreuit senatus aut populus iussit"
 > Apuleius, *Metamorphoses* 3.4.4: "At ego nihil tunc temporis amplius quam flere poteram"
 > Terentius, *Phormio* 184: "tum temporis mihi punctum ad hanc rem est: erus adest"
 > Cicero, *Pro Rabirio Postumo* 36.3: "umeris gestum agebant tum temporis, credo, causa; nunc scilicet tempus nullum est"
@@ -112,14 +112,15 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `proximis diebus`
 
-**Inflection:** fixed
-.
-**Note:** ablative of time (although the noun may change: e.g., *proximis mensibus*).
+**Inflection:** flexible
+
+**Note:** ablative of time. Number and referant may vary: e.g., *proximis mensibus*, *proximo die (on the next day)*.
 
 **Examples:**
 > Caesar, *Bellum Civile* 1.6.1.1: "Proximis diebus habetur extra urbem senatus"
 > Apuleius, *Metamorphoses* 7.1.18: "qui proximis diebus fictis commendaticiis litteris Miloni sese virum commentitus bonum artius conciliaverat"
 > Suetonius, *Divus Iulius* 81.2.3: "proximis diebus equorum greges, quos in traiciendo Rubiconi flumini consecrarat ac vagos et sine custode dimiserat"
+> Seneca, *Naturales Quaestiones* 7.6.2.4: "ex aliqua causa refluat rursus ac remittatur, deinde iterum proximo die ac sequentibus consurgere et eundem locum inflammare."
 
 # paucīs post diēbus
 

@@ -93,7 +93,7 @@
     "examples": [
       {
         "citation": "Livy, *Ab Urbe Condita* 34.6.17.1",
-        "quote": "si quae tunc temporis causa aut decreuit senatus aut populus iussit"
+        "quote": "nam si quae tunc temporis causa aut decreuit senatus aut populus iussit"
       },
       {
         "citation": "Apuleius, *Metamorphoses* 3.4.4",
@@ -144,8 +144,8 @@
     "latin": "proximīs diēbus",
     "gloss": "in the next few days",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "ablative of time (although the noun may change: e.g., *proximis mensibus*).",
+    "inflection": "flexible",
+    "notes": "ablative of time. Number and referant may vary: e.g., *proximis mensibus*, *proximo die (on the next day)*.",
     "examples": [
       {
         "citation": "Caesar, *Bellum Civile* 1.6.1.1",
@@ -158,6 +158,10 @@
       {
         "citation": "Suetonius, *Divus Iulius* 81.2.3",
         "quote": "proximis diebus equorum greges, quos in traiciendo Rubiconi flumini consecrarat ac vagos et sine custode dimiserat"
+      },
+      {
+        "citation": "Seneca, *Naturales Quaestiones* 7.6.2.4",
+        "quote": "ex aliqua causa refluat rursus ac remittatur, deinde iterum proximo die ac sequentibus consurgere et eundem locum inflammare."
       }
     ]
   },
