@@ -185,9 +185,11 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Search:** `#ex improviso#`
 
-**Inflection:** flexible
+**Inflection:** fixed
 
-**Note:** *dē improvisō*, or simply *improvisō* without a preposition, are also attested.
+**Note:** prepositional phrase.
+
+*dē improvisō*, or simply *improvisō* without a preposition, are also attested.
 
 **Examples:**
 > Lucretius, *De Rerum Natura* 2.1034: "ex improviso si sint obiecta repente"
