@@ -504,13 +504,13 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Category:** Causal / Explanatory
 
-**Meaning:** it happens that
+**Meaning:** hence it happens that
 
 **Search:** `#inde fit ut#`
 
 **Inflection:** fixed
 
-**Note:**
+**Note:** The perfect tense *inde factum est ut* is attested postclassically.
 
 **Examples:**
 > Horace, *Sermones* 1.1.117: "inde fit, ut raro, qui se vixisse beatum dicat et exacto contentus tempore vita"
