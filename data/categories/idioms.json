@@ -85,12 +85,20 @@
   },
   {
     "id": "i005",
-    "latin": "tum temporis",
+    "latin": "tunc temporis",
     "gloss": "(at) that time",
     "category": "Temporal",
     "inflection": "fixed",
-    "notes": "a partitive genitive",
+    "notes": "a partitive genitive. Other adverbs of time may be used: e.g., *tum temporis*.",
     "examples": [
+      {
+        "citation": "Livy, *Ab Urbe Condita* 34.6.17.1",
+        "quote": "si quae tunc temporis causa aut decreuit senatus aut populus iussit"
+      },
+      {
+        "citation": "Apuleius, *Metamorphoses* 3.4.4",
+        "quote": "At ego nihil tunc temporis amplius quam flere poteram"
+      },
       {
         "citation": "Terentius, *Phormio* 184",
         "quote": "Ge. tum temporis mihi punctum ad hanc rem est: erus adest"

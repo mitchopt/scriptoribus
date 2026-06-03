@@ -67,19 +67,21 @@ Attested in the ablative as part of an ablative absolute.
 > Plautus, *Mercator* 532: "ita edepol deperit, atque hodie primum vidit"
 > Seneca maior, *Controversiae* 7.1.19.9: "hodie primum res in forum delata est"
 
-# tum temporis
+# tunc temporis
 
 **Category:** Temporal
 
 **Meaning:** (at) that time
 
-**Search:** `tum temporis`
+**Search:** `tunc temporis`
 
 **Inflection:** fixed
 
-**Note:** a partitive genitive
+**Note:** a partitive genitive. Other adverbs of time may be used: e.g., *tum temporis*.
 
 **Examples:**
+> Livy, *Ab Urbe Condita* 34.6.17.1: "si quae tunc temporis causa aut decreuit senatus aut populus iussit"
+> Apuleius, *Metamorphoses* 3.4.4: "At ego nihil tunc temporis amplius quam flere poteram"
 > Terentius, *Phormio* 184: "Ge. tum temporis mihi punctum ad hanc rem est: erus adest"
 > Cicero, *Pro Rabirio Postumo* 36.3: "umeris gestum agebant tum temporis, credo, causa; nunc scilicet tempus nullum est"
 
