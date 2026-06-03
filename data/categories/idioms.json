@@ -614,8 +614,8 @@
     "latin": "ut ferunt",
     "gloss": "as they say",
     "category": "Memory and Knowledge",
-    "inflection": "fixed",
-    "notes": "",
+    "inflection": "flexible",
+    "notes": "Attested in the passive singular also: *ut fertur (as it is reported)*.",
     "examples": [
       {
         "citation": "Cicero, *De Fato* fr5.3",
@@ -628,6 +628,10 @@
       {
         "citation": "Livy, *Ab Urbe Condita* 1.36.4.2",
         "quote": "eludensque artem ut ferunt, 'age dum' inquit, 'diuine tu, inaugura'"
+      },
+      {
+        "citation": "Cicero, *In Pisonem* 71.9",
+        "quote": "si quidem philosophia, ut fertur, virtutis continet et offici et bene vivendi disciplinam"
       }
     ]
   },

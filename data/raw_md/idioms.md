@@ -454,14 +454,15 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `#ut ferunt#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** Attested in the passive singular also: *ut fertur (as it is reported)*.
 
 **Examples:** 
 > Cicero, *De Fato* fr5.3: "qui admodum raro capitur, sed est piscis, ut ferunt, in primis nobilis"
 > Cicero, *De Officiis* 3.38.9: "descendit in illum hiatum aeneumque equum, ut ferunt fabulae, animadvertit"
 > Livy, *Ab Urbe Condita* 1.36.4.2: "eludensque artem ut ferunt, 'age dum' inquit, 'diuine tu, inaugura'"
+> Cicero, *In Pisonem* 71.9: "si quidem philosophia, ut fertur, virtutis continet et offici et bene vivendi disciplinam"
 
 # nisi fallor
 
