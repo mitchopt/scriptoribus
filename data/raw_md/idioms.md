@@ -420,7 +420,9 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Inflection:** fixed
 
-**Note:** the idiom is overwhelmingly infinitive, although *quantulum memini* is attested.
+**Note:** the idiom is overwhelmingly infinitive, and usually followed by *potui* or similar.
+
+However, *quantulum memini*, with the diminutive and a finite verb, is attested *once* in Gellius.
 
 **Examples:** 
 > Aulus Gellius, *Noctes Atticae* 12.1.24.2: "sententias communis utilitatis gratia, quantum meminisse potui, rettuli"
