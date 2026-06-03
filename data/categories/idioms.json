@@ -540,8 +540,8 @@
     "latin": "meā sententiā",
     "gloss": "in my opinion",
     "category": "Opinions",
-    "inflection": "fixed",
-    "notes": "the idiom is ablative, but other cases do appear.",
+    "inflection": "flexible",
+    "notes": "ablative construction. The referant may change: e.g., *tua sententia*, *sua sententia*.",
     "examples": [
       {
         "citation": "Plautus, *Menaechmi* 273",
@@ -554,6 +554,14 @@
       {
         "citation": "Cicero, *Pro S. Roscio Amerino* 88.10",
         "quote": "id quod ad rem mea sententia maxime pertinet"
+      },
+      {
+        "citation": "Cicero, *Philippicae* 10.4.5",
+        "quote": "alterum tua sententia spolias eis copiis"
+      },
+      {
+        "citation": "Cicero, *Pro Lege Manilia* 62.7",
+        "quote": "non se illum sua sententia pro consule sed pro consulibus mittere"
       }
     ]
   },

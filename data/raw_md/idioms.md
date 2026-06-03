@@ -399,14 +399,16 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Search:** `#mea sententia#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** the idiom is ablative, but other cases do appear.
+**Note:** ablative construction. The referant may change: e.g., *tua sententia*, *sua sententia*.
 
 **Examples:** 
 > Plautus, *Menaechmi* 273: "Bene opsonavi atque ex mea sententia, bonum anteponam prandium pransoribus"
 > Terentius, *Phormio* 335: "sapiunt mea sententia, pro maleficio si beneficium summum nolunt reddere"
 > Cicero, *Pro S. Roscio Amerino* 88.10: "id quod ad rem mea sententia maxime pertinet"
+> Cicero, *Philippicae* 10.4.5: "alterum tua sententia spolias eis copiis"
+> Cicero, *Pro Lege Manilia* 62.7: "non se illum sua sententia pro consule sed pro consulibus mittere"
 
 # quantum meminisse
 
