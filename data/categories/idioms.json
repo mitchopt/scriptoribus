@@ -318,8 +318,8 @@
     "latin": "hīs _ diēbus",
     "gloss": "for _ days",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "ablative construction",
+    "inflection": "flexible",
+    "notes": "ablative construction. Pronoun and duration may vary: e.g., *illis paucis diebus*.",
     "examples": [
       {
         "citation": "Plautus, *Mostellaria* 238",
@@ -328,6 +328,10 @@
       {
         "citation": "Rutilius, *Schemata Lexeos* 1.16.7",
         "quote": "immo vero nuper atque his paucis diebus simul et Atheniensis et eloquens est factus."
+      },
+      {
+        "citation": "Cicero, *Pro Caecina* 19.4",
+        "quote": "Atque illis paucis diebus, postea quam videt nihil se ab A. Caecina posse litium terrore abradere"
       }
     ]
   },

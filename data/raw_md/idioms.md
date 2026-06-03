@@ -240,13 +240,14 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Search:** `#his ~ diebus#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** ablative construction
+**Note:** ablative construction. Pronoun and duration may vary: e.g., *illis paucis diebus*.
 
 **Examples:** 
 > Plautus, *Mostellaria* 238: "nam neque edes quicquam neque bibes apud me his decem diebus"
 > Rutilius, *Schemata Lexeos* 1.16.7: "immo vero nuper atque his paucis diebus simul et Atheniensis et eloquens est factus."
+> Cicero, *Pro Caecina* 19.4: "Atque illis paucis diebus, postea quam videt nihil se ab A. Caecina posse litium terrore abradere"
 
 # mihi vidētur
 
