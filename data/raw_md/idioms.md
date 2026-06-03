@@ -439,7 +439,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:**
+**Note:** Although the singular construction *ut ait* exists, this differs from the impersonal idiom; *ut aiunt* invokes an unspecified source, wheras *ut ait (as _ says)* is for explicit attribution.
 
 **Examples:** 
 > Cicero, *In Catilinam* 1.15.12: "et, ut aiunt, corpore effugi"
