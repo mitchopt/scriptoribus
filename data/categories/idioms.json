@@ -241,12 +241,20 @@
   },
   {
     "id": "i011",
-    "latin": "dē improvisō",
+    "latin": "ex improvisō",
     "gloss": "unexpectedly",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "prepositional phrase",
+    "inflection": "flexible",
+    "notes": "*dē improvisō*, or simply *improvisō* without a preposition, are also attested.",
     "examples": [
+      {
+        "citation": "Lucretius, *De Rerum Natura* 2.1034",
+        "quote": "ex improviso si sint obiecta repente"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.1.112.2",
+        "quote": "ex improviso si quae res nata esset"
+      },
       {
         "citation": "Caesar, *De Bello Gallico* 2.3.1.1",
         "quote": "Eo cum de improviso celeriusque omni opinione venisset"
@@ -258,6 +266,10 @@
       {
         "citation": "Cicero, *Pro S. Roscio Amerino* 151.5",
         "quote": "in quos si qui ex acie fugerint de improviso incidant"
+      },
+      {
+        "citation": "Plautus, *Asinaria* 310",
+        "quote": "tantum adest boni improviso, verum commixtum malo"
       }
     ]
   },

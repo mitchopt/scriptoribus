@@ -177,22 +177,25 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 > Cicero, *Brutus* 107.2: "ut ex familiari eius L. Accio poeta sum audire solitus"
 > Cicero, *Pro Cluentio* 175.10: "multa dicitur domino renuntiare solitus esse"
 
-# dē improvisō
+# ex improvisō
 
 **Category:** Temporal
 
 **Meaning:** unexpectedly
 
-**Search:** `de improviso`
+**Search:** `#ex improviso#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** prepositional phrase
+**Note:** *dē improvisō*, or simply *improvisō* without a preposition, are also attested.
 
 **Examples:**
+> Lucretius, *De Rerum Natura* 2.1034: "ex improviso si sint obiecta repente"
+> Cicero, *In Verrem* 2.1.112.2: "ex improviso si quae res nata esset"
 > Caesar, *De Bello Gallico* 2.3.1.1: "Eo cum de improviso celeriusque omni opinione venisset"
 > Caesar, *De Bello Gallico* 5.22.1.5: "his imperat, uti coactis omnibus copiis castra navalia de improviso adoriantur atque oppugnent"
 > Cicero, *Pro S. Roscio Amerino* 151.5: "in quos si qui ex acie fugerint de improviso incidant"
+> Plautus, *Asinaria* 310: "tantum adest boni improviso, verum commixtum malo"
 
 # _(abl) ineunte
 
