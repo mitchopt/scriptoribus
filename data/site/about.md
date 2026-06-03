@@ -7,3 +7,5 @@ The name was inspired by the incomparable Legentibus — *for the readers* (see 
 # Version {{version}}
 
 Scriptoribus is still in development and not everything has been thoroughly proofread.
+
+*A careful proofread of the idioms page in progress.*

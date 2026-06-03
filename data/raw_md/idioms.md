@@ -38,14 +38,18 @@
 
 **Search:** `abhinc ~ annos`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** accusative extent of time
+**Note:** accusative extent of time. The noun may vary: e.g., *abhinc menses*
+
+Attested in the ablative as part of an ablative absolute.
 
 **Examples:**
 > Plautus, *Casina* 39: "sed abhinc annos factum est sedecim, quom conspicatust primulo crepusculo"
 > Plautus, *Mostellaria* 494: "qui abhinc sexaginta annos occisus foret"
 > Terentius, *Phormio* 1017: "vinolentu' fere abhinc annos quindecim mulierculam eam compressit"
+> Laberius, *Mimi Romani* 9: "hic est ille gurdus, quem ego me abhinc menses duos ex Africa advenientem excepisse tibi narravi"
+> Cicero, *In Verrem* 2.2.130.4: "comitiis iam abhinc xxx diebus factis"
 
 # hodiē prīmum
 
@@ -63,20 +67,22 @@
 > Plautus, *Mercator* 532: "ita edepol deperit, atque hodie primum vidit"
 > Seneca maior, *Controversiae* 7.1.19.9: "hodie primum res in forum delata est"
 
-# tum temporis
+# tunc temporis
 
 **Category:** Temporal
 
 **Meaning:** (at) that time
 
-**Search:** `tum temporis`
+**Search:** `tunc temporis`
 
 **Inflection:** fixed
 
-**Note:** a partitive genitive
+**Note:** a partitive genitive. Other adverbs of time may be used: e.g., *tum temporis*.
 
 **Examples:**
-> Terentius, *Phormio* 184: "Ge. tum temporis mihi punctum ad hanc rem est: erus adest"
+> Livy, *Ab Urbe Condita* 34.6.17.1: "nam si quae tunc temporis causa aut decreuit senatus aut populus iussit"
+> Apuleius, *Metamorphoses* 3.4.4: "At ego nihil tunc temporis amplius quam flere poteram"
+> Terentius, *Phormio* 184: "tum temporis mihi punctum ad hanc rem est: erus adest"
 > Cicero, *Pro Rabirio Postumo* 36.3: "umeris gestum agebant tum temporis, credo, causa; nunc scilicet tempus nullum est"
 
 # eō tempore quō
@@ -87,14 +93,16 @@
 
 **Search:** `eo tempore quo`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** ablative of time
+**Note:** ablative of time. Number and referant may vary: e.g., *his temporibus quibus*.
 
 **Examples:**
 > Caesar, *De Bello Gallico* 4.18.4.1: "at Sugambri ex eo tempore quo pons institui coeptus est, fuga comparata hortantibus iis"
 > Cicero, *Pro Quinctio* 16.3: "eum non ita commode posse eo tempore quo proscripsisset vendere"
 > Columella, *De Re Rustica* 12.30.1.1: "Ab eo tempore, quo primum dolia operculaveris, usque ad aequinoctium vernum semel in diebus XXXVI vinum curare satis est"
+> Seneca maior, *Controversiae* 10.pr.8.6: "illo tempore quo libri Labieni ex senatus consulto urebantur"
+> Servius, *In Vergilii Aeneidos* 2.35.7: "nam his temporibus, quibus Caesar occidi habuit, Capuae iuvencae aeneae dicitur inscriptum fuisse"
 
 # proximīs diēbus
 
@@ -104,14 +112,15 @@
 
 **Search:** `proximis diebus`
 
-**Inflection:** fixed
-.
-**Note:** ablative of time (although the noun may change: e.g., *proximis mensibus*).
+**Inflection:** flexible
+
+**Note:** ablative of time. Number and referant may vary: e.g., *proximis mensibus*, *proximo die (on the next day)*.
 
 **Examples:**
 > Caesar, *Bellum Civile* 1.6.1.1: "Proximis diebus habetur extra urbem senatus"
 > Apuleius, *Metamorphoses* 7.1.18: "qui proximis diebus fictis commendaticiis litteris Miloni sese virum commentitus bonum artius conciliaverat"
 > Suetonius, *Divus Iulius* 81.2.3: "proximis diebus equorum greges, quos in traiciendo Rubiconi flumini consecrarat ac vagos et sine custode dimiserat"
+> Seneca, *Naturales Quaestiones* 7.6.2.4: "ex aliqua causa refluat rursus ac remittatur, deinde iterum proximo die ac sequentibus consurgere et eundem locum inflammare."
 
 # paucīs post diēbus
 

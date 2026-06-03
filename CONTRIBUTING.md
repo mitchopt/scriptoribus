@@ -31,6 +31,8 @@ The only hand-authored JSON file is `data/images/manifest.json`.
 
 Each idiom is a `#` H1 block. `**Category:**` and `**Meaning:**` are required. `**Inflection:**` should be `fixed` or `flexible`.
 
+A `**Note:**` may span multiple lines: everything after it is part of the note until the next `**Field:**`, the `**Examples:**` label, a `>` example, or the next `#` idiom. Separate note paragraphs with a blank line.
+
 ```markdown
 # mihi videtur
 

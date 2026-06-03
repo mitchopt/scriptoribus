@@ -26,7 +26,29 @@ export function parseIdioms(mdText) {
   let currentLine = null;
   let counter = 0;
 
+  // note-collection state: non-null `noteParagraphs` means we are accumulating a multi-line
+  // note. `noteBuffer` holds the lines of the paragraph currently being built. paragraphs are
+  // joined with '\n' and lines within a paragraph with ' ', so a single-line note round-trips
+  // to exactly its inline text (see build-idioms notes format).
+  let noteParagraphs = null;
+  let noteBuffer = [];
+
+  function flushParagraph() {
+    if (noteBuffer.length > 0) {
+      noteParagraphs.push(noteBuffer.join(' '));
+      noteBuffer = [];
+    }
+  }
+
+  function flushNote() {
+    if (noteParagraphs === null) return;
+    flushParagraph();
+    currentIdiom.notes = noteParagraphs.join('\n');
+    noteParagraphs = null;
+  }
+
   function commitIdiom() {
+    flushNote();
     if (currentIdiom === null) return;
     if (!currentIdiom.category) {
       warnings.push(
@@ -69,6 +91,18 @@ export function parseIdioms(mdText) {
 
     if (currentIdiom === null) continue;
 
+    // while collecting a note, swallow blank/text lines into it; a bold field (`**`) or an
+    // example (`>`) terminates the note and then falls through to its own handler below.
+    // (a `# ` heading is intercepted by the branch above before reaching here.)
+    if (noteParagraphs !== null) {
+      if (!line.startsWith('**') && !line.startsWith('>')) {
+        if (line.trim() === '') flushParagraph();
+        else noteBuffer.push(line.trim());
+        continue;
+      }
+      flushNote();
+    }
+
     if (line.startsWith('**Category:**')) {
       currentIdiom.category = line.slice('**Category:**'.length).trim();
       continue;
@@ -89,7 +123,11 @@ export function parseIdioms(mdText) {
     }
 
     if (line.startsWith('**Note:**')) {
-      currentIdiom.notes = line.slice('**Note:**'.length).trim();
+      // open note collection; the inline text seeds the first paragraph.
+      noteParagraphs = [];
+      noteBuffer = [];
+      const inline = line.slice('**Note:**'.length).trim();
+      if (inline) noteBuffer.push(inline);
       continue;
     }
 

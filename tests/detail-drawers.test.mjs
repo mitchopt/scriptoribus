@@ -114,6 +114,18 @@ test('renderIdiomDrawer: unknown inflection falls back to the TODO badge', () =>
   assert.match(html, /badge--todo/);
 });
 
+test('renderIdiomDrawer: a multi-paragraph note renders one <p> per paragraph in a wrapper div', () => {
+  const html = renderIdiomDrawer({
+    id: 'i5', latin: 'x', gloss: 'y', category: 'C', inflection: 'fixed',
+    notes: '*essem* may inflect.\nTest extra line.', examples: [],
+  });
+  assert.match(html, /class="drawer-notes-body"/);
+  const paras = html.match(/<p class="drawer-notes">/g) || [];
+  assert.equal(paras.length, 2);
+  assert.match(html, /<p class="drawer-notes"><em>essem<\/em> may inflect\.<\/p>/);
+  assert.match(html, /<p class="drawer-notes">Test extra line\.<\/p>/);
+});
+
 test('renderIdiomDrawer: italics render in notes and gloss', () => {
   const html = renderIdiomDrawer({
     id: 'i4', latin: 'ut verum dicam', gloss: 'to *tell* the truth', category: 'Emphasis',

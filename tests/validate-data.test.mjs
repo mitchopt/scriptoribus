@@ -11,9 +11,11 @@ import {
   reparseGrammar,
   reparseLinks,
   reparseTemplates,
+  reparseIdioms,
   diffRecords,
   findOrphanBookJson,
 } from '../scripts/validate-data.mjs';
+import { parseIdioms } from '../scripts/build-idioms.mjs';
 
 const SAMPLE = `# Possessive Genitive
 
@@ -181,6 +183,33 @@ test('reparseTemplates: a changed summary is flagged via diffRecords', () => {
   });
   assert.equal(errors.length, 1);
   assert.match(errors[0], /summary mismatch for 'Copia'/);
+});
+
+// reparseIdioms — must encode multi-line notes identically to the builder.
+
+const IDIOMS_SAMPLE = `# cum _ essem
+
+**Category:** Temporal
+
+**Meaning:** when I was _
+
+**Note:** *essem* may inflect.
+
+Test extra line.
+
+**Examples:**
+> Cicero, *De Oratore* 2.2.10: "cum essemus eius domi"
+`;
+
+test('reparseIdioms: multi-paragraph note encodes with \\n, same as the builder', () => {
+  const recs = reparseIdioms(IDIOMS_SAMPLE);
+  assert.equal(recs.length, 1);
+  assert.equal(recs[0].notes, '*essem* may inflect.\nTest extra line.');
+  assert.equal(recs[0].exampleCount, 1);
+
+  // parity: the independent validator and the builder must agree on the note string.
+  const { data } = parseIdioms(IDIOMS_SAMPLE);
+  assert.equal(recs[0].notes, data[0].notes);
 });
 
 // findOrphanBookJson — guards against stale book JSON the build never prunes.

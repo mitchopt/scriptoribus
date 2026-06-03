@@ -131,7 +131,12 @@ export function renderIdiomDrawer(item) {
         ? `
         <div class="drawer-section">
           <span class="drawer-section-label">Notes</span>
-          <p class="drawer-notes">${inlineItalics(escapeHtml(item.notes))}</p>
+          <div class="drawer-notes-body">
+            ${item.notes
+              .split('\n')
+              .map(para => `<p class="drawer-notes">${inlineItalics(escapeHtml(para))}</p>`)
+              .join('')}
+          </div>
         </div>
       `
         : ''}

@@ -38,7 +38,7 @@ if (typeof document !== 'undefined') {
             ${badge}
             <span class="badge badge--category">${escapeHtml(item.category)}</span>
           </div>
-          ${item.notes ? `<p class="frame-card__notes">${inlineItalics(escapeHtml(item.notes))}</p>` : ''}
+          ${item.notes ? `<p class="frame-card__notes">${inlineItalics(escapeHtml(item.notes.split('\n')[0]))}</p>` : ''}
         `;
       },
 
