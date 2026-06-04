@@ -838,14 +838,17 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `#verisimile est#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** tense may vary: e.g., *verisimile erat*. 
+
+*probabile est* is also attested.
 
 **Examples:**
 > Celsus, *De Medicina* 3.14.2.5: "Id saepe posse fieri verisimile est."
 > Pliny, *Naturalis Historia* 5.52.7: "fonte, ut verisimile est, illo quem Nigrim vocavere"
 > Cicero, *De Divinatione* 1.109.2: "verisimile est hoc quidem—ex motu enim animorum aliquid atque ex statu corporis"
+> Cicero, *Tusculanae Disputationes* 4.2.10: "idque cum coniectura probabile est"
 
 # saltem
 

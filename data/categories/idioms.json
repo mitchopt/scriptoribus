@@ -1138,8 +1138,8 @@
     "latin": "verisimile est",
     "gloss": "it is likely that",
     "category": "Qualifiers and Hedges",
-    "inflection": "fixed",
-    "notes": "",
+    "inflection": "flexible",
+    "notes": "tense may vary: e.g., *verisimile erat*.\n*probabile est* is also attested.",
     "examples": [
       {
         "citation": "Celsus, *De Medicina* 3.14.2.5",
@@ -1152,6 +1152,10 @@
       {
         "citation": "Cicero, *De Divinatione* 1.109.2",
         "quote": "verisimile est hoc quidem—ex motu enim animorum aliquid atque ex statu corporis"
+      },
+      {
+        "citation": "Cicero, *Tusculanae Disputationes* 4.2.10",
+        "quote": "idque cum coniectura probabile est"
       }
     ]
   },
