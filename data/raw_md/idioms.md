@@ -525,14 +525,15 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `#ex quo fit ut#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** *fit* may inflect: e.g., *ex quo fiebat ut*.
 
 **Examples:**
 > Cicero, *De Republica* 1.67.18: "ex quo fit, ut etiam servi se liberius gerant, uxores"
 > Cicero, *De Finibus* 3.64.12: "ex quo fit, ut laudandus is sit, qui mortem oppetat pro re publica, quod deceat cariorem nobis esse patriam quam nosmet ipsos"
 > Cicero, *De Officiis* 1.21.4: "ex quo fit, ut ager Arpinas Arpinatium dicatur, Tusculanus Tusculanorum"
+> Cornelius Nepos, *Vitae* Alc.7.2.1: "ex quo fiebat ut omnia minus prospere gesta culpae tribuerent"
 
 # proptereā quod
 
@@ -544,12 +545,13 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:** adverbial phrase
+**Note:** adverbial phrase; *propterea quia* is also attested.
 
 **Examples:**
 > Cato, *orationes* 130.1: "propterea quod ex Aetolia complures venerant: Aetolos pacem velle"
 > Terentius, *Andria* 38: "propterea quod servibas liberaliter: quod habui summum pretium persolvi tibi."
 > Caesar, *De Bello Gallico* 1.1.3.1: "propterea quod a cultu atque humanitate provinciae longissime absunt"
+> Cicero, *De Divinatione* 2.49.10: "Res mirabilis, propterea quia non saepe fit"
 
 # quod cum ita sit
 
