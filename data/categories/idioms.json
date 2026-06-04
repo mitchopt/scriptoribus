@@ -793,7 +793,7 @@
     "gloss": "for which reason",
     "category": "Causal / Explanatory",
     "inflection": "fixed",
-    "notes": "prepositional phrase",
+    "notes": "prepositional phrase; the accusative *quam ob causam* is also used.",
     "examples": [
       {
         "citation": "Caesar, *De Bello Gallico* 1.1.4.1",
@@ -805,7 +805,11 @@
       },
       {
         "citation": "Cicero, *De Lege Agraria* 2.81.8",
-        "quote": "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt...voluerunt"
+        "quote": "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt, nec L. Sulla qui omnia sine ulla religione quibus voluit est dilargitus, agrum Campanum attingere ausus est"
+      },
+      {
+        "citation": "Cicero, *Pro S. Roscio Amerino* 40.2",
+        "quote": "quam ob causam? necesse est enim eam quoque iustam et magnam et perspicuam fuisse"
       }
     ]
   },
@@ -1039,7 +1043,7 @@
     "gloss": "sure, why not?",
     "category": "Agreement and Disagreement",
     "inflection": "fixed",
-    "notes": "ironic/rhetorical",
+    "notes": "ironic/rhetorical; *quippini* is a stronger variation.",
     "examples": [
       {
         "citation": "Plautus, *Curculio* 422",

@@ -581,12 +581,13 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:** prepositional phrase
+**Note:** prepositional phrase; the accusative *quam ob causam* is also used.
 
 **Examples:**
 > Caesar, *De Bello Gallico* 1.1.4.1: "qua de causa Helvetii quoque reliquos Gallos virtute praecedunt"
 > Cicero, *Pro Q. Roscio Comoedo* 7.2: "qua de causa? Quia haec sunt menstrua, illae sunt aeternae"
-> Cicero, *De Lege Agraria* 2.81.8: "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt...voluerunt"
+> Cicero, *De Lege Agraria* 2.81.8: "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt, nec L. Sulla qui omnia sine ulla religione quibus voluit est dilargitus, agrum Campanum attingere ausus est"
+> Cicero, *Pro S. Roscio Amerino* 40.2: "quam ob causam? necesse est enim eam quoque iustam et magnam et perspicuam fuisse"
 
 # gaudeō quod
 
@@ -769,7 +770,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:** ironic/rhetorical
+**Note:** ironic/rhetorical; *quippini* is a stronger variation.
 
 **Examples:**
 > Plautus, *Curculio* 422: "Cvrc. Ita. cape, signum nosce. nostin? Lyc. Quidni noverim?"
