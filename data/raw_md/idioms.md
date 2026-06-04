@@ -804,12 +804,14 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:** used almost exclusively in the negative.
+**Note:** used almost exclusively in the negative. The referant may vary: e.g., *tua refert*
 
 **Examples:**
 > Plautus, *Curculio* 530: "quid id mea refert? ego argentum habeo."
 > Plautus, *Rudens* 746: "quid mea refert, haec Athenis natae an Thebis sient?"
 > Terentius, *Eunuchus* 320: "mea nil refert dum potiar modo."
+> Seneca, *De Beneficiis* 4.2.3.1: "'Quid' inquit 'tua refert?"
+> Plautus, *Mercator* 906: "quid tua refert, qui cum istac venerit?"
 
 # magnī momentī
 

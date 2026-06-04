@@ -1087,7 +1087,7 @@
     "gloss": "it matters to me",
     "category": "Importance",
     "inflection": "fixed",
-    "notes": "used almost exclusively in the negative.",
+    "notes": "used almost exclusively in the negative. The referant may vary: e.g., *tua refert*",
     "examples": [
       {
         "citation": "Plautus, *Curculio* 530",
@@ -1100,6 +1100,14 @@
       {
         "citation": "Terentius, *Eunuchus* 320",
         "quote": "mea nil refert dum potiar modo."
+      },
+      {
+        "citation": "Seneca, *De Beneficiis* 4.2.3.1",
+        "quote": "'Quid' inquit 'tua refert?"
+      },
+      {
+        "citation": "Plautus, *Mercator* 906",
+        "quote": "quid tua refert, qui cum istac venerit?"
       }
     ]
   },
