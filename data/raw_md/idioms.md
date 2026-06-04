@@ -830,23 +830,6 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 > Cicero, *In Verrem* 2.5.177.10: "permagni momenti est ratio atque inclinatio temporum."
 > Livy, *Ab Urbe Condita* 10.16.5.1: "temptasse etiam haud magni momenti finitimarum gentium auxilia."
 
-# ego equidem
-
-**Category:** Qualifiers and Hedges
-
-**Meaning:** for my part
-
-**Search:** `#ego equidem#`
-
-**Inflection:** fixed
-
-**Note:**
-
-**Examples:**
-> Plautus, *Amphitruo* 764: "Ego equidem ex te audivi et ex tua accepi manu pateram auream."
-> Terentius, *Andria* 310: "ego equidem, Chreme, non sum dictis elutus; scio, haec commemorari omnia merito"
-> Cicero, *De Natura Deorum* 1.60.4: "Ego equidem non dubito quin fuerint ante Homerum poetae"
-
 # verisimile est
 
 **Category:** Qualifiers and Hedges
