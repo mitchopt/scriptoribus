@@ -170,8 +170,8 @@
     "latin": "paucīs post diēbus",
     "gloss": "a few days later",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "ablative of time (although the nouns may change: e.g., *paucis post mensibus*, *multis post diebus*).",
+    "inflection": "flexible",
+    "notes": "ablative of time. Number and referant may vary: e.g., *paucis post mensibus*, *multis post diebus*.\nWe also have the reverse construction, *paucis ante diebus (a few days earlier)*.",
     "examples": [
       {
         "citation": "Caesar, *De Bello Gallico* 6.10.1.1",
@@ -184,6 +184,10 @@
       {
         "citation": "Cicero, *De Oratore* 2.276.5",
         "quote": "paucis post diebus cum ad Nasicam venisset Ennius et eum ad ianuam quaereret"
+      },
+      {
+        "citation": "Cicero, *In Catilinam* 3.3.6",
+        "quote": "Principio, ut Catilina paucis ante diebus erupit ex urbe"
       }
     ]
   },
@@ -237,12 +241,20 @@
   },
   {
     "id": "i011",
-    "latin": "dē improvisō",
+    "latin": "ex improvisō",
     "gloss": "unexpectedly",
     "category": "Temporal",
     "inflection": "fixed",
-    "notes": "prepositional phrase",
+    "notes": "prepositional phrase.\n*dē improvisō*, or simply *improvisō* without a preposition, are also attested.",
     "examples": [
+      {
+        "citation": "Lucretius, *De Rerum Natura* 2.1034",
+        "quote": "ex improviso si sint obiecta repente"
+      },
+      {
+        "citation": "Cicero, *In Verrem* 2.1.112.2",
+        "quote": "ex improviso si quae res nata esset"
+      },
       {
         "citation": "Caesar, *De Bello Gallico* 2.3.1.1",
         "quote": "Eo cum de improviso celeriusque omni opinione venisset"
@@ -254,6 +266,10 @@
       {
         "citation": "Cicero, *Pro S. Roscio Amerino* 151.5",
         "quote": "in quos si qui ex acie fugerint de improviso incidant"
+      },
+      {
+        "citation": "Plautus, *Asinaria* 310",
+        "quote": "tantum adest boni improviso, verum commixtum malo"
       }
     ]
   },
@@ -302,8 +318,8 @@
     "latin": "hīs _ diēbus",
     "gloss": "for _ days",
     "category": "Temporal",
-    "inflection": "fixed",
-    "notes": "ablative construction",
+    "inflection": "flexible",
+    "notes": "ablative construction. Pronoun and duration may vary: e.g., *illis paucis diebus*.",
     "examples": [
       {
         "citation": "Plautus, *Mostellaria* 238",
@@ -312,6 +328,10 @@
       {
         "citation": "Rutilius, *Schemata Lexeos* 1.16.7",
         "quote": "immo vero nuper atque his paucis diebus simul et Atheniensis et eloquens est factus."
+      },
+      {
+        "citation": "Cicero, *Pro Caecina* 19.4",
+        "quote": "Atque illis paucis diebus, postea quam videt nihil se ab A. Caecina posse litium terrore abradere"
       }
     ]
   },
@@ -520,8 +540,8 @@
     "latin": "meā sententiā",
     "gloss": "in my opinion",
     "category": "Opinions",
-    "inflection": "fixed",
-    "notes": "the idiom is ablative, but other cases do appear.",
+    "inflection": "flexible",
+    "notes": "ablative construction. The referant may change: e.g., *tua sententia*, *sua sententia*.",
     "examples": [
       {
         "citation": "Plautus, *Menaechmi* 273",
@@ -534,6 +554,14 @@
       {
         "citation": "Cicero, *Pro S. Roscio Amerino* 88.10",
         "quote": "id quod ad rem mea sententia maxime pertinet"
+      },
+      {
+        "citation": "Cicero, *Philippicae* 10.4.5",
+        "quote": "alterum tua sententia spolias eis copiis"
+      },
+      {
+        "citation": "Cicero, *Pro Lege Manilia* 62.7",
+        "quote": "non se illum sua sententia pro consule sed pro consulibus mittere"
       }
     ]
   },
@@ -543,7 +571,7 @@
     "gloss": "as far as I know/remember",
     "category": "Memory and Knowledge",
     "inflection": "fixed",
-    "notes": "the idiom is overwhelmingly infinitive, although *quantulum memini* is attested.",
+    "notes": "the idiom is overwhelmingly infinitive, and usually followed by *potui* or similar.\nHowever, *quantulum memini*, with the diminutive and a finite verb, is attested *once* in Gellius.",
     "examples": [
       {
         "citation": "Aulus Gellius, *Noctes Atticae* 12.1.24.2",
@@ -565,7 +593,7 @@
     "gloss": "as they say",
     "category": "Memory and Knowledge",
     "inflection": "fixed",
-    "notes": "",
+    "notes": "Although the singular construction *ut ait* exists, this differs from the impersonal idiom; *ut aiunt* invokes an unspecified source, wheras *ut ait (as _ says)* is for explicit attribution.",
     "examples": [
       {
         "citation": "Cicero, *In Catilinam* 1.15.12",
@@ -586,8 +614,8 @@
     "latin": "ut ferunt",
     "gloss": "as they say",
     "category": "Memory and Knowledge",
-    "inflection": "fixed",
-    "notes": "",
+    "inflection": "flexible",
+    "notes": "Attested in the passive singular also: *ut fertur (as it is reported)*.",
     "examples": [
       {
         "citation": "Cicero, *De Fato* fr5.3",
@@ -600,6 +628,10 @@
       {
         "citation": "Livy, *Ab Urbe Condita* 1.36.4.2",
         "quote": "eludensque artem ut ferunt, 'age dum' inquit, 'diuine tu, inaugura'"
+      },
+      {
+        "citation": "Cicero, *In Pisonem* 71.9",
+        "quote": "si quidem philosophia, ut fertur, virtutis continet et offici et bene vivendi disciplinam"
       }
     ]
   },
@@ -609,7 +641,7 @@
     "gloss": "unless I am mistaken",
     "category": "Memory and Knowledge",
     "inflection": "fixed",
-    "notes": "although *fallor* may technically inflect, the idiom is reflexive: \"unless I decieve myself.\"",
+    "notes": "The plural *nisi fallimur* is attested once.",
     "examples": [
       {
         "citation": "Cicero, *Epistulae ad Atticum* 4.19.1.4",
@@ -622,6 +654,10 @@
       {
         "citation": "Columella, *De Re Rustica* 3.2.23.2",
         "quote": "ab heluo, nisi fallor, colore vocitatae"
+      },
+      {
+        "citation": "Terentianus Maurus, *De Litteris, De Syllabis, De Metris* 1151",
+        "quote": "bis decies unumque supra, nisi fallimur, ecce dactylon efficiet talis, quem dico, trochaeus, spondeum at nullum potuit dare versibus isdem."
       }
     ]
   },
@@ -654,10 +690,10 @@
   {
     "id": "i029",
     "latin": "inde fit ut",
-    "gloss": "it happens that",
+    "gloss": "hence it happens that",
     "category": "Causal / Explanatory",
     "inflection": "fixed",
-    "notes": "",
+    "notes": "The perfect tense *inde factum est ut* is attested postclassically.",
     "examples": [
       {
         "citation": "Horace, *Sermones* 1.1.117",
@@ -678,8 +714,8 @@
     "latin": "ex quō fit ut",
     "gloss": "from which it follows",
     "category": "Causal / Explanatory",
-    "inflection": "fixed",
-    "notes": "",
+    "inflection": "flexible",
+    "notes": "*fit* may inflect: e.g., *ex quo fiebat ut*.",
     "examples": [
       {
         "citation": "Cicero, *De Republica* 1.67.18",
@@ -692,6 +728,10 @@
       {
         "citation": "Cicero, *De Officiis* 1.21.4",
         "quote": "ex quo fit, ut ager Arpinas Arpinatium dicatur, Tusculanus Tusculanorum"
+      },
+      {
+        "citation": "Cornelius Nepos, *Vitae* Alc.7.2.1",
+        "quote": "ex quo fiebat ut omnia minus prospere gesta culpae tribuerent"
       }
     ]
   },
@@ -701,7 +741,7 @@
     "gloss": "because",
     "category": "Causal / Explanatory",
     "inflection": "fixed",
-    "notes": "adverbial phrase",
+    "notes": "adverbial phrase; *propterea quia* is also attested.",
     "examples": [
       {
         "citation": "Cato, *orationes* 130.1",
@@ -714,6 +754,10 @@
       {
         "citation": "Caesar, *De Bello Gallico* 1.1.3.1",
         "quote": "propterea quod a cultu atque humanitate provinciae longissime absunt"
+      },
+      {
+        "citation": "Cicero, *De Divinatione* 2.49.10",
+        "quote": "Res mirabilis, propterea quia non saepe fit"
       }
     ]
   },
@@ -749,7 +793,7 @@
     "gloss": "for which reason",
     "category": "Causal / Explanatory",
     "inflection": "fixed",
-    "notes": "prepositional phrase",
+    "notes": "prepositional phrase; the accusative *quam ob causam* is also used.",
     "examples": [
       {
         "citation": "Caesar, *De Bello Gallico* 1.1.4.1",
@@ -761,7 +805,11 @@
       },
       {
         "citation": "Cicero, *De Lege Agraria* 2.81.8",
-        "quote": "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt...voluerunt"
+        "quote": "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt, nec L. Sulla qui omnia sine ulla religione quibus voluit est dilargitus, agrum Campanum attingere ausus est"
+      },
+      {
+        "citation": "Cicero, *Pro S. Roscio Amerino* 40.2",
+        "quote": "quam ob causam? necesse est enim eam quoque iustam et magnam et perspicuam fuisse"
       }
     ]
   },
@@ -995,7 +1043,7 @@
     "gloss": "sure, why not?",
     "category": "Agreement and Disagreement",
     "inflection": "fixed",
-    "notes": "ironic/rhetorical",
+    "notes": "ironic/rhetorical; *quippini* is a stronger variation.",
     "examples": [
       {
         "citation": "Plautus, *Curculio* 422",
@@ -1039,7 +1087,7 @@
     "gloss": "it matters to me",
     "category": "Importance",
     "inflection": "fixed",
-    "notes": "used almost exclusively in the negative.",
+    "notes": "used almost exclusively in the negative. The referant may vary: e.g., *tua refert*",
     "examples": [
       {
         "citation": "Plautus, *Curculio* 530",
@@ -1052,6 +1100,14 @@
       {
         "citation": "Terentius, *Eunuchus* 320",
         "quote": "mea nil refert dum potiar modo."
+      },
+      {
+        "citation": "Seneca, *De Beneficiis* 4.2.3.1",
+        "quote": "'Quid' inquit 'tua refert?"
+      },
+      {
+        "citation": "Plautus, *Mercator* 906",
+        "quote": "quid tua refert, qui cum istac venerit?"
       }
     ]
   },
@@ -1079,33 +1135,11 @@
   },
   {
     "id": "i048",
-    "latin": "ego equidem",
-    "gloss": "for my part",
-    "category": "Qualifiers and Hedges",
-    "inflection": "fixed",
-    "notes": "",
-    "examples": [
-      {
-        "citation": "Plautus, *Amphitruo* 764",
-        "quote": "Ego equidem ex te audivi et ex tua accepi manu pateram auream."
-      },
-      {
-        "citation": "Terentius, *Andria* 310",
-        "quote": "ego equidem, Chreme, non sum dictis elutus; scio, haec commemorari omnia merito"
-      },
-      {
-        "citation": "Cicero, *De Natura Deorum* 1.60.4",
-        "quote": "Ego equidem non dubito quin fuerint ante Homerum poetae"
-      }
-    ]
-  },
-  {
-    "id": "i049",
     "latin": "verisimile est",
     "gloss": "it is likely that",
     "category": "Qualifiers and Hedges",
-    "inflection": "fixed",
-    "notes": "",
+    "inflection": "flexible",
+    "notes": "tense may vary: e.g., *verisimile erat*.\n*probabile est* is also attested.",
     "examples": [
       {
         "citation": "Celsus, *De Medicina* 3.14.2.5",
@@ -1118,11 +1152,15 @@
       {
         "citation": "Cicero, *De Divinatione* 1.109.2",
         "quote": "verisimile est hoc quidem—ex motu enim animorum aliquid atque ex statu corporis"
+      },
+      {
+        "citation": "Cicero, *Tusculanae Disputationes* 4.2.10",
+        "quote": "idque cum coniectura probabile est"
       }
     ]
   },
   {
-    "id": "i050",
+    "id": "i049",
     "latin": "saltem",
     "gloss": "at least, at any rate",
     "category": "Qualifiers and Hedges",
@@ -1144,7 +1182,7 @@
     ]
   },
   {
-    "id": "i051",
+    "id": "i050",
     "latin": "dumtaxat",
     "gloss": "to this extent and no more",
     "category": "Qualifiers and Hedges",
@@ -1166,7 +1204,7 @@
     ]
   },
   {
-    "id": "i052",
+    "id": "i051",
     "latin": "necesse est mihi (+inf)",
     "gloss": "I must",
     "category": "Needs and Obligations",
@@ -1188,7 +1226,7 @@
     ]
   },
   {
-    "id": "i053",
+    "id": "i052",
     "latin": "opus est mihi (+abl/inf)",
     "gloss": "I need",
     "category": "Needs and Obligations",
@@ -1214,7 +1252,7 @@
     ]
   },
   {
-    "id": "i054",
+    "id": "i053",
     "latin": "mē oportet (+inf)",
     "gloss": "I should",
     "category": "Needs and Obligations",
@@ -1240,7 +1278,7 @@
     ]
   },
   {
-    "id": "i055",
+    "id": "i054",
     "latin": "quid faciendum est?",
     "gloss": "what should be done?",
     "category": "Misc",
@@ -1262,7 +1300,7 @@
     ]
   },
   {
-    "id": "i056",
+    "id": "i055",
     "latin": "quid tibi vidētur?",
     "gloss": "what do you think?",
     "category": "Misc",
@@ -1284,7 +1322,7 @@
     ]
   },
   {
-    "id": "i057",
+    "id": "i056",
     "latin": "quantum possum",
     "gloss": "as much as I can, how much I can",
     "category": "Misc",
@@ -1306,7 +1344,7 @@
     ]
   },
   {
-    "id": "i058",
+    "id": "i057",
     "latin": "aliquid rogāre velim",
     "gloss": "I would like to ask",
     "category": "Clarifying and Asking",
@@ -1324,7 +1362,7 @@
     ]
   },
   {
-    "id": "i059",
+    "id": "i058",
     "latin": "quid significat _?",
     "gloss": "what does _ mean?",
     "category": "Clarifying and Asking",
@@ -1346,7 +1384,7 @@
     ]
   },
   {
-    "id": "i060",
+    "id": "i059",
     "latin": "quid sibi _ vult?",
     "gloss": "what does _ mean?",
     "category": "Clarifying and Asking",
@@ -1372,7 +1410,7 @@
     ]
   },
   {
-    "id": "i061",
+    "id": "i060",
     "latin": "_ certiōrem facere",
     "gloss": "to inform _",
     "category": "Clarifying and Asking",
@@ -1398,7 +1436,7 @@
     ]
   },
   {
-    "id": "i062",
+    "id": "i061",
     "latin": "sī placet",
     "gloss": "if it pleases",
     "category": "Softening / Politeness",
@@ -1424,7 +1462,7 @@
     ]
   },
   {
-    "id": "i063",
+    "id": "i062",
     "latin": "sī vacat",
     "gloss": "if you have time",
     "category": "Softening / Politeness",
@@ -1446,7 +1484,7 @@
     ]
   },
   {
-    "id": "i064",
+    "id": "i063",
     "latin": "sī licet",
     "gloss": "if I may",
     "category": "Softening / Politeness",
@@ -1472,7 +1510,7 @@
     ]
   },
   {
-    "id": "i065",
+    "id": "i064",
     "latin": "sī māvīs",
     "gloss": "if you prefer",
     "category": "Softening / Politeness",
@@ -1498,7 +1536,7 @@
     ]
   },
   {
-    "id": "i066",
+    "id": "i065",
     "latin": "velim scīre",
     "gloss": "I would like to know",
     "category": "Softening / Politeness",
@@ -1524,7 +1562,7 @@
     ]
   },
   {
-    "id": "i067",
+    "id": "i066",
     "latin": "ignōsce mihi",
     "gloss": "forgive me",
     "category": "Softening / Politeness",
@@ -1550,7 +1588,7 @@
     ]
   },
   {
-    "id": "i068",
+    "id": "i067",
     "latin": "ut ita dīcam",
     "gloss": "so to speak",
     "category": "Discourse Management",
@@ -1572,7 +1610,7 @@
     ]
   },
   {
-    "id": "i069",
+    "id": "i068",
     "latin": "ut breviter dīcam",
     "gloss": "to put it briefly",
     "category": "Discourse Management",
@@ -1594,7 +1632,7 @@
     ]
   },
   {
-    "id": "i070",
+    "id": "i069",
     "latin": "quod ad _ attinet",
     "gloss": "as regards _",
     "category": "Discourse Management",
@@ -1620,7 +1658,7 @@
     ]
   },
   {
-    "id": "i071",
+    "id": "i070",
     "latin": "ut ante dīxī",
     "gloss": "as I said before",
     "category": "Discourse Management",
@@ -1646,7 +1684,7 @@
     ]
   },
   {
-    "id": "i072",
+    "id": "i071",
     "latin": "quod dicebam",
     "gloss": "as I was saying",
     "category": "Discourse Management",
@@ -1668,7 +1706,7 @@
     ]
   },
   {
-    "id": "i073",
+    "id": "i072",
     "latin": "accēdit quod",
     "gloss": "it is added that",
     "category": "Discourse Management",
@@ -1690,7 +1728,7 @@
     ]
   },
   {
-    "id": "i074",
+    "id": "i073",
     "latin": "quod maius est",
     "gloss": "what is greater",
     "category": "Discourse Management",
@@ -1712,7 +1750,7 @@
     ]
   },
   {
-    "id": "i075",
+    "id": "i074",
     "latin": "quō modo dīcam",
     "gloss": "how shall I say",
     "category": "Discourse Management",
@@ -1734,7 +1772,7 @@
     ]
   },
   {
-    "id": "i076",
+    "id": "i075",
     "latin": "ut vērum dīcam",
     "gloss": "to tell the truth",
     "category": "Assertion and Emphasis",
@@ -1752,7 +1790,7 @@
     ]
   },
   {
-    "id": "i077",
+    "id": "i076",
     "latin": "rē vēra",
     "gloss": "in actual fact, but in reality",
     "category": "Assertion and Emphasis",
@@ -1774,7 +1812,7 @@
     ]
   },
   {
-    "id": "i078",
+    "id": "i077",
     "latin": "itane?",
     "gloss": "really? is that so?",
     "category": "Assertion and Emphasis",
@@ -1796,7 +1834,7 @@
     ]
   },
   {
-    "id": "i079",
+    "id": "i078",
     "latin": "meā interest",
     "gloss": "it matters to me",
     "category": "Assertion and Emphasis",

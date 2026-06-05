@@ -130,14 +130,17 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `paucis post diebus`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** ablative of time (although the nouns may change: e.g., *paucis post mensibus*, *multis post diebus*).
+**Note:** ablative of time. Number and referant may vary: e.g., *paucis post mensibus*, *multis post diebus*.
+
+We also have the reverse construction, *paucis ante diebus (a few days earlier)*.
 
 **Examples:**
 > Caesar, *De Bello Gallico* 6.10.1.1: "Interim paucis post diebus fit ab Ubiis certior Suebos omnes unum in locum copias cogere atque iis nationibus"
 > Caesar, *Bellum Civile* 3.82.1.1: "Pompeius paucis post diebus in Thessaliam pervenit contionatusque apud cunctum exercitum suis agit gratias"
 > Cicero, *De Oratore* 2.276.5: "paucis post diebus cum ad Nasicam venisset Ennius et eum ad ianuam quaereret"
+> Cicero, *In Catilinam* 3.3.6: "Principio, ut Catilina paucis ante diebus erupit ex urbe"
 
 # ubi prīmum
 
@@ -174,22 +177,27 @@ Attested in the ablative as part of an ablative absolute.
 > Cicero, *Brutus* 107.2: "ut ex familiari eius L. Accio poeta sum audire solitus"
 > Cicero, *Pro Cluentio* 175.10: "multa dicitur domino renuntiare solitus esse"
 
-# dē improvisō
+# ex improvisō
 
 **Category:** Temporal
 
 **Meaning:** unexpectedly
 
-**Search:** `de improviso`
+**Search:** `#ex improviso#`
 
 **Inflection:** fixed
 
-**Note:** prepositional phrase
+**Note:** prepositional phrase.
+
+*dē improvisō*, or simply *improvisō* without a preposition, are also attested.
 
 **Examples:**
+> Lucretius, *De Rerum Natura* 2.1034: "ex improviso si sint obiecta repente"
+> Cicero, *In Verrem* 2.1.112.2: "ex improviso si quae res nata esset"
 > Caesar, *De Bello Gallico* 2.3.1.1: "Eo cum de improviso celeriusque omni opinione venisset"
 > Caesar, *De Bello Gallico* 5.22.1.5: "his imperat, uti coactis omnibus copiis castra navalia de improviso adoriantur atque oppugnent"
 > Cicero, *Pro S. Roscio Amerino* 151.5: "in quos si qui ex acie fugerint de improviso incidant"
+> Plautus, *Asinaria* 310: "tantum adest boni improviso, verum commixtum malo"
 
 # _(abl) ineunte
 
@@ -232,13 +240,14 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `#his ~ diebus#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** ablative construction
+**Note:** ablative construction. Pronoun and duration may vary: e.g., *illis paucis diebus*.
 
 **Examples:** 
 > Plautus, *Mostellaria* 238: "nam neque edes quicquam neque bibes apud me his decem diebus"
 > Rutilius, *Schemata Lexeos* 1.16.7: "immo vero nuper atque his paucis diebus simul et Atheniensis et eloquens est factus."
+> Cicero, *Pro Caecina* 19.4: "Atque illis paucis diebus, postea quam videt nihil se ab A. Caecina posse litium terrore abradere"
 
 # mihi vidētur
 
@@ -390,14 +399,16 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `#mea sententia#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** the idiom is ablative, but other cases do appear.
+**Note:** ablative construction. The referant may change: e.g., *tua sententia*, *sua sententia*.
 
 **Examples:** 
 > Plautus, *Menaechmi* 273: "Bene opsonavi atque ex mea sententia, bonum anteponam prandium pransoribus"
 > Terentius, *Phormio* 335: "sapiunt mea sententia, pro maleficio si beneficium summum nolunt reddere"
 > Cicero, *Pro S. Roscio Amerino* 88.10: "id quod ad rem mea sententia maxime pertinet"
+> Cicero, *Philippicae* 10.4.5: "alterum tua sententia spolias eis copiis"
+> Cicero, *Pro Lege Manilia* 62.7: "non se illum sua sententia pro consule sed pro consulibus mittere"
 
 # quantum meminisse
 
@@ -409,7 +420,9 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** fixed
 
-**Note:** the idiom is overwhelmingly infinitive, although *quantulum memini* is attested.
+**Note:** the idiom is overwhelmingly infinitive, and usually followed by *potui* or similar.
+
+However, *quantulum memini*, with the diminutive and a finite verb, is attested *once* in Gellius.
 
 **Examples:** 
 > Aulus Gellius, *Noctes Atticae* 12.1.24.2: "sententias communis utilitatis gratia, quantum meminisse potui, rettuli"
@@ -426,7 +439,7 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** fixed
 
-**Note:**
+**Note:** Although the singular construction *ut ait* exists, this differs from the impersonal idiom; *ut aiunt* invokes an unspecified source, wheras *ut ait (as _ says)* is for explicit attribution.
 
 **Examples:** 
 > Cicero, *In Catilinam* 1.15.12: "et, ut aiunt, corpore effugi"
@@ -441,14 +454,15 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `#ut ferunt#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** Attested in the passive singular also: *ut fertur (as it is reported)*.
 
 **Examples:** 
 > Cicero, *De Fato* fr5.3: "qui admodum raro capitur, sed est piscis, ut ferunt, in primis nobilis"
 > Cicero, *De Officiis* 3.38.9: "descendit in illum hiatum aeneumque equum, ut ferunt fabulae, animadvertit"
 > Livy, *Ab Urbe Condita* 1.36.4.2: "eludensque artem ut ferunt, 'age dum' inquit, 'diuine tu, inaugura'"
+> Cicero, *In Pisonem* 71.9: "si quidem philosophia, ut fertur, virtutis continet et offici et bene vivendi disciplinam"
 
 # nisi fallor
 
@@ -460,12 +474,13 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** fixed
 
-**Note:** although *fallor* may technically inflect, the idiom is reflexive: "unless I decieve myself."
+**Note:** The plural *nisi fallimur* is attested once.
 
 **Examples:** 
 > Cicero, *Epistulae ad Atticum* 4.19.1.4: "sed, nisi fallor, citius te quam scribis videbo"
 > Virgil, *Aeneis* 5.49: "iamque dies, nisi fallor, adest, quem semper acerbum, semper honoratum sic di voluistis habebo"
 > Columella, *De Re Rustica* 3.2.23.2: "ab heluo, nisi fallor, colore vocitatae"
+> Terentianus Maurus, *De Litteris, De Syllabis, De Metris* 1151: "bis decies unumque supra, nisi fallimur, ecce dactylon efficiet talis, quem dico, trochaeus, spondeum at nullum potuit dare versibus isdem."
 
 # causa est quod
 
@@ -489,13 +504,13 @@ Attested in the ablative as part of an ablative absolute.
 
 **Category:** Causal / Explanatory
 
-**Meaning:** it happens that
+**Meaning:** hence it happens that
 
 **Search:** `#inde fit ut#`
 
 **Inflection:** fixed
 
-**Note:**
+**Note:** The perfect tense *inde factum est ut* is attested postclassically.
 
 **Examples:**
 > Horace, *Sermones* 1.1.117: "inde fit, ut raro, qui se vixisse beatum dicat et exacto contentus tempore vita"
@@ -510,14 +525,15 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `#ex quo fit ut#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** *fit* may inflect: e.g., *ex quo fiebat ut*.
 
 **Examples:**
 > Cicero, *De Republica* 1.67.18: "ex quo fit, ut etiam servi se liberius gerant, uxores"
 > Cicero, *De Finibus* 3.64.12: "ex quo fit, ut laudandus is sit, qui mortem oppetat pro re publica, quod deceat cariorem nobis esse patriam quam nosmet ipsos"
 > Cicero, *De Officiis* 1.21.4: "ex quo fit, ut ager Arpinas Arpinatium dicatur, Tusculanus Tusculanorum"
+> Cornelius Nepos, *Vitae* Alc.7.2.1: "ex quo fiebat ut omnia minus prospere gesta culpae tribuerent"
 
 # proptereā quod
 
@@ -529,12 +545,13 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** fixed
 
-**Note:** adverbial phrase
+**Note:** adverbial phrase; *propterea quia* is also attested.
 
 **Examples:**
 > Cato, *orationes* 130.1: "propterea quod ex Aetolia complures venerant: Aetolos pacem velle"
 > Terentius, *Andria* 38: "propterea quod servibas liberaliter: quod habui summum pretium persolvi tibi."
 > Caesar, *De Bello Gallico* 1.1.3.1: "propterea quod a cultu atque humanitate provinciae longissime absunt"
+> Cicero, *De Divinatione* 2.49.10: "Res mirabilis, propterea quia non saepe fit"
 
 # quod cum ita sit
 
@@ -564,12 +581,13 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** fixed
 
-**Note:** prepositional phrase
+**Note:** prepositional phrase; the accusative *quam ob causam* is also used.
 
 **Examples:**
 > Caesar, *De Bello Gallico* 1.1.4.1: "qua de causa Helvetii quoque reliquos Gallos virtute praecedunt"
 > Cicero, *Pro Q. Roscio Comoedo* 7.2: "qua de causa? Quia haec sunt menstrua, illae sunt aeternae"
-> Cicero, *De Lege Agraria* 2.81.8: "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt...voluerunt"
+> Cicero, *De Lege Agraria* 2.81.8: "Qua de causa nec duo Gracchi qui de plebis Romanae commodis plurimum cogitaverunt, nec L. Sulla qui omnia sine ulla religione quibus voluit est dilargitus, agrum Campanum attingere ausus est"
+> Cicero, *Pro S. Roscio Amerino* 40.2: "quam ob causam? necesse est enim eam quoque iustam et magnam et perspicuam fuisse"
 
 # gaudeō quod
 
@@ -752,7 +770,7 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** fixed
 
-**Note:** ironic/rhetorical
+**Note:** ironic/rhetorical; *quippini* is a stronger variation.
 
 **Examples:**
 > Plautus, *Curculio* 422: "Cvrc. Ita. cape, signum nosce. nostin? Lyc. Quidni noverim?"
@@ -786,12 +804,14 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** fixed
 
-**Note:** used almost exclusively in the negative.
+**Note:** used almost exclusively in the negative. The referant may vary: e.g., *tua refert*
 
 **Examples:**
 > Plautus, *Curculio* 530: "quid id mea refert? ego argentum habeo."
 > Plautus, *Rudens* 746: "quid mea refert, haec Athenis natae an Thebis sient?"
 > Terentius, *Eunuchus* 320: "mea nil refert dum potiar modo."
+> Seneca, *De Beneficiis* 4.2.3.1: "'Quid' inquit 'tua refert?"
+> Plautus, *Mercator* 906: "quid tua refert, qui cum istac venerit?"
 
 # magnī momentī
 
@@ -810,23 +830,6 @@ Attested in the ablative as part of an ablative absolute.
 > Cicero, *In Verrem* 2.5.177.10: "permagni momenti est ratio atque inclinatio temporum."
 > Livy, *Ab Urbe Condita* 10.16.5.1: "temptasse etiam haud magni momenti finitimarum gentium auxilia."
 
-# ego equidem
-
-**Category:** Qualifiers and Hedges
-
-**Meaning:** for my part
-
-**Search:** `#ego equidem#`
-
-**Inflection:** fixed
-
-**Note:**
-
-**Examples:**
-> Plautus, *Amphitruo* 764: "Ego equidem ex te audivi et ex tua accepi manu pateram auream."
-> Terentius, *Andria* 310: "ego equidem, Chreme, non sum dictis elutus; scio, haec commemorari omnia merito"
-> Cicero, *De Natura Deorum* 1.60.4: "Ego equidem non dubito quin fuerint ante Homerum poetae"
-
 # verisimile est
 
 **Category:** Qualifiers and Hedges
@@ -835,14 +838,17 @@ Attested in the ablative as part of an ablative absolute.
 
 **Search:** `#verisimile est#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** tense may vary: e.g., *verisimile erat*. 
+
+*probabile est* is also attested.
 
 **Examples:**
 > Celsus, *De Medicina* 3.14.2.5: "Id saepe posse fieri verisimile est."
 > Pliny, *Naturalis Historia* 5.52.7: "fonte, ut verisimile est, illo quem Nigrim vocavere"
 > Cicero, *De Divinatione* 1.109.2: "verisimile est hoc quidem—ex motu enim animorum aliquid atque ex statu corporis"
+> Cicero, *Tusculanae Disputationes* 4.2.10: "idque cum coniectura probabile est"
 
 # saltem
 
