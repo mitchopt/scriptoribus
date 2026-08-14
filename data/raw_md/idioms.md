@@ -802,9 +802,9 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `mea ~ refert`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** used almost exclusively in the negative. The referant may vary: e.g., *tua refert*
+**Note:** used almost exclusively in the negative. The referant may vary: e.g., *tua refert*.
 
 **Examples:**
 > Plautus, *Curculio* 530: "quid id mea refert? ego argentum habeo."
