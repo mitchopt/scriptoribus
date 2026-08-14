@@ -115,7 +115,7 @@
     "gloss": "(at) the time when",
     "category": "Temporal",
     "inflection": "flexible",
-    "notes": "ablative of time. Number and referant may vary: e.g., *his temporibus quibus*.",
+    "notes": "ablative of time. Number and referent may vary: e.g., *his temporibus quibus*.",
     "examples": [
       {
         "citation": "Caesar, *De Bello Gallico* 4.18.4.1",
@@ -145,7 +145,7 @@
     "gloss": "in the next few days",
     "category": "Temporal",
     "inflection": "flexible",
-    "notes": "ablative of time. Number and referant may vary: e.g., *proximis mensibus*, *proximo die (on the next day)*.",
+    "notes": "ablative of time. Number and referent may vary: e.g., *proximis mensibus*, *proximo die (on the next day)*.",
     "examples": [
       {
         "citation": "Caesar, *Bellum Civile* 1.6.1.1",
@@ -171,7 +171,7 @@
     "gloss": "a few days later",
     "category": "Temporal",
     "inflection": "flexible",
-    "notes": "ablative of time. Number and referant may vary: e.g., *paucis post mensibus*, *multis post diebus*.\nWe also have the reverse construction, *paucis ante diebus (a few days earlier)*.",
+    "notes": "ablative of time. Number and referent may vary: e.g., *paucis post mensibus*, *multis post diebus*.\nWe also have the reverse construction, *paucis ante diebus (a few days earlier)*.",
     "examples": [
       {
         "citation": "Caesar, *De Bello Gallico* 6.10.1.1",
@@ -463,7 +463,7 @@
     "gloss": "I am determined/resolved to",
     "category": "Opinions",
     "inflection": "flexible",
-    "notes": "you may adjust time or referant: e.g., *certum erat*, *certum tibi est*.",
+    "notes": "you may adjust time or referent: e.g., *certum erat*, *certum tibi est*.",
     "examples": [
       {
         "citation": "Plautus, *Captivi* 772",
@@ -541,7 +541,7 @@
     "gloss": "in my opinion",
     "category": "Opinions",
     "inflection": "flexible",
-    "notes": "ablative construction. The referant may change: e.g., *tua sententia*, *sua sententia*.",
+    "notes": "ablative construction. The referent may change: e.g., *tua sententia*, *sua sententia*.",
     "examples": [
       {
         "citation": "Plautus, *Menaechmi* 273",
@@ -933,7 +933,7 @@
     "gloss": "I am ashamed of _",
     "category": "Emotional",
     "inflection": "flexible",
-    "notes": "the referant may change: e.g., *tē pudet*.",
+    "notes": "the referent may change: e.g., *tē pudet*.",
     "examples": [
       {
         "citation": "Plautus, *Asinaria* 933",
@@ -1003,7 +1003,7 @@
     "gloss": "I also",
     "category": "Agreement and Disagreement",
     "inflection": "flexible",
-    "notes": "The referant may change: e.g., *etiam tu*.",
+    "notes": "The referent may change: e.g., *etiam tu*.",
     "examples": [
       {
         "citation": "Petronius, *Satyrica* 72.2.1",
@@ -1021,7 +1021,7 @@
     "gloss": "nor I",
     "category": "Agreement and Disagreement",
     "inflection": "flexible",
-    "notes": "The referant may change: e.g., *neque tu*.",
+    "notes": "The referent may change: e.g., *neque tu*.",
     "examples": [
       {
         "citation": "Plautus, *Amphitruo* 264",
@@ -1087,7 +1087,7 @@
     "gloss": "it matters to me",
     "category": "Importance",
     "inflection": "flexible",
-    "notes": "used almost exclusively in the negative. The referant may vary: e.g., *tua refert*.",
+    "notes": "used almost exclusively in the negative. The referent may vary: e.g., *tua refert*.",
     "examples": [
       {
         "citation": "Plautus, *Curculio* 530",
@@ -1209,7 +1209,7 @@
     "gloss": "I must",
     "category": "Needs and Obligations",
     "inflection": "flexible",
-    "notes": "Strong sense of necessity. The referant or tense may change: e.g., *necesse erat tibi*.",
+    "notes": "Strong sense of necessity. The referent or tense may change: e.g., *necesse erat tibi*.",
     "examples": [
       {
         "citation": "Cicero, *Cato Maior de Senectute* 30.9",
@@ -1231,7 +1231,7 @@
     "gloss": "I need",
     "category": "Needs and Obligations",
     "inflection": "flexible",
-    "notes": "Weaker, practical sense of necessity.  The referant or tense may change: e.g., *opus fuit tibi*.",
+    "notes": "Weaker, practical sense of necessity.  The referent or tense may change: e.g., *opus fuit tibi*.",
     "examples": [
       {
         "citation": "Plautus, *Miles Gloriosus* 705",
@@ -1567,7 +1567,7 @@
     "gloss": "forgive me",
     "category": "Softening / Politeness",
     "inflection": "flexible",
-    "notes": "*ignosce* may inflect, and the referant may change: e.g., *ei ignosceret*",
+    "notes": "*ignosce* may inflect, and the referent may change: e.g., *ei ignosceret*",
     "examples": [
       {
         "citation": "Cicero, *Epistulae ad Familiares* 12.2.3.5",
@@ -1839,7 +1839,7 @@
     "gloss": "it matters to me",
     "category": "Assertion and Emphasis",
     "inflection": "flexible",
-    "notes": "The referant may change, e.g., *tuā interest*, but remains ablative; *mihi interest* is not idiomatic.",
+    "notes": "The referent may change, e.g., *tuā interest*, but remains ablative; *mihi interest* is not idiomatic.",
     "examples": [
       {
         "citation": "Cicero, *De Domo Sua* 39.10",
