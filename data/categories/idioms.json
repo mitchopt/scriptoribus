@@ -488,8 +488,8 @@
     "latin": "ut opīnor",
     "gloss": "in my opinion",
     "category": "Opinions",
-    "inflection": "flexible",
-    "notes": "*opinor* may inflect: e.g., *ut opinatur*.",
+    "inflection": "fixed",
+    "notes": "a first person hedge.",
     "examples": [
       {
         "citation": "Plautus, *Amphitruo* 574",
@@ -514,8 +514,8 @@
     "latin": "ut crēdō",
     "gloss": "as I believe",
     "category": "Opinions",
-    "inflection": "flexible",
-    "notes": "*credo* may inflect: e.g., *ut credit*.",
+    "inflection": "fixed",
+    "notes": "a parenthetical hedge, locked to the first person.\nThe third person *ut credit* is attested once, but attributes the opinion to another; compare *ut aiunt* against *ut ait*.",
     "examples": [
       {
         "citation": "Cicero, *Pro Sestio* 110.20",
@@ -999,46 +999,6 @@
   },
   {
     "id": "i042",
-    "latin": "etiam ego",
-    "gloss": "I also",
-    "category": "Agreement and Disagreement",
-    "inflection": "flexible",
-    "notes": "The referent may change: e.g., *etiam tu*.",
-    "examples": [
-      {
-        "citation": "Petronius, *Satyrica* 72.2.1",
-        "quote": "immo iam coeperam etiam ego plorare, cum Trimalchio 'ergo' inquit 'cum sciamus nos morituros esse'"
-      },
-      {
-        "citation": "Cicero, *Epistulae ad Brutum* 11.3.8",
-        "quote": "etiam ego, cum me docueris..."
-      }
-    ]
-  },
-  {
-    "id": "i043",
-    "latin": "neque ego",
-    "gloss": "nor I",
-    "category": "Agreement and Disagreement",
-    "inflection": "flexible",
-    "notes": "The referent may change: e.g., *neque tu*.",
-    "examples": [
-      {
-        "citation": "Plautus, *Amphitruo* 264",
-        "quote": "neque ego huc hominem hodie ad aedis has sinam umquam accedere"
-      },
-      {
-        "citation": "Plautus, *Amphitruo* 1036",
-        "quote": "neque ego umquam usquam tanta mira me vidisse censeo."
-      },
-      {
-        "citation": "Plautus, *Captivi* 634",
-        "quote": "Non fuit, neque ego istuc nomen umquam audivi ante hunc diem."
-      }
-    ]
-  },
-  {
-    "id": "i044",
     "latin": "quidni?",
     "gloss": "sure, why not?",
     "category": "Agreement and Disagreement",
@@ -1060,7 +1020,7 @@
     ]
   },
   {
-    "id": "i045",
+    "id": "i043",
     "latin": "nihil moror",
     "gloss": "I don't care",
     "category": "Importance",
@@ -1082,7 +1042,7 @@
     ]
   },
   {
-    "id": "i046",
+    "id": "i044",
     "latin": "meā refert",
     "gloss": "it matters to me",
     "category": "Importance",
@@ -1112,7 +1072,7 @@
     ]
   },
   {
-    "id": "i047",
+    "id": "i045",
     "latin": "magnī momentī",
     "gloss": "of great importance",
     "category": "Importance",
@@ -1134,12 +1094,12 @@
     ]
   },
   {
-    "id": "i048",
+    "id": "i046",
     "latin": "verisimile est",
     "gloss": "it is likely that",
     "category": "Qualifiers and Hedges",
     "inflection": "flexible",
-    "notes": "tense may vary: e.g., *verisimile erat*.\n*probabile est* is also attested.",
+    "notes": "tense and mood may vary: e.g., *verisimile erat*.\n*probabile est* is also attested.",
     "examples": [
       {
         "citation": "Celsus, *De Medicina* 3.14.2.5",
@@ -1160,7 +1120,7 @@
     ]
   },
   {
-    "id": "i049",
+    "id": "i047",
     "latin": "saltem",
     "gloss": "at least, at any rate",
     "category": "Qualifiers and Hedges",
@@ -1182,7 +1142,7 @@
     ]
   },
   {
-    "id": "i050",
+    "id": "i048",
     "latin": "dumtaxat",
     "gloss": "to this extent and no more",
     "category": "Qualifiers and Hedges",
@@ -1204,7 +1164,7 @@
     ]
   },
   {
-    "id": "i051",
+    "id": "i049",
     "latin": "necesse est mihi (+inf)",
     "gloss": "I must",
     "category": "Needs and Obligations",
@@ -1226,7 +1186,7 @@
     ]
   },
   {
-    "id": "i052",
+    "id": "i050",
     "latin": "opus est mihi (+abl/inf)",
     "gloss": "I need",
     "category": "Needs and Obligations",
@@ -1252,7 +1212,7 @@
     ]
   },
   {
-    "id": "i053",
+    "id": "i051",
     "latin": "mē oportet (+inf)",
     "gloss": "I should",
     "category": "Needs and Obligations",
@@ -1278,12 +1238,12 @@
     ]
   },
   {
-    "id": "i054",
+    "id": "i052",
     "latin": "quid faciendum est?",
     "gloss": "what should be done?",
     "category": "Misc",
-    "inflection": "fixed",
-    "notes": "gerund of obligation",
+    "inflection": "flexible",
+    "notes": "gerund of obligation. The mood may vary: e.g., *quid faciendum sit*.\nIn a direct question either mood is available, the subjunctive being the more deliberative. In an indirect question the subjunctive is obligatory: *reperio quid faciendum sit*.",
     "examples": [
       {
         "citation": "Cicero, *De Partitione Oratoria* 15.1",
@@ -1300,12 +1260,12 @@
     ]
   },
   {
-    "id": "i055",
+    "id": "i053",
     "latin": "quid tibi vidētur?",
     "gloss": "what do you think?",
     "category": "Misc",
-    "inflection": "fixed",
-    "notes": "",
+    "inflection": "flexible",
+    "notes": "the dative referent may vary: e.g., *quid vobis videtur*.",
     "examples": [
       {
         "citation": "Terentius, *Andria* 315",
@@ -1322,7 +1282,7 @@
     ]
   },
   {
-    "id": "i056",
+    "id": "i054",
     "latin": "quantum possum",
     "gloss": "as much as I can, how much I can",
     "category": "Misc",
@@ -1344,7 +1304,7 @@
     ]
   },
   {
-    "id": "i057",
+    "id": "i055",
     "latin": "aliquid rogāre velim",
     "gloss": "I would like to ask",
     "category": "Clarifying and Asking",
@@ -1362,7 +1322,7 @@
     ]
   },
   {
-    "id": "i058",
+    "id": "i056",
     "latin": "quid significat _?",
     "gloss": "what does _ mean?",
     "category": "Clarifying and Asking",
@@ -1384,7 +1344,7 @@
     ]
   },
   {
-    "id": "i059",
+    "id": "i057",
     "latin": "quid sibi _ vult?",
     "gloss": "what does _ mean?",
     "category": "Clarifying and Asking",
@@ -1410,7 +1370,7 @@
     ]
   },
   {
-    "id": "i060",
+    "id": "i058",
     "latin": "_ certiōrem facere",
     "gloss": "to inform _",
     "category": "Clarifying and Asking",
@@ -1436,7 +1396,7 @@
     ]
   },
   {
-    "id": "i061",
+    "id": "i059",
     "latin": "sī placet",
     "gloss": "if it pleases",
     "category": "Softening / Politeness",
@@ -1462,12 +1422,12 @@
     ]
   },
   {
-    "id": "i062",
+    "id": "i060",
     "latin": "sī vacat",
     "gloss": "if you have time",
     "category": "Softening / Politeness",
-    "inflection": "fixed",
-    "notes": "Although *vacat* may technically inflect, the idiom is fixed.",
+    "inflection": "flexible",
+    "notes": "the person may vary: e.g., *si vacas*, addressing the reader directly.",
     "examples": [
       {
         "citation": "Ovid, *Epistulae ex Ponto* 1.1.3",
@@ -1484,7 +1444,7 @@
     ]
   },
   {
-    "id": "i063",
+    "id": "i061",
     "latin": "sī licet",
     "gloss": "if I may",
     "category": "Softening / Politeness",
@@ -1510,7 +1470,7 @@
     ]
   },
   {
-    "id": "i064",
+    "id": "i062",
     "latin": "sī māvīs",
     "gloss": "if you prefer",
     "category": "Softening / Politeness",
@@ -1536,7 +1496,7 @@
     ]
   },
   {
-    "id": "i065",
+    "id": "i063",
     "latin": "velim scīre",
     "gloss": "I would like to know",
     "category": "Softening / Politeness",
@@ -1562,7 +1522,7 @@
     ]
   },
   {
-    "id": "i066",
+    "id": "i064",
     "latin": "ignōsce mihi",
     "gloss": "forgive me",
     "category": "Softening / Politeness",
@@ -1588,7 +1548,7 @@
     ]
   },
   {
-    "id": "i067",
+    "id": "i065",
     "latin": "ut ita dīcam",
     "gloss": "so to speak",
     "category": "Discourse Management",
@@ -1610,7 +1570,7 @@
     ]
   },
   {
-    "id": "i068",
+    "id": "i066",
     "latin": "ut breviter dīcam",
     "gloss": "to put it briefly",
     "category": "Discourse Management",
@@ -1632,7 +1592,7 @@
     ]
   },
   {
-    "id": "i069",
+    "id": "i067",
     "latin": "quod ad _ attinet",
     "gloss": "as regards _",
     "category": "Discourse Management",
@@ -1658,7 +1618,7 @@
     ]
   },
   {
-    "id": "i070",
+    "id": "i068",
     "latin": "ut ante dīxī",
     "gloss": "as I said before",
     "category": "Discourse Management",
@@ -1684,12 +1644,12 @@
     ]
   },
   {
-    "id": "i071",
+    "id": "i069",
     "latin": "quod dicebam",
     "gloss": "as I was saying",
     "category": "Discourse Management",
-    "inflection": "flexible",
-    "notes": "*dicebam* may technically inflect, e.g., *quod dicebat*, but this may alter the meaning.",
+    "inflection": "fixed",
+    "notes": "locked to the first person: the speaker resumes their own thread.\n*quod dicebat* is a different construction, reporting what someone else was saying.",
     "examples": [
       {
         "citation": "Seneca iunior, *De Beneficiis* 3.14.4.3",
@@ -1706,12 +1666,12 @@
     ]
   },
   {
-    "id": "i072",
+    "id": "i070",
     "latin": "accēdit quod",
     "gloss": "it is added that",
     "category": "Discourse Management",
-    "inflection": "fixed",
-    "notes": "",
+    "inflection": "flexible",
+    "notes": "the tense may vary: e.g., *accessit quod*.\n*accedit quia* is attested once, in postclassical prose.",
     "examples": [
       {
         "citation": "Cicero, *Pro S. Roscio Amerino* 22.10",
@@ -1728,7 +1688,7 @@
     ]
   },
   {
-    "id": "i073",
+    "id": "i071",
     "latin": "quod maius est",
     "gloss": "what is greater",
     "category": "Discourse Management",
@@ -1750,7 +1710,7 @@
     ]
   },
   {
-    "id": "i074",
+    "id": "i072",
     "latin": "quō modo dīcam",
     "gloss": "how shall I say",
     "category": "Discourse Management",
@@ -1772,26 +1732,22 @@
     ]
   },
   {
-    "id": "i075",
+    "id": "i073",
     "latin": "ut vērum dīcam",
     "gloss": "to tell the truth",
     "category": "Assertion and Emphasis",
     "inflection": "fixed",
-    "notes": "*dicam* may technically inflect, e.g., *ut veram dicas*, but this strays from the idiom.",
+    "notes": "*dicam* may inflect, e.g., *ut verum dicas*, but this strays from the idiom.",
     "examples": [
       {
         "citation": "Seneca iunior, *Epistulae Morales* 50.5.5",
         "quote": "laborandum est et, ut verum dicam, ne labor quidem magnus est"
-      },
-      {
-        "citation": "Plautus, *Trinummus* 762",
-        "quote": "Malim hercle ut verum dicas, quam ut des mutuom."
       }
     ]
   },
   {
-    "id": "i076",
-    "latin": "rē vēra",
+    "id": "i074",
+    "latin": "rē vērā",
     "gloss": "in actual fact, but in reality",
     "category": "Assertion and Emphasis",
     "inflection": "fixed",
@@ -1812,7 +1768,7 @@
     ]
   },
   {
-    "id": "i077",
+    "id": "i075",
     "latin": "itane?",
     "gloss": "really? is that so?",
     "category": "Assertion and Emphasis",
@@ -1834,7 +1790,7 @@
     ]
   },
   {
-    "id": "i078",
+    "id": "i076",
     "latin": "meā interest",
     "gloss": "it matters to me",
     "category": "Assertion and Emphasis",

@@ -363,9 +363,9 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Search:** `#ut opinor#`
 
-**Inflection:** flexible
+**Inflection:** fixed
 
-**Note:** *opinor* may inflect: e.g., *ut opinatur*.
+**Note:** a first person hedge.
 
 **Examples:** 
 > Plautus, *Amphitruo* 574: "Homo hic ebrius est, ut opinor"
@@ -381,9 +381,11 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Search:** `#ut credo#`
 
-**Inflection:** flexible
+**Inflection:** fixed
 
-**Note:** *credo* may inflect: e.g., *ut credit*.
+**Note:** a parenthetical hedge, locked to the first person.
+
+The third person *ut credit* is attested once, but attributes the opinion to another; compare *ut aiunt* against *ut ait*.
 
 **Examples:** 
 > Cicero, *Pro Sestio* 110.20: "qui, ut credo, non libidinis causa, sed ut plebicola videretur, libertinam duxit uxorem"
@@ -727,39 +729,6 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 > Cicero, *De Finibus* 1.5.1: "A quibus tantum dissentio, ut, cum Sophocles vel optime scripserit Electram, tamen male conversam Atilii legam"
 > Cicero, *Epistulae ad Quintum Fratrem* 3.6.1.1: "eumque quod certum consulem cum Domitio numeratis nihil a nostra opinione dissentitis."
 
-# etiam ego
-
-**Category:** Agreement and Disagreement
-
-**Meaning:** I also
-
-**Search:** `#etiam ego#`
-
-**Inflection:** flexible
-
-**Note:** The referent may change: e.g., *etiam tu*.
-
-**Examples:**
-> Petronius, *Satyrica* 72.2.1: "immo iam coeperam etiam ego plorare, cum Trimalchio 'ergo' inquit 'cum sciamus nos morituros esse'"
-> Cicero, *Epistulae ad Brutum* 11.3.8: "etiam ego, cum me docueris..."
-
-# neque ego
-
-**Category:** Agreement and Disagreement
-
-**Meaning:** nor I
-
-**Search:** `#neque ego#`
-
-**Inflection:** flexible
-
-**Note:** The referent may change: e.g., *neque tu*.
-
-**Examples:**
-> Plautus, *Amphitruo* 264: "neque ego huc hominem hodie ad aedis has sinam umquam accedere"
-> Plautus, *Amphitruo* 1036: "neque ego umquam usquam tanta mira me vidisse censeo."
-> Plautus, *Captivi* 634: "Non fuit, neque ego istuc nomen umquam audivi ante hunc diem."
-
 # quidni?
 
 **Category:** Agreement and Disagreement
@@ -840,7 +809,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** tense may vary: e.g., *verisimile erat*. 
+**Note:** tense and mood may vary: e.g., *verisimile erat*.
 
 *probabile est* is also attested.
 
@@ -945,9 +914,11 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `quid ~ faciendum est`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** gerund of obligation
+**Note:** gerund of obligation. The mood may vary: e.g., *quid faciendum sit*.
+
+In a direct question either mood is available, the subjunctive being the more deliberative. In an indirect question the subjunctive is obligatory: *reperio quid faciendum sit*.
 
 **Examples:**
 > Cicero, *De Partitione Oratoria* 15.1: "Quid faciendum est contra reo?"
@@ -962,9 +933,9 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `quid tibi videtur`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** the dative referent may vary: e.g., *quid vobis videtur*.
 
 **Examples:**
 > Terentius, *Andria* 315: "quid tibi videtur? adeon ad eum? By. quidni? si nil impetres..."
@@ -1083,9 +1054,9 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `#si vacat#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** Although *vacat* may technically inflect, the idiom is fixed.
+**Note:** the person may vary: e.g., *si vacas*, addressing the reader directly.
 
 **Examples:** 
 > Ovid, *Epistulae ex Ponto* 1.1.3: "Si vacat, hospitio peregrinos, Brute, libellos excipe dumque aliquo, quolibet abde modo."
@@ -1242,9 +1213,11 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `#quod dicebam#`
 
-**Inflection:** flexible
+**Inflection:** fixed
 
-**Note:** *dicebam* may technically inflect, e.g., *quod dicebat*, but this may alter the meaning.
+**Note:** locked to the first person: the speaker resumes their own thread.
+
+*quod dicebat* is a different construction, reporting what someone else was saying.
 
 **Examples:** 
 > Seneca iunior, *De Beneficiis* 3.14.4.3: "Hoc est, quod dicebam, interituram tantae rei dignitatem, si beneficium mercem facimus."
@@ -1259,9 +1232,11 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `#accedit quod#`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:**
+**Note:** the tense may vary: e.g., *accessit quod*.
+
+*accedit quia* is attested once, in postclassical prose.
 
 **Examples:** 
 > Cicero, *Pro S. Roscio Amerino* 22.10: "Huc accedit quod, quamvis ille felix sit, sicut est, tamen in tanta felicitate nemo potest esse in magna familia qui neminem neque servum neque libertum improbum habeat."
@@ -1312,13 +1287,12 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:** *dicam* may technically inflect, e.g., *ut veram dicas*, but this strays from the idiom.
+**Note:** *dicam* may inflect, e.g., *ut verum dicas*, but this strays from the idiom.
 
 **Examples:**
 > Seneca iunior, *Epistulae Morales* 50.5.5: "laborandum est et, ut verum dicam, ne labor quidem magnus est"
-> Plautus, *Trinummus* 762: "Malim hercle ut verum dicas, quam ut des mutuom."
 
-# rē vēra
+# rē vērā
 
 **Category:** Assertion and Emphasis
 
