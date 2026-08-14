@@ -95,7 +95,7 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** flexible
 
-**Note:** ablative of time. Number and referant may vary: e.g., *his temporibus quibus*.
+**Note:** ablative of time. Number and referent may vary: e.g., *his temporibus quibus*.
 
 **Examples:**
 > Caesar, *De Bello Gallico* 4.18.4.1: "at Sugambri ex eo tempore quo pons institui coeptus est, fuga comparata hortantibus iis"
@@ -114,7 +114,7 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** flexible
 
-**Note:** ablative of time. Number and referant may vary: e.g., *proximis mensibus*, *proximo die (on the next day)*.
+**Note:** ablative of time. Number and referent may vary: e.g., *proximis mensibus*, *proximo die (on the next day)*.
 
 **Examples:**
 > Caesar, *Bellum Civile* 1.6.1.1: "Proximis diebus habetur extra urbem senatus"
@@ -132,7 +132,7 @@ Attested in the ablative as part of an ablative absolute.
 
 **Inflection:** flexible
 
-**Note:** ablative of time. Number and referant may vary: e.g., *paucis post mensibus*, *multis post diebus*.
+**Note:** ablative of time. Number and referent may vary: e.g., *paucis post mensibus*, *multis post diebus*.
 
 We also have the reverse construction, *paucis ante diebus (a few days earlier)*.
 
@@ -347,7 +347,7 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Inflection:** flexible
 
-**Note:** you may adjust time or referant: e.g., *certum erat*, *certum tibi est*.
+**Note:** you may adjust time or referent: e.g., *certum erat*, *certum tibi est*.
 
 **Examples:** 
 > Plautus, *Captivi* 772: "nec cuiquam homini supplicare nunc certum est mihi"
@@ -401,7 +401,7 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Inflection:** flexible
 
-**Note:** ablative construction. The referant may change: e.g., *tua sententia*, *sua sententia*.
+**Note:** ablative construction. The referent may change: e.g., *tua sententia*, *sua sententia*.
 
 **Examples:** 
 > Plautus, *Menaechmi* 273: "Bene opsonavi atque ex mea sententia, bonum anteponam prandium pransoribus"
@@ -685,7 +685,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** the referant may change: e.g., *tē pudet*.
+**Note:** the referent may change: e.g., *tē pudet*.
 
 **Examples:**
 > Plautus, *Asinaria* 933: "Pol, si aliud nil sit, tui me, uxor, pudet."
@@ -737,7 +737,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** The referant may change: e.g., *etiam tu*.
+**Note:** The referent may change: e.g., *etiam tu*.
 
 **Examples:**
 > Petronius, *Satyrica* 72.2.1: "immo iam coeperam etiam ego plorare, cum Trimalchio 'ergo' inquit 'cum sciamus nos morituros esse'"
@@ -753,7 +753,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** The referant may change: e.g., *neque tu*.
+**Note:** The referent may change: e.g., *neque tu*.
 
 **Examples:**
 > Plautus, *Amphitruo* 264: "neque ego huc hominem hodie ad aedis has sinam umquam accedere"
@@ -802,9 +802,9 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `mea ~ refert`
 
-**Inflection:** fixed
+**Inflection:** flexible
 
-**Note:** used almost exclusively in the negative. The referant may vary: e.g., *tua refert*
+**Note:** used almost exclusively in the negative. The referent may vary: e.g., *tua refert*.
 
 **Examples:**
 > Plautus, *Curculio* 530: "quid id mea refert? ego argentum habeo."
@@ -894,7 +894,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** Strong sense of necessity. The referant or tense may change: e.g., *necesse erat tibi*.
+**Note:** Strong sense of necessity. The referent or tense may change: e.g., *necesse erat tibi*.
 
 **Examples:**
 > Cicero, *Cato Maior de Senectute* 30.9: "nihil necesse est mihi de me ipso dicere, quamquam est id quidem senile aetatique nostrae concedendum"
@@ -911,7 +911,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** Weaker, practical sense of necessity.  The referant or tense may change: e.g., *opus fuit tibi*.
+**Note:** Weaker, practical sense of necessity.  The referent or tense may change: e.g., *opus fuit tibi*.
 
 **Examples:**
 > Plautus, *Miles Gloriosus* 705: "Quando habeo multos cognatos, quid opus est mihi liberis?"
@@ -1156,7 +1156,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** *ignosce* may inflect, and the referant may change: e.g., *ei ignosceret*
+**Note:** *ignosce* may inflect, and the referent may change: e.g., *ei ignosceret*
 
 **Examples:** 
 > Cicero, *Epistulae ad Familiares* 12.2.3.5: "ignosce mihi, sed non numero consularis."
@@ -1362,7 +1362,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** The referant may change, e.g., *tuā interest*, but remains ablative; *mihi interest* is not idiomatic.
+**Note:** The referent may change, e.g., *tuā interest*, but remains ablative; *mihi interest* is not idiomatic.
 
 **Examples:**
 > Cicero, *De Domo Sua* 39.10: "neque enim mea iam quicquam interest, exceptis iis telis quae ex illius actionibus in meum corpus..."
