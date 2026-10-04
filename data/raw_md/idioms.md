@@ -818,6 +818,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 > Pliny, *Naturalis Historia* 5.52.7: "fonte, ut verisimile est, illo quem Nigrim vocavere"
 > Cicero, *De Divinatione* 1.109.2: "verisimile est hoc quidem—ex motu enim animorum aliquid atque ex statu corporis"
 > Cicero, *Tusculanae Disputationes* 4.2.10: "idque cum coniectura probabile est"
+> Cicero, *Pro Rege Deiotaro* 23.3: "Non quaero quam veri simile sit aut non habuisse regem quos mitteret"
 
 # saltem
 
@@ -924,6 +925,7 @@ In a direct question either mood is available, the subjunctive being the more de
 > Cicero, *De Partitione Oratoria* 15.1: "Quid faciendum est contra reo?"
 > Cicero, *In Verrem* 2.4.11.1: "Quid igitur nobis faciendum est? num argumentis utendum in re eius modi?"
 > Plautus, *Miles Gloriosus* 887: "Si quid faciendum est mulieri male atque malitiose, ea síbi immortalis memoriast meminisse."
+> Cicero, *Epistulae ad Familiares* 12.3.1.8: "sed ne mihi quidem ipsi reperio quid faciendum sit"
 
 # quid tibi vidētur?
 
@@ -941,6 +943,7 @@ In a direct question either mood is available, the subjunctive being the more de
 > Terentius, *Andria* 315: "quid tibi videtur? adeon ad eum? By. quidni? si nil impetres..."
 > Phaedrus, *Fabulae Aesopiae* 4.7.17: "Quid tibi videtur? 'Hoc quoque insulsum est' ait."
 > Justinianus, *Digesta* 28.5.11.pr.3: "quid tibi videtur? respondit: vera est Proculi opinio."
+> Scriptores Historiae Augustae, *Trebelli Pollionis Valeriani Duo* 5.4.6: "quid vobis videtur, p. c., de censore deligendo?"
 
 # quantum possum
 
@@ -1062,6 +1065,7 @@ In a direct question either mood is available, the subjunctive being the more de
 > Ovid, *Epistulae ex Ponto* 1.1.3: "Si vacat, hospitio peregrinos, Brute, libellos excipe dumque aliquo, quolibet abde modo."
 > Ovid, *Epistulae ex Ponto* 3.3.1: "Si vacat exiguum profugo dare tempus amico, o sidus Fabiae, Maxime, gentis, ades"
 > Juvenal, *Saturae* 1.21: "si vacat ac placidi rationem admittitis, edam."
+> Cicero, *De Divinatione* 1.10.11: "De quibus quid ipse sentiam, si placet, exponam, ita tamen, si vacas animo"
 
 # sī licet
 
@@ -1240,6 +1244,7 @@ In a direct question either mood is available, the subjunctive being the more de
 
 **Examples:** 
 > Cicero, *Pro S. Roscio Amerino* 22.10: "Huc accedit quod, quamvis ille felix sit, sicut est, tamen in tanta felicitate nemo potest esse in magna familia qui neminem neque servum neque libertum improbum habeat."
+> Livy, *Ab Urbe Condita* 1.48.8.3: "id quoque ad gloriam accessit quod cum illo simul iusta ac legitima regna occiderunt"
 > Cicero, *De Oratore* 3.66.1: "Accedit quod orationis etiam genus habent fortasse subtile et certe acutum"
 > Cicero, *Epistulae ad Familiares* 6.6.8.6: "accedit quod mirifice ingeniis excellentibus, quale est tuum, delectatur"
 
