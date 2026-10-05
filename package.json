@@ -1,6 +1,6 @@
 {
   "name": "scriptoribus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A static website for Latin Prose Composition resources, hosted on GitHub Pages.",
   "scripts": {
