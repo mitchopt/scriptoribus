@@ -786,7 +786,7 @@
   {
     "id": "i033",
     "latin": "quā dē causā",
-    "gloss": "for which reason",
+    "gloss": "for this reason",
     "category": "Causal / Explanatory",
     "inflection": "fixed",
     "notes": "prepositional phrase; the accusative *quam ob causam* is also used.",
@@ -1731,7 +1731,7 @@
     "gloss": "how shall I say",
     "category": "Discourse Management",
     "inflection": "flexible",
-    "notes": "*dicam* may inflect: e.g., *quo modo dicat*.",
+    "notes": "*dicam* may inflect, e.g., *quo modo dicat*.",
     "examples": [
       {
         "citation": "Scriptores Historiae Augustae, *Maximus et Balbinus* 17.7.1",
@@ -1753,7 +1753,7 @@
     "gloss": "to tell the truth",
     "category": "Assertion and Emphasis",
     "inflection": "fixed",
-    "notes": "*dicam* may inflect, e.g., *ut verum dicas*, but this strays from the idiom.",
+    "notes": "Although *dicam* may technically inflect, e.g., *ut verum dicas*, the idiom is first person.",
     "examples": [
       {
         "citation": "Seneca iunior, *Epistulae Morales* 50.5.5",

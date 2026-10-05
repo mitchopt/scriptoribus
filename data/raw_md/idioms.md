@@ -576,7 +576,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Category:** Causal / Explanatory
 
-**Meaning:** for which reason
+**Meaning:** for this reason
 
 **Search:** `#qua de causa#`
 
@@ -1274,7 +1274,7 @@ Literally, "what does it want for itself?"
 
 **Inflection:** flexible
 
-**Note:** *dicam* may inflect: e.g., *quo modo dicat*.
+**Note:** *dicam* may inflect, e.g., *quo modo dicat*.
 
 **Examples:** 
 > Scriptores Historiae Augustae, *Maximus et Balbinus* 17.7.1: "quomodo dicam aut prosequar? praesertim cum mediocritas mea non modo publicam felicitatem"
@@ -1291,7 +1291,7 @@ Literally, "what does it want for itself?"
 
 **Inflection:** fixed
 
-**Note:** *dicam* may inflect, e.g., *ut verum dicas*, but this strays from the idiom.
+**Note:** Although *dicam* may technically inflect, e.g., *ut verum dicas*, the idiom is first person.
 
 **Examples:**
 > Seneca iunior, *Epistulae Morales* 50.5.5: "laborandum est et, ut verum dicam, ne labor quidem magnus est"
