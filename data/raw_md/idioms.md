@@ -11,8 +11,8 @@
 **Note:** *essem* may inflect: e.g., *cum esset*, *cum essemus*.
 
 **Examples:**
-> Cicero, *Pro Quinctio* 77.13: "ne quid mihi eiusdem modi accideret, cum contra talem artificem dicturus essem, me vereri."
-> Cicero, *De Oratore* 2.2.10: "etiam illud saepe intelleximus, cum essemus eius domi"
+> Cicero, *Pro Cluentio* 32.1: "Memoria teneo Milesiam quandam mulierem, cum essem in Asia"
+> Cicero, *Pro Sulla* 14.5: "Multa, cum essem consul, de summis rei publicae periculis audivi, multa quaesivi, multa cognovi;"
 
 # cum haec agerentur
 
