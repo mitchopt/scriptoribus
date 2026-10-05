@@ -14,7 +14,7 @@
 > Cicero, *Pro Cluentio* 32.1: "Memoria teneo Milesiam quandam mulierem, cum essem in Asia"
 > Cicero, *Pro Sulla* 14.5: "Multa, cum essem consul, de summis rei publicae periculis audivi, multa quaesivi, multa cognovi;"
 
-# cum haec agerentur
+# cum _ agerentur
 
 **Category:** Temporal
 
