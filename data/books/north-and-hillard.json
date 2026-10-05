@@ -122,102 +122,102 @@
             {
               "id": "ex01",
               "prompt": "Give me this book.",
-              "key": "TODO"
+              "key": "Dā mihi hunc librum."
             },
             {
               "id": "ex02",
               "prompt": "Do not give him a sword, but give him arrows.",
-              "key": "TODO"
+              "key": "Nōlī eī dāre gladium, sed saggitās."
             },
             {
               "id": "ex03",
               "prompt": "Let us go, and let them remain here.",
-              "key": "TODO"
+              "key": "Eāmus, illīque hīc maneant."
             },
             {
               "id": "ex04",
               "prompt": "Do not go home, but return to us.",
-              "key": "TODO"
+              "key": "Nōlī domum īre, sed ad nōs redī."
             },
             {
               "id": "ex05",
               "prompt": "Let him go away now, but come again.",
-              "key": "TODO"
+              "key": "Nunc discēdat, rūrsus tamen redeat."
             },
             {
               "id": "ex06",
               "prompt": "Keep these books. Do not lose them.",
-              "key": "TODO"
+              "key": "Servā hōs librōs. Nōlī eōs perdere."
             },
             {
               "id": "ex07",
               "prompt": "Let us fortify the city with walls.",
-              "key": "TODO"
+              "key": "Moenibus urbem mūniāmus."
             },
             {
               "id": "ex08",
               "prompt": "Do not let us return to the city.",
-              "key": "TODO"
+              "key": "Nē ad urbem redeāmus."
             },
             {
               "id": "ex09",
               "prompt": "Boys, obey your masters.",
-              "key": "TODO"
+              "key": "Magistrīs tuīs, puerī, pārēte."
             },
             {
               "id": "ex10",
               "prompt": "Let us spend the winter in the city.",
-              "key": "TODO"
+              "key": "Hiemem in urbe agāmus."
             },
             {
               "id": "ex11",
               "prompt": "Do not remain at home.",
-              "key": "TODO"
+              "key": "Nōlī domī manēre."
             },
             {
               "id": "ex12",
               "prompt": "Let them build ships. Let them not be afraid of the sea.",
-              "key": "TODO"
+              "key": "Navēs aedificent. Nē mare timeant."
             },
             {
               "id": "ex13",
               "prompt": "Do not give me the book.",
-              "key": "TODO"
+              "key": "Nōlī dāre mihi librum."
             },
             {
               "id": "ex14",
               "prompt": "This is Caius's book-give it to him.",
-              "key": "TODO"
+              "key": "Hic est liber Cāiī. Eum eī dā."
             },
             {
               "id": "ex15",
               "prompt": "Do not let us remain here.",
-              "key": "TODO"
+              "key": "Nē hīc maneāmus."
             },
             {
               "id": "ex16",
               "prompt": "Let him be killed.",
-              "key": "TODO"
+              "key": "Is interficiātur."
             },
             {
               "id": "ex17",
               "prompt": "Do not be afraid of the sea.",
-              "key": "TODO"
+              "key": "Mare nōlī timēre."
             },
             {
               "id": "ex18",
               "prompt": "Citizens, defend the city with your arms.",
-              "key": "TODO"
+              "key": "Urbem, cīvēs, armīs dēfendite."
             },
             {
               "id": "ex19",
               "prompt": "Give me the letter.",
-              "key": "TODO"
+              "key": "Dā mihi epistulam."
             },
             {
               "id": "ex20",
               "prompt": "Let all return to the city.",
-              "key": "TODO"
+              "key": "Ad urbem omnēs redeant."
             }
           ]
         },

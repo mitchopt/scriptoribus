@@ -73,64 +73,64 @@
 ### Exercise B
 
 **Prompt:** Give me this book.
-**Key:** TODO
+**Key:** Dā mihi hunc librum.
 
 **Prompt:** Do not give him a sword, but give him arrows.
-**Key:** TODO
+**Key:** Nōlī eī dāre gladium, sed saggitās.
 
 **Prompt:** Let us go, and let them remain here.
-**Key:** TODO
+**Key:** Eāmus, illīque hīc maneant.
 
 **Prompt:** Do not go home, but return to us.
-**Key:** TODO
+**Key:** Nōlī domum īre, sed ad nōs redī.
 
 **Prompt:** Let him go away now, but come again.
-**Key:** TODO
+**Key:** Nunc discēdat, rūrsus tamen redeat.
 
 **Prompt:** Keep these books. Do not lose them.
-**Key:** TODO
+**Key:** Servā hōs librōs. Nōlī eōs perdere.
 
 **Prompt:** Let us fortify the city with walls.
-**Key:** TODO
+**Key:** Moenibus urbem mūniāmus.
 
 **Prompt:** Do not let us return to the city.
-**Key:** TODO
+**Key:** Nē ad urbem redeāmus.
 
 **Prompt:** Boys, obey your masters.
-**Key:** TODO
+**Key:** Magistrīs tuīs, puerī, pārēte.
 
 **Prompt:** Let us spend the winter in the city.
-**Key:** TODO
+**Key:** Hiemem in urbe agāmus.
 
 **Prompt:** Do not remain at home.
-**Key:** TODO
+**Key:** Nōlī domī manēre.
 
 **Prompt:** Let them build ships. Let them not be afraid of the sea.
-**Key:** TODO
+**Key:** Navēs aedificent. Nē mare timeant.
 
 **Prompt:** Do not give me the book.
-**Key:** TODO
+**Key:** Nōlī dāre mihi librum.
 
 **Prompt:** This is Caius's book-give it to him.
-**Key:** TODO
+**Key:** Hic est liber Cāiī. Eum eī dā.
 
 **Prompt:** Do not let us remain here.
-**Key:** TODO
+**Key:** Nē hīc maneāmus.
 
 **Prompt:** Let him be killed.
-**Key:** TODO
+**Key:** Is interficiātur.
 
 **Prompt:** Do not be afraid of the sea.
-**Key:** TODO
+**Key:** Mare nōlī timēre.
 
 **Prompt:** Citizens, defend the city with your arms.
-**Key:** TODO
+**Key:** Urbem, cīvēs, armīs dēfendite.
 
 **Prompt:** Give me the letter.
-**Key:** TODO
+**Key:** Dā mihi epistulam.
 
 **Prompt:** Let all return to the city.
-**Key:** TODO
+**Key:** Ad urbem omnēs redeant.
 
 ### Exercise C
 
