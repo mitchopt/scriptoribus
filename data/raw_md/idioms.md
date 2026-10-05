@@ -670,7 +670,7 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 **Search:** `#exspecto ut#`
 
 **Inflection:** flexible
-.
+
 **Note:** *exspecto* may inflect: e.g., *exspectatis ut*.
 
 **Examples:**
