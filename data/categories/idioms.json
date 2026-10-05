@@ -1025,7 +1025,7 @@
     "gloss": "I don't care",
     "category": "Importance",
     "inflection": "fixed",
-    "notes": "Although *moror* may technically inflect, e.g., *nihil moratur*, the idiom is generally reflexive. Non-reflexive use of moror will generally mean \"nothing delays\".",
+    "notes": "Although *moror* may technically inflect, e.g., *nihil moratur*, the idiom is generally reflexive. Impersonal use will generally imply delay.",
     "examples": [
       {
         "citation": "Plautus, *Epidicus* 695",
@@ -1038,6 +1038,10 @@
       {
         "citation": "Horace, *Epistulae* 1.15.16",
         "quote": "nam vina nihil moror illius orae."
+      },
+      {
+        "citation": "Titus Livius, *Ab Urbe Condita* 33.13.7.1",
+        "quote": "cum Philippus nihil morari diceret quo minus reciperent, disceptatio inter imperatorem Romanum et Aetolos orta est de Thebis"
       }
     ]
   },
