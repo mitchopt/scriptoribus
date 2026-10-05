@@ -297,6 +297,7 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Examples:** 
 > Cicero, *In Verrem* 2.3.144.10: "Non dubito quin vobis satis fecerim, iudices;"
+> Cicero, *Epistulae ad Atticum* 10.4.8.6: "de Hispaniis non dubitabat quin Caesaris essent."
 > Catullus, *carmina* 108.3: "non equidem dubito quin primum inimica bonorum lingua exsecta avido sit data vulturio"
 > Ovid, *Tristia* 4.3.27: "non equidem dubito, quin haec et cetera fiant, detque tuus maesti signa doloris amor"
 
