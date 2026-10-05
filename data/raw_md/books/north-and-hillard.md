@@ -11,64 +11,64 @@
 ### Exercise A
 
 **Prompt:** The land was ruled by a good king.
-**Key:** TODO
+**Key:** Terra ā rēge bonō regēbātur.
 
 **Prompt:** The soldier was killed by an arrow.
-**Key:** TODO
+**Key:** Mīlēs saggitā occīsus est.
 
 **Prompt:** The boy killed the bird with a stone.
-**Key:** TODO
+**Key:** Puer avem lapide interfēcit.
 
 **Prompt:** The Roman general was defeated by Hannibal.
-**Key:** TODO
+**Key:** Dux Rōmānus ab Hannibale victus est.
 
 **Prompt:** The soldier killed the peasant with a sword.
-**Key:** TODO
+**Key:** Mīles agricolam gladiō interfēcit.
 
 **Prompt:** We have been conquered by the enemy.
-**Key:** TODO
+**Key:** Ab hostibus victī sumus.
 
 **Prompt:** The walls were defended by the citizens.
-**Key:** TODO
+**Key:** Mūrī ā cīvibus dēfēnsī sunt.
 
 **Prompt:** Our city was built by Romulus.
-**Key:** TODO
+**Key:** Urbs nostra ā Rōmulō condita est.
 
 **Prompt:** The Romans fortified their city with a wall.
-**Key:** TODO
+**Key:** Rōmānī urbem eōrum mūrō mūnīvērunt.
 
 **Prompt:** Gaul is separated from Britain by the sea.
-**Key:** TODO
+**Key:** Gallia ā Britānniā mare dīviditur.
 
 **Prompt:** A high wall defends the camp.
-**Key:** TODO
+**Key:** Mūrus altus castra dēfendit.
 
 **Prompt:** We are loved by our friends, and we love them.
-**Key:** TODO
+**Key:** Ā nostrīs amīcīs amāmur, et eōs amāmus.
 
 **Prompt:** We shall not be conquered by the enemy.
-**Key:** TODO
+**Key:** Ab hostibus nōn vincēmus.
 
 **Prompt:** The camp is defended by a long wall.
-**Key:** TODO
+**Key:** Castra mūrō longō dēfenduntur.
 
 **Prompt:** The citizens defended the city.
-**Key:** TODO
+**Key:** Cīvēs urbem dēfendērunt.
 
 **Prompt:** Cities are defended by the citizens.
-**Key:** TODO
+**Key:** Urbēs ā cīvibus dēfenduntur.
 
 **Prompt:** We have taken the camp.
-**Key:** TODO
+**Key:** Castra cēpimus.
 
 **Prompt:** The camp has been taken by us.
-**Key:** TODO
+**Key:** Castra ā nōbīs capta sunt.
 
 **Prompt:** They are teaching the boys.
-**Key:** TODO
+**Key:** Puerōs docent.
 
 **Prompt:** The boys are taught by books.
-**Key:** TODO
+**Key:** Puerī librīs docentur.
 
 ### Exercise B
 
