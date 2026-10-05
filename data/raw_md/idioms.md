@@ -353,7 +353,6 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 > Plautus, *Captivi* 772: "nec cuiquam homini supplicare nunc certum est mihi"
 > Plautus, *Casina* 91: "Quia certum est mihi, quasi umbra, quoquo tu ibis, te semper sequi"
 > Ovid, *Metamorphoses* 9.53: "inpulsumque manu certum est mihi vera fateri"
-> Plautus, *Cistellaria* 509: "Satin istuc tibi in corde certumst?"
 
 # ut opīnor
 
@@ -653,12 +652,13 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** *spero* may inflect: e.g., *sperare fore ut*.
+**Note:** *spero* may inflect: e.g., *speres fore ut*.
 
 **Examples:**
 > Cicero, *De Legibus* 1.37.6: "nec tamen spero fore ut omnibus probentur"
 > Cicero, *Tusculanae Disputationes* 1.82.2: "spero fore ut contingat id nobis."
 > Cicero, *Epistulae ad Familiares* 13.43.1.1: "Etsi plurimis rebus spero fore ut perspiciam"
+> Cicero, *Epistulae ad Familiares* 1.5b.2.11: "tu fac animo forti magnoque sis speresque fore ut fracto impetu levissimi hominis tuam pristinam dignitatem et gloriam consequare."
 > Cicero, *Lucullus* 69.1: "quod erant qui illum gloriae causa facere dicerent, sperare etiam fore ut i qui se sequerentur Antiochii vocarentur"
 
 # exspectō ut

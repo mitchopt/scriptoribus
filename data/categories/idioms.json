@@ -476,10 +476,6 @@
       {
         "citation": "Ovid, *Metamorphoses* 9.53",
         "quote": "inpulsumque manu certum est mihi vera fateri"
-      },
-      {
-        "citation": "Plautus, *Cistellaria* 509",
-        "quote": "Satin istuc tibi in corde certumst?"
       }
     ]
   },
@@ -889,7 +885,7 @@
     "gloss": "I hope that",
     "category": "Emotional",
     "inflection": "flexible",
-    "notes": "*spero* may inflect: e.g., *sperare fore ut*.",
+    "notes": "*spero* may inflect: e.g., *speres fore ut*.",
     "examples": [
       {
         "citation": "Cicero, *De Legibus* 1.37.6",
@@ -902,6 +898,10 @@
       {
         "citation": "Cicero, *Epistulae ad Familiares* 13.43.1.1",
         "quote": "Etsi plurimis rebus spero fore ut perspiciam"
+      },
+      {
+        "citation": "Cicero, *Epistulae ad Familiares* 1.5b.2.11",
+        "quote": "tu fac animo forti magnoque sis speresque fore ut fracto impetu levissimi hominis tuam pristinam dignitatem et gloriam consequare."
       },
       {
         "citation": "Cicero, *Lucullus* 69.1",
