@@ -1078,7 +1078,7 @@
 
 **Latin Expression:** TODO
 
-# Substantive Clause with *quod
+# Substantive Clause with *quod*
 
 **Category:** Substantive (Noun) Clauses
 
