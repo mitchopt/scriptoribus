@@ -754,14 +754,15 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Search:** `#nihil moror#`
 
-**Inflection:** flexible
+**Inflection:** fixed
 
-**Note:** Although *moror* may technically inflect, e.g., *nihil moratur*, the idiom is reflexive. Lit. "I delay nothing".
+**Note:** Although *moror* may technically inflect, e.g., *nihil moratur*, the idiom is generally reflexive. Impersonal use will generally imply delay.
 
 **Examples:**
 > Plautus, *Epidicus* 695: "Per. Nihil moror. Ep. Obnoxiose."
 > Cicero, *Philippicae* 13.35.4: "Nihil moror eos salvos esse et ire quo libet, si tantum modo patiuntur perire eum qui meruit."
 > Horace, *Epistulae* 1.15.16: "nam vina nihil moror illius orae."
+> Titus Livius, *Ab Urbe Condita* 33.13.7.1: "cum Philippus nihil morari diceret quo minus reciperent, disceptatio inter imperatorem Romanum et Aetolos orta est de Thebis"
 
 # meā refert
 

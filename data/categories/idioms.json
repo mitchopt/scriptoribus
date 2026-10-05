@@ -1024,8 +1024,8 @@
     "latin": "nihil moror",
     "gloss": "I don't care",
     "category": "Importance",
-    "inflection": "flexible",
-    "notes": "Although *moror* may technically inflect, e.g., *nihil moratur*, the idiom is reflexive. Lit. \"I delay nothing\".",
+    "inflection": "fixed",
+    "notes": "Although *moror* may technically inflect, e.g., *nihil moratur*, the idiom is generally reflexive. Non-reflexive use of moror will generally mean \"nothing delays\".",
     "examples": [
       {
         "citation": "Plautus, *Epidicus* 695",
