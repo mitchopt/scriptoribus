@@ -11,188 +11,188 @@
 ### Exercise A
 
 **Prompt:** The land was ruled by a good king.
-**Key:** TODO
+**Key:** Terra ā rēge bonō regēbātur.
 
 **Prompt:** The soldier was killed by an arrow.
-**Key:** TODO
+**Key:** Mīles sagittā occīsus est.
 
 **Prompt:** The boy killed the bird with a stone.
-**Key:** TODO
+**Key:** Puer avem lapide interfēcit.
 
 **Prompt:** The Roman general was defeated by Hannibal.
-**Key:** TODO
+**Key:** Dux Rōmānus ab Hannibale victus est.
 
 **Prompt:** The soldier killed the peasant with a sword.
-**Key:** TODO
+**Key:** Mīles agricolam gladiō interfēcit.
 
 **Prompt:** We have been conquered by the enemy.
-**Key:** TODO
+**Key:** Ab hostibus victī sumus.
 
 **Prompt:** The walls were defended by the citizens.
-**Key:** TODO
+**Key:** Mūrī ā cīvibus dēfēnsī sunt.
 
 **Prompt:** Our city was built by Romulus.
-**Key:** TODO
+**Key:** Urbs nostra ā Rōmulō condita est.
 
 **Prompt:** The Romans fortified their city with a wall.
-**Key:** TODO
+**Key:** Rōmānī urbem suam mūrō mūnīvērunt.
 
 **Prompt:** Gaul is separated from Britain by the sea.
-**Key:** TODO
+**Key:** Gallia ā Britanniā marī dīviditur.
 
 **Prompt:** A high wall defends the camp.
-**Key:** TODO
+**Key:** Mūrus altus castra dēfendit.
 
 **Prompt:** We are loved by our friends, and we love them.
-**Key:** TODO
+**Key:** Ā nostrīs amīcīs amāmur, et eōs amāmus.
 
 **Prompt:** We shall not be conquered by the enemy.
-**Key:** TODO
+**Key:** Ab hostibus nōn vincēmur.
 
 **Prompt:** The camp is defended by a long wall.
-**Key:** TODO
+**Key:** Castra mūrō longō dēfenduntur.
 
 **Prompt:** The citizens defended the city.
-**Key:** TODO
+**Key:** Cīvēs urbem dēfendērunt.
 
 **Prompt:** Cities are defended by the citizens.
-**Key:** TODO
+**Key:** Urbēs ā cīvibus dēfenduntur.
 
 **Prompt:** We have taken the camp.
-**Key:** TODO
+**Key:** Castra cēpimus.
 
 **Prompt:** The camp has been taken by us.
-**Key:** TODO
+**Key:** Castra ā nōbīs capta sunt.
 
 **Prompt:** They are teaching the boys.
-**Key:** TODO
+**Key:** Puerōs docent.
 
 **Prompt:** The boys are taught by books.
-**Key:** TODO
+**Key:** Puerī librīs docentur.
 
 ### Exercise B
 
 **Prompt:** Give me this book.
-**Key:** TODO
+**Key:** Dā mihi hunc librum.
 
 **Prompt:** Do not give him a sword, but give him arrows.
-**Key:** TODO
+**Key:** Nōlī eī dare gladium, sed eī sagittās dā.
 
 **Prompt:** Let us go, and let them remain here.
-**Key:** TODO
+**Key:** Eāmus, illīque hīc maneant.
 
 **Prompt:** Do not go home, but return to us.
-**Key:** TODO
+**Key:** Nōlī domum īre, sed ad nōs redī.
 
 **Prompt:** Let him go away now, but come again.
-**Key:** TODO
+**Key:** Nunc discēdat, rūrsus tamen redeat.
 
 **Prompt:** Keep these books. Do not lose them.
-**Key:** TODO
+**Key:** Servā hōs librōs. Nōlī eōs perdere.
 
 **Prompt:** Let us fortify the city with walls.
-**Key:** TODO
+**Key:** Moenibus urbem mūniāmus.
 
 **Prompt:** Do not let us return to the city.
-**Key:** TODO
+**Key:** Nē ad urbem redeāmus.
 
 **Prompt:** Boys, obey your masters.
-**Key:** TODO
+**Key:** Magistrīs vestrīs, puerī, pārēte.
 
 **Prompt:** Let us spend the winter in the city.
-**Key:** TODO
+**Key:** Hiemem in urbe agāmus.
 
 **Prompt:** Do not remain at home.
-**Key:** TODO
+**Key:** Nōlī domī manēre.
 
 **Prompt:** Let them build ships. Let them not be afraid of the sea.
-**Key:** TODO
+**Key:** Nāvēs aedificent. Nē mare timeant.
 
 **Prompt:** Do not give me the book.
-**Key:** TODO
+**Key:** Nōlī dare mihi librum.
 
 **Prompt:** This is Caius's book-give it to him.
-**Key:** TODO
+**Key:** Hic est liber Cāiī. Eum eī dā.
 
 **Prompt:** Do not let us remain here.
-**Key:** TODO
+**Key:** Nē hīc maneāmus.
 
 **Prompt:** Let him be killed.
-**Key:** TODO
+**Key:** Is interficiātur.
 
 **Prompt:** Do not be afraid of the sea.
-**Key:** TODO
+**Key:** Mare nōlī timēre.
 
 **Prompt:** Citizens, defend the city with your arms.
-**Key:** TODO
+**Key:** Urbem, cīvēs, armīs dēfendite.
 
 **Prompt:** Give me the letter.
-**Key:** TODO
+**Key:** Dā mihi epistulam.
 
 **Prompt:** Let all return to the city.
-**Key:** TODO
+**Key:** Ad urbem omnēs redeant.
 
 ### Exercise C
 
 **Prompt:** Romulus, son of Mars, was the first king of the Romans.
-**Key:** TODO
+**Key:** Rōmulus, fīlius Mārtis, prīmus fuit rēx Rōmānōrum.
 
 **Prompt:** Obey the king, the father of his country.
-**Key:** TODO
+**Key:** Rēgī pārē, patrī patriae.
 
 **Prompt:** You and your brother will be killed by the enemy.
-**Key:** TODO
+**Key:** Tū et frāter tuus ab hostibus interficiēminī.
 
 **Prompt:** Caius and I are well.
-**Key:** TODO
+**Key:** Ego et Cāius valēmus.
 
 **Prompt:** The youths were killed by their father, Brutus.
-**Key:** TODO
+**Key:** Iuvenēs ā patre suō Brūtō interfectī sunt.
 
 **Prompt:** You and I and our friends will set out.
-**Key:** TODO
+**Key:** Ego et tū et amīcī nostrī proficīscēmur.
 
 **Prompt:** The king and queen are dear to all of the citizens.
-**Key:** TODO
+**Key:** Rēx rēgīnaque cārī sunt omnibus cīvibus.
 
 **Prompt:** By good laws Numa, the second king of Rome, benefited his country.
-**Key:** TODO
+**Key:** Bonīs lēgibus Numa, secundus Rōmānōrum rēx, patriae suae prōfuit.
 
 **Prompt:** Both men and women were killed by the soldiers.
-**Key:** TODO
+**Key:** Et virī et fēminae ā mīlitibus interfectī sunt.
 
 **Prompt:** All of us love life, the greatest gift of the gods.
-**Key:** TODO
+**Key:** Vītam, maximum dōnum deōrum, nōs omnēs amāmus.
 
 **Prompt:** The king lost his kingdom and his riches, the things most pleasant to him.
-**Key:** TODO
+**Key:** Rēx rēgnum suum dīvitiāsque suās, rēs sibi iūcundissimās, perdidit.
 
 **Prompt:** Citizens, obey me, your king.
-**Key:** TODO
+**Key:** Pārēte mihi, cīvēs, rēgī vestrō.
 
 **Prompt:** Neither the king nor his sons will be killed.
-**Key:** TODO
+**Key:** Neque rēx neque fīliī eius interficientur.
 
 **Prompt:** The king and his son Caius have been killed.
-**Key:** TODO
+**Key:** Rēx et fīlius eius Cāius interfectī sunt.
 
 **Prompt:** He and I will go away.
-**Key:** TODO
+**Key:** Ego et is abībimus.
 
 **Prompt:** Give the letter to me, your king.
-**Key:** TODO
+**Key:** Epistulam mihi, rēgī tuō, dā.
 
 **Prompt:** She and her brother have been sent home.
-**Key:** TODO
+**Key:** Ea et frāter eius domum dīmissī sunt.
 
 **Prompt:** His father, the king of Italy, has sent him.
-**Key:** TODO
+**Key:** Pater eius, rēx Italiae, eum mīsit.
 
 **Prompt:** I have come to you, my own brother.
-**Key:** TODO
+**Key:** Ad tē, frātrem meum, advēnī.
 
 **Prompt:** Both the men and the women are good citizens.
-**Key:** TODO
+**Key:** Et virī et fēminae bonī sunt cīvēs.
 
 ### Exercise D
 

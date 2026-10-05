@@ -16,102 +16,102 @@
             {
               "id": "ex01",
               "prompt": "The land was ruled by a good king.",
-              "key": "TODO"
+              "key": "Terra ā rēge bonō regēbātur."
             },
             {
               "id": "ex02",
               "prompt": "The soldier was killed by an arrow.",
-              "key": "TODO"
+              "key": "Mīles sagittā occīsus est."
             },
             {
               "id": "ex03",
               "prompt": "The boy killed the bird with a stone.",
-              "key": "TODO"
+              "key": "Puer avem lapide interfēcit."
             },
             {
               "id": "ex04",
               "prompt": "The Roman general was defeated by Hannibal.",
-              "key": "TODO"
+              "key": "Dux Rōmānus ab Hannibale victus est."
             },
             {
               "id": "ex05",
               "prompt": "The soldier killed the peasant with a sword.",
-              "key": "TODO"
+              "key": "Mīles agricolam gladiō interfēcit."
             },
             {
               "id": "ex06",
               "prompt": "We have been conquered by the enemy.",
-              "key": "TODO"
+              "key": "Ab hostibus victī sumus."
             },
             {
               "id": "ex07",
               "prompt": "The walls were defended by the citizens.",
-              "key": "TODO"
+              "key": "Mūrī ā cīvibus dēfēnsī sunt."
             },
             {
               "id": "ex08",
               "prompt": "Our city was built by Romulus.",
-              "key": "TODO"
+              "key": "Urbs nostra ā Rōmulō condita est."
             },
             {
               "id": "ex09",
               "prompt": "The Romans fortified their city with a wall.",
-              "key": "TODO"
+              "key": "Rōmānī urbem suam mūrō mūnīvērunt."
             },
             {
               "id": "ex10",
               "prompt": "Gaul is separated from Britain by the sea.",
-              "key": "TODO"
+              "key": "Gallia ā Britanniā marī dīviditur."
             },
             {
               "id": "ex11",
               "prompt": "A high wall defends the camp.",
-              "key": "TODO"
+              "key": "Mūrus altus castra dēfendit."
             },
             {
               "id": "ex12",
               "prompt": "We are loved by our friends, and we love them.",
-              "key": "TODO"
+              "key": "Ā nostrīs amīcīs amāmur, et eōs amāmus."
             },
             {
               "id": "ex13",
               "prompt": "We shall not be conquered by the enemy.",
-              "key": "TODO"
+              "key": "Ab hostibus nōn vincēmur."
             },
             {
               "id": "ex14",
               "prompt": "The camp is defended by a long wall.",
-              "key": "TODO"
+              "key": "Castra mūrō longō dēfenduntur."
             },
             {
               "id": "ex15",
               "prompt": "The citizens defended the city.",
-              "key": "TODO"
+              "key": "Cīvēs urbem dēfendērunt."
             },
             {
               "id": "ex16",
               "prompt": "Cities are defended by the citizens.",
-              "key": "TODO"
+              "key": "Urbēs ā cīvibus dēfenduntur."
             },
             {
               "id": "ex17",
               "prompt": "We have taken the camp.",
-              "key": "TODO"
+              "key": "Castra cēpimus."
             },
             {
               "id": "ex18",
               "prompt": "The camp has been taken by us.",
-              "key": "TODO"
+              "key": "Castra ā nōbīs capta sunt."
             },
             {
               "id": "ex19",
               "prompt": "They are teaching the boys.",
-              "key": "TODO"
+              "key": "Puerōs docent."
             },
             {
               "id": "ex20",
               "prompt": "The boys are taught by books.",
-              "key": "TODO"
+              "key": "Puerī librīs docentur."
             }
           ]
         },
@@ -122,102 +122,102 @@
             {
               "id": "ex01",
               "prompt": "Give me this book.",
-              "key": "TODO"
+              "key": "Dā mihi hunc librum."
             },
             {
               "id": "ex02",
               "prompt": "Do not give him a sword, but give him arrows.",
-              "key": "TODO"
+              "key": "Nōlī eī dare gladium, sed eī sagittās dā."
             },
             {
               "id": "ex03",
               "prompt": "Let us go, and let them remain here.",
-              "key": "TODO"
+              "key": "Eāmus, illīque hīc maneant."
             },
             {
               "id": "ex04",
               "prompt": "Do not go home, but return to us.",
-              "key": "TODO"
+              "key": "Nōlī domum īre, sed ad nōs redī."
             },
             {
               "id": "ex05",
               "prompt": "Let him go away now, but come again.",
-              "key": "TODO"
+              "key": "Nunc discēdat, rūrsus tamen redeat."
             },
             {
               "id": "ex06",
               "prompt": "Keep these books. Do not lose them.",
-              "key": "TODO"
+              "key": "Servā hōs librōs. Nōlī eōs perdere."
             },
             {
               "id": "ex07",
               "prompt": "Let us fortify the city with walls.",
-              "key": "TODO"
+              "key": "Moenibus urbem mūniāmus."
             },
             {
               "id": "ex08",
               "prompt": "Do not let us return to the city.",
-              "key": "TODO"
+              "key": "Nē ad urbem redeāmus."
             },
             {
               "id": "ex09",
               "prompt": "Boys, obey your masters.",
-              "key": "TODO"
+              "key": "Magistrīs vestrīs, puerī, pārēte."
             },
             {
               "id": "ex10",
               "prompt": "Let us spend the winter in the city.",
-              "key": "TODO"
+              "key": "Hiemem in urbe agāmus."
             },
             {
               "id": "ex11",
               "prompt": "Do not remain at home.",
-              "key": "TODO"
+              "key": "Nōlī domī manēre."
             },
             {
               "id": "ex12",
               "prompt": "Let them build ships. Let them not be afraid of the sea.",
-              "key": "TODO"
+              "key": "Nāvēs aedificent. Nē mare timeant."
             },
             {
               "id": "ex13",
               "prompt": "Do not give me the book.",
-              "key": "TODO"
+              "key": "Nōlī dare mihi librum."
             },
             {
               "id": "ex14",
               "prompt": "This is Caius's book-give it to him.",
-              "key": "TODO"
+              "key": "Hic est liber Cāiī. Eum eī dā."
             },
             {
               "id": "ex15",
               "prompt": "Do not let us remain here.",
-              "key": "TODO"
+              "key": "Nē hīc maneāmus."
             },
             {
               "id": "ex16",
               "prompt": "Let him be killed.",
-              "key": "TODO"
+              "key": "Is interficiātur."
             },
             {
               "id": "ex17",
               "prompt": "Do not be afraid of the sea.",
-              "key": "TODO"
+              "key": "Mare nōlī timēre."
             },
             {
               "id": "ex18",
               "prompt": "Citizens, defend the city with your arms.",
-              "key": "TODO"
+              "key": "Urbem, cīvēs, armīs dēfendite."
             },
             {
               "id": "ex19",
               "prompt": "Give me the letter.",
-              "key": "TODO"
+              "key": "Dā mihi epistulam."
             },
             {
               "id": "ex20",
               "prompt": "Let all return to the city.",
-              "key": "TODO"
+              "key": "Ad urbem omnēs redeant."
             }
           ]
         },
@@ -228,102 +228,102 @@
             {
               "id": "ex01",
               "prompt": "Romulus, son of Mars, was the first king of the Romans.",
-              "key": "TODO"
+              "key": "Rōmulus, fīlius Mārtis, prīmus fuit rēx Rōmānōrum."
             },
             {
               "id": "ex02",
               "prompt": "Obey the king, the father of his country.",
-              "key": "TODO"
+              "key": "Rēgī pārē, patrī patriae."
             },
             {
               "id": "ex03",
               "prompt": "You and your brother will be killed by the enemy.",
-              "key": "TODO"
+              "key": "Tū et frāter tuus ab hostibus interficiēminī."
             },
             {
               "id": "ex04",
               "prompt": "Caius and I are well.",
-              "key": "TODO"
+              "key": "Ego et Cāius valēmus."
             },
             {
               "id": "ex05",
               "prompt": "The youths were killed by their father, Brutus.",
-              "key": "TODO"
+              "key": "Iuvenēs ā patre suō Brūtō interfectī sunt."
             },
             {
               "id": "ex06",
               "prompt": "You and I and our friends will set out.",
-              "key": "TODO"
+              "key": "Ego et tū et amīcī nostrī proficīscēmur."
             },
             {
               "id": "ex07",
               "prompt": "The king and queen are dear to all of the citizens.",
-              "key": "TODO"
+              "key": "Rēx rēgīnaque cārī sunt omnibus cīvibus."
             },
             {
               "id": "ex08",
               "prompt": "By good laws Numa, the second king of Rome, benefited his country.",
-              "key": "TODO"
+              "key": "Bonīs lēgibus Numa, secundus Rōmānōrum rēx, patriae suae prōfuit."
             },
             {
               "id": "ex09",
               "prompt": "Both men and women were killed by the soldiers.",
-              "key": "TODO"
+              "key": "Et virī et fēminae ā mīlitibus interfectī sunt."
             },
             {
               "id": "ex10",
               "prompt": "All of us love life, the greatest gift of the gods.",
-              "key": "TODO"
+              "key": "Vītam, maximum dōnum deōrum, nōs omnēs amāmus."
             },
             {
               "id": "ex11",
               "prompt": "The king lost his kingdom and his riches, the things most pleasant to him.",
-              "key": "TODO"
+              "key": "Rēx rēgnum suum dīvitiāsque suās, rēs sibi iūcundissimās, perdidit."
             },
             {
               "id": "ex12",
               "prompt": "Citizens, obey me, your king.",
-              "key": "TODO"
+              "key": "Pārēte mihi, cīvēs, rēgī vestrō."
             },
             {
               "id": "ex13",
               "prompt": "Neither the king nor his sons will be killed.",
-              "key": "TODO"
+              "key": "Neque rēx neque fīliī eius interficientur."
             },
             {
               "id": "ex14",
               "prompt": "The king and his son Caius have been killed.",
-              "key": "TODO"
+              "key": "Rēx et fīlius eius Cāius interfectī sunt."
             },
             {
               "id": "ex15",
               "prompt": "He and I will go away.",
-              "key": "TODO"
+              "key": "Ego et is abībimus."
             },
             {
               "id": "ex16",
               "prompt": "Give the letter to me, your king.",
-              "key": "TODO"
+              "key": "Epistulam mihi, rēgī tuō, dā."
             },
             {
               "id": "ex17",
               "prompt": "She and her brother have been sent home.",
-              "key": "TODO"
+              "key": "Ea et frāter eius domum dīmissī sunt."
             },
             {
               "id": "ex18",
               "prompt": "His father, the king of Italy, has sent him.",
-              "key": "TODO"
+              "key": "Pater eius, rēx Italiae, eum mīsit."
             },
             {
               "id": "ex19",
               "prompt": "I have come to you, my own brother.",
-              "key": "TODO"
+              "key": "Ad tē, frātrem meum, advēnī."
             },
             {
               "id": "ex20",
               "prompt": "Both the men and the women are good citizens.",
-              "key": "TODO"
+              "key": "Et virī et fēminae bonī sunt cīvēs."
             }
           ]
         },
