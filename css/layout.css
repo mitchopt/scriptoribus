@@ -35,6 +35,15 @@ body.sidebar-collapsed #sidebar {
   width: var(--sidebar-collapsed-w);
 }
 
+/* on mobile layout.js starts the sidebar collapsed, but it only fills the empty <aside>
+   once the page's scripts have loaded; collapsing the empty aside too makes the first
+   paint the icon rail, instead of a full-width sidebar that shrinks as the page appears */
+@media (max-width: 900px) {
+  #sidebar:empty {
+    width: var(--sidebar-collapsed-w);
+  }
+}
+
 /* Header row inside sidebar */
 .sidebar-header {
   display: flex;

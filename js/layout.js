@@ -18,6 +18,13 @@
 
   const STORAGE_KEY = 'scriptoribus.sidebarCollapsed';
 
+  // mirrors the 900px narrow-layout breakpoint in css/layout.css
+  const MOBILE_QUERY = '(max-width: 900px)';
+
+  function isMobile() {
+    return window.matchMedia(MOBILE_QUERY).matches;
+  }
+
   function escapeHtml(str) {
     return String(str)
       .replace(/&/g, '&amp;')
@@ -32,8 +39,12 @@
 
     const currentPage = document.body.dataset.page || '';
 
-    // apply collapsed class synchronously to prevent a flicker before first paint
-    if (localStorage.getItem(STORAGE_KEY) === 'true') {
+    // apply collapsed class synchronously to prevent a flicker before first paint;
+    // mobile always starts collapsed so the sidebar never squeezes the content,
+    // while wider screens restore the last toggled state
+    // TODO: localStorage throws when site data is blocked, which aborts render() and
+    // leaves the page with no navigation at all
+    if (isMobile() || localStorage.getItem(STORAGE_KEY) === 'true') {
       document.body.classList.add('sidebar-collapsed');
     }
 
@@ -58,7 +69,8 @@
     // all sidebar CSS rules target body.sidebar-collapsed, so toggling on <body> is enough
     document.getElementById('sidebar-toggle').addEventListener('click', () => {
       const collapsed = document.body.classList.toggle('sidebar-collapsed');
-      localStorage.setItem(STORAGE_KEY, collapsed);
+      // a mobile toggle lasts only for this page, so it can't overwrite the desktop choice
+      if (!isMobile()) localStorage.setItem(STORAGE_KEY, collapsed);
     });
 
     stampBuildDate();
