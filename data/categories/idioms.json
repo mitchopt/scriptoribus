@@ -381,12 +381,16 @@
   },
   {
     "id": "i017",
-    "latin": "nōn equidem dubitō quīn",
+    "latin": "nōn dubitō quīn",
     "gloss": "I do not doubt that",
     "category": "Opinions",
     "inflection": "flexible",
     "notes": "*dubito* may inflect: e.g., *non dubitabat quin*.",
     "examples": [
+      {
+        "citation": "Cicero, *In Verrem* 2.3.144.10",
+        "quote": "Non dubito quin vobis satis fecerim, iudices;"
+      },
       {
         "citation": "Catullus, *carmina* 108.3",
         "quote": "non equidem dubito quin primum inimica bonorum lingua exsecta avido sit data vulturio"

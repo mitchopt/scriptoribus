@@ -283,7 +283,7 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 > Cicero, *De Finibus* 1.23.8: "ac fieri potest, ut errem, sed ita prorsus existimo"
 > Cicero, *De Domo Sua* 53.3: "nonne fieri poterat ut populo de Cyprio rege placeret"
 
-# nōn equidem dubitō quīn
+# nōn dubitō quīn
 
 **Category:** Opinions
 
@@ -296,6 +296,7 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 **Note:** *dubito* may inflect: e.g., *non dubitabat quin*.
 
 **Examples:** 
+> Cicero, *In Verrem* 2.3.144.10: "Non dubito quin vobis satis fecerim, iudices;"
 > Catullus, *carmina* 108.3: "non equidem dubito quin primum inimica bonorum lingua exsecta avido sit data vulturio"
 > Ovid, *Tristia* 4.3.27: "non equidem dubito, quin haec et cetera fiant, detque tuus maesti signa doloris amor"
 
