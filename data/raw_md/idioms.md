@@ -1004,13 +1004,15 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** flexible
 
-**Note:** *vult* may inflect: e.g., *quid sibi volunt*
+**Note:** *vult* may inflect: e.g., *quid sibi volunt*.
+
+Literally, "what does it want for itself?"
 
 **Examples:**
 > Petronius, *Satyrica* 95.3.1: "quid sibi vult tam furtiva molitio?"
 > Seneca iunior, *Epistulae Morales* 101.13.2: "Quid sibi vult ista carminis effeminati turpitudo?"
 > Martialis, *Epigrammata* 6.54.3: "'Quid sibi vult?' inquis. Dicam, quid suspicer esse."
-> Seneca iunior, *Dialogi* 12.7.1.2: "Quid sibi uolunt in mediis barbarorum regionibus Graecae urbes?"
+> Seneca iunior, *Dialogi* 12.7.1.2: "Quid sibi volunt in mediis barbarorum regionibus Graecae urbes?"
 
 # _ certiōrem facere
 
@@ -1078,11 +1080,12 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Note:** *licet* may inflect: e.g., *si licessit*.
 
+
+
 **Examples:** 
 > Terentius, *Heauton Timorumenos* 672: "triumpho si licet me latere tecto abscedere"
 > Cicero, *Pro Caelio* 27.10: "respondeo primum precario, si licet, si fas est defendi a me eum"
 > Tibullus, *Elegiae* 1.1.44: "Parva seges satis est, satis requiescere lecto si licet et solito membra levare toro."
-> Plautus, *Asinaria* 591: "Ne iste hercle ab ista non pedem discedat, si licessit, qui nunc festinat atque ab hac minatur sese abire."
 
 # sī māvīs
 
@@ -1218,14 +1221,11 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Inflection:** fixed
 
-**Note:** locked to the first person: the speaker resumes their own thread.
-
-*quod dicebat* is a different construction, reporting what someone else was saying.
+**Note:** Although *dicebam* may inflect, this idiom is first person: the speaker resumes their own thread.
 
 **Examples:** 
 > Seneca iunior, *De Beneficiis* 3.14.4.3: "Hoc est, quod dicebam, interituram tantae rei dignitatem, si beneficium mercem facimus."
 > Seneca iunior, *De Clementia* 1.12.3.4: "hoc quod dicebam, clementia efficit, ut magnum inter regem tyrannumque discrimen sit"
-> Seneca maior, *Controversiae* 7.4.pr.1: "illud unum quod dicebat Pollio Asinius referam: numquam debere temptari in causa verecunda inprobam quaestionem."
 
 # accēdit quod
 

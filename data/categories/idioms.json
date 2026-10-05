@@ -1365,7 +1365,7 @@
     "gloss": "what does _ mean?",
     "category": "Clarifying and Asking",
     "inflection": "flexible",
-    "notes": "*vult* may inflect: e.g., *quid sibi volunt*",
+    "notes": "*vult* may inflect: e.g., *quid sibi volunt*.\nLiterally, \"what does it want for itself?\"",
     "examples": [
       {
         "citation": "Petronius, *Satyrica* 95.3.1",
@@ -1381,7 +1381,7 @@
       },
       {
         "citation": "Seneca iunior, *Dialogi* 12.7.1.2",
-        "quote": "Quid sibi uolunt in mediis barbarorum regionibus Graecae urbes?"
+        "quote": "Quid sibi volunt in mediis barbarorum regionibus Graecae urbes?"
       }
     ]
   },
@@ -1482,10 +1482,6 @@
       {
         "citation": "Tibullus, *Elegiae* 1.1.44",
         "quote": "Parva seges satis est, satis requiescere lecto si licet et solito membra levare toro."
-      },
-      {
-        "citation": "Plautus, *Asinaria* 591",
-        "quote": "Ne iste hercle ab ista non pedem discedat, si licessit, qui nunc festinat atque ab hac minatur sese abire."
       }
     ]
   },
@@ -1669,7 +1665,7 @@
     "gloss": "as I was saying",
     "category": "Discourse Management",
     "inflection": "fixed",
-    "notes": "locked to the first person: the speaker resumes their own thread.\n*quod dicebat* is a different construction, reporting what someone else was saying.",
+    "notes": "Although *dicebam* may inflect, this idiom is first person: the speaker resumes their own thread.",
     "examples": [
       {
         "citation": "Seneca iunior, *De Beneficiis* 3.14.4.3",
@@ -1678,10 +1674,6 @@
       {
         "citation": "Seneca iunior, *De Clementia* 1.12.3.4",
         "quote": "hoc quod dicebam, clementia efficit, ut magnum inter regem tyrannumque discrimen sit"
-      },
-      {
-        "citation": "Seneca maior, *Controversiae* 7.4.pr.1",
-        "quote": "illud unum quod dicebat Pollio Asinius referam: numquam debere temptari in causa verecunda inprobam quaestionem."
       }
     ]
   },
