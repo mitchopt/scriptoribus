@@ -21,7 +21,7 @@
             {
               "id": "ex02",
               "prompt": "The soldier was killed by an arrow.",
-              "key": "Mīlēs saggitā occīsus est."
+              "key": "Mīles sagittā occīsus est."
             },
             {
               "id": "ex03",
@@ -56,12 +56,12 @@
             {
               "id": "ex09",
               "prompt": "The Romans fortified their city with a wall.",
-              "key": "Rōmānī urbem eōrum mūrō mūnīvērunt."
+              "key": "Rōmānī urbem suam mūrō mūnīvērunt."
             },
             {
               "id": "ex10",
               "prompt": "Gaul is separated from Britain by the sea.",
-              "key": "Gallia ā Britānniā mare dīviditur."
+              "key": "Gallia ā Britanniā marī dīviditur."
             },
             {
               "id": "ex11",
@@ -76,7 +76,7 @@
             {
               "id": "ex13",
               "prompt": "We shall not be conquered by the enemy.",
-              "key": "Ab hostibus nōn vincēmus."
+              "key": "Ab hostibus nōn vincēmur."
             },
             {
               "id": "ex14",
@@ -127,7 +127,7 @@
             {
               "id": "ex02",
               "prompt": "Do not give him a sword, but give him arrows.",
-              "key": "Nōlī eī dāre gladium, sed saggitās."
+              "key": "Nōlī eī dare gladium, sed eī sagittās dā."
             },
             {
               "id": "ex03",
@@ -162,7 +162,7 @@
             {
               "id": "ex09",
               "prompt": "Boys, obey your masters.",
-              "key": "Magistrīs tuīs, puerī, pārēte."
+              "key": "Magistrīs vestrīs, puerī, pārēte."
             },
             {
               "id": "ex10",
@@ -177,12 +177,12 @@
             {
               "id": "ex12",
               "prompt": "Let them build ships. Let them not be afraid of the sea.",
-              "key": "Navēs aedificent. Nē mare timeant."
+              "key": "Nāvēs aedificent. Nē mare timeant."
             },
             {
               "id": "ex13",
               "prompt": "Do not give me the book.",
-              "key": "Nōlī dāre mihi librum."
+              "key": "Nōlī dare mihi librum."
             },
             {
               "id": "ex14",

@@ -14,7 +14,7 @@
 **Key:** Terra ā rēge bonō regēbātur.
 
 **Prompt:** The soldier was killed by an arrow.
-**Key:** Mīlēs saggitā occīsus est.
+**Key:** Mīles sagittā occīsus est.
 
 **Prompt:** The boy killed the bird with a stone.
 **Key:** Puer avem lapide interfēcit.
@@ -35,10 +35,10 @@
 **Key:** Urbs nostra ā Rōmulō condita est.
 
 **Prompt:** The Romans fortified their city with a wall.
-**Key:** Rōmānī urbem eōrum mūrō mūnīvērunt.
+**Key:** Rōmānī urbem suam mūrō mūnīvērunt.
 
 **Prompt:** Gaul is separated from Britain by the sea.
-**Key:** Gallia ā Britānniā mare dīviditur.
+**Key:** Gallia ā Britanniā marī dīviditur.
 
 **Prompt:** A high wall defends the camp.
 **Key:** Mūrus altus castra dēfendit.
@@ -47,7 +47,7 @@
 **Key:** Ā nostrīs amīcīs amāmur, et eōs amāmus.
 
 **Prompt:** We shall not be conquered by the enemy.
-**Key:** Ab hostibus nōn vincēmus.
+**Key:** Ab hostibus nōn vincēmur.
 
 **Prompt:** The camp is defended by a long wall.
 **Key:** Castra mūrō longō dēfenduntur.
@@ -76,7 +76,7 @@
 **Key:** Dā mihi hunc librum.
 
 **Prompt:** Do not give him a sword, but give him arrows.
-**Key:** Nōlī eī dāre gladium, sed saggitās.
+**Key:** Nōlī eī dare gladium, sed eī sagittās dā.
 
 **Prompt:** Let us go, and let them remain here.
 **Key:** Eāmus, illīque hīc maneant.
@@ -97,7 +97,7 @@
 **Key:** Nē ad urbem redeāmus.
 
 **Prompt:** Boys, obey your masters.
-**Key:** Magistrīs tuīs, puerī, pārēte.
+**Key:** Magistrīs vestrīs, puerī, pārēte.
 
 **Prompt:** Let us spend the winter in the city.
 **Key:** Hiemem in urbe agāmus.
@@ -106,10 +106,10 @@
 **Key:** Nōlī domī manēre.
 
 **Prompt:** Let them build ships. Let them not be afraid of the sea.
-**Key:** Navēs aedificent. Nē mare timeant.
+**Key:** Nāvēs aedificent. Nē mare timeant.
 
 **Prompt:** Do not give me the book.
-**Key:** Nōlī dāre mihi librum.
+**Key:** Nōlī dare mihi librum.
 
 **Prompt:** This is Caius's book-give it to him.
 **Key:** Hic est liber Cāiī. Eum eī dā.
