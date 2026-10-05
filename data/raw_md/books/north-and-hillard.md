@@ -135,40 +135,40 @@
 ### Exercise C
 
 **Prompt:** Romulus, son of Mars, was the first king of the Romans.
-**Key:** Rōmulus, fīlius Martis, prīmus fuit rēx Rōmānōrum.
+**Key:** Rōmulus, fīlius Mārtis, prīmus fuit rēx Rōmānōrum.
 
 **Prompt:** Obey the king, the father of his country.
-**Key:** Rēgem pārē, patrem patria.
+**Key:** Rēgī pārē, patrī patriae.
 
 **Prompt:** You and your brother will be killed by the enemy.
-**Key:** Tū et frāter tuus hoste interficient.
+**Key:** Tū et frāter tuus ab hostibus interficiēminī.
 
 **Prompt:** Caius and I are well.
-**Key:** Cāius et ego valēmus.
+**Key:** Ego et Cāius valēmus.
 
 **Prompt:** The youths were killed by their father, Brutus.
 **Key:** Iuvenēs ā patre suō Brūtō interfectī sunt.
 
 **Prompt:** You and I and our friends will set out.
-**Key:** Tū et ego et amīcī nostrī proficīscēmur.
+**Key:** Ego et tū et amīcī nostrī proficīscēmur.
 
 **Prompt:** The king and queen are dear to all of the citizens.
 **Key:** Rēx rēgīnaque cārī sunt omnibus cīvibus.
 
 **Prompt:** By good laws Numa, the second king of Rome, benefited his country.
-**Key:** Bōnīs lēgīs Numa, secundus Rōmānōrum rēx, patriam suam prōfuit.
+**Key:** Bonīs lēgibus Numa, secundus Rōmānōrum rēx, patriae suae prōfuit.
 
 **Prompt:** Both men and women were killed by the soldiers.
 **Key:** Et virī et fēminae ā mīlitibus interfectī sunt.
 
 **Prompt:** All of us love life, the greatest gift of the gods.
-**Key:** Vitam, māximum dōnum deōrum, nōs omnēs amāmus.
+**Key:** Vītam, maximum dōnum deōrum, nōs omnēs amāmus.
 
 **Prompt:** The king lost his kingdom and his riches, the things most pleasant to him.
-**Key:** Rex regnum suum dīvitiāsque suās, rēs sibi iūcundissimās, perdidit.
+**Key:** Rēx rēgnum suum dīvitiāsque suās, rēs sibi iūcundissimās, perdidit.
 
 **Prompt:** Citizens, obey me, your king.
-**Key:** Pārēte mihi, cīvitēs, rēgī vestrō.
+**Key:** Pārēte mihi, cīvēs, rēgī vestrō.
 
 **Prompt:** Neither the king nor his sons will be killed.
 **Key:** Neque rēx neque fīliī eius interficientur.
@@ -177,22 +177,22 @@
 **Key:** Rēx et fīlius eius Cāius interfectī sunt.
 
 **Prompt:** He and I will go away.
-**Key:** Is et ego abībimus.
+**Key:** Ego et is abībimus.
 
 **Prompt:** Give the letter to me, your king.
 **Key:** Epistulam mihi, rēgī tuō, dā.
 
 **Prompt:** She and her brother have been sent home.
-**Key:** Ea et frāter sua domum dīmissī sunt.
+**Key:** Ea et frāter eius domum dīmissī sunt.
 
 **Prompt:** His father, the king of Italy, has sent him.
-**Key:** Pāter eius, rēx Itāliae, eum mīsit.
+**Key:** Pater eius, rēx Italiae, eum mīsit.
 
 **Prompt:** I have come to you, my own brother.
-**Key:** Ad tē, fratrem meum, advēnī.
+**Key:** Ad tē, frātrem meum, advēnī.
 
 **Prompt:** Both the men and the women are good citizens.
-**Key:** Et virī et feminae bōnī sunt cīvēs.
+**Key:** Et virī et fēminae bonī sunt cīvēs.
 
 ### Exercise D
 
