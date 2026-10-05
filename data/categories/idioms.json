@@ -1247,7 +1247,7 @@
     "gloss": "what should be done?",
     "category": "Misc",
     "inflection": "flexible",
-    "notes": "gerund of obligation. The mood may vary: e.g., *quid faciendum sit*.\nIn a direct question either mood is available, the subjunctive being the more deliberative. In an indirect question the subjunctive is obligatory: *reperio quid faciendum sit*.",
+    "notes": "gerund of obligation. The mood may vary: e.g., *quid faciendum sit*.",
     "examples": [
       {
         "citation": "Cicero, *De Partitione Oratoria* 15.1",
@@ -1716,16 +1716,16 @@
     "notes": "",
     "examples": [
       {
-        "citation": "Cicero, *Laelius de Amicitia* 29.2",
-        "quote": "vel in eis, quos numquam vidimus, vel, quod maius est, in hoste etiam diligamus"
+        "citation": "Cicero, *Laelius de Amicitia* 29.1",
+        "quote": "Quodsi tanta vis probitatis est, ut eam vel in eis, quos numquam vidimus, vel, quod maius est, in hoste etiam diligamus, quid mirum est, si animi hominum moveantur, cum eorum, quibuscum usu coniuncti esse possunt, virtutem et bonitatem perspicere videantur?"
       },
       {
         "citation": "Titus Livius, *Ab Urbe Condita* 34.4.18.2",
-        "quote": "nunc volgo alienos viros rogant et, quod maius est, legem et suffragia rogant"
+        "quote": "nunc volgo alienos viros rogant et, quod maius est, legem et suffragia rogant et a quibusdam impetrant."
       },
       {
         "citation": "Quintilian, *Institutio Oratoria* 1.6.44.3",
-        "quote": "non orationi modo sed, quod maius est, vitae: unde enim tantum boni"
+        "quote": "Quae si ex eo quod plures faciunt nomen accipiat, periculosissimum dabit praeceptum non orationi modo sed, quod maius est, vitae: unde enim tantum boni ut pluribus quae recta sunt placeant?"
       }
     ]
   },
@@ -1805,7 +1805,7 @@
       },
       {
         "citation": "Plautus, *Miles Gloriosus* 1278",
-        "quote": "Mil. Quia aedís dotalis huius sunt. Pyrg. Itane?"
+        "quote": "Mil. Quia aedis dotalis huius sunt. Pyrg. Itane?"
       }
     ]
   },

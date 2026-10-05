@@ -919,8 +919,6 @@ However, *quantulum memini*, with the diminutive and a finite verb, is attested 
 
 **Note:** gerund of obligation. The mood may vary: e.g., *quid faciendum sit*.
 
-In a direct question either mood is available, the subjunctive being the more deliberative. In an indirect question the subjunctive is obligatory: *reperio quid faciendum sit*.
-
 **Examples:**
 > Cicero, *De Partitione Oratoria* 15.1: "Quid faciendum est contra reo?"
 > Cicero, *In Verrem* 2.4.11.1: "Quid igitur nobis faciendum est? num argumentis utendum in re eius modi?"
@@ -1261,9 +1259,9 @@ In a direct question either mood is available, the subjunctive being the more de
 **Note:**
 
 **Examples:** 
-> Cicero, *Laelius de Amicitia* 29.2: "vel in eis, quos numquam vidimus, vel, quod maius est, in hoste etiam diligamus"
-> Titus Livius, *Ab Urbe Condita* 34.4.18.2: "nunc volgo alienos viros rogant et, quod maius est, legem et suffragia rogant"
-> Quintilian, *Institutio Oratoria* 1.6.44.3: "non orationi modo sed, quod maius est, vitae: unde enim tantum boni"
+> Cicero, *Laelius de Amicitia* 29.1: "Quodsi tanta vis probitatis est, ut eam vel in eis, quos numquam vidimus, vel, quod maius est, in hoste etiam diligamus, quid mirum est, si animi hominum moveantur, cum eorum, quibuscum usu coniuncti esse possunt, virtutem et bonitatem perspicere videantur?"
+> Titus Livius, *Ab Urbe Condita* 34.4.18.2: "nunc volgo alienos viros rogant et, quod maius est, legem et suffragia rogant et a quibusdam impetrant."
+> Quintilian, *Institutio Oratoria* 1.6.44.3: "Quae si ex eo quod plures faciunt nomen accipiat, periculosissimum dabit praeceptum non orationi modo sed, quod maius est, vitae: unde enim tantum boni ut pluribus quae recta sunt placeant?"
 
 # quō modo dīcam
 
@@ -1329,7 +1327,7 @@ In a direct question either mood is available, the subjunctive being the more de
 **Examples:**
 > Plautus, *Curculio* 725: "Ther. Itane vero? Capp. Ita hercle vero."
 > Plautus, *Mercator* 919: "Itane? commodum illi non est, quae me amat, quam ego contra amo?"
-> Plautus, *Miles Gloriosus* 1278: "Mil. Quia aedís dotalis huius sunt. Pyrg. Itane?"
+> Plautus, *Miles Gloriosus* 1278: "Mil. Quia aedis dotalis huius sunt. Pyrg. Itane?"
 
 # meā interest
 
