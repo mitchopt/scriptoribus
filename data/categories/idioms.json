@@ -216,7 +216,7 @@
   {
     "id": "i010",
     "latin": "solitus sum (+inf)",
-    "gloss": "I used to",
+    "gloss": "I used to, I was once accustomed to",
     "category": "Temporal",
     "inflection": "flexible",
     "notes": "*solitus* may inflect: e.g., *soliti sunt*, *solita es*.",
@@ -344,10 +344,6 @@
     "notes": "*videtur* may inflect: e.g., *tibi videtur*.",
     "examples": [
       {
-        "citation": "Plautus, *Persa* 536",
-        "quote": "Nil pericli mihi videtur"
-      },
-      {
         "citation": "Plautus, *Bacchides* 842",
         "quote": "Quid nunc? scelestus tibi videtur Chrysalus?"
       },
@@ -358,10 +354,6 @@
       {
         "citation": "Cicero, *In Verrem* 1.1.15.6",
         "quote": "Neque enim mihi videtur haec multitudo, quae ad audiendum convenit, cognoscere ex me causam voluisse"
-      },
-      {
-        "citation": "Cicero, *Pro Murena* 43.8",
-        "quote": "tibi solitus sum dicere magis te fortem accusatorem mihi videri quam sapientem candidatum"
       }
     ]
   },

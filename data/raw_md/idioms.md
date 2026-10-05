@@ -163,7 +163,7 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 
 **Category:** Temporal
 
-**Meaning:** I used to
+**Meaning:** I used to, I was once accustomed to
 
 **Search:** `solitus ~ sum`
 
@@ -262,11 +262,9 @@ We also have the reverse construction, *paucis ante diebus (a few days earlier)*
 **Note:** *videtur* may inflect: e.g., *tibi videtur*.
 
 **Examples:** 
-> Plautus, *Persa* 536: "Nil pericli mihi videtur"
 > Plautus, *Bacchides* 842: "Quid nunc? scelestus tibi videtur Chrysalus?"
 > Cicero, *Pro S. Roscio Amerino* 83.4: "Is enim mihi videtur amplissimus qui sua virtute in altiorem locum pervenit"
 > Cicero, *In Verrem* 1.1.15.6: "Neque enim mihi videtur haec multitudo, quae ad audiendum convenit, cognoscere ex me causam voluisse"
-> Cicero, *Pro Murena* 43.8: "tibi solitus sum dicere magis te fortem accusatorem mihi videri quam sapientem candidatum"
 
 # fieri potest ut
 
