@@ -334,102 +334,102 @@
             {
               "id": "ex01",
               "prompt": "Who saw the man, who killed the king?",
-              "key": "TODO"
+              "key": "Quis virum, quī rēgem interfēcit, vīdit?"
             },
             {
               "id": "ex02",
               "prompt": "Did you, who were present, see him?",
-              "key": "TODO"
+              "key": "Vīdistisne eum, vōs quī aderātis?"
             },
             {
               "id": "ex03",
               "prompt": "Did not Marius, the Roman general, conquer the Teutones?",
-              "key": "TODO"
+              "key": "Nōnne Marius, dux Rōmānus, Teutonēs vīcit?"
             },
             {
               "id": "ex04",
               "prompt": "He was not killed by the enemy, was he?",
-              "key": "TODO"
+              "key": "Num ab hostibus interfectus est?"
             },
             {
               "id": "ex05",
               "prompt": "Has he lost the presents which you gave him?",
-              "key": "TODO"
+              "key": "Perdiditne dōna quae eī dedistī?"
             },
             {
               "id": "ex06",
               "prompt": "What general conquered the Teutones?",
-              "key": "TODO"
+              "key": "Quis dux Teutonēs vīcit?"
             },
             {
               "id": "ex07",
               "prompt": "What did you buy for your brother?",
-              "key": "TODO"
+              "key": "Quid frātrī tuō ēmistī?"
             },
             {
               "id": "ex08",
               "prompt": "I have lost the book which I bought for my brother.",
-              "key": "TODO"
+              "key": "Librum perdidī quem frātrī meō ēmī."
             },
             {
               "id": "ex09",
               "prompt": "Whose son are you?",
-              "key": "TODO"
+              "key": "Cuius fīlius es?"
             },
             {
               "id": "ex10",
               "prompt": "Were you not present?",
-              "key": "TODO"
+              "key": "Nōnne aderās?"
             },
             {
               "id": "ex11",
               "prompt": "Surely he did not say that?",
-              "key": "TODO"
+              "key": "Num id dīxit?"
             },
             {
               "id": "ex12",
               "prompt": "What name is dearest to you?",
-              "key": "TODO"
+              "key": "Quod nōmen tibi est cārissimum?"
             },
             {
               "id": "ex13",
               "prompt": "This is the book that I lost.",
-              "key": "TODO"
+              "key": "Hic est liber quem perdidī."
             },
             {
               "id": "ex14",
               "prompt": "What cities has he taken?",
-              "key": "TODO"
+              "key": "Quās urbēs cēpit?"
             },
             {
               "id": "ex15",
               "prompt": "By whom was he killed?",
-              "key": "TODO"
+              "key": "Ā quō interfectus est?"
             },
             {
               "id": "ex16",
               "prompt": "Am I not your father?",
-              "key": "TODO"
+              "key": "Nōnne pater sum tuus?"
             },
             {
               "id": "ex17",
               "prompt": "He did not say that, did he?",
-              "key": "TODO"
+              "key": "Num id dīxit?"
             },
             {
               "id": "ex18",
               "prompt": "She is not the woman, whose son was present.",
-              "key": "TODO"
+              "key": "Ea nōn est mulier cuius fīlius aderat."
             },
             {
               "id": "ex19",
               "prompt": "What city do I see?",
-              "key": "TODO"
+              "key": "Quam urbem videō?"
             },
             {
               "id": "ex20",
               "prompt": "What man's house have you bought?",
-              "key": "TODO"
+              "key": "Domum cuius virī ēmistī?"
             }
           ]
         },

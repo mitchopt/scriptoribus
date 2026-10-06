@@ -197,64 +197,64 @@
 ### Exercise D
 
 **Prompt:** Who saw the man, who killed the king?
-**Key:** TODO
+**Key:** Quis virum, quī rēgem interfēcit, vīdit?
 
 **Prompt:** Did you, who were present, see him?
-**Key:** TODO
+**Key:** Vīdistisne eum, vōs quī aderātis?
 
 **Prompt:** Did not Marius, the Roman general, conquer the Teutones?
-**Key:** TODO
+**Key:** Nōnne Marius, dux Rōmānus, Teutonēs vīcit?
 
 **Prompt:** He was not killed by the enemy, was he?
-**Key:** TODO
+**Key:** Num ab hostibus interfectus est?
 
 **Prompt:** Has he lost the presents which you gave him?
-**Key:** TODO
+**Key:** Perdiditne dōna quae eī dedistī?
 
 **Prompt:** What general conquered the Teutones?
-**Key:** TODO
+**Key:** Quis dux Teutonēs vīcit?
 
 **Prompt:** What did you buy for your brother?
-**Key:** TODO
+**Key:** Quid frātrī tuō ēmistī?
 
 **Prompt:** I have lost the book which I bought for my brother.
-**Key:** TODO
+**Key:** Librum perdidī quem frātrī meō ēmī.
 
 **Prompt:** Whose son are you?
-**Key:** TODO
+**Key:** Cuius fīlius es?
 
 **Prompt:** Were you not present?
-**Key:** TODO
+**Key:** Nōnne aderās?
 
 **Prompt:** Surely he did not say that?
-**Key:** TODO
+**Key:** Num id dīxit?
 
 **Prompt:** What name is dearest to you?
-**Key:** TODO
+**Key:** Quod nōmen tibi est cārissimum?
 
 **Prompt:** This is the book that I lost.
-**Key:** TODO
+**Key:** Hic est liber quem perdidī.
 
 **Prompt:** What cities has he taken?
-**Key:** TODO
+**Key:** Quās urbēs cēpit?
 
 **Prompt:** By whom was he killed?
-**Key:** TODO
+**Key:** Ā quō interfectus est?
 
 **Prompt:** Am I not your father?
-**Key:** TODO
+**Key:** Nōnne pater sum tuus?
 
 **Prompt:** He did not say that, did he?
-**Key:** TODO
+**Key:** Num id dīxit?
 
 **Prompt:** She is not the woman, whose son was present.
-**Key:** TODO
+**Key:** Ea nōn est mulier cuius fīlius aderat.
 
 **Prompt:** What city do I see?
-**Key:** TODO
+**Key:** Quam urbem videō?
 
 **Prompt:** What man's house have you bought?
-**Key:** TODO
+**Key:** Domum cuius virī ēmistī?
 
 ### Exercise E
 
