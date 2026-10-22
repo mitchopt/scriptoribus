@@ -445,151 +445,154 @@
 ### Exercise H
 
 **Prompt:** Among the captives.
-**Key:** TODO
+**Key:** Inter captīvōs.
 
 **Prompt:** At the house of Caius.
-**Key:** TODO
+**Key:** Apud Cāium.
 
 **Prompt:** Over and above the dowry.
-**Key:** TODO
+**Key:** Super dōtem.
 
 **Prompt:** Before his feet.
-**Key:** TODO
+**Key:** Ante pedēs eius.
 
 **Prompt:** Without a ransom.
-**Key:** TODO
+**Key:** Sine pretiō.
 
 **Prompt:** From him.
-**Key:** TODO
+**Key:** Ab eō.
 
 **Prompt:** With his friends.
-**Key:** TODO
+**Key:** Cum amīcīs eius.
 
 **Prompt:** With you.
-**Key:** TODO
+**Key:** Tēcum.
 
 **Prompt:** Because of his age.
-**Key:** TODO
+**Key:** Propter aetātem eius.
 
 **Prompt:** Owing to his joy.
-**Key:** TODO
+**Key:** Ob gaudium eius.
 
 **Prompt:** Through fear.
-**Key:** TODO
+**Key:** Per timōrem.
 
 **Prompt:** Kind towards the poor.
-**Key:** TODO
+**Key:** Benignus ergā pauperēs.
 
 **Prompt:** To advance towards the city.
-**Key:** TODO
+**Key:** Ad urbem prōgredī.
 
 **Prompt:** Through the river.
-**Key:** TODO
+**Key:** Per flūmen.
 
 **Prompt:** In the presence of the king.
-**Key:** TODO
+**Key:** Cōram rēge.
 
 **Prompt:** Through scouts.
-**Key:** TODO
+**Key:** Per explōrātōrēs.
 
 **Prompt:** By the king.
-**Key:** TODO
+**Key:** Ā rēge.
 
 **Prompt:** From the fame of his deeds.
-**Key:** TODO
+**Key:** Ex fāmā rērum eius gestārum.
 
 **Prompt:** From that time.
-**Key:** TODO
+**Key:** Ex eō tempore.
 
 **Prompt:** Out of the bravest soldiers.
-**Key:** TODO
+**Key:** Ē fortissimīs mīlitibus.
 
 **Prompt:** He was sent to him with gifts.
-**Key:** TODO
+**Key:** Ad eum missus est cum dōnīs.
 
 **Prompt:** As hostages.
-**Key:** TODO
+**Key:** Prō obsidibus.
 
 **Prompt:** For so great a service.
-**Key:** TODO
+**Key:** Prō tantō meritō.
 
 **Prompt:** Instead of horses.
-**Key:** TODO
+**Key:** Prō equīs.
 
 **Prompt:** On the nearest hill.
-**Key:** TODO
+**Key:** In colle proximō.
 
 **Prompt:** Into his alliance.
-**Key:** TODO
+**Key:** In societātem eius.
 
 **Prompt:** Under the general himself.
-**Key:** TODO
+**Key:** Sub duce ipsō.
 
 **Prompt:** At my house.
-**Key:** TODO
+**Key:** Apud mē.
 
 **Prompt:** To go under the earth.
-**Key:** TODO
+**Key:** Sub terram īre.
 
 **Prompt:** About terms of peace.
-**Key:** TODO
+**Key:** Dē pācis condiciōnibus.
 
 **Prompt:** Before a year.
-**Key:** TODO
+**Key:** Ante annum.
 
 **Prompt:** Round about the city.
-**Key:** TODO
+**Key:** Circum urbem.
 
 **Prompt:** On this side of the mountains.
-**Key:** TODO
+**Key:** Cis montēs.
 
 **Prompt:** Besides the messenger.
-**Key:** TODO
+**Key:** Praeter nūntium.
 
 **Prompt:** Except the poet.
-**Key:** TODO
+**Key:** Praeter poētam.
 
 **Prompt:** Against Antiochus.
-**Key:** TODO
+**Key:** Contrā Antiochum.
 
 **Prompt:** About a thousand men.
-**Key:** TODO
+**Key:** Ad mīlle virōs.
 
 **Prompt:** Around the mountain.
-**Key:** TODO
+**Key:** Circum montem.
 
 **Prompt:** Within the camp.
-**Key:** TODO
+**Key:** Intrā castra.
 
 **Prompt:** Outside the gates.
-**Key:** TODO
+**Key:** Extrā portās.
+
+**Prompt:** Below the city walls.
+**Key:** Īnfrā mūrōs urbis.
 
 **Prompt:** In the power of the enemy.
-**Key:** TODO
+**Key:** In hostium potestāte.
 
 **Prompt:** Behind the horsemen.
-**Key:** TODO
+**Key:** Post equitēs.
 
 **Prompt:** According to the laws.
-**Key:** TODO
+**Key:** Secundum lēgēs.
 
 **Prompt:** Contrary to the laws.
-**Key:** TODO
+**Key:** Contrā lēgēs.
 
 **Prompt:** Adjoining the camp.
-**Key:** TODO
+**Key:** Iuxtā castra.
 
 **Prompt:** As far as his head.
-**Key:** TODO
+**Key:** Capite tenus.
 
 **Prompt:** Near the garden.
-**Key:** TODO
+**Key:** Prope hortum.
 
 **Prompt:** The army was sent under the yoke.
-**Key:** TODO
+**Key:** Exercitus sub iugum missus est.
 
 **Prompt:** It lies under your eyes.
-**Key:** TODO
+**Key:** Sub oculīs tuīs iacet.
 
 ### Exercise K
 
