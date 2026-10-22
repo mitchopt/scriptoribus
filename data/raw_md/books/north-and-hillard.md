@@ -321,64 +321,64 @@
 ### Exercise F
 
 **Prompt:** He killed himself with his own sword.
-**Key:** TODO
+**Key:** Sē gladiō suō interfēcit.
 
 **Prompt:** He has a garden which was given him by his friend.
-**Key:** TODO
+**Key:** Is hortum habet quī eī dātur ab amīcīs eius.
 
 **Prompt:** He bought the house for himself and his wife.
-**Key:** TODO
+**Key:** Is dōmum ēmit sibi uxōrīque suī.
 
 **Prompt:** I have never seen him himself, but I have seen his children.
-**Key:** TODO
+**Key:** Numquam eum ipsum vīdī, sed līberōs eius vīdī.
 
 **Prompt:** His children ask him for bread, which he cannot give them.
-**Key:** TODO
+**Key:** Līberī eius eum pānem rogant, quem eīs dāre nōn potest.
 
 **Prompt:** He has given his children the bread which they asked him for.
-**Key:** TODO
+**Key:** Pānem līberīs suīs dedit, quem iī eum rogāverant.
 
 **Prompt:** They have ships and sailors, but they have not many harbours.
-**Key:** TODO
+**Key:** Nāvēs nautāsque habent, nōn autem multōs portūs.
 
 **Prompt:** He wished to conceal his opinion from me, but I asked his friends.
-**Key:** TODO
+**Key:** Is sententiam suam mē cēlāre volēbat, sed amicōs eius rogāvī.
 
 **Prompt:** You Gauls fear Caesar and his army.
-**Key:** TODO
+**Key:** Vōs Gallī Caesarem exercitumque eius timētis.
 
 **Prompt:** He led his army against the Gauls, and took their camp.
-**Key:** TODO
+**Key:** Contrā Gallōs exercitum suum dūxit, et castra eōrum cēpit.
 
 **Prompt:** The citizens themselves wished to make him consul.
-**Key:** TODO
+**Key:** Cīvēs ipsī eum cōnsulem creāre volēbant.
 
 **Prompt:** We have many friends, whom we do not often see.
-**Key:** TODO
+**Key:** Multōs habēmus amicōs, quōs nōn saepe vidēmus.
 
 **Prompt:** I myself will give you his sword.
-**Key:** TODO
+**Key:** Ego ipse gladium eius tibi dabō.
 
 **Prompt:** We ourselves have many ships.
-**Key:** TODO
+**Key:** Nōs ipsī multās habēmus nāvēs.
 
 **Prompt:** He himself gave me his own sword.
-**Key:** TODO
+**Key:** Is ipse gladium suum mihi dedit.
 
 **Prompt:** I killed him, because he wished to make himself king.
-**Key:** TODO
+**Key:** Eum interfēcī, quia sē rēgem creāre volēbat.
 
 **Prompt:** I had many friends once, but now I have few.
-**Key:** TODO
+**Key:** Ōlim multōs amicōs habuī, nunc autem paucōs.
 
 **Prompt:** I asked you for their bread.
-**Key:** TODO
+**Key:** Tē eōrum pānem rogāvī.
 
 **Prompt:** They gave us their sailors and ships.
-**Key:** TODO
+**Key:** Nautās nāvēsque suās nōbīs dedērunt.
 
 **Prompt:** We ourselves have been taught many things by him.
-**Key:** TODO
+**Key:** Nōs ipsī multa ab eō doctī sumus.
 
 ### Exercise G
 
