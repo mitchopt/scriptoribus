@@ -3,7 +3,7 @@
   "title": "Latin Prose Composition (WORK IN PROGRESS)",
   "author": "M. A. North and A. E. Hillard",
   "year": 1913,
-  "blurb": "North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. This note will be removed after careful manual review.*",
+  "blurb": "North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. Only the preliminary exercises are finished and carefully proofread. This note will be removed after careful manual review.*",
   "chapters": [
     {
       "id": "ch01",
@@ -334,102 +334,102 @@
             {
               "id": "ex01",
               "prompt": "Who saw the man, who killed the king?",
-              "key": "TODO"
+              "key": "Quis virum, quī rēgem interfēcit, vīdit?"
             },
             {
               "id": "ex02",
               "prompt": "Did you, who were present, see him?",
-              "key": "TODO"
+              "key": "Vīdistisne eum, vōs quī aderātis?"
             },
             {
               "id": "ex03",
               "prompt": "Did not Marius, the Roman general, conquer the Teutones?",
-              "key": "TODO"
+              "key": "Nōnne Marius, dux Rōmānus, Teutonēs vīcit?"
             },
             {
               "id": "ex04",
               "prompt": "He was not killed by the enemy, was he?",
-              "key": "TODO"
+              "key": "Num ab hostibus interfectus est?"
             },
             {
               "id": "ex05",
               "prompt": "Has he lost the presents which you gave him?",
-              "key": "TODO"
+              "key": "Perdiditne dōna quae eī dedistī?"
             },
             {
               "id": "ex06",
               "prompt": "What general conquered the Teutones?",
-              "key": "TODO"
+              "key": "Quis dux Teutonēs vīcit?"
             },
             {
               "id": "ex07",
               "prompt": "What did you buy for your brother?",
-              "key": "TODO"
+              "key": "Quid frātrī tuō ēmistī?"
             },
             {
               "id": "ex08",
               "prompt": "I have lost the book which I bought for my brother.",
-              "key": "TODO"
+              "key": "Librum perdidī quem frātrī meō ēmī."
             },
             {
               "id": "ex09",
               "prompt": "Whose son are you?",
-              "key": "TODO"
+              "key": "Cuius fīlius es?"
             },
             {
               "id": "ex10",
               "prompt": "Were you not present?",
-              "key": "TODO"
+              "key": "Nōnne aderās?"
             },
             {
               "id": "ex11",
               "prompt": "Surely he did not say that?",
-              "key": "TODO"
+              "key": "Num id dīxit?"
             },
             {
               "id": "ex12",
               "prompt": "What name is dearest to you?",
-              "key": "TODO"
+              "key": "Quod nōmen tibi est cārissimum?"
             },
             {
               "id": "ex13",
               "prompt": "This is the book that I lost.",
-              "key": "TODO"
+              "key": "Hic est liber quem perdidī."
             },
             {
               "id": "ex14",
               "prompt": "What cities has he taken?",
-              "key": "TODO"
+              "key": "Quās urbēs cēpit?"
             },
             {
               "id": "ex15",
               "prompt": "By whom was he killed?",
-              "key": "TODO"
+              "key": "Ā quō interfectus est?"
             },
             {
               "id": "ex16",
               "prompt": "Am I not your father?",
-              "key": "TODO"
+              "key": "Nōnne pater sum tuus?"
             },
             {
               "id": "ex17",
               "prompt": "He did not say that, did he?",
-              "key": "TODO"
+              "key": "Num id dīxit?"
             },
             {
               "id": "ex18",
               "prompt": "She is not the woman, whose son was present.",
-              "key": "TODO"
+              "key": "Ea nōn est mulier cuius fīlius aderat."
             },
             {
               "id": "ex19",
               "prompt": "What city do I see?",
-              "key": "TODO"
+              "key": "Quam urbem videō?"
             },
             {
               "id": "ex20",
               "prompt": "What man's house have you bought?",
-              "key": "TODO"
+              "key": "Domum cuius virī ēmistī?"
             }
           ]
         },
@@ -440,102 +440,102 @@
             {
               "id": "ex01",
               "prompt": "The people elected Pompey consul.",
-              "key": "TODO"
+              "key": "Pompeium populus cōnsulem creāvit."
             },
             {
               "id": "ex02",
               "prompt": "Marius, who was often elected consul, was a great general.",
-              "key": "TODO"
+              "key": "Marius, quī saepe cōnsul creābātur, dux fuit magnus."
             },
             {
               "id": "ex03",
               "prompt": "You have often asked me for advice, which I cannot give you.",
-              "key": "TODO"
+              "key": "Saepe mē cōnsilium rogāvistī, quod tibi dare nōn possum."
             },
             {
               "id": "ex04",
               "prompt": "He was thought a good general by all.",
-              "key": "TODO"
+              "key": "Dux bonus esse ab omnibus putābātur."
             },
             {
               "id": "ex05",
               "prompt": "You wished to conceal the sword from me, but it was given me by the slave.",
-              "key": "TODO"
+              "key": "Gladium mē cēlāre volēbās, sed is mihi ā servō datus est."
             },
             {
               "id": "ex06",
               "prompt": "You have been taught many things by your master.",
-              "key": "TODO"
+              "key": "Multa ā magistrō tuō doctus es."
             },
             {
               "id": "ex07",
               "prompt": "Did I not teach you Greek?",
-              "key": "TODO"
+              "key": "Nōnne linguam Graecam tē docuī?"
             },
             {
               "id": "ex08",
               "prompt": "The general asked the consul for the soldiers.",
-              "key": "TODO"
+              "key": "Dux cōnsulem mīlitēs rogāvit."
             },
             {
               "id": "ex09",
               "prompt": "Marius, who became the enemy of Sulla, killed many Roman citizens.",
-              "key": "TODO"
+              "key": "Marius, quī Sullae hostis factus est, multōs cīvēs Rōmānōs interfēcit."
             },
             {
               "id": "ex10",
               "prompt": "You and I will hide this from our friends.",
-              "key": "TODO"
+              "key": "Ego et tū hoc amīcōs nostrōs cēlābimus."
             },
             {
               "id": "ex11",
               "prompt": "He, having been made king, did not ask his people for advice.",
-              "key": "TODO"
+              "key": "Is, rēx creātus, populum suum cōnsilium nōn rogāvit."
             },
             {
               "id": "ex12",
               "prompt": "We were asked for the sword, which we had concealed from our father.",
-              "key": "TODO"
+              "key": "Nōs gladium rogātī sumus, quem patrem nostrum cēlāverāmus."
             },
             {
               "id": "ex13",
               "prompt": "I was asked by Caius for a sword,",
-              "key": "TODO"
+              "key": "Ā Cāiō gladium rogātus sum."
             },
             {
               "id": "ex14",
               "prompt": "They were thought to be very wise.",
-              "key": "TODO"
+              "key": "Illī sapientissimī esse putābantur."
             },
             {
               "id": "ex15",
               "prompt": "I hid from Caius the sword for which you asked me.",
-              "key": "TODO"
+              "key": "Gladium quem mē rogāvistī Cāium cēlāvī."
             },
             {
               "id": "ex16",
               "prompt": "Were you not taught Greek by your master?",
-              "key": "TODO"
+              "key": "Nōnne linguam Graecam ā magistrō tuō doctus es?"
             },
             {
               "id": "ex17",
               "prompt": "They became consuls, because they were thought to be wise.",
-              "key": "TODO"
+              "key": "Cōnsulēs factī sunt, quia sapientēs esse putābantur."
             },
             {
               "id": "ex18",
               "prompt": "Why did you hide this from Caius?",
-              "key": "TODO"
+              "key": "Cūr Cāium hoc cēlāvistī?"
             },
             {
               "id": "ex19",
               "prompt": "You, who did this, were not elected consul by the citizens.",
-              "key": "TODO"
+              "key": "Tū, quī hoc fēcistī, cōnsul ā cīvibus creātus nōn es."
             },
             {
               "id": "ex20",
               "prompt": "The man, whom you asked for advice, has taught me many things.",
-              "key": "TODO"
+              "key": "Vir, quem cōnsilium rogāvistī, multa mē docuit."
             }
           ]
         },
@@ -546,102 +546,102 @@
             {
               "id": "ex01",
               "prompt": "He killed himself with his own sword.",
-              "key": "TODO"
+              "key": "Sē gladiō suō interfēcit."
             },
             {
               "id": "ex02",
               "prompt": "He has a garden which was given him by his friend.",
-              "key": "TODO"
+              "key": "Is hortum habet quī eī ab amīcō eius datus est."
             },
             {
               "id": "ex03",
               "prompt": "He bought the house for himself and his wife.",
-              "key": "TODO"
+              "key": "Is domum ēmit sibi uxōrīque suae."
             },
             {
               "id": "ex04",
               "prompt": "I have never seen him himself, but I have seen his children.",
-              "key": "TODO"
+              "key": "Numquam eum ipsum vīdī, sed līberōs eius vīdī."
             },
             {
               "id": "ex05",
               "prompt": "His children ask him for bread, which he cannot give them.",
-              "key": "TODO"
+              "key": "Līberī eius eum pānem rogant, quem eīs dare nōn potest."
             },
             {
               "id": "ex06",
               "prompt": "He has given his children the bread which they asked him for.",
-              "key": "TODO"
+              "key": "Pānem līberīs suīs dedit, quem iī eum rogāverant."
             },
             {
               "id": "ex07",
               "prompt": "They have ships and sailors, but they have not many harbours.",
-              "key": "TODO"
+              "key": "Eīs sunt nāvēs nautaeque, sed nōn multī portūs."
             },
             {
               "id": "ex08",
               "prompt": "He wished to conceal his opinion from me, but I asked his friends.",
-              "key": "TODO"
+              "key": "Is sententiam suam mē cēlāre volēbat, sed amīcōs eius rogāvī."
             },
             {
               "id": "ex09",
               "prompt": "You Gauls fear Caesar and his army.",
-              "key": "TODO"
+              "key": "Vōs Gallī Caesarem exercitumque eius timētis."
             },
             {
               "id": "ex10",
               "prompt": "He led his army against the Gauls, and took their camp.",
-              "key": "TODO"
+              "key": "Contrā Gallōs exercitum suum dūxit, et castra eōrum cēpit."
             },
             {
               "id": "ex11",
               "prompt": "The citizens themselves wished to make him consul.",
-              "key": "TODO"
+              "key": "Cīvēs ipsī eum cōnsulem creāre volēbant."
             },
             {
               "id": "ex12",
               "prompt": "We have many friends, whom we do not often see.",
-              "key": "TODO"
+              "key": "Multī nōbīs sunt amīcī, quōs nōn saepe vidēmus."
             },
             {
               "id": "ex13",
               "prompt": "I myself will give you his sword.",
-              "key": "TODO"
+              "key": "Ego ipse gladium eius tibi dabō."
             },
             {
               "id": "ex14",
               "prompt": "We ourselves have many ships.",
-              "key": "TODO"
+              "key": "Nōbīs ipsīs multae sunt nāvēs."
             },
             {
               "id": "ex15",
               "prompt": "He himself gave me his own sword.",
-              "key": "TODO"
+              "key": "Is ipse gladium suum mihi dedit."
             },
             {
               "id": "ex16",
               "prompt": "I killed him, because he wished to make himself king.",
-              "key": "TODO"
+              "key": "Eum interfēcī, quia sē rēgem creāre volēbat."
             },
             {
               "id": "ex17",
               "prompt": "I had many friends once, but now I have few.",
-              "key": "TODO"
+              "key": "Ōlim mihi multī erant amīcī, nunc paucī sunt."
             },
             {
               "id": "ex18",
               "prompt": "I asked you for their bread.",
-              "key": "TODO"
+              "key": "Tē eōrum pānem rogāvī."
             },
             {
               "id": "ex19",
               "prompt": "They gave us their sailors and ships.",
-              "key": "TODO"
+              "key": "Nautās nāvēsque suās nōbīs dedērunt."
             },
             {
               "id": "ex20",
               "prompt": "We ourselves have been taught many things by him.",
-              "key": "TODO"
+              "key": "Nōs ipsī multa ab eō doctī sumus."
             }
           ]
         },
@@ -652,102 +652,102 @@
             {
               "id": "ex01",
               "prompt": "A state which has a good king enjoys peace.",
-              "key": "TODO"
+              "key": "Cīvitās cui rēx bonus est pāce fruitur."
             },
             {
               "id": "ex02",
               "prompt": "Relying on the courage of his soldiers, he led them against the enemy.",
-              "key": "TODO"
+              "key": "Virtūte mīlitum suōrum frētus, eōs contrā hostēs dūxit."
             },
             {
               "id": "ex03",
               "prompt": "They died of fear.",
-              "key": "TODO"
+              "key": "Mortuī sunt timōre."
             },
             {
               "id": "ex04",
               "prompt": "Oxen feed on grass, and lions on flesh.",
-              "key": "TODO"
+              "key": "Bovēs herbā vescuntur, et leōnēs carne."
             },
             {
               "id": "ex05",
               "prompt": "We use riches, and wish to get possession of them.",
-              "key": "TODO"
+              "key": "Dīvitiīs ūtimur, et eīs potīrī volumus."
             },
             {
               "id": "ex06",
               "prompt": "Relying on his wings, Mercury had no need of a ship.",
-              "key": "TODO"
+              "key": "Mercuriō, ālīs suīs frētō, nāve nōn opus erat."
             },
             {
               "id": "ex07",
               "prompt": "A man who performs his duty is worthy of praise.",
-              "key": "TODO"
+              "key": "Vir quī officiō suō fungitur laude est dignus."
             },
             {
               "id": "ex08",
               "prompt": "The enemy wish to get possession of our camp.",
-              "key": "TODO"
+              "key": "Hostēs castrīs nostrīs potīrī volunt."
             },
             {
               "id": "ex09",
               "prompt": "Through his help I can now use my sword.",
-              "key": "TODO"
+              "key": "Auxiliō eius nunc gladiō meō ūtī possum."
             },
             {
               "id": "ex10",
               "prompt": "We have need of the soldiers we have asked him for.",
-              "key": "TODO"
+              "key": "Nōbīs opus est mīlitibus quōs eum rogāvimus."
             },
             {
               "id": "ex11",
               "prompt": "A man who is contented with little is worthy of a happy life.",
-              "key": "TODO"
+              "key": "Vir quī parvō contentus est, vītā beātā dignus est."
             },
             {
               "id": "ex12",
               "prompt": "We shall often use the books which you have given us.",
-              "key": "TODO"
+              "key": "Saepe librīs, quōs nōbīs dedistī, ūtēmur."
             },
             {
               "id": "ex13",
               "prompt": "You seem to me to be worthy of praise.",
-              "key": "TODO"
+              "key": "Mihi vidēris laude dignus esse."
             },
             {
               "id": "ex14",
               "prompt": "We have no need of these ships.",
-              "key": "TODO"
+              "key": "Hīs nāvibus nōn opus est nōbīs."
             },
             {
               "id": "ex15",
               "prompt": "They attacked the city, relying on the courage of their soldiers.",
-              "key": "TODO"
+              "key": "Virtūte frētī mīlitum suōrum, urbem aggressī sunt."
             },
             {
               "id": "ex16",
               "prompt": "I did this through the advice of Caius.",
-              "key": "TODO"
+              "key": "Cōnsiliō Cāiī hoc fēcī."
             },
             {
               "id": "ex17",
               "prompt": "By this courage he took the city.",
-              "key": "TODO"
+              "key": "Hāc virtūte urbem cēpit."
             },
             {
               "id": "ex18",
               "prompt": "Did you use the riches which were given you?",
-              "key": "TODO"
+              "key": "Esne ūsus dīvitiīs quae tibi datae sunt?"
             },
             {
               "id": "ex19",
               "prompt": "Many men have died of hunger.",
-              "key": "TODO"
+              "key": "Multī virī famē mortuī sunt."
             },
             {
               "id": "ex20",
               "prompt": "You, who perform your duties well, have many friends.",
-              "key": "TODO"
+              "key": "Tibi, quī officiīs tuīs bene fungeris, multī sunt amīcī."
             }
           ]
         },
@@ -758,247 +758,252 @@
             {
               "id": "ex01",
               "prompt": "Among the captives.",
-              "key": "TODO"
+              "key": "Inter captīvōs."
             },
             {
               "id": "ex02",
               "prompt": "At the house of Caius.",
-              "key": "TODO"
+              "key": "Apud Cāium."
             },
             {
               "id": "ex03",
               "prompt": "Over and above the dowry.",
-              "key": "TODO"
+              "key": "Super dōtem."
             },
             {
               "id": "ex04",
               "prompt": "Before his feet.",
-              "key": "TODO"
+              "key": "Ante pedēs eius."
             },
             {
               "id": "ex05",
               "prompt": "Without a ransom.",
-              "key": "TODO"
+              "key": "Sine pretiō."
             },
             {
               "id": "ex06",
               "prompt": "From him.",
-              "key": "TODO"
+              "key": "Ab eō."
             },
             {
               "id": "ex07",
               "prompt": "With his friends.",
-              "key": "TODO"
+              "key": "Cum amīcīs eius."
             },
             {
               "id": "ex08",
               "prompt": "With you.",
-              "key": "TODO"
+              "key": "Tēcum."
             },
             {
               "id": "ex09",
               "prompt": "Because of his age.",
-              "key": "TODO"
+              "key": "Propter aetātem eius."
             },
             {
               "id": "ex10",
               "prompt": "Owing to his joy.",
-              "key": "TODO"
+              "key": "Ob gaudium eius."
             },
             {
               "id": "ex11",
               "prompt": "Through fear.",
-              "key": "TODO"
+              "key": "Per timōrem."
             },
             {
               "id": "ex12",
               "prompt": "Kind towards the poor.",
-              "key": "TODO"
+              "key": "Benignus ergā pauperēs."
             },
             {
               "id": "ex13",
               "prompt": "To advance towards the city.",
-              "key": "TODO"
+              "key": "Ad urbem prōgredī."
             },
             {
               "id": "ex14",
               "prompt": "Through the river.",
-              "key": "TODO"
+              "key": "Per flūmen."
             },
             {
               "id": "ex15",
               "prompt": "In the presence of the king.",
-              "key": "TODO"
+              "key": "Cōram rēge."
             },
             {
               "id": "ex16",
               "prompt": "Through scouts.",
-              "key": "TODO"
+              "key": "Per explōrātōrēs."
             },
             {
               "id": "ex17",
               "prompt": "By the king.",
-              "key": "TODO"
+              "key": "Ā rēge."
             },
             {
               "id": "ex18",
               "prompt": "From the fame of his deeds.",
-              "key": "TODO"
+              "key": "Ex fāmā rērum eius gestārum."
             },
             {
               "id": "ex19",
               "prompt": "From that time.",
-              "key": "TODO"
+              "key": "Ex eō tempore."
             },
             {
               "id": "ex20",
               "prompt": "Out of the bravest soldiers.",
-              "key": "TODO"
+              "key": "Ē fortissimīs mīlitibus."
             },
             {
               "id": "ex21",
               "prompt": "He was sent to him with gifts.",
-              "key": "TODO"
+              "key": "Ad eum missus est cum dōnīs."
             },
             {
               "id": "ex22",
               "prompt": "As hostages.",
-              "key": "TODO"
+              "key": "Prō obsidibus."
             },
             {
               "id": "ex23",
               "prompt": "For so great a service.",
-              "key": "TODO"
+              "key": "Prō tantō meritō."
             },
             {
               "id": "ex24",
               "prompt": "Instead of horses.",
-              "key": "TODO"
+              "key": "Prō equīs."
             },
             {
               "id": "ex25",
               "prompt": "On the nearest hill.",
-              "key": "TODO"
+              "key": "In colle proximō."
             },
             {
               "id": "ex26",
               "prompt": "Into his alliance.",
-              "key": "TODO"
+              "key": "In societātem eius."
             },
             {
               "id": "ex27",
               "prompt": "Under the general himself.",
-              "key": "TODO"
+              "key": "Sub duce ipsō."
             },
             {
               "id": "ex28",
               "prompt": "At my house.",
-              "key": "TODO"
+              "key": "Apud mē."
             },
             {
               "id": "ex29",
               "prompt": "To go under the earth.",
-              "key": "TODO"
+              "key": "Sub terram īre."
             },
             {
               "id": "ex30",
               "prompt": "About terms of peace.",
-              "key": "TODO"
+              "key": "Dē pācis condiciōnibus."
             },
             {
               "id": "ex31",
               "prompt": "Before a year.",
-              "key": "TODO"
+              "key": "Ante annum."
             },
             {
               "id": "ex32",
               "prompt": "Round about the city.",
-              "key": "TODO"
+              "key": "Circum urbem."
             },
             {
               "id": "ex33",
               "prompt": "On this side of the mountains.",
-              "key": "TODO"
+              "key": "Cis montēs."
             },
             {
               "id": "ex34",
               "prompt": "Besides the messenger.",
-              "key": "TODO"
+              "key": "Praeter nūntium."
             },
             {
               "id": "ex35",
               "prompt": "Except the poet.",
-              "key": "TODO"
+              "key": "Praeter poētam."
             },
             {
               "id": "ex36",
               "prompt": "Against Antiochus.",
-              "key": "TODO"
+              "key": "Contrā Antiochum."
             },
             {
               "id": "ex37",
               "prompt": "About a thousand men.",
-              "key": "TODO"
+              "key": "Ad mīlle virōs."
             },
             {
               "id": "ex38",
               "prompt": "Around the mountain.",
-              "key": "TODO"
+              "key": "Circum montem."
             },
             {
               "id": "ex39",
               "prompt": "Within the camp.",
-              "key": "TODO"
+              "key": "Intrā castra."
             },
             {
               "id": "ex40",
               "prompt": "Outside the gates.",
-              "key": "TODO"
+              "key": "Extrā portās."
             },
             {
               "id": "ex41",
-              "prompt": "In the power of the enemy.",
-              "key": "TODO"
+              "prompt": "Below the city walls.",
+              "key": "Īnfrā mūrōs urbis."
             },
             {
               "id": "ex42",
-              "prompt": "Behind the horsemen.",
-              "key": "TODO"
+              "prompt": "In the power of the enemy.",
+              "key": "In hostium potestāte."
             },
             {
               "id": "ex43",
-              "prompt": "According to the laws.",
-              "key": "TODO"
+              "prompt": "Behind the horsemen.",
+              "key": "Post equitēs."
             },
             {
               "id": "ex44",
-              "prompt": "Contrary to the laws.",
-              "key": "TODO"
+              "prompt": "According to the laws.",
+              "key": "Secundum lēgēs."
             },
             {
               "id": "ex45",
-              "prompt": "Adjoining the camp.",
-              "key": "TODO"
+              "prompt": "Contrary to the laws.",
+              "key": "Contrā lēgēs."
             },
             {
               "id": "ex46",
-              "prompt": "As far as his head.",
-              "key": "TODO"
+              "prompt": "Adjoining the camp.",
+              "key": "Iuxtā castra."
             },
             {
               "id": "ex47",
-              "prompt": "Near the garden.",
-              "key": "TODO"
+              "prompt": "As far as his head.",
+              "key": "Capite tenus."
             },
             {
               "id": "ex48",
-              "prompt": "The army was sent under the yoke.",
-              "key": "TODO"
+              "prompt": "Near the garden.",
+              "key": "Prope hortum."
             },
             {
               "id": "ex49",
+              "prompt": "The army was sent under the yoke.",
+              "key": "Exercitus sub iugum missus est."
+            },
+            {
+              "id": "ex50",
               "prompt": "It lies under your eyes.",
-              "key": "TODO"
+              "key": "Sub oculīs tuīs iacet."
             }
           ]
         },
@@ -1009,127 +1014,127 @@
             {
               "id": "ex01",
               "prompt": "He came into the city with ten soldiers.",
-              "key": "TODO"
+              "key": "In urbem vēnit cum decem mīlitibus."
             },
             {
               "id": "ex02",
               "prompt": "After one night he set out against the enemy.",
-              "key": "TODO"
+              "key": "Post ūnam noctem contrā hostēs profectus est."
             },
             {
               "id": "ex03",
               "prompt": "In front of the house there is a field.",
-              "key": "TODO"
+              "key": "Ante domum ager est."
             },
             {
               "id": "ex04",
               "prompt": "I cannot go across the sea without ships.",
-              "key": "TODO"
+              "key": "Sine nāvibus trāns mare īre nōn possum."
             },
             {
               "id": "ex05",
               "prompt": "He was killed by his brother at a feast, amid all his friends.",
-              "key": "TODO"
+              "key": "In cēnā interfectus est ā frātre suō, inter omnēs suōs amīcōs."
             },
             {
               "id": "ex06",
               "prompt": "He spoke to me about your house in your presence.",
-              "key": "TODO"
+              "key": "Is dē domō tuā mēcum locūtus est cōram tē."
             },
             {
               "id": "ex07",
               "prompt": "He went round about the city, and saw the walls.",
-              "key": "TODO"
+              "key": "Circum urbem iit, mūrōsque vīdit."
             },
             {
               "id": "ex08",
               "prompt": "He came towards me, and called out, \"Who is in the city?\"",
-              "key": "TODO"
+              "key": "Ad mē vēnit, et \"Quis inest in urbe?\" clāmāvit."
             },
             {
               "id": "ex09",
               "prompt": "The camp is on this side of the river, the army is beyond the city.",
-              "key": "TODO"
+              "key": "Castra cis flūmen sunt, exercitus ultrā urbem est."
             },
             {
               "id": "ex10",
               "prompt": "On account of the war no one goes outside the gates.",
-              "key": "TODO"
+              "key": "Ob bellum, nēmō extrā portās prōgreditur."
             },
             {
               "id": "ex11",
               "prompt": "Besides these men we have no army in the city.",
-              "key": "TODO"
+              "key": "Praeter hōs virōs, nūllus est exercitus nōbīs in urbe."
             },
             {
               "id": "ex12",
               "prompt": "We saw him on the road.",
-              "key": "TODO"
+              "key": "Eum in viā vīdimus."
             },
             {
               "id": "ex13",
               "prompt": "He was brought by the soldiers into the presence of the king.",
-              "key": "TODO"
+              "key": "Is ā mīlitibus in cōnspectum rēgis adductus est."
             },
             {
               "id": "ex14",
               "prompt": "They escaped from prison without my knowledge.",
-              "key": "TODO"
+              "key": "Mē īnsciō ē carcere effūgērunt."
             },
             {
               "id": "ex15",
               "prompt": "They sailed past the island in a boat.",
-              "key": "TODO"
+              "key": "Praeter īnsulam in lintre nāvigāvērunt."
             },
             {
               "id": "ex16",
               "prompt": "We sailed as far as Spain (Hispania).",
-              "key": "TODO"
+              "key": "Hispāniā tenus nāvigāvimus."
             },
             {
               "id": "ex17",
               "prompt": "They live near the island of Corsica.",
-              "key": "TODO"
+              "key": "Prope īnsulam Corsicam habitant."
             },
             {
               "id": "ex18",
               "prompt": "He did this in sight of all.",
-              "key": "TODO"
+              "key": "Cōram omnibus hoc fēcit."
             },
             {
               "id": "ex19",
               "prompt": "I did this because of my friendship towards you.",
-              "key": "TODO"
+              "key": "Hoc fēcī propter amīcitiam meam ergā tē."
             },
             {
               "id": "ex20",
               "prompt": "Were you not going towards the city?",
-              "key": "TODO"
+              "key": "Nōnne ad urbem adībās?"
             },
             {
               "id": "ex21",
               "prompt": "Men who live underground.",
-              "key": "TODO"
+              "key": "Virī quī sub terrā habitant."
             },
             {
               "id": "ex22",
               "prompt": "He led an army over the mountains against the enemy.",
-              "key": "TODO"
+              "key": "Is exercitum super montēs in hostēs dūxit."
             },
             {
               "id": "ex23",
               "prompt": "After the battle they were killed outside the city walls in the presence of their friends.",
-              "key": "TODO"
+              "key": "Interfectī sunt post proelium extrā moenia cōram amīcīs suīs."
             },
             {
               "id": "ex24",
               "prompt": "Before daybreak they came close to (under) the walls of the town.",
-              "key": "TODO"
+              "key": "Ante prīmam lūcem sub mūrōs urbis vēnērunt."
             },
             {
               "id": "ex25",
               "prompt": "I killed him after these things, not on account of them.",
-              "key": "TODO"
+              "key": "Post hās rēs, nōn propter hās rēs, eum interfēcī."
             }
           ]
         }

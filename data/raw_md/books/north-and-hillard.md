@@ -4,7 +4,7 @@
 
 **Year:** 1913
 
-**Blurb:** North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. This note will be removed after careful manual review.*
+**Blurb:** North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. Only the preliminary exercises are finished and carefully proofread. This note will be removed after careful manual review.*
 
 ## Preliminary Exercises
 
@@ -197,476 +197,479 @@
 ### Exercise D
 
 **Prompt:** Who saw the man, who killed the king?
-**Key:** TODO
+**Key:** Quis virum, quī rēgem interfēcit, vīdit?
 
 **Prompt:** Did you, who were present, see him?
-**Key:** TODO
+**Key:** Vīdistisne eum, vōs quī aderātis?
 
 **Prompt:** Did not Marius, the Roman general, conquer the Teutones?
-**Key:** TODO
+**Key:** Nōnne Marius, dux Rōmānus, Teutonēs vīcit?
 
 **Prompt:** He was not killed by the enemy, was he?
-**Key:** TODO
+**Key:** Num ab hostibus interfectus est?
 
 **Prompt:** Has he lost the presents which you gave him?
-**Key:** TODO
+**Key:** Perdiditne dōna quae eī dedistī?
 
 **Prompt:** What general conquered the Teutones?
-**Key:** TODO
+**Key:** Quis dux Teutonēs vīcit?
 
 **Prompt:** What did you buy for your brother?
-**Key:** TODO
+**Key:** Quid frātrī tuō ēmistī?
 
 **Prompt:** I have lost the book which I bought for my brother.
-**Key:** TODO
+**Key:** Librum perdidī quem frātrī meō ēmī.
 
 **Prompt:** Whose son are you?
-**Key:** TODO
+**Key:** Cuius fīlius es?
 
 **Prompt:** Were you not present?
-**Key:** TODO
+**Key:** Nōnne aderās?
 
 **Prompt:** Surely he did not say that?
-**Key:** TODO
+**Key:** Num id dīxit?
 
 **Prompt:** What name is dearest to you?
-**Key:** TODO
+**Key:** Quod nōmen tibi est cārissimum?
 
 **Prompt:** This is the book that I lost.
-**Key:** TODO
+**Key:** Hic est liber quem perdidī.
 
 **Prompt:** What cities has he taken?
-**Key:** TODO
+**Key:** Quās urbēs cēpit?
 
 **Prompt:** By whom was he killed?
-**Key:** TODO
+**Key:** Ā quō interfectus est?
 
 **Prompt:** Am I not your father?
-**Key:** TODO
+**Key:** Nōnne pater sum tuus?
 
 **Prompt:** He did not say that, did he?
-**Key:** TODO
+**Key:** Num id dīxit?
 
 **Prompt:** She is not the woman, whose son was present.
-**Key:** TODO
+**Key:** Ea nōn est mulier cuius fīlius aderat.
 
 **Prompt:** What city do I see?
-**Key:** TODO
+**Key:** Quam urbem videō?
 
 **Prompt:** What man's house have you bought?
-**Key:** TODO
+**Key:** Domum cuius virī ēmistī?
 
 ### Exercise E
 
 **Prompt:** The people elected Pompey consul.
-**Key:** TODO
+**Key:** Pompeium populus cōnsulem creāvit.
 
 **Prompt:** Marius, who was often elected consul, was a great general.
-**Key:** TODO
+**Key:** Marius, quī saepe cōnsul creābātur, dux fuit magnus.
 
 **Prompt:** You have often asked me for advice, which I cannot give you.
-**Key:** TODO
+**Key:** Saepe mē cōnsilium rogāvistī, quod tibi dare nōn possum.
 
 **Prompt:** He was thought a good general by all.
-**Key:** TODO
+**Key:** Dux bonus esse ab omnibus putābātur.
 
 **Prompt:** You wished to conceal the sword from me, but it was given me by the slave.
-**Key:** TODO
+**Key:** Gladium mē cēlāre volēbās, sed is mihi ā servō datus est.
 
 **Prompt:** You have been taught many things by your master.
-**Key:** TODO
+**Key:** Multa ā magistrō tuō doctus es.
 
 **Prompt:** Did I not teach you Greek?
-**Key:** TODO
+**Key:** Nōnne linguam Graecam tē docuī?
 
 **Prompt:** The general asked the consul for the soldiers.
-**Key:** TODO
+**Key:** Dux cōnsulem mīlitēs rogāvit.
 
 **Prompt:** Marius, who became the enemy of Sulla, killed many Roman citizens.
-**Key:** TODO
+**Key:** Marius, quī Sullae hostis factus est, multōs cīvēs Rōmānōs interfēcit.
 
 **Prompt:** You and I will hide this from our friends.
-**Key:** TODO
+**Key:** Ego et tū hoc amīcōs nostrōs cēlābimus.
 
 **Prompt:** He, having been made king, did not ask his people for advice.
-**Key:** TODO
+**Key:** Is, rēx creātus, populum suum cōnsilium nōn rogāvit.
 
 **Prompt:** We were asked for the sword, which we had concealed from our father.
-**Key:** TODO
+**Key:** Nōs gladium rogātī sumus, quem patrem nostrum cēlāverāmus.
 
 **Prompt:** I was asked by Caius for a sword,
-**Key:** TODO
+**Key:** Ā Cāiō gladium rogātus sum.
 
 **Prompt:** They were thought to be very wise.
-**Key:** TODO
+**Key:** Illī sapientissimī esse putābantur.
 
 **Prompt:** I hid from Caius the sword for which you asked me.
-**Key:** TODO
+**Key:** Gladium quem mē rogāvistī Cāium cēlāvī.
 
 **Prompt:** Were you not taught Greek by your master?
-**Key:** TODO
+**Key:** Nōnne linguam Graecam ā magistrō tuō doctus es?
 
 **Prompt:** They became consuls, because they were thought to be wise.
-**Key:** TODO
+**Key:** Cōnsulēs factī sunt, quia sapientēs esse putābantur.
 
 **Prompt:** Why did you hide this from Caius?
-**Key:** TODO
+**Key:** Cūr Cāium hoc cēlāvistī?
 
 **Prompt:** You, who did this, were not elected consul by the citizens.
-**Key:** TODO
+**Key:** Tū, quī hoc fēcistī, cōnsul ā cīvibus creātus nōn es.
 
 **Prompt:** The man, whom you asked for advice, has taught me many things.
-**Key:** TODO
+**Key:** Vir, quem cōnsilium rogāvistī, multa mē docuit.
 
 ### Exercise F
 
 **Prompt:** He killed himself with his own sword.
-**Key:** TODO
+**Key:** Sē gladiō suō interfēcit.
 
 **Prompt:** He has a garden which was given him by his friend.
-**Key:** TODO
+**Key:** Is hortum habet quī eī ab amīcō eius datus est.
 
 **Prompt:** He bought the house for himself and his wife.
-**Key:** TODO
+**Key:** Is domum ēmit sibi uxōrīque suae.
 
 **Prompt:** I have never seen him himself, but I have seen his children.
-**Key:** TODO
+**Key:** Numquam eum ipsum vīdī, sed līberōs eius vīdī.
 
 **Prompt:** His children ask him for bread, which he cannot give them.
-**Key:** TODO
+**Key:** Līberī eius eum pānem rogant, quem eīs dare nōn potest.
 
 **Prompt:** He has given his children the bread which they asked him for.
-**Key:** TODO
+**Key:** Pānem līberīs suīs dedit, quem iī eum rogāverant.
 
 **Prompt:** They have ships and sailors, but they have not many harbours.
-**Key:** TODO
+**Key:** Eīs sunt nāvēs nautaeque, sed nōn multī portūs.
 
 **Prompt:** He wished to conceal his opinion from me, but I asked his friends.
-**Key:** TODO
+**Key:** Is sententiam suam mē cēlāre volēbat, sed amīcōs eius rogāvī.
 
 **Prompt:** You Gauls fear Caesar and his army.
-**Key:** TODO
+**Key:** Vōs Gallī Caesarem exercitumque eius timētis.
 
 **Prompt:** He led his army against the Gauls, and took their camp.
-**Key:** TODO
+**Key:** Contrā Gallōs exercitum suum dūxit, et castra eōrum cēpit.
 
 **Prompt:** The citizens themselves wished to make him consul.
-**Key:** TODO
+**Key:** Cīvēs ipsī eum cōnsulem creāre volēbant.
 
 **Prompt:** We have many friends, whom we do not often see.
-**Key:** TODO
+**Key:** Multī nōbīs sunt amīcī, quōs nōn saepe vidēmus.
 
 **Prompt:** I myself will give you his sword.
-**Key:** TODO
+**Key:** Ego ipse gladium eius tibi dabō.
 
 **Prompt:** We ourselves have many ships.
-**Key:** TODO
+**Key:** Nōbīs ipsīs multae sunt nāvēs.
 
 **Prompt:** He himself gave me his own sword.
-**Key:** TODO
+**Key:** Is ipse gladium suum mihi dedit.
 
 **Prompt:** I killed him, because he wished to make himself king.
-**Key:** TODO
+**Key:** Eum interfēcī, quia sē rēgem creāre volēbat.
 
 **Prompt:** I had many friends once, but now I have few.
-**Key:** TODO
+**Key:** Ōlim mihi multī erant amīcī, nunc paucī sunt.
 
 **Prompt:** I asked you for their bread.
-**Key:** TODO
+**Key:** Tē eōrum pānem rogāvī.
 
 **Prompt:** They gave us their sailors and ships.
-**Key:** TODO
+**Key:** Nautās nāvēsque suās nōbīs dedērunt.
 
 **Prompt:** We ourselves have been taught many things by him.
-**Key:** TODO
+**Key:** Nōs ipsī multa ab eō doctī sumus.
 
 ### Exercise G
 
 **Prompt:** A state which has a good king enjoys peace.
-**Key:** TODO
+**Key:** Cīvitās cui rēx bonus est pāce fruitur.
 
 **Prompt:** Relying on the courage of his soldiers, he led them against the enemy.
-**Key:** TODO
+**Key:** Virtūte mīlitum suōrum frētus, eōs contrā hostēs dūxit.
 
 **Prompt:** They died of fear.
-**Key:** TODO
+**Key:** Mortuī sunt timōre.
 
 **Prompt:** Oxen feed on grass, and lions on flesh.
-**Key:** TODO
+**Key:** Bovēs herbā vescuntur, et leōnēs carne.
 
 **Prompt:** We use riches, and wish to get possession of them.
-**Key:** TODO
+**Key:** Dīvitiīs ūtimur, et eīs potīrī volumus.
 
 **Prompt:** Relying on his wings, Mercury had no need of a ship.
-**Key:** TODO
+**Key:** Mercuriō, ālīs suīs frētō, nāve nōn opus erat.
 
 **Prompt:** A man who performs his duty is worthy of praise.
-**Key:** TODO
+**Key:** Vir quī officiō suō fungitur laude est dignus.
 
 **Prompt:** The enemy wish to get possession of our camp.
-**Key:** TODO
+**Key:** Hostēs castrīs nostrīs potīrī volunt.
 
 **Prompt:** Through his help I can now use my sword.
-**Key:** TODO
+**Key:** Auxiliō eius nunc gladiō meō ūtī possum.
 
 **Prompt:** We have need of the soldiers we have asked him for.
-**Key:** TODO
+**Key:** Nōbīs opus est mīlitibus quōs eum rogāvimus.
 
 **Prompt:** A man who is contented with little is worthy of a happy life.
-**Key:** TODO
+**Key:** Vir quī parvō contentus est, vītā beātā dignus est.
 
 **Prompt:** We shall often use the books which you have given us.
-**Key:** TODO
+**Key:** Saepe librīs, quōs nōbīs dedistī, ūtēmur.
 
 **Prompt:** You seem to me to be worthy of praise.
-**Key:** TODO
+**Key:** Mihi vidēris laude dignus esse.
 
 **Prompt:** We have no need of these ships.
-**Key:** TODO
+**Key:** Hīs nāvibus nōn opus est nōbīs.
 
 **Prompt:** They attacked the city, relying on the courage of their soldiers.
-**Key:** TODO
+**Key:** Virtūte frētī mīlitum suōrum, urbem aggressī sunt.
 
 **Prompt:** I did this through the advice of Caius.
-**Key:** TODO
+**Key:** Cōnsiliō Cāiī hoc fēcī.
 
 **Prompt:** By this courage he took the city.
-**Key:** TODO
+**Key:** Hāc virtūte urbem cēpit.
 
 **Prompt:** Did you use the riches which were given you?
-**Key:** TODO
+**Key:** Esne ūsus dīvitiīs quae tibi datae sunt?
 
 **Prompt:** Many men have died of hunger.
-**Key:** TODO
+**Key:** Multī virī famē mortuī sunt.
 
 **Prompt:** You, who perform your duties well, have many friends.
-**Key:** TODO
+**Key:** Tibi, quī officiīs tuīs bene fungeris, multī sunt amīcī.
 
 ### Exercise H
 
 **Prompt:** Among the captives.
-**Key:** TODO
+**Key:** Inter captīvōs.
 
 **Prompt:** At the house of Caius.
-**Key:** TODO
+**Key:** Apud Cāium.
 
 **Prompt:** Over and above the dowry.
-**Key:** TODO
+**Key:** Super dōtem.
 
 **Prompt:** Before his feet.
-**Key:** TODO
+**Key:** Ante pedēs eius.
 
 **Prompt:** Without a ransom.
-**Key:** TODO
+**Key:** Sine pretiō.
 
 **Prompt:** From him.
-**Key:** TODO
+**Key:** Ab eō.
 
 **Prompt:** With his friends.
-**Key:** TODO
+**Key:** Cum amīcīs eius.
 
 **Prompt:** With you.
-**Key:** TODO
+**Key:** Tēcum.
 
 **Prompt:** Because of his age.
-**Key:** TODO
+**Key:** Propter aetātem eius.
 
 **Prompt:** Owing to his joy.
-**Key:** TODO
+**Key:** Ob gaudium eius.
 
 **Prompt:** Through fear.
-**Key:** TODO
+**Key:** Per timōrem.
 
 **Prompt:** Kind towards the poor.
-**Key:** TODO
+**Key:** Benignus ergā pauperēs.
 
 **Prompt:** To advance towards the city.
-**Key:** TODO
+**Key:** Ad urbem prōgredī.
 
 **Prompt:** Through the river.
-**Key:** TODO
+**Key:** Per flūmen.
 
 **Prompt:** In the presence of the king.
-**Key:** TODO
+**Key:** Cōram rēge.
 
 **Prompt:** Through scouts.
-**Key:** TODO
+**Key:** Per explōrātōrēs.
 
 **Prompt:** By the king.
-**Key:** TODO
+**Key:** Ā rēge.
 
 **Prompt:** From the fame of his deeds.
-**Key:** TODO
+**Key:** Ex fāmā rērum eius gestārum.
 
 **Prompt:** From that time.
-**Key:** TODO
+**Key:** Ex eō tempore.
 
 **Prompt:** Out of the bravest soldiers.
-**Key:** TODO
+**Key:** Ē fortissimīs mīlitibus.
 
 **Prompt:** He was sent to him with gifts.
-**Key:** TODO
+**Key:** Ad eum missus est cum dōnīs.
 
 **Prompt:** As hostages.
-**Key:** TODO
+**Key:** Prō obsidibus.
 
 **Prompt:** For so great a service.
-**Key:** TODO
+**Key:** Prō tantō meritō.
 
 **Prompt:** Instead of horses.
-**Key:** TODO
+**Key:** Prō equīs.
 
 **Prompt:** On the nearest hill.
-**Key:** TODO
+**Key:** In colle proximō.
 
 **Prompt:** Into his alliance.
-**Key:** TODO
+**Key:** In societātem eius.
 
 **Prompt:** Under the general himself.
-**Key:** TODO
+**Key:** Sub duce ipsō.
 
 **Prompt:** At my house.
-**Key:** TODO
+**Key:** Apud mē.
 
 **Prompt:** To go under the earth.
-**Key:** TODO
+**Key:** Sub terram īre.
 
 **Prompt:** About terms of peace.
-**Key:** TODO
+**Key:** Dē pācis condiciōnibus.
 
 **Prompt:** Before a year.
-**Key:** TODO
+**Key:** Ante annum.
 
 **Prompt:** Round about the city.
-**Key:** TODO
+**Key:** Circum urbem.
 
 **Prompt:** On this side of the mountains.
-**Key:** TODO
+**Key:** Cis montēs.
 
 **Prompt:** Besides the messenger.
-**Key:** TODO
+**Key:** Praeter nūntium.
 
 **Prompt:** Except the poet.
-**Key:** TODO
+**Key:** Praeter poētam.
 
 **Prompt:** Against Antiochus.
-**Key:** TODO
+**Key:** Contrā Antiochum.
 
 **Prompt:** About a thousand men.
-**Key:** TODO
+**Key:** Ad mīlle virōs.
 
 **Prompt:** Around the mountain.
-**Key:** TODO
+**Key:** Circum montem.
 
 **Prompt:** Within the camp.
-**Key:** TODO
+**Key:** Intrā castra.
 
 **Prompt:** Outside the gates.
-**Key:** TODO
+**Key:** Extrā portās.
+
+**Prompt:** Below the city walls.
+**Key:** Īnfrā mūrōs urbis.
 
 **Prompt:** In the power of the enemy.
-**Key:** TODO
+**Key:** In hostium potestāte.
 
 **Prompt:** Behind the horsemen.
-**Key:** TODO
+**Key:** Post equitēs.
 
 **Prompt:** According to the laws.
-**Key:** TODO
+**Key:** Secundum lēgēs.
 
 **Prompt:** Contrary to the laws.
-**Key:** TODO
+**Key:** Contrā lēgēs.
 
 **Prompt:** Adjoining the camp.
-**Key:** TODO
+**Key:** Iuxtā castra.
 
 **Prompt:** As far as his head.
-**Key:** TODO
+**Key:** Capite tenus.
 
 **Prompt:** Near the garden.
-**Key:** TODO
+**Key:** Prope hortum.
 
 **Prompt:** The army was sent under the yoke.
-**Key:** TODO
+**Key:** Exercitus sub iugum missus est.
 
 **Prompt:** It lies under your eyes.
-**Key:** TODO
+**Key:** Sub oculīs tuīs iacet.
 
 ### Exercise K
 
 **Prompt:** He came into the city with ten soldiers.
-**Key:** TODO
+**Key:** In urbem vēnit cum decem mīlitibus.
 
 **Prompt:** After one night he set out against the enemy.
-**Key:** TODO
+**Key:** Post ūnam noctem contrā hostēs profectus est.
 
 **Prompt:** In front of the house there is a field.
-**Key:** TODO
+**Key:** Ante domum ager est.
 
 **Prompt:** I cannot go across the sea without ships.
-**Key:** TODO
+**Key:** Sine nāvibus trāns mare īre nōn possum.
 
 **Prompt:** He was killed by his brother at a feast, amid all his friends.
-**Key:** TODO
+**Key:** In cēnā interfectus est ā frātre suō, inter omnēs suōs amīcōs.
 
 **Prompt:** He spoke to me about your house in your presence.
-**Key:** TODO
+**Key:** Is dē domō tuā mēcum locūtus est cōram tē.
 
 **Prompt:** He went round about the city, and saw the walls.
-**Key:** TODO
+**Key:** Circum urbem iit, mūrōsque vīdit.
 
 **Prompt:** He came towards me, and called out, "Who is in the city?"
-**Key:** TODO
+**Key:** Ad mē vēnit, et "Quis inest in urbe?" clāmāvit.
 
 **Prompt:** The camp is on this side of the river, the army is beyond the city.
-**Key:** TODO
+**Key:** Castra cis flūmen sunt, exercitus ultrā urbem est.
 
 **Prompt:** On account of the war no one goes outside the gates.
-**Key:** TODO
+**Key:** Ob bellum, nēmō extrā portās prōgreditur.
 
 **Prompt:** Besides these men we have no army in the city.
-**Key:** TODO
+**Key:** Praeter hōs virōs, nūllus est exercitus nōbīs in urbe.
 
 **Prompt:** We saw him on the road.
-**Key:** TODO
+**Key:** Eum in viā vīdimus.
 
 **Prompt:** He was brought by the soldiers into the presence of the king.
-**Key:** TODO
+**Key:** Is ā mīlitibus in cōnspectum rēgis adductus est.
 
 **Prompt:** They escaped from prison without my knowledge.
-**Key:** TODO
+**Key:** Mē īnsciō ē carcere effūgērunt.
 
 **Prompt:** They sailed past the island in a boat.
-**Key:** TODO
+**Key:** Praeter īnsulam in lintre nāvigāvērunt.
 
 **Prompt:** We sailed as far as Spain (Hispania).
-**Key:** TODO
+**Key:** Hispāniā tenus nāvigāvimus.
 
 **Prompt:** They live near the island of Corsica.
-**Key:** TODO
+**Key:** Prope īnsulam Corsicam habitant.
 
 **Prompt:** He did this in sight of all.
-**Key:** TODO
+**Key:** Cōram omnibus hoc fēcit.
 
 **Prompt:** I did this because of my friendship towards you.
-**Key:** TODO
+**Key:** Hoc fēcī propter amīcitiam meam ergā tē.
 
 **Prompt:** Were you not going towards the city?
-**Key:** TODO
+**Key:** Nōnne ad urbem adībās?
 
 **Prompt:** Men who live underground.
-**Key:** TODO
+**Key:** Virī quī sub terrā habitant.
 
 **Prompt:** He led an army over the mountains against the enemy.
-**Key:** TODO
+**Key:** Is exercitum super montēs in hostēs dūxit.
 
 **Prompt:** After the battle they were killed outside the city walls in the presence of their friends.
-**Key:** TODO
+**Key:** Interfectī sunt post proelium extrā moenia cōram amīcīs suīs.
 
 **Prompt:** Before daybreak they came close to (under) the walls of the town.
-**Key:** TODO
+**Key:** Ante prīmam lūcem sub mūrōs urbis vēnērunt.
 
 **Prompt:** I killed him after these things, not on account of them.
-**Key:** TODO
+**Key:** Post hās rēs, nōn propter hās rēs, eum interfēcī.
 
 ## Sequence of Tenses
 
