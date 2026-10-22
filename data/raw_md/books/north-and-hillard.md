@@ -259,64 +259,64 @@
 ### Exercise E
 
 **Prompt:** The people elected Pompey consul.
-**Key:** TODO
+**Key:** Pompeium populus cōnsulem creāvit.
 
 **Prompt:** Marius, who was often elected consul, was a great general.
-**Key:** TODO
+**Key:** Marius, quī saepe cōnsul creābātur, dux fuit magnus.
 
 **Prompt:** You have often asked me for advice, which I cannot give you.
-**Key:** TODO
+**Key:** Saepe mē cōnsilium rogāvistī, quod tibi dare nōn possum.
 
 **Prompt:** He was thought a good general by all.
-**Key:** TODO
+**Key:** Dux bonus esse ab omnibus putābātur.
 
 **Prompt:** You wished to conceal the sword from me, but it was given me by the slave.
-**Key:** TODO
+**Key:** Gladium mē cēlāre volēbās, sed is mihi ā servō datus est.
 
 **Prompt:** You have been taught many things by your master.
-**Key:** TODO
+**Key:** Multās rēs ā magistrō tuō doctus es.
 
 **Prompt:** Did I not teach you Greek?
-**Key:** TODO
+**Key:** Nōnne linguam Graecam tē docuī?
 
 **Prompt:** The general asked the consul for the soldiers.
-**Key:** TODO
+**Key:** Dux cōnsulem mīlitēs rogāvit.
 
 **Prompt:** Marius, who became the enemy of Sulla, killed many Roman citizens.
-**Key:** TODO
+**Key:** Marius, quī Sullae hostis factus est, multōs cīvēs Rōmānōs interfēcit.
 
 **Prompt:** You and I will hide this from our friends.
-**Key:** TODO
+**Key:** Ego et tū hoc amīcōs nostrōs cēlābimus.
 
 **Prompt:** He, having been made king, did not ask his people for advice.
-**Key:** TODO
+**Key:** Is, rēx creātus, populum suum cōnsilium nōn rogāvit.
 
 **Prompt:** We were asked for the sword, which we had concealed from our father.
-**Key:** TODO
+**Key:** Nōs gladium rogātī sumus, quem patrem nostrum cēlāverāmus.
 
 **Prompt:** I was asked by Caius for a sword,
-**Key:** TODO
+**Key:** Ā Cāiō gladium rogātus sum.
 
 **Prompt:** They were thought to be very wise.
-**Key:** TODO
+**Key:** Illī sapientissimī esse putābantur.
 
 **Prompt:** I hid from Caius the sword for which you asked me.
-**Key:** TODO
+**Key:** Gladium quem mē rogāvistī Cāium cēlāvī.
 
 **Prompt:** Were you not taught Greek by your master?
-**Key:** TODO
+**Key:** Nōnne linguam Graecam ā magistrō tuō doctus es?
 
 **Prompt:** They became consuls, because they were thought to be wise.
-**Key:** TODO
+**Key:** Cōnsulēs factī sunt, quia sapientēs esse putābantur.
 
 **Prompt:** Why did you hide this from Caius?
-**Key:** TODO
+**Key:** Cūr Cāium hoc cēlāvistī
 
 **Prompt:** You, who did this, were not elected consul by the citizens.
-**Key:** TODO
+**Key:** Tū, quī hoc fēcistī, cōnsul ā cīvibus creātus nōn es.
 
 **Prompt:** The man, whom you asked for advice, has taught me many things.
-**Key:** TODO
+**Key:** Vir, quem cōnsilium rogāvistī, multa mē docuit.
 
 ### Exercise F
 
