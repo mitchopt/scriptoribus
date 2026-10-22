@@ -3,11 +3,43 @@
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { escapeHtml, renderInline } from './render-markdown.mjs';
+import { escapeHtml, renderInline, renderMarkdown } from './render-markdown.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, '..');
 const booksDir = join(repoRoot, 'data', 'books');
+
+// display title for each collapsible box kind the parser emits (BOX_KINDS in build-books.mjs).
+const BOX_TITLES = { notes: 'Notes', vocabulary: 'Vocabulary' };
+// box kinds shown always open: a plain card holding just the body, with no title or dropdown.
+const STATIC_KINDS = new Set(['info']);
+
+// notes/vocabulary boxes are <details>, so they start closed and open on a click, like the
+// chapter and section dropdowns; info boxes are static cards. the body is authored markdown.
+function renderBoxes(boxes) {
+  return (boxes ?? [])
+    .map(box => {
+      if (STATIC_KINDS.has(box.kind)) {
+        return `
+          <div class="book-box book-box--${escapeHtml(box.kind)}">
+            <div class="book-box-body">
+              ${renderMarkdown(box.body)}
+            </div>
+          </div>
+        `;
+      }
+      const title = Object.hasOwn(BOX_TITLES, box.kind) ? BOX_TITLES[box.kind] : box.kind;
+      return `
+          <details class="book-box book-box--${escapeHtml(box.kind)}">
+            <summary class="book-box-title">${escapeHtml(title)}</summary>
+            <div class="book-box-body">
+              ${renderMarkdown(box.body)}
+            </div>
+          </details>
+        `;
+    })
+    .join('');
+}
 
 // exported for unit testing; renderBooks() handles file I/O.
 export function renderBookHtml(book) {
@@ -28,13 +60,13 @@ export function renderBookHtml(book) {
     <details class="book-chapter">
       <summary class="book-chapter-title">${escapeHtml(chapter.title)}</summary>
       <div class="book-chapter-body">
-        ${chapter.sections
+        ${renderBoxes(chapter.boxes)}${chapter.sections
           .map(
             section => `
           <details class="book-section">
             <summary class="book-section-title">${escapeHtml(section.title)}</summary>
             <div class="book-section-body">
-              ${section.exercises
+              ${renderBoxes(section.boxes)}${section.exercises
                 .map(
                   ex => `
                 <div class="book-exercise">
@@ -180,6 +212,69 @@ export function renderBookHtml(book) {
       line-height: 1.65;
       margin: 0;
       font-size: 0.95rem;
+    }
+
+    /* notes/vocabulary boxes: a card like .book-exercise on the darker surface, so it reads as
+       reference material, with a summary styled like .book-section-title */
+    .book-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: var(--s3);
+    }
+
+    .book-box-title {
+      cursor: pointer;
+      font-family: var(--font-body);
+      font-weight: 600;
+      color: var(--ink-muted);
+      font-size: 0.95rem;
+      user-select: none;
+    }
+
+    .book-box-title:hover {
+      color: var(--ink);
+    }
+
+    .book-box-body {
+      margin-top: var(--s2);
+      color: var(--ink);
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    /* an info box has no summary line for the body to clear */
+    .book-box--info .book-box-body {
+      margin-top: 0;
+    }
+
+    .book-box-body p,
+    .book-box-body ul,
+    .book-box-body ol,
+    .book-box-body blockquote {
+      margin-bottom: var(--s2);
+    }
+
+    /* reset.css strips list markers; vocabulary lists need them back */
+    .book-box-body ul,
+    .book-box-body ol {
+      list-style: revert;
+      padding-left: var(--s5);
+    }
+
+    .book-box-body li {
+      margin-bottom: var(--s1);
+    }
+
+    .book-box-body blockquote {
+      border-left: 3px solid var(--border);
+      padding-left: var(--s3);
+      color: var(--ink-muted);
+      font-style: italic;
+    }
+
+    .book-box-body :last-child {
+      margin-bottom: 0;
     }
   </style>
 </head>

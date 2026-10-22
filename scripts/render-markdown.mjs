@@ -39,6 +39,9 @@ export function renderInline(text) {
     let t = escapeHtml(seg.s);
 
     // links processed before bold/italic so [] and () markers are intact
+    // TODO: hrefs are not scheme-checked, so a `javascript:` URL in site or book markdown (the
+    // blurb, notes and vocabulary boxes) renders as a live link. content arrives by reviewed PR,
+    // but allowing only http(s), mailto and relative URLs would be safer.
     t = t.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, label, url) =>
       `<a href="${url}">${label}</a>`);
 

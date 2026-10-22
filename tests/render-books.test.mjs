@@ -128,3 +128,106 @@ test('renderBookHtml: HTML-hostile values are escaped', () => {
   assert.ok(html.includes('Prompt &lt;x&gt; &amp; y'));
   assert.ok(html.includes('Key &quot;q&quot; &amp; &lt;z&gt;'));
 });
+
+// notes and vocabulary boxes: a chapter box precedes its sections, a section box its exercises.
+
+const BOXED = {
+  ...FIXTURE,
+  chapters: [
+    {
+      id: 'ch01',
+      title: 'I. First Chapter',
+      boxes: [{ kind: 'notes', body: 'Chapter *notes*.\n\nSecond paragraph.' }],
+      sections: [
+        {
+          id: 's01',
+          title: '§1 First Section',
+          boxes: [{ kind: 'vocabulary', body: '- obey, *pāreō*\n- spare, *parcō*' }],
+          exercises: [{ id: 'ex01', prompt: 'The first English prompt.', key: 'Prima responsio Latina.' }],
+        },
+      ],
+    },
+  ],
+};
+
+test('renderBookHtml: a chapter box renders inside its chapter, before the first section', () => {
+  const html = renderBookHtml(BOXED);
+  const chapterAt = html.indexOf('>I. First Chapter</summary>');
+  const boxAt = html.indexOf('<details class="book-box book-box--notes">');
+  const sectionAt = html.indexOf('<details class="book-section">');
+  assert.ok(chapterAt !== -1 && boxAt !== -1 && sectionAt !== -1);
+  assert.ok(chapterAt < boxAt && boxAt < sectionAt);
+});
+
+test('renderBookHtml: a section box renders inside its section, before the first exercise', () => {
+  const html = renderBookHtml(BOXED);
+  const sectionAt = html.indexOf('<details class="book-section">');
+  const boxAt = html.indexOf('<details class="book-box book-box--vocabulary">');
+  const exerciseAt = html.indexOf('<div class="book-exercise">');
+  assert.ok(sectionAt !== -1 && boxAt !== -1 && exerciseAt !== -1);
+  assert.ok(sectionAt < boxAt && boxAt < exerciseAt);
+});
+
+test('renderBookHtml: boxes start closed and take their title from the kind', () => {
+  const html = renderBookHtml(BOXED);
+  assert.ok(html.includes('<summary class="book-box-title">Notes</summary>'));
+  assert.ok(html.includes('<summary class="book-box-title">Vocabulary</summary>'));
+  assert.doesNotMatch(html, /<details class="book-box[^>]*\sopen/);
+});
+
+test('renderBookHtml: box bodies render as markdown', () => {
+  const html = renderBookHtml(BOXED);
+  assert.ok(html.includes('<p>Chapter <em>notes</em>.</p>'));
+  assert.ok(html.includes('<p>Second paragraph.</p>'));
+  assert.ok(html.includes('<li>obey, <em>pāreō</em></li>'));
+  assert.ok(html.includes('<li>spare, <em>parcō</em></li>'));
+});
+
+// the bare class name is always present in the page's inline CSS, so match the element.
+test('renderBookHtml: books without boxes render no box elements', () => {
+  const empty = structuredClone(BOXED);
+  empty.chapters[0].boxes = [];
+  empty.chapters[0].sections[0].boxes = [];
+  // FIXTURE has no `boxes` keys at all, like JSON built before boxes existed
+  for (const book of [FIXTURE, empty]) {
+    assert.ok(!renderBookHtml(book).includes('class="book-box'));
+  }
+});
+
+test('renderBookHtml: an info box is always open: a plain card with no dropdown or title', () => {
+  const book = structuredClone(BOXED);
+  book.chapters[0].sections[0].boxes = [
+    { kind: 'info', body: 'Read *this* first.' },
+    { kind: 'vocabulary', body: '- obey, *pāreō*' },
+  ];
+  const html = renderBookHtml(book);
+  const infoAt = html.indexOf('<div class="book-box book-box--info">');
+  const vocabularyAt = html.indexOf('<details class="book-box book-box--vocabulary">');
+  const exerciseAt = html.indexOf('<div class="book-exercise">');
+  // written order is kept, and both boxes precede the first exercise
+  assert.ok(infoAt !== -1 && infoAt < vocabularyAt && vocabularyAt < exerciseAt);
+  const card = html.slice(infoAt, vocabularyAt);
+  assert.ok(card.includes('<div class="book-box-body">'));
+  assert.ok(card.includes('<p>Read <em>this</em> first.</p>'));
+  assert.ok(!card.includes('<summary'));
+  assert.doesNotMatch(html, /<details class="book-box book-box--info"/);
+});
+
+test('renderBookHtml: info box bodies are escaped', () => {
+  const book = structuredClone(BOXED);
+  book.chapters[0].boxes = [{ kind: 'info', body: '<script>alert(1)</script>' }];
+  const html = renderBookHtml(book);
+  assert.ok(!html.includes('<script>alert(1)</script>'));
+  assert.ok(html.includes('<p>&lt;script&gt;alert(1)&lt;/script&gt;</p>'));
+});
+
+test('renderBookHtml: box bodies and kinds are escaped', () => {
+  const hostile = structuredClone(BOXED);
+  hostile.chapters[0].boxes = [{ kind: 'x"y', body: '<script>alert(1)</script> & <b>z</b>' }];
+  const html = renderBookHtml(hostile);
+  assert.ok(!html.includes('<script>alert(1)</script>'));
+  assert.ok(html.includes('&lt;script&gt;alert(1)&lt;/script&gt; &amp; &lt;b&gt;z&lt;/b&gt;'));
+  // an unknown kind falls back to its own (escaped) name for the class and the title
+  assert.ok(html.includes('<details class="book-box book-box--x&quot;y">'));
+  assert.ok(html.includes('<summary class="book-box-title">x&quot;y</summary>'));
+});
