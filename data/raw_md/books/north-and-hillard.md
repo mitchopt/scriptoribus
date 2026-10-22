@@ -597,79 +597,79 @@
 ### Exercise K
 
 **Prompt:** He came into the city with ten soldiers.
-**Key:** TODO
+**Key:** In urbem vēnit cum decem mīlitibus.
 
 **Prompt:** After one night he set out against the enemy.
-**Key:** TODO
+**Key:** Post ūnam noctem contrā hostēs profectus est.
 
 **Prompt:** In front of the house there is a field.
-**Key:** TODO
+**Key:** Ante domum ager est.
 
 **Prompt:** I cannot go across the sea without ships.
-**Key:** TODO
+**Key:** Sine nāvibus trāns mare īre nōn possum.
 
 **Prompt:** He was killed by his brother at a feast, amid all his friends.
-**Key:** TODO
+**Key:** In cēnā interfectus est ā frātre suō, inter omnēs suōs amīcōs.
 
 **Prompt:** He spoke to me about your house in your presence.
-**Key:** TODO
+**Key:** Is dē domō tuā mēcum locūtus est cōram tē.
 
 **Prompt:** He went round about the city, and saw the walls.
-**Key:** TODO
+**Key:** Circum urbem iit, mūrōsque vīdit.
 
 **Prompt:** He came towards me, and called out, "Who is in the city?"
-**Key:** TODO
+**Key:** Ad mē vēnit, et "Quis inest in urbe?" clāmāvit.
 
 **Prompt:** The camp is on this side of the river, the army is beyond the city.
-**Key:** TODO
+**Key:** Castra cis flūmen sunt, exercitus ultrā urbem est.
 
 **Prompt:** On account of the war no one goes outside the gates.
-**Key:** TODO
+**Key:** Ob bellum, nēmō extrā portās prōgreditur.
 
 **Prompt:** Besides these men we have no army in the city.
-**Key:** TODO
+**Key:** Praeter hōs virōs, nūllus est exercitus nōbīs in urbe.
 
 **Prompt:** We saw him on the road.
-**Key:** TODO
+**Key:** Eum in viā vīdimus.
 
 **Prompt:** He was brought by the soldiers into the presence of the king.
-**Key:** TODO
+**Key:** Is ā mīlitibus in cōnspectum rēgis adductus est.
 
 **Prompt:** They escaped from prison without my knowledge.
-**Key:** TODO
+**Key:** Mē īnsciō ē carcere effūgērunt.
 
 **Prompt:** They sailed past the island in a boat.
-**Key:** TODO
+**Key:** Praeter īnsulam in lintre nāvigāvērunt.
 
 **Prompt:** We sailed as far as Spain (Hispania).
-**Key:** TODO
+**Key:** Hispāniā tenus nāvigāvimus.
 
 **Prompt:** They live near the island of Corsica.
-**Key:** TODO
+**Key:** Prope īnsulam Corsicam habitant.
 
 **Prompt:** He did this in sight of all.
-**Key:** TODO
+**Key:** Cōram omnibus hoc fēcit.
 
 **Prompt:** I did this because of my friendship towards you.
-**Key:** TODO
+**Key:** Hoc fēcī propter amīcitiam meam ergā tē.
 
 **Prompt:** Were you not going towards the city?
-**Key:** TODO
+**Key:** Nōnne ad urbem adībās?
 
 **Prompt:** Men who live underground.
-**Key:** TODO
+**Key:** Virī quī sub terrā habitant.
 
 **Prompt:** He led an army over the mountains against the enemy.
-**Key:** TODO
+**Key:** Is exercitum super montēs in hostēs dūxit.
 
 **Prompt:** After the battle they were killed outside the city walls in the presence of their friends.
-**Key:** TODO
+**Key:** Interfectī sunt post proelium extrā moenia cōram amīcīs suīs.
 
 **Prompt:** Before daybreak they came close to (under) the walls of the town.
-**Key:** TODO
+**Key:** Ante prīmam lūcem sub mūrōs urbis vēnērunt.
 
 **Prompt:** I killed him after these things, not on account of them.
-**Key:** TODO
+**Key:** Post hās rēs, nōn propter hās rēs, eum interfēcī.
 
 ## Sequence of Tenses
 
