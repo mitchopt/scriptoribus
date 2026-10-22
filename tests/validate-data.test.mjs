@@ -282,6 +282,8 @@ Second paragraph.
 
 ### Exercise 2
 
+**Info:** Exercise info.
+
 **Note:**
 ---
 
@@ -296,7 +298,7 @@ test('reparseBook: collects boxes at both levels and drops misplaced or empty on
   ]);
   assert.deepEqual(
     md.chapters[0].sections.map((s) => s.boxes),
-    [[{ kind: 'vocabulary', body: '- obey, *pāreō*' }], []]
+    [[{ kind: 'vocabulary', body: '- obey, *pāreō*' }], [{ kind: 'info', body: 'Exercise info.' }]]
   );
   assert.equal(md.chapters[0].sections[0].exercises.length, 2);
 });
@@ -333,6 +335,14 @@ test('diffBook: a changed box kind is flagged', () => {
   });
   assert.equal(errors.length, 1);
   assert.match(errors[0], /^books\[sample\]: ch1 §1 box1 kind mismatch: md=/);
+});
+
+test('diffBook: an info box whose kind changed is flagged', () => {
+  const errors = diffAfterEdit((data) => {
+    data.chapters[0].sections[1].boxes[0].kind = 'notes';
+  });
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /^books\[sample\]: ch1 §2 box1 kind mismatch: md="info" vs json="notes"$/);
 });
 
 test('diffBook: a missing box is flagged by count', () => {

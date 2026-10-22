@@ -679,57 +679,59 @@ A second paragraph, to check that paragraphs stay apart.
 
 ### Exercise 1
 
-**Notes:** PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 1 only.
-
-**Vocabulary:**
-- PLACEHOLDER: an English word, *a Latin word*
-- PLACEHOLDER: another English word, *another Latin word*
+**Info:** In the following sentences Latin requires the dependent verb to be in the Subjunctive. Say (without translating) what **tense** you would put it in.
 
 **Prompt:** They have come in order that they may conquer us.
-**Key:** TODO
+**Key:** Present.
 
 **Prompt:** They sent money that we might buy our freedom.
-**Key:** TODO
+**Key:** Imperfect.
 
 **Prompt:** We had already succeeded so well that we hoped to win.
-**Key:** TODO
+**Key:** Imperfect.
 
 **Prompt:** We are so tired that we cannot work.
-**Key:** TODO
+**Key:** Present.
 
 **Prompt:** He ran so quickly that no one could catch him.
-**Key:** TODO
+**Key:** Imperfect.
 
 **Prompt:** We do not know what he is doing.
-**Key:** TODO
+**Key:** Present.
 
 **Prompt:** Have you heard what he has done?
-**Key:** TODO
+**Key:** Perfect.
 
 **Prompt:** They did not know what the island was like.
-**Key:** TODO
+**Key:** Imperfect.
 
 **Prompt:** We shall ask what he is doing.
-**Key:** TODO
+**Key:** Present.
 
 **Prompt:** We asked whether the war had been finished.
-**Key:** TODO
+**Key:** Pluperfect.
 
 **Prompt:** I do not know how many ships there were
-**Key:** TODO
+**Key:** Perfect.
 
 **Prompt:** We were wordering why you feared us.
-**Key:** TODO
+**Key:** Imperfect.
 
 **Prompt:** Tell me why you are afraid.
-**Key:** TODO
+**Key:** Present.
 
 **Prompt:** We shall work in order that we may become rich.
-**Key:** TODO
+**Key:** Present.
 
 ## Final Sentences
 
 ### Exercise 2 [A]
+
+**Notes:** PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 2 only.
+
+**Vocabulary:**
+- PLACEHOLDER: an English word, *a Latin word*
+- PLACEHOLDER: another English word, *another Latin word*
 
 **Prompt:** I am going to the city to buy bread.
 **Key:** TODO

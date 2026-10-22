@@ -157,7 +157,7 @@ Books must be public domain (typically published before 1928 in the US).
 
 A book opens with a `#` title and the required `**Author:**`, `**Year:**`, and `**Blurb:**`. Each `##` heading is a section of the book, and each `###` heading an exercise within it. An exercise is a run of questions: a `**Prompt:**` line followed directly by its `**Key:**` line.
 
-**Notes and vocabulary boxes** are optional, and stay closed until clicked. A box opens with `**Notes:**` (or `**Note:**`) or `**Vocabulary:**`, and runs until the next heading, label, or `**Prompt:**`. Text on the label's own line is the box's first line. The body is ordinary Markdown: a blank line starts a new paragraph, `- ` starts a list item (lists cannot be nested), and `*italics*` and `**bold**` work as usual. Where a box is placed decides what it belongs to:
+**Notes, vocabulary, and info boxes** are optional. A box opens with `**Notes:**` (or `**Note:**`), `**Vocabulary:**`, or `**Info:**`, and runs until the next heading, label, or `**Prompt:**`. Notes and vocabulary boxes are titled dropdowns that stay closed until clicked; an info box is always open, showing just its text with no title. Text on the label's own line is the box's first line. The body is ordinary Markdown: a blank line starts a new paragraph, `- ` starts a list item (lists cannot be nested), and `*italics*` and `**bold**` work as usual. Where a box is placed decides what it belongs to:
 
 - after a `##` heading, before its first `###`: the whole section;
 - after a `###` heading, before its first `**Prompt:**`: that exercise only.
@@ -172,6 +172,8 @@ A box anywhere else (before the first `##`, or after an exercise's first prompt)
 A blank line starts a new paragraph.
 
 ### Exercise 2 [A]
+
+**Info:** Always shown, with no click needed.
 
 **Vocabulary:**
 - obey, *pāreō*, *-ēre* (+ dat.)

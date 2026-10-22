@@ -190,8 +190,35 @@ test('renderBookHtml: books without boxes render no box elements', () => {
   empty.chapters[0].sections[0].boxes = [];
   // FIXTURE has no `boxes` keys at all, like JSON built before boxes existed
   for (const book of [FIXTURE, empty]) {
-    assert.ok(!renderBookHtml(book).includes('<details class="book-box'));
+    assert.ok(!renderBookHtml(book).includes('class="book-box'));
   }
+});
+
+test('renderBookHtml: an info box is always open: a plain card with no dropdown or title', () => {
+  const book = structuredClone(BOXED);
+  book.chapters[0].sections[0].boxes = [
+    { kind: 'info', body: 'Read *this* first.' },
+    { kind: 'vocabulary', body: '- obey, *pāreō*' },
+  ];
+  const html = renderBookHtml(book);
+  const infoAt = html.indexOf('<div class="book-box book-box--info">');
+  const vocabularyAt = html.indexOf('<details class="book-box book-box--vocabulary">');
+  const exerciseAt = html.indexOf('<div class="book-exercise">');
+  // written order is kept, and both boxes precede the first exercise
+  assert.ok(infoAt !== -1 && infoAt < vocabularyAt && vocabularyAt < exerciseAt);
+  const card = html.slice(infoAt, vocabularyAt);
+  assert.ok(card.includes('<div class="book-box-body">'));
+  assert.ok(card.includes('<p>Read <em>this</em> first.</p>'));
+  assert.ok(!card.includes('<summary'));
+  assert.doesNotMatch(html, /<details class="book-box book-box--info"/);
+});
+
+test('renderBookHtml: info box bodies are escaped', () => {
+  const book = structuredClone(BOXED);
+  book.chapters[0].boxes = [{ kind: 'info', body: '<script>alert(1)</script>' }];
+  const html = renderBookHtml(book);
+  assert.ok(!html.includes('<script>alert(1)</script>'));
+  assert.ok(html.includes('<p>&lt;script&gt;alert(1)&lt;/script&gt;</p>'));
 });
 
 test('renderBookHtml: box bodies and kinds are escaped', () => {

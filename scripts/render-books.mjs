@@ -9,14 +9,25 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, '..');
 const booksDir = join(repoRoot, 'data', 'books');
 
-// display title for each box kind the parser emits (BOX_KINDS in build-books.mjs).
+// display title for each collapsible box kind the parser emits (BOX_KINDS in build-books.mjs).
 const BOX_TITLES = { notes: 'Notes', vocabulary: 'Vocabulary' };
+// box kinds shown always open: a plain card holding just the body, with no title or dropdown.
+const STATIC_KINDS = new Set(['info']);
 
 // notes/vocabulary boxes are <details>, so they start closed and open on a click, like the
-// chapter and section dropdowns. the body is authored markdown.
+// chapter and section dropdowns; info boxes are static cards. the body is authored markdown.
 function renderBoxes(boxes) {
   return (boxes ?? [])
     .map(box => {
+      if (STATIC_KINDS.has(box.kind)) {
+        return `
+          <div class="book-box book-box--${escapeHtml(box.kind)}">
+            <div class="book-box-body">
+              ${renderMarkdown(box.body)}
+            </div>
+          </div>
+        `;
+      }
       const title = Object.hasOwn(BOX_TITLES, box.kind) ? BOX_TITLES[box.kind] : box.kind;
       return `
           <details class="book-box book-box--${escapeHtml(box.kind)}">
@@ -230,6 +241,11 @@ export function renderBookHtml(book) {
       color: var(--ink);
       font-size: 0.95rem;
       line-height: 1.6;
+    }
+
+    /* an info box has no summary line for the body to clear */
+    .book-box--info .book-box-body {
+      margin-top: 0;
     }
 
     .book-box-body p,

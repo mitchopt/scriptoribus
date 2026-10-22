@@ -37,10 +37,10 @@ const LINK_FIELD_RE = /^\*\*(URL|Description|Thumbnail):\*\*\s*(.*)$/;
 const BOOK_META_RE = /^\*\*(Author|Year|Blurb):\*\*\s*(.*)$/;
 const BOOK_EXERCISE_RE = /^\*\*(Prompt|Key):\*\*\s*(.*)$/;
 // matches a box label: group 1 is the label, group 2 any text after it (the box's first line),
-// e.g. `**Note:** text` gives ('Note', 'text') and a bare `**Vocabulary:**` an empty group 2.
-const BOOK_BOX_RE = /^\*\*(Notes?|Vocabulary):\*\*\s*(.*)$/;
+// e.g. `**Note:** text` gives ('Note', 'text') and a bare `**Info:**` an empty group 2.
+const BOOK_BOX_RE = /^\*\*(Notes?|Vocabulary|Info):\*\*\s*(.*)$/;
 // matches any label the book format reserves; one of these ends an open box.
-const BOOK_LABEL_RE = /^\*\*(?:Author|Year|Blurb|Prompt|Key|Notes?|Vocabulary):\*\*/;
+const BOOK_LABEL_RE = /^\*\*(?:Author|Year|Blurb|Prompt|Key|Notes?|Vocabulary|Info):\*\*/;
 
 // coalesce absent/null/empty so they compare equal; numbers pass through.
 const norm = (v) => v ?? '';
@@ -469,8 +469,10 @@ export function reparseBook(mdText) {
       let owner = null;
       if (chapter !== null && section === null) owner = chapter;
       else if (section !== null && !promptSeen) owner = section;
+      // the label lower-cased is the kind, except that the singular `Note` is stored as 'notes'
+      const label = boxMatch[1].toLowerCase();
       box = {
-        kind: boxMatch[1] === 'Vocabulary' ? 'vocabulary' : 'notes',
+        kind: label === 'note' ? 'notes' : label,
         owner,
         lines: boxMatch[2] ? [boxMatch[2]] : [],
       };

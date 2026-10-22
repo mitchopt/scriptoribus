@@ -1165,84 +1165,80 @@
           "title": "Exercise 1",
           "boxes": [
             {
-              "kind": "notes",
-              "body": "PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 1 only."
-            },
-            {
-              "kind": "vocabulary",
-              "body": "- PLACEHOLDER: an English word, *a Latin word*\n- PLACEHOLDER: another English word, *another Latin word*"
+              "kind": "info",
+              "body": "In the following sentences Latin requires the dependent verb to be in the Subjunctive. Say (without translating) what **tense** you would put it in."
             }
           ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "They have come in order that they may conquer us.",
-              "key": "TODO"
+              "key": "Present."
             },
             {
               "id": "ex02",
               "prompt": "They sent money that we might buy our freedom.",
-              "key": "TODO"
+              "key": "Imperfect."
             },
             {
               "id": "ex03",
               "prompt": "We had already succeeded so well that we hoped to win.",
-              "key": "TODO"
+              "key": "Imperfect."
             },
             {
               "id": "ex04",
               "prompt": "We are so tired that we cannot work.",
-              "key": "TODO"
+              "key": "Present."
             },
             {
               "id": "ex05",
               "prompt": "He ran so quickly that no one could catch him.",
-              "key": "TODO"
+              "key": "Imperfect."
             },
             {
               "id": "ex06",
               "prompt": "We do not know what he is doing.",
-              "key": "TODO"
+              "key": "Present."
             },
             {
               "id": "ex07",
               "prompt": "Have you heard what he has done?",
-              "key": "TODO"
+              "key": "Perfect."
             },
             {
               "id": "ex08",
               "prompt": "They did not know what the island was like.",
-              "key": "TODO"
+              "key": "Imperfect."
             },
             {
               "id": "ex09",
               "prompt": "We shall ask what he is doing.",
-              "key": "TODO"
+              "key": "Present."
             },
             {
               "id": "ex10",
               "prompt": "We asked whether the war had been finished.",
-              "key": "TODO"
+              "key": "Pluperfect."
             },
             {
               "id": "ex11",
               "prompt": "I do not know how many ships there were",
-              "key": "TODO"
+              "key": "Perfect."
             },
             {
               "id": "ex12",
               "prompt": "We were wordering why you feared us.",
-              "key": "TODO"
+              "key": "Imperfect."
             },
             {
               "id": "ex13",
               "prompt": "Tell me why you are afraid.",
-              "key": "TODO"
+              "key": "Present."
             },
             {
               "id": "ex14",
               "prompt": "We shall work in order that we may become rich.",
-              "key": "TODO"
+              "key": "Present."
             }
           ]
         }
@@ -1256,7 +1252,16 @@
         {
           "id": "s01",
           "title": "Exercise 2 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "notes",
+              "body": "PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 2 only."
+            },
+            {
+              "kind": "vocabulary",
+              "body": "- PLACEHOLDER: an English word, *a Latin word*\n- PLACEHOLDER: another English word, *another Latin word*"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",

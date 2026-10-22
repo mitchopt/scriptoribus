@@ -17,18 +17,18 @@ const pad2 = (n) => String(n).padStart(2, '0');
 const META_RE = /^\*\*(Author|Year|Blurb):\*\*\s*(.*)$/;
 // matches `**Prompt:** value` / `**Key:** value`.
 const EXERCISE_RE = /^\*\*(Prompt|Key):\*\*\s*(.*)$/;
-// matches a box label, which opens a notes or vocabulary box. group 1 is the label, group 2 any
-// text after it (the box's first line): `**Notes:** *ut* + subj.` gives ('Notes', '*ut* + subj.'),
-// while a bare `**Note:**` or `**Vocabulary:**` gives an empty group 2.
-const BOX_RE = /^\*\*(Notes?|Vocabulary):\*\*\s*(.*)$/;
+// matches a box label, which opens a notes, vocabulary, or info box. group 1 is the label, group 2
+// any text after it (the box's first line): `**Notes:** *ut* + subj.` gives ('Notes', '*ut* + subj.'),
+// while a bare `**Note:**`, `**Vocabulary:**`, or `**Info:**` gives an empty group 2.
+const BOX_RE = /^\*\*(Notes?|Vocabulary|Info):\*\*\s*(.*)$/;
 // matches any label the book format reserves; one of these ends an open box. `**Prompt:** x` and
-// `**Vocabulary:**` match, but box text such as `**ut** + subjunctive` does not.
-const LABEL_RE = /^\*\*(Author|Year|Blurb|Prompt|Key|Notes?|Vocabulary):\*\*/;
+// `**Info:**` match, but box text such as `**ut** + subjunctive` does not.
+const LABEL_RE = /^\*\*(Author|Year|Blurb|Prompt|Key|Notes?|Vocabulary|Info):\*\*/;
 // matches the headings the parser treats as structure (`# `, `## `, `### `), which also end an
 // open box. `#### Usage` does not match, so it stays in the box as a sub-heading.
 const HEADING_RE = /^#{1,3} /;
 // box label -> the kind stored in the JSON. `Note` is accepted for the idioms' `**Note:**` habit.
-const BOX_KINDS = { Note: 'notes', Notes: 'notes', Vocabulary: 'vocabulary' };
+const BOX_KINDS = { Note: 'notes', Notes: 'notes', Vocabulary: 'vocabulary', Info: 'info' };
 
 // `- id` lines are entries; blanks, headings, and prose are ignored.
 export function parseManifest(mdText) {
@@ -64,8 +64,8 @@ function normaliseBoxBody(lines) {
 
 // pure: no file I/O. bookId comes from the filename stem.
 // `##` opens a chapter, `###` a section, and each `**Prompt:**`/`**Key:**` pair is an exercise.
-// `**Notes:**` / `**Vocabulary:**` open a box for the chapter (before its first `###`) or the
-// section (before its first prompt); the format is documented in CONTRIBUTING.md.
+// `**Notes:**` / `**Vocabulary:**` / `**Info:**` open a box for the chapter (before its first `###`)
+// or the section (before its first prompt); the format is documented in CONTRIBUTING.md.
 export function parseBook(mdText, bookId) {
   const warnings = [];
 

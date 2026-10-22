@@ -161,6 +161,26 @@ test('parseBook: **Note:** is accepted as an alias of **Notes:**', () => {
   assert.deepEqual(data.chapters[0].boxes, [{ kind: 'notes', body: 'Singular label.' }]);
 });
 
+test('parseBook: **Info:** opens an info box at either level', () => {
+  const md = bookWith(
+    ['## S', '**Info:** section info', '### E', '**Info:** exercise info', '**Prompt:** P', '**Key:** K'].join('\n')
+  );
+  const { data, warnings } = parseBook(md, 'x');
+  assert.deepEqual(warnings, []);
+  assert.deepEqual(data.chapters[0].boxes, [{ kind: 'info', body: 'section info' }]);
+  assert.deepEqual(data.chapters[0].sections[0].boxes, [{ kind: 'info', body: 'exercise info' }]);
+});
+
+test('parseBook: an **Info:** label ends an open box, and an info box ends at the next label', () => {
+  const md = bookWith(['## S', '**Notes:** notes first', '**Info:** then info', '**Vocabulary:** then vocabulary'].join('\n'));
+  const { data } = parseBook(md, 'x');
+  assert.deepEqual(data.chapters[0].boxes, [
+    { kind: 'notes', body: 'notes first' },
+    { kind: 'info', body: 'then info' },
+    { kind: 'vocabulary', body: 'then vocabulary' },
+  ]);
+});
+
 // boxes: body text
 
 test('parseBook: box bodies collapse blank-line runs and drop blank edges', () => {
@@ -246,6 +266,13 @@ test('parseBook: a box after the first prompt is dropped with a warning; pairs a
     section.exercises.map((ex) => [ex.prompt, ex.key]),
     [['P1', 'K1'], ['P2', 'K2']]
   );
+});
+
+test('parseBook: a misplaced info box is dropped with the same warning as the other kinds', () => {
+  const md = bookWith('**Info:** too early\n\n## S\n');
+  const { data, warnings } = parseBook(md, 'x');
+  assert.deepEqual(warnings, ["line 9: info box before any chapter in 'x'"]);
+  assert.deepEqual(data.chapters[0].boxes, []);
 });
 
 test('parseBook: an empty box is dropped with a warning', () => {
