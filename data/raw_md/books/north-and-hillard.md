@@ -383,64 +383,64 @@
 ### Exercise G
 
 **Prompt:** A state which has a good king enjoys peace.
-**Key:** TODO
+**Key:** Cīvitās cui rēx bonus est pāce fruitur.
 
 **Prompt:** Relying on the courage of his soldiers, he led them against the enemy.
-**Key:** TODO
+**Key:** Virtūte mīlitum suōrum frētus, eōs contrā hostēs dūxit.
 
 **Prompt:** They died of fear.
-**Key:** TODO
+**Key:** Mortuī sunt timōre.
 
 **Prompt:** Oxen feed on grass, and lions on flesh.
-**Key:** TODO
+**Key:** Bovēs herbā vescuntur, et leōnēs carne.
 
 **Prompt:** We use riches, and wish to get possession of them.
-**Key:** TODO
+**Key:** Dīvitiīs ūtimur, et eīs potīrī volumus.
 
 **Prompt:** Relying on his wings, Mercury had no need of a ship.
-**Key:** TODO
+**Key:** Mercuriō, ālīs suīs frētō, nāve nōn opus erat.
 
 **Prompt:** A man who performs his duty is worthy of praise.
-**Key:** TODO
+**Key:** Vir quī officiō suō fungitur laude est dignus.
 
 **Prompt:** The enemy wish to get possession of our camp.
-**Key:** TODO
+**Key:** Hostēs castrīs nostrīs potīrī volunt.
 
 **Prompt:** Through his help I can now use my sword.
-**Key:** TODO
+**Key:** Auxiliō eius nunc gladiō meō ūtī possum.
 
 **Prompt:** We have need of the soldiers we have asked him for.
-**Key:** TODO
+**Key:** Nōbīs opus est mīlitibus quōs eum rogāvimus.
 
 **Prompt:** A man who is contented with little is worthy of a happy life.
-**Key:** TODO
+**Key:** Vir quī parvō contentus est, vītā beātā dignus est.
 
 **Prompt:** We shall often use the books which you have given us.
-**Key:** TODO
+**Key:** Saepe librīs, quōs nōbīs dedistī, ūtēmur.
 
 **Prompt:** You seem to me to be worthy of praise.
-**Key:** TODO
+**Key:** Mihi vidēris laude dignus esse.
 
 **Prompt:** We have no need of these ships.
-**Key:** TODO
+**Key:** Hīs nāvibus nōn opus est nōbīs.
 
 **Prompt:** They attacked the city, relying on the courage of their soldiers.
-**Key:** TODO
+**Key:** Virtūte frētī mīlitum suōrum, urbem aggressī sunt.
 
 **Prompt:** I did this through the advice of Caius.
-**Key:** TODO
+**Key:** Cōnsiliō Cāiī hoc fēcī.
 
 **Prompt:** By this courage he took the city.
-**Key:** TODO
+**Key:** Hāc virtūte urbem cēpit.
 
 **Prompt:** Did you use the riches which were given you?
-**Key:** TODO
+**Key:** Esne ūsus dīvitiīs quae tibi datae sunt?
 
 **Prompt:** Many men have died of hunger.
-**Key:** TODO
+**Key:** Multī virī famē mortuī sunt.
 
 **Prompt:** You, who perform your duties well, have many friends.
-**Key:** TODO
+**Key:** Tibi, quī officiīs tuīs bene fungeris, multī sunt amīcī.
 
 ### Exercise H
 
