@@ -730,8 +730,7 @@ A second paragraph, to check that paragraphs stay apart.
 **Notes:** PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 2 only.
 
 **Vocabulary:**
-- PLACEHOLDER: an English word, *a Latin word*
-- PLACEHOLDER: another English word, *another Latin word*
+go, **eō, īre, īvī, itum**
 
 **Prompt:** I am going to the city to buy bread.
 **Key:** TODO
