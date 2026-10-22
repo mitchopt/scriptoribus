@@ -274,7 +274,7 @@
 **Key:** Gladium mē cēlāre volēbās, sed is mihi ā servō datus est.
 
 **Prompt:** You have been taught many things by your master.
-**Key:** Multās rēs ā magistrō tuō doctus es.
+**Key:** Multa ā magistrō tuō doctus es.
 
 **Prompt:** Did I not teach you Greek?
 **Key:** Nōnne linguam Graecam tē docuī?
@@ -310,7 +310,7 @@
 **Key:** Cōnsulēs factī sunt, quia sapientēs esse putābantur.
 
 **Prompt:** Why did you hide this from Caius?
-**Key:** Cūr Cāium hoc cēlāvistī
+**Key:** Cūr Cāium hoc cēlāvistī?
 
 **Prompt:** You, who did this, were not elected consul by the citizens.
 **Key:** Tū, quī hoc fēcistī, cōnsul ā cīvibus creātus nōn es.
@@ -324,25 +324,25 @@
 **Key:** Sē gladiō suō interfēcit.
 
 **Prompt:** He has a garden which was given him by his friend.
-**Key:** Is hortum habet quī eī dātur ab amīcīs eius.
+**Key:** Is hortum habet quī eī ab amīcō eius datus est.
 
 **Prompt:** He bought the house for himself and his wife.
-**Key:** Is dōmum ēmit sibi uxōrīque suī.
+**Key:** Is domum ēmit sibi uxōrīque suae.
 
 **Prompt:** I have never seen him himself, but I have seen his children.
 **Key:** Numquam eum ipsum vīdī, sed līberōs eius vīdī.
 
 **Prompt:** His children ask him for bread, which he cannot give them.
-**Key:** Līberī eius eum pānem rogant, quem eīs dāre nōn potest.
+**Key:** Līberī eius eum pānem rogant, quem eīs dare nōn potest.
 
 **Prompt:** He has given his children the bread which they asked him for.
 **Key:** Pānem līberīs suīs dedit, quem iī eum rogāverant.
 
 **Prompt:** They have ships and sailors, but they have not many harbours.
-**Key:** Nāvēs nautāsque habent, nōn autem multōs portūs.
+**Key:** Eīs sunt nāvēs nautaeque, sed nōn multī portūs.
 
 **Prompt:** He wished to conceal his opinion from me, but I asked his friends.
-**Key:** Is sententiam suam mē cēlāre volēbat, sed amicōs eius rogāvī.
+**Key:** Is sententiam suam mē cēlāre volēbat, sed amīcōs eius rogāvī.
 
 **Prompt:** You Gauls fear Caesar and his army.
 **Key:** Vōs Gallī Caesarem exercitumque eius timētis.
@@ -354,13 +354,13 @@
 **Key:** Cīvēs ipsī eum cōnsulem creāre volēbant.
 
 **Prompt:** We have many friends, whom we do not often see.
-**Key:** Multōs habēmus amicōs, quōs nōn saepe vidēmus.
+**Key:** Multī nōbīs sunt amīcī, quōs nōn saepe vidēmus.
 
 **Prompt:** I myself will give you his sword.
 **Key:** Ego ipse gladium eius tibi dabō.
 
 **Prompt:** We ourselves have many ships.
-**Key:** Nōs ipsī multās habēmus nāvēs.
+**Key:** Nōbīs ipsīs multae sunt nāvēs.
 
 **Prompt:** He himself gave me his own sword.
 **Key:** Is ipse gladium suum mihi dedit.
@@ -369,7 +369,7 @@
 **Key:** Eum interfēcī, quia sē rēgem creāre volēbat.
 
 **Prompt:** I had many friends once, but now I have few.
-**Key:** Ōlim multōs amicōs habuī, nunc autem paucōs.
+**Key:** Ōlim mihi multī erant amīcī, nunc paucī sunt.
 
 **Prompt:** I asked you for their bread.
 **Key:** Tē eōrum pānem rogāvī.

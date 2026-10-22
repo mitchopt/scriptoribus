@@ -465,7 +465,7 @@
             {
               "id": "ex06",
               "prompt": "You have been taught many things by your master.",
-              "key": "Multās rēs ā magistrō tuō doctus es."
+              "key": "Multa ā magistrō tuō doctus es."
             },
             {
               "id": "ex07",
@@ -525,7 +525,7 @@
             {
               "id": "ex18",
               "prompt": "Why did you hide this from Caius?",
-              "key": "Cūr Cāium hoc cēlāvistī"
+              "key": "Cūr Cāium hoc cēlāvistī?"
             },
             {
               "id": "ex19",
@@ -546,102 +546,102 @@
             {
               "id": "ex01",
               "prompt": "He killed himself with his own sword.",
-              "key": "TODO"
+              "key": "Sē gladiō suō interfēcit."
             },
             {
               "id": "ex02",
               "prompt": "He has a garden which was given him by his friend.",
-              "key": "TODO"
+              "key": "Is hortum habet quī eī ab amīcō eius datus est."
             },
             {
               "id": "ex03",
               "prompt": "He bought the house for himself and his wife.",
-              "key": "TODO"
+              "key": "Is domum ēmit sibi uxōrīque suae."
             },
             {
               "id": "ex04",
               "prompt": "I have never seen him himself, but I have seen his children.",
-              "key": "TODO"
+              "key": "Numquam eum ipsum vīdī, sed līberōs eius vīdī."
             },
             {
               "id": "ex05",
               "prompt": "His children ask him for bread, which he cannot give them.",
-              "key": "TODO"
+              "key": "Līberī eius eum pānem rogant, quem eīs dare nōn potest."
             },
             {
               "id": "ex06",
               "prompt": "He has given his children the bread which they asked him for.",
-              "key": "TODO"
+              "key": "Pānem līberīs suīs dedit, quem iī eum rogāverant."
             },
             {
               "id": "ex07",
               "prompt": "They have ships and sailors, but they have not many harbours.",
-              "key": "TODO"
+              "key": "Eīs sunt nāvēs nautaeque, sed nōn multī portūs."
             },
             {
               "id": "ex08",
               "prompt": "He wished to conceal his opinion from me, but I asked his friends.",
-              "key": "TODO"
+              "key": "Is sententiam suam mē cēlāre volēbat, sed amīcōs eius rogāvī."
             },
             {
               "id": "ex09",
               "prompt": "You Gauls fear Caesar and his army.",
-              "key": "TODO"
+              "key": "Vōs Gallī Caesarem exercitumque eius timētis."
             },
             {
               "id": "ex10",
               "prompt": "He led his army against the Gauls, and took their camp.",
-              "key": "TODO"
+              "key": "Contrā Gallōs exercitum suum dūxit, et castra eōrum cēpit."
             },
             {
               "id": "ex11",
               "prompt": "The citizens themselves wished to make him consul.",
-              "key": "TODO"
+              "key": "Cīvēs ipsī eum cōnsulem creāre volēbant."
             },
             {
               "id": "ex12",
               "prompt": "We have many friends, whom we do not often see.",
-              "key": "TODO"
+              "key": "Multī nōbīs sunt amīcī, quōs nōn saepe vidēmus."
             },
             {
               "id": "ex13",
               "prompt": "I myself will give you his sword.",
-              "key": "TODO"
+              "key": "Ego ipse gladium eius tibi dabō."
             },
             {
               "id": "ex14",
               "prompt": "We ourselves have many ships.",
-              "key": "TODO"
+              "key": "Nōbīs ipsīs multae sunt nāvēs."
             },
             {
               "id": "ex15",
               "prompt": "He himself gave me his own sword.",
-              "key": "TODO"
+              "key": "Is ipse gladium suum mihi dedit."
             },
             {
               "id": "ex16",
               "prompt": "I killed him, because he wished to make himself king.",
-              "key": "TODO"
+              "key": "Eum interfēcī, quia sē rēgem creāre volēbat."
             },
             {
               "id": "ex17",
               "prompt": "I had many friends once, but now I have few.",
-              "key": "TODO"
+              "key": "Ōlim mihi multī erant amīcī, nunc paucī sunt."
             },
             {
               "id": "ex18",
               "prompt": "I asked you for their bread.",
-              "key": "TODO"
+              "key": "Tē eōrum pānem rogāvī."
             },
             {
               "id": "ex19",
               "prompt": "They gave us their sailors and ships.",
-              "key": "TODO"
+              "key": "Nautās nāvēsque suās nōbīs dedērunt."
             },
             {
               "id": "ex20",
               "prompt": "We ourselves have been taught many things by him.",
-              "key": "TODO"
+              "key": "Nōs ipsī multa ab eō doctī sumus."
             }
           ]
         },
