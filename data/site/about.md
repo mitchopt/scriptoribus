@@ -4,6 +4,8 @@ Scriptoribus — *for the writers* — is a free resource hub for Latin prose co
 
 The name was inspired by the incomparable Legentibus — *for the readers* (see the links page).
 
+Start by checking out the *Workspace*.
+
 # Version {{version}}
 
-*My next major goal is to clean up the digital copy of North and Hillard.*
+Latest update: Solutions to the North & Hillard Preliminary Exercises are now available. The rest of the book remains a work in progress.

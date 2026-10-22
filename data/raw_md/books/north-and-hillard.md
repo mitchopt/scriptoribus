@@ -4,7 +4,7 @@
 
 **Year:** 1913
 
-**Blurb:** North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. This note will be removed after careful manual review.*
+**Blurb:** North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. Only the preliminary exercises are finished and carefully proofread. This note will be removed after careful manual review.*
 
 ## Preliminary Exercises
 
