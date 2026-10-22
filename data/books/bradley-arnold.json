@@ -8,10 +8,12 @@
     {
       "id": "ch01",
       "title": "I. Elementary Rules",
+      "boxes": [],
       "sections": [
         {
           "id": "s01",
           "title": "Exercise 1",
+          "boxes": [],
           "exercises": [
             {
               "id": "ex01",

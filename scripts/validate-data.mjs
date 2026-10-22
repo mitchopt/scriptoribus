@@ -36,6 +36,11 @@ const LINK_FIELD_RE = /^\*\*(URL|Description|Thumbnail):\*\*\s*(.*)$/;
 // matches book metadata and exercise field lines.
 const BOOK_META_RE = /^\*\*(Author|Year|Blurb):\*\*\s*(.*)$/;
 const BOOK_EXERCISE_RE = /^\*\*(Prompt|Key):\*\*\s*(.*)$/;
+// matches a box label: group 1 is the label, group 2 any text after it (the box's first line),
+// e.g. `**Note:** text` gives ('Note', 'text') and a bare `**Vocabulary:**` an empty group 2.
+const BOOK_BOX_RE = /^\*\*(Notes?|Vocabulary):\*\*\s*(.*)$/;
+// matches any label the book format reserves; one of these ends an open box.
+const BOOK_LABEL_RE = /^\*\*(?:Author|Year|Blurb|Prompt|Key|Notes?|Vocabulary):\*\*/;
 
 // coalesce absent/null/empty so they compare equal; numbers pass through.
 const norm = (v) => v ?? '';
@@ -407,28 +412,68 @@ export function reparseBook(mdText) {
   let chapter = null;
   let section = null;
   let pendingPrompt = null;
+  let promptSeen = false;
+  let box = null; // { kind, owner, lines }; owner is null for a box the builder drops
+
+  // must match build-books.mjs: a run of blank lines becomes one paragraph break and blank
+  // lines at either end are dropped. done on the joined string, unlike the builder's loop.
+  const closeBox = () => {
+    if (box === null) return;
+    const body = box.lines.join('\n').replace(/\n{3,}/g, '\n\n').replace(/^\n+|\n+$/g, '');
+    if (box.owner !== null && body) box.owner.boxes.push({ kind: box.kind, body });
+    box = null;
+  };
 
   const lines = mdText.split(/\r\n|\r|\n/);
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim();
+
+    // an open box swallows every line up to the next #, ## or ### heading or reserved label;
+    // a `---` inside it counts as a blank line.
+    if (box !== null) {
+      const isHeading = line.startsWith('# ') || line.startsWith('## ') || line.startsWith('### ');
+      if (!isHeading && !BOOK_LABEL_RE.test(line)) {
+        box.lines.push(line === '---' ? '' : line);
+        continue;
+      }
+      closeBox();
+    }
+
     if (!line || line === '---') continue;
 
     if (line.startsWith('### ')) {
       pendingPrompt = null;
       if (chapter === null) continue;
-      section = { title: line.slice(4).trim(), exercises: [] };
+      section = { title: line.slice(4).trim(), boxes: [], exercises: [] };
       chapter.sections.push(section);
+      promptSeen = false;
       continue;
     }
     if (line.startsWith('## ')) {
       pendingPrompt = null;
-      chapter = { title: line.slice(3).trim(), sections: [] };
+      chapter = { title: line.slice(3).trim(), boxes: [], sections: [] };
       chapters.push(chapter);
       section = null;
+      promptSeen = false;
       continue;
     }
     if (line.startsWith('# ')) {
       if (title === null) title = line.slice(2).trim();
+      continue;
+    }
+
+    // a box attaches to the chapter before its first ###, or to the section before its first
+    // prompt; anywhere else the builder warns and drops it, so it is dropped here too.
+    const boxMatch = BOOK_BOX_RE.exec(line);
+    if (boxMatch) {
+      let owner = null;
+      if (chapter !== null && section === null) owner = chapter;
+      else if (section !== null && !promptSeen) owner = section;
+      box = {
+        kind: boxMatch[1] === 'Vocabulary' ? 'vocabulary' : 'notes',
+        owner,
+        lines: boxMatch[2] ? [boxMatch[2]] : [],
+      };
       continue;
     }
 
@@ -448,6 +493,7 @@ export function reparseBook(mdText) {
       const value = exMatch[2].trim();
       if (kind === 'prompt') {
         pendingPrompt = value;
+        promptSeen = true;
       } else if (pendingPrompt !== null && section !== null) {
         section.exercises.push({ prompt: pendingPrompt, key: value });
         pendingPrompt = null;
@@ -455,10 +501,13 @@ export function reparseBook(mdText) {
     }
   }
 
+  closeBox();
   return { title, author, year, blurb, chapters };
 }
 
 function canonicalBookJson(book) {
+  // JSON built before boxes existed has no `boxes` keys; treat those as empty.
+  const canonicalBoxes = (boxes) => (boxes ?? []).map((b) => ({ kind: b.kind, body: b.body }));
   return {
     title: book.title,
     author: book.author,
@@ -466,8 +515,10 @@ function canonicalBookJson(book) {
     blurb: book.blurb,
     chapters: (book.chapters ?? []).map((ch) => ({
       title: ch.title,
+      boxes: canonicalBoxes(ch.boxes),
       sections: (ch.sections ?? []).map((s) => ({
         title: s.title,
+        boxes: canonicalBoxes(s.boxes),
         exercises: (s.exercises ?? []).map((ex) => ({ prompt: ex.prompt, key: ex.key })),
       })),
     })),
@@ -557,7 +608,28 @@ export function diffManifest(mdIds, jsonIds) {
   return errors;
 }
 
-// walks metadata then chapters/sections/exercises positionally, emitting path-labelled messages.
+// compares one heading's notes/vocabulary boxes positionally; `at` labels the heading.
+function diffBoxes(at, mdBoxes, jsonBoxes) {
+  const errors = [];
+  if (mdBoxes.length !== jsonBoxes.length) {
+    errors.push(`${at} box count mismatch — md=${mdBoxes.length} vs json=${jsonBoxes.length}`);
+  }
+  const count = Math.min(mdBoxes.length, jsonBoxes.length);
+  for (let b = 0; b < count; b++) {
+    for (const f of ['kind', 'body']) {
+      if (norm(mdBoxes[b][f]) !== norm(jsonBoxes[b][f])) {
+        errors.push(
+          `${at} box${b + 1} ${f} mismatch: ` +
+            `md=${JSON.stringify(mdBoxes[b][f])} vs json=${JSON.stringify(jsonBoxes[b][f])}`
+        );
+      }
+    }
+  }
+  return errors;
+}
+
+// walks metadata then chapters/sections (with their boxes) and exercises positionally,
+// emitting path-labelled messages.
 export function diffBook(bookId, mdBook, jsonBook) {
   const errors = [];
   const at = `books[${bookId}]`;
@@ -582,6 +654,7 @@ export function diffBook(bookId, mdBook, jsonBook) {
     if (norm(mc.title) !== norm(jc.title)) {
       errors.push(`${at}: ch${c + 1} title mismatch: md=${JSON.stringify(mc.title)} vs json=${JSON.stringify(jc.title)}`);
     }
+    errors.push(...diffBoxes(`${at}: ch${c + 1}`, mc.boxes ?? [], jc.boxes ?? []));
     const ms = mc.sections ?? [];
     const js = jc.sections ?? [];
     if (ms.length !== js.length) {
@@ -594,6 +667,7 @@ export function diffBook(bookId, mdBook, jsonBook) {
       if (norm(msec.title) !== norm(jsec.title)) {
         errors.push(`${at}: ch${c + 1} §${s + 1} title mismatch: md=${JSON.stringify(msec.title)} vs json=${JSON.stringify(jsec.title)}`);
       }
+      errors.push(...diffBoxes(`${at}: ch${c + 1} §${s + 1}`, msec.boxes ?? [], jsec.boxes ?? []));
       const mex = msec.exercises ?? [];
       const jex = jsec.exercises ?? [];
       if (mex.length !== jex.length) {

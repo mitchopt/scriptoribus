@@ -148,12 +148,38 @@ IDs must be unique. Use the next available `img###` in sequence.
 
 ### Books — `data/raw_md/books/`
 
-1. Create `data/raw_md/books/<id>.md` following the structure of an existing book file.
+1. Create `data/raw_md/books/<id>.md` in the format below.
 2. Append the ID to `data/raw_md/books/manifest.md`.
 3. Run `npm run build`.
 4. Commit the markdown source, the generated JSON (`data/books/<id>.json` and `manifest.json`), and the generated HTML (`book-<id>.html`).
 
 Books must be public domain (typically published before 1928 in the US).
+
+A book opens with a `#` title and the required `**Author:**`, `**Year:**`, and `**Blurb:**`. Each `##` heading is a section of the book, and each `###` heading an exercise within it. An exercise is a run of questions: a `**Prompt:**` line followed directly by its `**Key:**` line.
+
+**Notes and vocabulary boxes** are optional, and stay closed until clicked. A box opens with `**Notes:**` (or `**Note:**`) or `**Vocabulary:**`, and runs until the next heading, label, or `**Prompt:**`. Text on the label's own line is the box's first line. The body is ordinary Markdown: a blank line starts a new paragraph, `- ` starts a list item (lists cannot be nested), and `*italics*` and `**bold**` work as usual. Where a box is placed decides what it belongs to:
+
+- after a `##` heading, before its first `###`: the whole section;
+- after a `###` heading, before its first `**Prompt:**`: that exercise only.
+
+A box anywhere else (before the first `##`, or after an exercise's first prompt), or an empty one, is left out with a warning, which fails `npm run build:strict`. A section or exercise can have several boxes; they appear in the order written.
+
+```markdown
+## Final Sentences
+
+**Notes:** Notes for the whole section, shown above its first exercise.
+
+A blank line starts a new paragraph.
+
+### Exercise 2 [A]
+
+**Vocabulary:**
+- obey, *pāreō*, *-ēre* (+ dat.)
+- spare, *parcō*, *-ere* (+ dat.)
+
+**Prompt:** I am going to the city to buy bread.
+**Key:** TODO
+```
 
 ---
 

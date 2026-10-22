@@ -117,6 +117,64 @@
       margin: 0;
       font-size: 0.95rem;
     }
+
+    /* notes/vocabulary boxes: a card like .book-exercise on the darker surface, so it reads as
+       reference material, with a summary styled like .book-section-title */
+    .book-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: var(--s3);
+    }
+
+    .book-box-title {
+      cursor: pointer;
+      font-family: var(--font-body);
+      font-weight: 600;
+      color: var(--ink-muted);
+      font-size: 0.95rem;
+      user-select: none;
+    }
+
+    .book-box-title:hover {
+      color: var(--ink);
+    }
+
+    .book-box-body {
+      margin-top: var(--s2);
+      color: var(--ink);
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    .book-box-body p,
+    .book-box-body ul,
+    .book-box-body ol,
+    .book-box-body blockquote {
+      margin-bottom: var(--s2);
+    }
+
+    /* reset.css strips list markers; vocabulary lists need them back */
+    .book-box-body ul,
+    .book-box-body ol {
+      list-style: revert;
+      padding-left: var(--s5);
+    }
+
+    .book-box-body li {
+      margin-bottom: var(--s1);
+    }
+
+    .book-box-body blockquote {
+      border-left: 3px solid var(--border);
+      padding-left: var(--s3);
+      color: var(--ink-muted);
+      font-style: italic;
+    }
+
+    .book-box-body :last-child {
+      margin-bottom: 0;
+    }
   </style>
 </head>
 <body data-page="book-detail">
@@ -2365,10 +2423,38 @@
       <summary class="book-chapter-title">Sequence of Tenses</summary>
       <div class="book-chapter-body">
         
+          <details class="book-box book-box--notes">
+            <summary class="book-box-title">Notes</summary>
+            <div class="book-box-body">
+              <p>PLACEHOLDER: a section-level box. It belongs to the whole <em>Sequence of Tenses</em> section, so it sits above Exercise 1.</p>
+<p>A second paragraph, to check that paragraphs stay apart.</p>
+
+            </div>
+          </details>
+        
           <details class="book-section">
             <summary class="book-section-title">Exercise 1</summary>
             <div class="book-section-body">
               
+          <details class="book-box book-box--notes">
+            <summary class="book-box-title">Notes</summary>
+            <div class="book-box-body">
+              <p>PLACEHOLDER: an exercise-level box with <em>italics</em> and <strong>bold</strong>. It belongs to Exercise 1 only.</p>
+
+            </div>
+          </details>
+        
+          <details class="book-box book-box--vocabulary">
+            <summary class="book-box-title">Vocabulary</summary>
+            <div class="book-box-body">
+              <ul>
+<li>PLACEHOLDER: an English word, <em>a Latin word</em></li>
+<li>PLACEHOLDER: another English word, <em>another Latin word</em></li>
+</ul>
+
+            </div>
+          </details>
+        
                 <div class="book-exercise">
                   <p class="book-prompt">They have come in order that they may conquer us.</p>
                   <button class="book-key-btn">

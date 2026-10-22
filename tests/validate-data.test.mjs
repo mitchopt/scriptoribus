@@ -12,10 +12,13 @@ import {
   reparseLinks,
   reparseTemplates,
   reparseIdioms,
+  reparseBook,
   diffRecords,
+  diffBook,
   findOrphanBookJson,
 } from '../scripts/validate-data.mjs';
 import { parseIdioms } from '../scripts/build-idioms.mjs';
+import { parseBook } from '../scripts/build-books.mjs';
 
 const SAMPLE = `# Possessive Genitive
 
@@ -242,4 +245,107 @@ test('book manifest accounts for every book JSON on disk', () => {
   const manifestIds = JSON.parse(readFileSync(new URL('manifest.json', booksDir), 'utf8'));
   const orphans = findOrphanBookJson(manifestIds, filenames);
   assert.deepEqual(orphans, [], `orphan book JSON not in manifest: ${orphans.join(', ')}`);
+});
+
+// reparseBook: its independent box parsing must agree with build-books.mjs, including which
+// boxes are dropped (before the first ##, after a section's first prompt, or empty).
+
+const BOOK_SAMPLE = `# Sample Book
+
+**Author:** A. N. Author
+
+**Year:** 1900
+
+**Blurb:** A blurb.
+
+**Notes:** Too early: both parsers drop this.
+
+## First Section
+
+**Notes:** Section notes,
+on two lines.
+
+Second paragraph.
+
+### Exercise 1
+
+**Vocabulary:**
+- obey, *pāreō*
+
+**Prompt:** First prompt.
+**Key:** Prima.
+
+**Notes:** Too late: both parsers drop this.
+
+**Prompt:** Second prompt.
+**Key:** Secunda.
+
+### Exercise 2
+
+**Note:**
+---
+
+**Prompt:** Third prompt.
+**Key:** Tertia.
+`;
+
+test('reparseBook: collects boxes at both levels and drops misplaced or empty ones', () => {
+  const md = reparseBook(BOOK_SAMPLE);
+  assert.deepEqual(md.chapters[0].boxes, [
+    { kind: 'notes', body: 'Section notes,\non two lines.\n\nSecond paragraph.' },
+  ]);
+  assert.deepEqual(
+    md.chapters[0].sections.map((s) => s.boxes),
+    [[{ kind: 'vocabulary', body: '- obey, *pāreō*' }], []]
+  );
+  assert.equal(md.chapters[0].sections[0].exercises.length, 2);
+});
+
+test('reparseBook and parseBook agree on boxes', () => {
+  const md = reparseBook(BOOK_SAMPLE);
+  const { data } = parseBook(BOOK_SAMPLE, 'sample');
+  assert.deepEqual(md.chapters[0].boxes, data.chapters[0].boxes);
+  assert.deepEqual(
+    md.chapters[0].sections.map((s) => s.boxes),
+    data.chapters[0].sections.map((s) => s.boxes)
+  );
+  assert.deepEqual(diffBook('sample', md, data), []);
+});
+
+// rebuild the json side from the builder, apply one edit, and diff it against the markdown.
+function diffAfterEdit(edit) {
+  const { data } = parseBook(BOOK_SAMPLE, 'sample');
+  edit(data);
+  return diffBook('sample', reparseBook(BOOK_SAMPLE), data);
+}
+
+test('diffBook: a changed box body is flagged', () => {
+  const errors = diffAfterEdit((data) => {
+    data.chapters[0].boxes[0].body = 'tampered';
+  });
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /^books\[sample\]: ch1 box1 body mismatch: md=/);
+});
+
+test('diffBook: a changed box kind is flagged', () => {
+  const errors = diffAfterEdit((data) => {
+    data.chapters[0].sections[0].boxes[0].kind = 'notes';
+  });
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /^books\[sample\]: ch1 §1 box1 kind mismatch: md=/);
+});
+
+test('diffBook: a missing box is flagged by count', () => {
+  const errors = diffAfterEdit((data) => {
+    data.chapters[0].sections[0].boxes.pop();
+  });
+  assert.deepEqual(errors, ['books[sample]: ch1 §1 box count mismatch — md=1 vs json=0']);
+});
+
+test('diffBook: json without boxes keys matches a book that has no boxes', () => {
+  const md = '# T\n\n**Author:** A\n\n**Year:** 1900\n\n**Blurb:** B\n\n## S\n\n### E\n\n**Prompt:** P\n**Key:** K\n';
+  const { data } = parseBook(md, 'x');
+  delete data.chapters[0].boxes;
+  delete data.chapters[0].sections[0].boxes;
+  assert.deepEqual(diffBook('x', reparseBook(md), data), []);
 });

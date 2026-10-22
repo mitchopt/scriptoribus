@@ -673,7 +673,17 @@
 
 ## Sequence of Tenses
 
+**Notes:** PLACEHOLDER: a section-level box. It belongs to the whole *Sequence of Tenses* section, so it sits above Exercise 1.
+
+A second paragraph, to check that paragraphs stay apart.
+
 ### Exercise 1
+
+**Notes:** PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 1 only.
+
+**Vocabulary:**
+- PLACEHOLDER: an English word, *a Latin word*
+- PLACEHOLDER: another English word, *another Latin word*
 
 **Prompt:** They have come in order that they may conquer us.
 **Key:** TODO
