@@ -164,6 +164,8 @@ A book opens with a `#` title and the required `**Author:**`, `**Year:**`, and `
 
 A box anywhere else (before the first `##`, or after an exercise's first prompt), or an empty one, is left out with a warning, which fails `npm run build:strict`. A section or exercise can have several boxes; they appear in the order written.
 
+In a vocabulary box, give each word its own `- ` item: the English, then the Latin in bold, with labels such as *f.* or *adv.* outside the bold. Write out all of every verb's principal parts in full, and mark all long vowels with macrons.
+
 ```markdown
 ## Final Sentences
 
@@ -176,8 +178,8 @@ A blank line starts a new paragraph.
 **Info:** Always shown, with no click needed.
 
 **Vocabulary:**
-- obey, *pāreō*, *-ēre* (+ dat.)
-- spare, *parcō*, *-ere* (+ dat.)
+- go, **eō, īre, īvī, itum**
+- city, **urbs, urbis**, f.
 
 **Prompt:** I am going to the city to buy bread.
 **Key:** TODO

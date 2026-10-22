@@ -730,7 +730,26 @@ A second paragraph, to check that paragraphs stay apart.
 **Notes:** PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 2 only.
 
 **Vocabulary:**
-go, **eō, īre, īvī, itum**
+- go, **eō, īre, īvī, itum**
+- city, **urbs, urbis**, f.
+- buy, **emō, emere, ēmī, ēmptum**
+- bread, **pānis, -is**, m.
+- see, **videō, vidēre, vīdī, vīsum**
+- home, **domus, -ūs**, f.
+- friend, **amīcus, -ī**
+- ask for, **rogō, rogāre, rogāvī, rogātum**
+- peace, **pāx, pācis**, f.
+- send, **mittō, mittere, mīsī, missum**
+- run, **currō, currere, cucurrī, cursum**
+- fast, quick, **celer**; adv. **celeriter**
+- catch, take, capture, **capiō, capere, cēpī, captum**
+- horse, **equus, -ī**, m.
+- tired, weary, **fessus, dēfessus**
+- sword, **gladius, -ī**, m.
+- kill, put to death, **interficiō, interficere, interfēcī, interfectum**; **occīdō, occīdere, occīdī, occīsum**
+- give, **dō, dare, dedī, datum**
+- king, **rēx, rēgis**
+- son, **fīlius, -ī**
 
 **Prompt:** I am going to the city to buy bread.
 **Key:** TODO
