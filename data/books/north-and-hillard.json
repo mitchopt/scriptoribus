@@ -1266,59 +1266,64 @@
             {
               "id": "ex01",
               "prompt": "I am going to the city to buy bread.",
-              "key": "TODO"
+              "key": "Ad urbem eō ut pānem ēmam."
             },
             {
               "id": "ex02",
               "prompt": "He went to the city lest he should see his father.",
-              "key": "TODO"
+              "key": "Ad urbem īvit nē patrem videret."
             },
             {
               "id": "ex03",
-              "prompt": "We have gone homel to see our friends.",
-              "key": "TODO"
+              "prompt": "We have gone home to see our friends.",
+              "key": "Domum īvimus ut amīcōs videāmus."
             },
             {
               "id": "ex04",
               "prompt": "We shall go to Caesar to ask for peace.",
-              "key": "TODO"
+              "key": "Ad Caesarem ībimus ut pācem rogēmus."
             },
             {
               "id": "ex05",
               "prompt": "Do not send me to ask for peace.",
-              "key": "TODO"
+              "key": "Nē mē mīserīs ut pācem rogem."
             },
             {
               "id": "ex06",
               "prompt": "We were running fast that we might not be caught.",
-              "key": "TODO"
+              "key": "Celeriter currēbāmus nē caperēmur."
             },
             {
               "id": "ex07",
               "prompt": "I have bought a horse that I may not be tired.",
-              "key": "TODO"
+              "key": "Equum ēmī nē fessus sim."
             },
             {
               "id": "ex08",
               "prompt": "Give him a sword that he may not be killed.",
-              "key": "TODO"
+              "key": "Date eī gladium nē interficiātur."
             },
             {
               "id": "ex09",
               "prompt": "You had gone to Italy to see the king's son.",
-              "key": "TODO"
+              "key": "Ad Italiam ierātis ut fīlium rēgis vidērētis."
             },
             {
               "id": "ex10",
               "prompt": "We were sent to ask for peace.",
-              "key": "TODO"
+              "key": "Missī sumus ut pācem rogārēmus."
             }
           ]
         },
         {
           "id": "s02",
           "title": "Exercise 3 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- retreat, **sē recipiō, recipere, recēpī, receptum**; **pedem referō, referre, rettulī** or **retulī, relātum**\n- avoid, **vītō, vītāre, vītāvī, vītātum**\n- battle, **pugna, proelium**\n- hinder, **impediō, impedīre, impedīvī, impedītum**\n- march, n. **iter, itineris**, n.\n- march, v. **iter faciō, facere, fēcī, factum**; **contendō, contendere, contendī, contentum**\n- learn (=discover), **cognōscō, cognōscere, cognōvī, cognitum**\n- plan, **cōnsilium**, n.\n- advance, **prōgredior, prōgredī, prōgressus sum**; **prōcēdō, prōcēdere, prōcessī, prōcessum** (so conjugate **cēdō** and all its compounds)\n- camp, **castra, -ōrum**, n. pl.\n- accuse, **accūsō, accūsāre, accūsāvī, accūsātum**\n- work, v. **labōrō, labōrāre, labōrāvī, labōrātum**\n- work, n. **labor, -ōris**, m.; **opus, -eris**, n.\n- become, **fīō, fierī, factus sum**\n- rich, **dīves, -itis**\n- arms, **arma**, n. pl.\n- think, **putō, putāre, putāvī, putātum**\n- coward, **ignāvus**\n- brave, strong, **fortis, validus**\n- poor (a poor man), **pauper, -eris**\n- consul, **cōnsul, -ulis**\n- ought, **dēbeō, dēbēre, dēbuī, dēbitum**\n- praise, **laudō, laudāre, laudāvī, laudātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1375,7 +1380,12 @@
         {
           "id": "s03",
           "title": "Exercise 4 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- help, **iuvō, iuvāre, iūvī, iūtum**, acc.; **subveniō, subvenīre, subvēnī, subventum**, dat.\n- sick, **aeger, -ra, -rum**\n- suffer, **patior, patī, passus sum**\n- pain, **dolor, -ōris**, m.\n- plain, **campus, -ī**, m."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1432,7 +1442,12 @@
         {
           "id": "s04",
           "title": "Exercise 5 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- safe, **tūtus**\n- stay, remain, **maneō, manēre, mānsī, mānsum**\n- save, **servō, servāre, servāvī, servātum**\n- whole, **tōtus, omnis**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",

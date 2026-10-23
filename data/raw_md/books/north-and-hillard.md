@@ -752,36 +752,61 @@ A second paragraph, to check that paragraphs stay apart.
 - son, **fīlius, -ī**
 
 **Prompt:** I am going to the city to buy bread.
-**Key:** TODO
+**Key:** Ad urbem eō ut pānem ēmam.
 
 **Prompt:** He went to the city lest he should see his father.
-**Key:** TODO
+**Key:** Ad urbem īvit nē patrem videret.
 
-**Prompt:** We have gone homel to see our friends.
-**Key:** TODO
+**Prompt:** We have gone home to see our friends.
+**Key:** Domum īvimus ut amīcōs videāmus.
 
 **Prompt:** We shall go to Caesar to ask for peace.
-**Key:** TODO
+**Key:** Ad Caesarem ībimus ut pācem rogēmus.
 
 **Prompt:** Do not send me to ask for peace.
-**Key:** TODO
+**Key:** Nē mē mīserīs ut pācem rogem.
 
 **Prompt:** We were running fast that we might not be caught.
-**Key:** TODO
+**Key:** Celeriter currēbāmus nē caperēmur.
 
 **Prompt:** I have bought a horse that I may not be tired.
-**Key:** TODO
+**Key:** Equum ēmī nē fessus sim.
 
 **Prompt:** Give him a sword that he may not be killed.
-**Key:** TODO
+**Key:** Date eī gladium nē interficiātur.
 
 **Prompt:** You had gone to Italy to see the king's son.
-**Key:** TODO
+**Key:** Ad Italiam ierātis ut fīlium rēgis vidērētis.
 
 **Prompt:** We were sent to ask for peace.
-**Key:** TODO
+**Key:** Missī sumus ut pācem rogārēmus.
 
 ### Exercise 3 [A]
+
+**Vocabulary:**
+- retreat, **sē recipiō, recipere, recēpī, receptum**; **pedem referō, referre, rettulī** or **retulī, relātum**
+- avoid, **vītō, vītāre, vītāvī, vītātum**
+- battle, **pugna, proelium**
+- hinder, **impediō, impedīre, impedīvī, impedītum**
+- march, n. **iter, itineris**, n.
+- march, v. **iter faciō, facere, fēcī, factum**; **contendō, contendere, contendī, contentum**
+- learn (=discover), **cognōscō, cognōscere, cognōvī, cognitum**
+- plan, **cōnsilium**, n.
+- advance, **prōgredior, prōgredī, prōgressus sum**; **prōcēdō, prōcēdere, prōcessī, prōcessum** (so conjugate **cēdō** and all its compounds)
+- camp, **castra, -ōrum**, n. pl.
+- accuse, **accūsō, accūsāre, accūsāvī, accūsātum**
+- work, v. **labōrō, labōrāre, labōrāvī, labōrātum**
+- work, n. **labor, -ōris**, m.; **opus, -eris**, n.
+- become, **fīō, fierī, factus sum**
+- rich, **dīves, -itis**
+- arms, **arma**, n. pl.
+- think, **putō, putāre, putāvī, putātum**
+- coward, **ignāvus**
+- brave, strong, **fortis, validus**
+- poor (a poor man), **pauper, -eris**
+- consul, **cōnsul, -ulis**
+- ought, **dēbeō, dēbēre, dēbuī, dēbitum**
+- praise, **laudō, laudāre, laudāvī, laudātum**
 
 **Prompt:** The enemy retreated in order to avoid a battle.
 **Key:** TODO
@@ -815,6 +840,13 @@ A second paragraph, to check that paragraphs stay apart.
 
 ### Exercise 4 [B]
 
+**Vocabulary:**
+- help, **iuvō, iuvāre, iūvī, iūtum**, acc.; **subveniō, subvenīre, subvēnī, subventum**, dat.
+- sick, **aeger, -ra, -rum**
+- suffer, **patior, patī, passus sum**
+- pain, **dolor, -ōris**, m.
+- plain, **campus, -ī**, m.
+
 **Prompt:** I was sent to ask for peace.
 **Key:** TODO
 
@@ -846,6 +878,12 @@ A second paragraph, to check that paragraphs stay apart.
 **Key:** TODO
 
 ### Exercise 5 [B]
+
+**Vocabulary:**
+- safe, **tūtus**
+- stay, remain, **maneō, manēre, mānsī, mānsum**
+- save, **servō, servāre, servāvī, servātum**
+- whole, **tōtus, omnis**
 
 **Prompt:** In order not to be accused myself, I accused my friend.
 **Key:** TODO
