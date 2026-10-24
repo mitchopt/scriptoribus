@@ -1271,7 +1271,7 @@
             {
               "id": "ex02",
               "prompt": "He went to the city lest he should see his father.",
-              "key": "Ad urbem īvit nē patrem videret."
+              "key": "Ad urbem īvit nē patrem vidēret."
             },
             {
               "id": "ex03",
@@ -1328,52 +1328,52 @@
             {
               "id": "ex01",
               "prompt": "The enemy retreated in order to avoid a battle.",
-              "key": "TODO"
+              "key": "Hostēs sē recēpērunt ut pugnam vītārent."
             },
             {
               "id": "ex02",
               "prompt": "We shall send 200 men in order that we may hinder the enemy's march,",
-              "key": "TODO"
+              "key": "Ducentōs mittēmus ut hostium iter impediāmus."
             },
             {
               "id": "ex03",
               "prompt": "They marched quickly so that the enemy might not learn their plans.",
-              "key": "TODO"
+              "key": "Celeriter iter fēcērunt nē hostēs cōnsilia sua cognōscerent."
             },
             {
               "id": "ex04",
               "prompt": "We advanced to the top of the hill to see the enemy's camp.",
-              "key": "TODO"
+              "key": "Ad summum collem prōcessimus ut hostium castra vidērēmus."
             },
             {
               "id": "ex05",
               "prompt": "He is marching with Caesar so that he may not be accused by us.",
-              "key": "TODO"
+              "key": "Cum Caesare iter facit nē ā nōbīs accūsētur."
             },
             {
               "id": "ex06",
               "prompt": "We work in order to become rich.",
-              "key": "TODO"
+              "key": "Labōrāmus ut dīvitēs fīāmus."
             },
             {
               "id": "ex07",
               "prompt": "They have come to ask for arms from us.",
-              "key": "TODO"
+              "key": "Vēnērunt ut arma nōs rogent."
             },
             {
               "id": "ex08",
               "prompt": "In order that we may not think you a coward, fight bravely.",
-              "key": "TODO"
+              "key": "Nē ignāvum tē putēmus, fortiter pugnā."
             },
             {
               "id": "ex09",
               "prompt": "He did this in order that a poor man might not be consul.",
-              "key": "TODO"
+              "key": "Hoc fēcit nē pauper cōnsul esset."
             },
             {
               "id": "ex10",
               "prompt": "We ought not to do this to be praised.",
-              "key": "TODO"
+              "key": "Nōn dēbēmus hoc facere ut laudēmur."
             }
           ]
         },

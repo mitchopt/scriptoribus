@@ -755,7 +755,7 @@ A second paragraph, to check that paragraphs stay apart.
 **Key:** Ad urbem eō ut pānem ēmam.
 
 **Prompt:** He went to the city lest he should see his father.
-**Key:** Ad urbem īvit nē patrem videret.
+**Key:** Ad urbem īvit nē patrem vidēret.
 
 **Prompt:** We have gone home to see our friends.
 **Key:** Domum īvimus ut amīcōs videāmus.
@@ -809,34 +809,34 @@ A second paragraph, to check that paragraphs stay apart.
 - praise, **laudō, laudāre, laudāvī, laudātum**
 
 **Prompt:** The enemy retreated in order to avoid a battle.
-**Key:** TODO
+**Key:** Hostēs sē recēpērunt ut pugnam vītārent.
 
 **Prompt:** We shall send 200 men in order that we may hinder the enemy's march,
-**Key:** TODO
+**Key:** Ducentōs mittēmus ut hostium iter impediāmus.
 
 **Prompt:** They marched quickly so that the enemy might not learn their plans.
-**Key:** TODO
+**Key:** Celeriter iter fēcērunt nē hostēs cōnsilia sua cognōscerent.
 
 **Prompt:** We advanced to the top of the hill to see the enemy's camp.
-**Key:** TODO
+**Key:** Ad summum collem prōcessimus ut hostium castra vidērēmus.
 
 **Prompt:** He is marching with Caesar so that he may not be accused by us.
-**Key:** TODO
+**Key:** Cum Caesare iter facit nē ā nōbīs accūsētur.
 
 **Prompt:** We work in order to become rich.
-**Key:** TODO
+**Key:** Labōrāmus ut dīvitēs fīāmus.
 
 **Prompt:** They have come to ask for arms from us.
-**Key:** TODO
+**Key:** Vēnērunt ut arma nōs rogent.
 
 **Prompt:** In order that we may not think you a coward, fight bravely.
-**Key:** TODO
+**Key:** Nē ignāvum tē putēmus, fortiter pugnā.
 
 **Prompt:** He did this in order that a poor man might not be consul.
-**Key:** TODO
+**Key:** Hoc fēcit nē pauper cōnsul esset.
 
 **Prompt:** We ought not to do this to be praised.
-**Key:** TODO
+**Key:** Nōn dēbēmus hoc facere ut laudēmur.
 
 ### Exercise 4 [B]
 
