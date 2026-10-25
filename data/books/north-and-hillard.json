@@ -1511,7 +1511,12 @@
         {
           "id": "s01",
           "title": "Exercise 6 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- so great, **tantus**\n- such, **tālis**\n- so many, **tot** (an indecl. adj.)\n- so often, **totiēs**\n- so (with adv. and adj.), **tam**\n- so (=in such a way), **ita**\n- so (=to such an extent), **adeō**\n- conquer, defeat, **vincō, vincere, vīcī, victum**\n- be afraid, fear, **timeō, timēre, timuī**\n- our men, **nostrī** [omit *men*]\n- escape, **effugiō, effugere, effūgī, effugitum**\n- fierce, **ferōx**; adv. **ferōciter**\n- danger, **perīculum**\n- ship, **nāvis, -is**, f.\n- deep, high, **altus**\n- river, **flūmen, -inis**, n.; **fluvius, -ī**, m.\n- cross, **trānseō, trānsīre, trānsiī, trānsitum**\n- despise, **dēspiciō, dēspicere, dēspexī, dēspectum**\n- fear, **metus, -ūs**, m.; **timor, -ōris**, m.\n- dare, **audeō, audēre, ausus sum**\n- storm, **tempestās, -tātis**, f.\n- arise, **coorior, coorīrī, coortus sum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1568,7 +1573,12 @@
         {
           "id": "s02",
           "title": "Exercise 7 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- enough, **satis**\n- snow, **nix, nivis**, f.\n- set out, **proficīscor, proficīscī, profectus sum**\n- easily, **facile**\n- tree, **arbor, -oris**, f.\n- fall, **cadō, cadere, cecidī, cāsum**\n- lie, **iaceō, iacēre, iacuī, iacitūrus**\n- return, **redeō, redīre, rediī, reditum**\n- courage, **virtūs, -tūtis**, f.\n- climb, **ascendō, ascendere, ascendī, ascēnsum**\n- follow, **sequor, sequī, secūtus sum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1625,7 +1635,12 @@
         {
           "id": "s03",
           "title": "Exercise 8 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- arrive, **adveniō, advenīre, advēnī, adventum**\n- full, **plēnus**\n- sea, **mare, -is**, n.\n- book, **liber, -rī**, m.\n- fly, **fugiō, fugere, fūgī, fugitum**\n- again, **rūrsus**\n- idle, cowardly, **ignāvus**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1687,7 +1702,12 @@
         {
           "id": "s04",
           "title": "Exercise 9 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- leave, **relinquō, relinquere, relīquī, relictum**\n- home, homewards, acc. of **domus, -ūs**, f."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",

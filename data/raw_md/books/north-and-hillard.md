@@ -919,6 +919,30 @@ A second paragraph, to check that paragraphs stay apart.
 
 ### Exercise 6 [A]
 
+**Vocabulary:**
+- so great, **tantus**
+- such, **tālis**
+- so many, **tot** (an indecl. adj.)
+- so often, **totiēs**
+- so (with adv. and adj.), **tam**
+- so (=in such a way), **ita**
+- so (=to such an extent), **adeō**
+- conquer, defeat, **vincō, vincere, vīcī, victum**
+- be afraid, fear, **timeō, timēre, timuī**
+- our men, **nostrī** [omit *men*]
+- escape, **effugiō, effugere, effūgī, effugitum**
+- fierce, **ferōx**; adv. **ferōciter**
+- danger, **perīculum**
+- ship, **nāvis, -is**, f.
+- deep, high, **altus**
+- river, **flūmen, -inis**, n.; **fluvius, -ī**, m.
+- cross, **trānseō, trānsīre, trānsiī, trānsitum**
+- despise, **dēspiciō, dēspicere, dēspexī, dēspectum**
+- fear, **metus, -ūs**, m.; **timor, -ōris**, m.
+- dare, **audeō, audēre, ausus sum**
+- storm, **tempestās, -tātis**, f.
+- arise, **coorior, coorīrī, coortus sum**
+
 **Prompt:** The soldiers are so brave that they always conquer the enemy.
 **Key:** TODO
 
@@ -951,6 +975,19 @@ A second paragraph, to check that paragraphs stay apart.
 
 ### Exercise 7 [A]
 
+**Vocabulary:**
+- enough, **satis**
+- snow, **nix, nivis**, f.
+- set out, **proficīscor, proficīscī, profectus sum**
+- easily, **facile**
+- tree, **arbor, -oris**, f.
+- fall, **cadō, cadere, cecidī, cāsum**
+- lie, **iaceō, iacēre, iacuī, iacitūrus**
+- return, **redeō, redīre, rediī, reditum**
+- courage, **virtūs, -tūtis**, f.
+- climb, **ascendō, ascendere, ascendī, ascēnsum**
+- follow, **sequor, sequī, secūtus sum**
+
 **Prompt:** We were so tired that we remained in the plain.
 **Key:** TODO
 
@@ -982,6 +1019,15 @@ A second paragraph, to check that paragraphs stay apart.
 **Key:** TODO
 
 ### Exercise 8 [B]
+
+**Vocabulary:**
+- arrive, **adveniō, advenīre, advēnī, adventum**
+- full, **plēnus**
+- sea, **mare, -is**, n.
+- book, **liber, -rī**, m.
+- fly, **fugiō, fugere, fūgī, fugitum**
+- again, **rūrsus**
+- idle, cowardly, **ignāvus**
 
 **Prompt:** Let us work in such a way that all men may praise us,
 **Key:** TODO
@@ -1017,6 +1063,10 @@ A second paragraph, to check that paragraphs stay apart.
 **Key:** TODO
 
 ### Exercise 9 [B]
+
+**Vocabulary:**
+- leave, **relinquō, relinquere, relīquī, relictum**
+- home, homewards, acc. of **domus, -ūs**, f.
 
 **Prompt:** The tree was so high that it fell.
 **Key:** TODO
