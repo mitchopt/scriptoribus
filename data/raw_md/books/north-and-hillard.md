@@ -848,34 +848,34 @@ A second paragraph, to check that paragraphs stay apart.
 - plain, **campus, -ī**, m.
 
 **Prompt:** I was sent to ask for peace.
-**Key:** TODO
+**Key:** Missus sum ut pācem rogārem.
 
 **Prompt:** I shall do this in order to help my friends.
-**Key:** TODO
+**Key:** Hoc faciam ut amīcōs iuvem.
 
 **Prompt:** They have gone away lest they should be seen.
-**Key:** TODO
+**Key:** Abiērunt nē videantur.
 
 **Prompt:** They had gone away that they might not be seen.
-**Key:** TODO
+**Key:** Abierant nē vidērentur.
 
 **Prompt:** We will leave the sick that we may not be hindered.
-**Key:** TODO
+**Key:** Aegrōs relinquēmus nē impediāmur.
 
 **Prompt:** To help our friends we are willing to suffer pain.
-**Key:** TODO
+**Key:** Ut amīcōs iuvēmus dolōrem patī volumus.
 
 **Prompt:** To help us they had marched very quickly.
-**Key:** TODO
+**Key:** Ut nōs iuvārent celerrimē contenderant.
 
 **Prompt:** He did this in order to become consul.
-**Key:** TODO
+**Key:** Hoc fēcit ut cōnsul fieret.
 
 **Prompt:** They retreated that they might not be killed.
-**Key:** TODO
+**Key:** Sē recēpērunt nē occīderentur.
 
 **Prompt:** Let us go to the top of the hill to see the plain.
-**Key:** TODO
+**Key:** Ad summum collem eāmus ut campum videāmus.
 
 ### Exercise 5 [B]
 
