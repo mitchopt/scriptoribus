@@ -1452,52 +1452,52 @@
             {
               "id": "ex01",
               "prompt": "In order not to be accused myself, I accused my friend.",
-              "key": "TODO"
+              "key": "Nē ipse accūsārer, amīcum meum accūsāvī."
             },
             {
               "id": "ex02",
               "prompt": "We ought to praise good men to make others good.",
-              "key": "TODO"
+              "key": "Bonōs laudāre dēbēmus ut aliōs bonōs faciāmus."
             },
             {
               "id": "ex03",
               "prompt": "To avoid the enemy march very quickly.",
-              "key": "TODO"
+              "key": "Ut hostēs vītētis celerrimē contendite."
             },
             {
               "id": "ex04",
               "prompt": "We left the sick so that we might not be hindered.",
-              "key": "TODO"
+              "key": "Aegrōs relīquimus nē impedīrēmur."
             },
             {
               "id": "ex05",
               "prompt": "I have not come to avoid my enemies.",
-              "key": "TODO"
+              "key": "Nōn vēnī ut inimīcōs vītem."
             },
             {
               "id": "ex06",
               "prompt": "To be safe stay in the city.",
-              "key": "TODO"
+              "key": "Ut tūtus sīs manē in urbe."
             },
             {
               "id": "ex07",
-              "prompt": "All of us will come with you, 2 so that you may be safe.",
-              "key": "TODO"
+              "prompt": "All of us will come with you, so that you may be safe.",
+              "key": "Nōs omnēs tēcum veniēmus, ut tūtus sīs."
             },
             {
               "id": "ex08",
               "prompt": "Do not come in order to save me.",
-              "key": "TODO"
+              "key": "Nē vēnerīs ut mē servēs."
             },
             {
               "id": "ex09",
               "prompt": "In order that the enemy might not take the city the whole of the army set out.",
-              "key": "TODO"
+              "key": "Nē hostēs urbem caperent tōtus exercitus profectus est."
             },
             {
               "id": "ex10",
               "prompt": "That they may not be caught by the enemy do not send many men.",
-              "key": "TODO"
+              "key": "Nē ab hostibus capiantur nōlī multōs mittere."
             }
           ]
         }

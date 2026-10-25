@@ -886,34 +886,34 @@ A second paragraph, to check that paragraphs stay apart.
 - whole, **tōtus, omnis**
 
 **Prompt:** In order not to be accused myself, I accused my friend.
-**Key:** TODO
+**Key:** Nē ipse accūsārer, amīcum meum accūsāvī.
 
 **Prompt:** We ought to praise good men to make others good.
-**Key:** TODO
+**Key:** Bonōs laudāre dēbēmus ut aliōs bonōs faciāmus.
 
 **Prompt:** To avoid the enemy march very quickly.
-**Key:** TODO
+**Key:** Ut hostēs vītētis celerrimē contendite.
 
 **Prompt:** We left the sick so that we might not be hindered.
-**Key:** TODO
+**Key:** Aegrōs relīquimus nē impedīrēmur.
 
 **Prompt:** I have not come to avoid my enemies.
-**Key:** TODO
+**Key:** Nōn vēnī ut inimīcōs vītem.
 
 **Prompt:** To be safe stay in the city.
-**Key:** TODO
+**Key:** Ut tūtus sīs manē in urbe.
 
-**Prompt:** All of us will come with you, 2 so that you may be safe.
-**Key:** TODO
+**Prompt:** All of us will come with you, so that you may be safe.
+**Key:** Nōs omnēs tēcum veniēmus, ut tūtus sīs.
 
 **Prompt:** Do not come in order to save me.
-**Key:** TODO
+**Key:** Nē vēnerīs ut mē servēs.
 
 **Prompt:** In order that the enemy might not take the city the whole of the army set out.
-**Key:** TODO
+**Key:** Nē hostēs urbem caperent tōtus exercitus profectus est.
 
 **Prompt:** That they may not be caught by the enemy do not send many men.
-**Key:** TODO
+**Key:** Nē ab hostibus capiantur nōlī multōs mittere.
 
 ## Consecutive Sentences
 
