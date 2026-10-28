@@ -944,34 +944,34 @@ A second paragraph, to check that paragraphs stay apart.
 - arise, **coorior, coorīrī, coortus sum**
 
 **Prompt:** The soldiers are so brave that they always conquer the enemy.
-**Key:** TODO
+**Key:** Tam fortēs sunt mīlitēs ut semper hostem vincant.
 
 **Prompt:** He has done this in such a way that we do not praise him.
-**Key:** TODO
+**Key:** Ita hoc fēcit ut nōn eum laudēmus.
 
 **Prompt:** The enemy were so many that all our men were afraid.
-**Key:** TODO
+**Key:** Tot erant hostēs ut nostrī omnēs timērent.
 
 **Prompt:** He escaped so quickly that no one 1 could catch him.
-**Key:** TODO
+**Key:** Tam celeriter effūgit ut nēmō eum capere posset.
 
 **Prompt:** The battle was fought so fiercely that all the soldiers were killed.
-**Key:** TODO
+**Key:** Tam ferōciter pugnātum est ut omnēs mīlitēs occīsī sint.
 
 **Prompt:** The danger is so great that no ships can be saved.
-**Key:** TODO
+**Key:** Tantum est perīculum ut nūllae nāvēs servārī possint.
 
 **Prompt:** So deep is the river that no one can cross it.
-**Key:** TODO
+**Key:** Tam altum est flūmen ut nēmō id possit trānsīre.
 
 **Prompt:** They have conquered the enemy so often that now they despise them.
-**Key:** TODO
+**Key:** Totiēs hostēs vīcērunt ut nunc eōs dēspiciant.
 
 **Prompt:** Their fear was so great that they did not dare to cross the river.
-**Key:** TODO
+**Key:** Tantus erat eōrum timor ut nōn audērent flūmen trānsīre.
 
 **Prompt:** So great a storm had arisen that all the sailors were terrified.
-**Key:** TODO
+**Key:** Tanta tempestās coorta erat ut omnēs nautae timērent.
 
 ### Exercise 7 [A]
 
