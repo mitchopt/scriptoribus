@@ -1030,37 +1030,37 @@ A second paragraph, to check that paragraphs stay apart.
 - idle, cowardly, **ignāvus**
 
 **Prompt:** Let us work in such a way that all men may praise us,
-**Key:** TODO
+**Key:** Ita labōrēmus ut omnēs nōs laudent.
 
 **Prompt:** So many soldiers had arrived that the camp was full.
-**Key:** TODO
+**Key:** Tot mīlitēs advēnerant ut castra plēna essent.
 
 **Prompt:** We have crossed the sea so often that we do not fear storms.
-**Key:** TODO
+**Key:** Totiēs mare trānsīvimus ut tempestātēs nōn timeāmus.
 
 **Prompt:** He asked me so often that I gave him the book.
-**Key:** TODO
+**Key:** Totiēs mē rogāvit ut librum eī dederim.
 
 **Prompt:** The forces of the enemy are so great that we cannot despise them.
-**Key:** TODO
+**Key:** Cōpiae hostium tantae sunt ut eās dēspicere nōn possīmus.
 
 **Prompt:** We were so greatly terrified that we all fied.
-**Key:** TODO
+**Key:** Adeō territī sumus ut omnēs fugerēmus.
 
 **Prompt:** So many men were killed that we did not fight again.
-**Key:** TODO
+**Key:** Tot hominēs occīsī sunt ut nōn rūrsus pugnārēmus.
 
 **Prompt:** They are such cowards (so cowardly) as not to dare to return into battle.
-**Key:** TODO
+**Key:** Tam ignāvī sunt ut in proelium redīre nōn audeant.
 
 **Prompt:** We are strong enough to save you.
-**Key:** TODO
+**Key:** Satis validī sumus ut tē servēmus.
 
 **Prompt:** We were not strong enough to fight against them.
-**Key:** TODO
+**Key:** Nōn satis validī erāmus ut contrā eōs pugnārēmus.
 
 **Prompt:** They are so strong that they are always willing to work, and do not become weary.
-**Key:** TODO
+**Key:** Tam validī sunt ut labōrāre semper velint, neque fessī fīant.
 
 ### Exercise 9 [B]
 
