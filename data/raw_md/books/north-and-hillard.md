@@ -989,34 +989,34 @@ A second paragraph, to check that paragraphs stay apart.
 - follow, **sequor, sequī, secūtus sum**
 
 **Prompt:** We were so tired that we remained in the plain.
-**Key:** TODO
+**Key:** Adeō erāmus dēfessī ut in campō manērēmus.
 
 **Prompt:** Are you strong enough to defeat the enemy?
-**Key:** TODO
+**Key:** Satisne estis fortēs ut hostem vincātis?
 
 **Prompt:** The snow was so deep that we did not set out, but remained in the camp.
-**Key:** TODO
+**Key:** Tam alta nix erat ut nōn proficīscerēmur sed in castrīs manērēmus.
 
 **Prompt:** He has said this so often that now I am weary.
-**Key:** TODO
+**Key:** Totiēs hoc dīxit ut iam dēfessus sim.
 
 **Prompt:** So numerous were the enemy that they easily took the city.
-**Key:** TODO
+**Key:** Tot erant hostēs ut facile urbem cēperint.
 
 **Prompt:** The tree was so high that it fell, and lay on the ground.
-**Key:** TODO
+**Key:** Tam alta erat arbor ut ceciderit et humī iacēret.
 
 **Prompt:** We were not brave enough to return to the battle.
-**Key:** TODO
+**Key:** Nōn satis fortēs erāmus ut in pugnam redīrēmus.
 
 **Prompt:** Such was his courage that all men praised him, and wished to follow him.
-**Key:** TODO
+**Key:** Tanta erat eius fortitūdō ut omnēs eum laudārent vellentque eum sequī.
 
 **Prompt:** He has done this so easily that he is not tired.
-**Key:** TODO
+**Key:** Tam facile hoc fēcit ut nōn dēfessus sit.
 
 **Prompt:** These trees were of such a kind that we could not climb them.
-**Key:** TODO
+**Key:** Tālēs erant hae arborēs ut nōn eās ascendere possēmus.
 
 ### Exercise 8 [B]
 
