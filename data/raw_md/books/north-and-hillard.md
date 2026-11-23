@@ -4,7 +4,7 @@
 
 **Year:** 1913
 
-**Blurb:** North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. Only the preliminary exercises are finished and carefully proofread. This note will be removed after careful manual review.*
+**Blurb:** North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. It has been proofread only up to Exercise 9.*
 
 ## Preliminary Exercises
 
@@ -730,273 +730,390 @@ A second paragraph, to check that paragraphs stay apart.
 **Notes:** PLACEHOLDER: an exercise-level box with *italics* and **bold**. It belongs to Exercise 2 only.
 
 **Vocabulary:**
-go, **eō, īre, īvī, itum**
+- go, **eō, īre, īvī, itum**
+- city, **urbs, urbis**, f.
+- buy, **emō, emere, ēmī, ēmptum**
+- bread, **pānis, -is**, m.
+- see, **videō, vidēre, vīdī, vīsum**
+- home, **domus, -ūs**, f.
+- friend, **amīcus, -ī**
+- ask for, **rogō, rogāre, rogāvī, rogātum**
+- peace, **pāx, pācis**, f.
+- send, **mittō, mittere, mīsī, missum**
+- run, **currō, currere, cucurrī, cursum**
+- fast, quick, **celer**; adv. **celeriter**
+- catch, take, capture, **capiō, capere, cēpī, captum**
+- horse, **equus, -ī**, m.
+- tired, weary, **fessus, dēfessus**
+- sword, **gladius, -ī**, m.
+- kill, put to death, **interficiō, interficere, interfēcī, interfectum**; **occīdō, occīdere, occīdī, occīsum**
+- give, **dō, dare, dedī, datum**
+- king, **rēx, rēgis**
+- son, **fīlius, -ī**
 
 **Prompt:** I am going to the city to buy bread.
-**Key:** TODO
+**Key:** Ad urbem eō ut pānem ēmam.
 
 **Prompt:** He went to the city lest he should see his father.
-**Key:** TODO
+**Key:** Ad urbem īvit nē patrem vidēret.
 
-**Prompt:** We have gone homel to see our friends.
-**Key:** TODO
+**Prompt:** We have gone home to see our friends.
+**Key:** Domum īvimus ut amīcōs videāmus.
 
 **Prompt:** We shall go to Caesar to ask for peace.
-**Key:** TODO
+**Key:** Ad Caesarem ībimus ut pācem rogēmus.
 
 **Prompt:** Do not send me to ask for peace.
-**Key:** TODO
+**Key:** Nē mē mīserīs ut pācem rogem.
 
 **Prompt:** We were running fast that we might not be caught.
-**Key:** TODO
+**Key:** Celeriter currēbāmus nē caperēmur.
 
 **Prompt:** I have bought a horse that I may not be tired.
-**Key:** TODO
+**Key:** Equum ēmī nē fessus sim.
 
 **Prompt:** Give him a sword that he may not be killed.
-**Key:** TODO
+**Key:** Date eī gladium nē interficiātur.
 
 **Prompt:** You had gone to Italy to see the king's son.
-**Key:** TODO
+**Key:** Ad Italiam ierātis ut fīlium rēgis vidērētis.
 
 **Prompt:** We were sent to ask for peace.
-**Key:** TODO
+**Key:** Missī sumus ut pācem rogārēmus.
 
 ### Exercise 3 [A]
 
+**Vocabulary:**
+- retreat, **sē recipiō, recipere, recēpī, receptum**; **pedem referō, referre, rettulī** or **retulī, relātum**
+- avoid, **vītō, vītāre, vītāvī, vītātum**
+- battle, **pugna, proelium**
+- hinder, **impediō, impedīre, impedīvī, impedītum**
+- march, n. **iter, itineris**, n.
+- march, v. **iter faciō, facere, fēcī, factum**; **contendō, contendere, contendī, contentum**
+- learn (=discover), **cognōscō, cognōscere, cognōvī, cognitum**
+- plan, **cōnsilium**, n.
+- advance, **prōgredior, prōgredī, prōgressus sum**; **prōcēdō, prōcēdere, prōcessī, prōcessum** (so conjugate **cēdō** and all its compounds)
+- camp, **castra, -ōrum**, n. pl.
+- accuse, **accūsō, accūsāre, accūsāvī, accūsātum**
+- work, v. **labōrō, labōrāre, labōrāvī, labōrātum**
+- work, n. **labor, -ōris**, m.; **opus, -eris**, n.
+- become, **fīō, fierī, factus sum**
+- rich, **dīves, -itis**
+- arms, **arma**, n. pl.
+- think, **putō, putāre, putāvī, putātum**
+- coward, **ignāvus**
+- brave, strong, **fortis, validus**
+- poor (a poor man), **pauper, -eris**
+- consul, **cōnsul, -ulis**
+- ought, **dēbeō, dēbēre, dēbuī, dēbitum**
+- praise, **laudō, laudāre, laudāvī, laudātum**
+
 **Prompt:** The enemy retreated in order to avoid a battle.
-**Key:** TODO
+**Key:** Hostēs sē recēpērunt ut pugnam vītārent.
 
 **Prompt:** We shall send 200 men in order that we may hinder the enemy's march,
-**Key:** TODO
+**Key:** Ducentōs mittēmus ut hostium iter impediāmus.
 
 **Prompt:** They marched quickly so that the enemy might not learn their plans.
-**Key:** TODO
+**Key:** Celeriter iter fēcērunt nē hostēs cōnsilia sua cognōscerent.
 
 **Prompt:** We advanced to the top of the hill to see the enemy's camp.
-**Key:** TODO
+**Key:** Ad summum collem prōcessimus ut hostium castra vidērēmus.
 
 **Prompt:** He is marching with Caesar so that he may not be accused by us.
-**Key:** TODO
+**Key:** Cum Caesare iter facit nē ā nōbīs accūsētur.
 
 **Prompt:** We work in order to become rich.
-**Key:** TODO
+**Key:** Labōrāmus ut dīvitēs fīāmus.
 
 **Prompt:** They have come to ask for arms from us.
-**Key:** TODO
+**Key:** Vēnērunt ut arma nōs rogent.
 
 **Prompt:** In order that we may not think you a coward, fight bravely.
-**Key:** TODO
+**Key:** Nē ignāvum tē putēmus, fortiter pugnā.
 
 **Prompt:** He did this in order that a poor man might not be consul.
-**Key:** TODO
+**Key:** Hoc fēcit nē pauper cōnsul esset.
 
 **Prompt:** We ought not to do this to be praised.
-**Key:** TODO
+**Key:** Nōn dēbēmus hoc facere ut laudēmur.
 
 ### Exercise 4 [B]
 
+**Vocabulary:**
+- help, **iuvō, iuvāre, iūvī, iūtum**, acc.; **subveniō, subvenīre, subvēnī, subventum**, dat.
+- sick, **aeger, -ra, -rum**
+- suffer, **patior, patī, passus sum**
+- pain, **dolor, -ōris**, m.
+- plain, **campus, -ī**, m.
+
 **Prompt:** I was sent to ask for peace.
-**Key:** TODO
+**Key:** Missus sum ut pācem rogārem.
 
 **Prompt:** I shall do this in order to help my friends.
-**Key:** TODO
+**Key:** Hoc faciam ut amīcōs iuvem.
 
 **Prompt:** They have gone away lest they should be seen.
-**Key:** TODO
+**Key:** Abiērunt nē videantur.
 
 **Prompt:** They had gone away that they might not be seen.
-**Key:** TODO
+**Key:** Abierant nē vidērentur.
 
 **Prompt:** We will leave the sick that we may not be hindered.
-**Key:** TODO
+**Key:** Aegrōs relinquēmus nē impediāmur.
 
 **Prompt:** To help our friends we are willing to suffer pain.
-**Key:** TODO
+**Key:** Ut amīcōs iuvēmus dolōrem patī volumus.
 
 **Prompt:** To help us they had marched very quickly.
-**Key:** TODO
+**Key:** Ut nōs iuvārent celerrimē contenderant.
 
 **Prompt:** He did this in order to become consul.
-**Key:** TODO
+**Key:** Hoc fēcit ut cōnsul fieret.
 
 **Prompt:** They retreated that they might not be killed.
-**Key:** TODO
+**Key:** Sē recēpērunt nē occīderentur.
 
 **Prompt:** Let us go to the top of the hill to see the plain.
-**Key:** TODO
+**Key:** Ad summum collem eāmus ut campum videāmus.
 
 ### Exercise 5 [B]
 
+**Vocabulary:**
+- safe, **tūtus**
+- stay, remain, **maneō, manēre, mānsī, mānsum**
+- save, **servō, servāre, servāvī, servātum**
+- whole, **tōtus, omnis**
+
 **Prompt:** In order not to be accused myself, I accused my friend.
-**Key:** TODO
+**Key:** Nē ipse accūsārer, amīcum meum accūsāvī.
 
 **Prompt:** We ought to praise good men to make others good.
-**Key:** TODO
+**Key:** Bonōs laudāre dēbēmus ut aliōs bonōs faciāmus.
 
 **Prompt:** To avoid the enemy march very quickly.
-**Key:** TODO
+**Key:** Ut hostēs vītētis celerrimē contendite.
 
 **Prompt:** We left the sick so that we might not be hindered.
-**Key:** TODO
+**Key:** Aegrōs relīquimus nē impedīrēmur.
 
 **Prompt:** I have not come to avoid my enemies.
-**Key:** TODO
+**Key:** Nōn vēnī ut inimīcōs vītem.
 
 **Prompt:** To be safe stay in the city.
-**Key:** TODO
+**Key:** Ut tūtus sīs manē in urbe.
 
-**Prompt:** All of us will come with you, 2 so that you may be safe.
-**Key:** TODO
+**Prompt:** All of us will come with you, so that you may be safe.
+**Key:** Nōs omnēs tēcum veniēmus, ut tūtus sīs.
 
 **Prompt:** Do not come in order to save me.
-**Key:** TODO
+**Key:** Nē vēnerīs ut mē servēs.
 
 **Prompt:** In order that the enemy might not take the city the whole of the army set out.
-**Key:** TODO
+**Key:** Nē hostēs urbem caperent tōtus exercitus profectus est.
 
 **Prompt:** That they may not be caught by the enemy do not send many men.
-**Key:** TODO
+**Key:** Nē ab hostibus capiantur nōlī multōs mittere.
 
 ## Consecutive Sentences
 
 ### Exercise 6 [A]
 
+**Vocabulary:**
+- so great, **tantus**
+- such, **tālis**
+- so many, **tot** (an indecl. adj.)
+- so often, **totiēs**
+- so (with adv. and adj.), **tam**
+- so (=in such a way), **ita**
+- so (=to such an extent), **adeō**
+- conquer, defeat, **vincō, vincere, vīcī, victum**
+- be afraid, fear, **timeō, timēre, timuī**
+- our men, **nostrī** [omit *men*]
+- escape, **effugiō, effugere, effūgī, effugitum**
+- fierce, **ferōx**; adv. **ferōciter**
+- danger, **perīculum**
+- ship, **nāvis, -is**, f.
+- deep, high, **altus**
+- river, **flūmen, -inis**, n.; **fluvius, -ī**, m.
+- cross, **trānseō, trānsīre, trānsiī, trānsitum**
+- despise, **dēspiciō, dēspicere, dēspexī, dēspectum**
+- fear, **metus, -ūs**, m.; **timor, -ōris**, m.
+- dare, **audeō, audēre, ausus sum**
+- storm, **tempestās, -tātis**, f.
+- arise, **coorior, coorīrī, coortus sum**
+
 **Prompt:** The soldiers are so brave that they always conquer the enemy.
-**Key:** TODO
+**Key:** Tam fortēs sunt mīlitēs ut semper hostem vincant.
 
 **Prompt:** He has done this in such a way that we do not praise him.
-**Key:** TODO
+**Key:** Ita hoc fēcit ut nōn eum laudēmus.
 
 **Prompt:** The enemy were so many that all our men were afraid.
-**Key:** TODO
+**Key:** Tot erant hostēs ut nostrī omnēs timērent.
 
 **Prompt:** He escaped so quickly that no one 1 could catch him.
-**Key:** TODO
+**Key:** Tam celeriter effūgit ut nēmō eum capere posset.
 
 **Prompt:** The battle was fought so fiercely that all the soldiers were killed.
-**Key:** TODO
+**Key:** Tam ferōciter pugnātum est ut omnēs mīlitēs occīsī sint.
 
 **Prompt:** The danger is so great that no ships can be saved.
-**Key:** TODO
+**Key:** Tantum est perīculum ut nūllae nāvēs servārī possint.
 
 **Prompt:** So deep is the river that no one can cross it.
-**Key:** TODO
+**Key:** Tam altum est flūmen ut nēmō id possit trānsīre.
 
 **Prompt:** They have conquered the enemy so often that now they despise them.
-**Key:** TODO
+**Key:** Totiēs hostēs vīcērunt ut nunc eōs dēspiciant.
 
 **Prompt:** Their fear was so great that they did not dare to cross the river.
-**Key:** TODO
+**Key:** Tantus erat eōrum timor ut nōn audērent flūmen trānsīre.
 
 **Prompt:** So great a storm had arisen that all the sailors were terrified.
-**Key:** TODO
+**Key:** Tanta tempestās coorta erat ut omnēs nautae timērent.
 
 ### Exercise 7 [A]
 
+**Vocabulary:**
+- enough, **satis**
+- snow, **nix, nivis**, f.
+- set out, **proficīscor, proficīscī, profectus sum**
+- easily, **facile**
+- tree, **arbor, -oris**, f.
+- fall, **cadō, cadere, cecidī, cāsum**
+- lie, **iaceō, iacēre, iacuī, iacitūrus**
+- return, **redeō, redīre, rediī, reditum**
+- courage, **virtūs, -tūtis**, f.
+- climb, **ascendō, ascendere, ascendī, ascēnsum**
+- follow, **sequor, sequī, secūtus sum**
+
 **Prompt:** We were so tired that we remained in the plain.
-**Key:** TODO
+**Key:** Adeō erāmus dēfessī ut in campō manērēmus.
 
 **Prompt:** Are you strong enough to defeat the enemy?
-**Key:** TODO
+**Key:** Satisne estis fortēs ut hostem vincātis?
 
 **Prompt:** The snow was so deep that we did not set out, but remained in the camp.
-**Key:** TODO
+**Key:** Tam alta nix erat ut nōn proficīscerēmur sed in castrīs manērēmus.
 
 **Prompt:** He has said this so often that now I am weary.
-**Key:** TODO
+**Key:** Totiēs hoc dīxit ut iam dēfessus sim.
 
 **Prompt:** So numerous were the enemy that they easily took the city.
-**Key:** TODO
+**Key:** Tot erant hostēs ut facile urbem cēperint.
 
 **Prompt:** The tree was so high that it fell, and lay on the ground.
-**Key:** TODO
+**Key:** Tam alta erat arbor ut ceciderit et humī iacēret.
 
 **Prompt:** We were not brave enough to return to the battle.
-**Key:** TODO
+**Key:** Nōn satis fortēs erāmus ut in pugnam redīrēmus.
 
 **Prompt:** Such was his courage that all men praised him, and wished to follow him.
-**Key:** TODO
+**Key:** Tanta erat eius fortitūdō ut omnēs eum laudārent vellentque eum sequī.
 
 **Prompt:** He has done this so easily that he is not tired.
-**Key:** TODO
+**Key:** Tam facile hoc fēcit ut nōn dēfessus sit.
 
 **Prompt:** These trees were of such a kind that we could not climb them.
-**Key:** TODO
+**Key:** Tālēs erant hae arborēs ut nōn eās ascendere possēmus.
 
 ### Exercise 8 [B]
 
+**Vocabulary:**
+- arrive, **adveniō, advenīre, advēnī, adventum**
+- full, **plēnus**
+- sea, **mare, -is**, n.
+- book, **liber, -rī**, m.
+- fly, **fugiō, fugere, fūgī, fugitum**
+- again, **rūrsus**
+- idle, cowardly, **ignāvus**
+
 **Prompt:** Let us work in such a way that all men may praise us,
-**Key:** TODO
+**Key:** Ita labōrēmus ut omnēs nōs laudent.
 
 **Prompt:** So many soldiers had arrived that the camp was full.
-**Key:** TODO
+**Key:** Tot mīlitēs advēnerant ut castra plēna essent.
 
 **Prompt:** We have crossed the sea so often that we do not fear storms.
-**Key:** TODO
+**Key:** Totiēs mare trānsīvimus ut tempestātēs nōn timeāmus.
 
 **Prompt:** He asked me so often that I gave him the book.
-**Key:** TODO
+**Key:** Totiēs mē rogāvit ut librum eī dederim.
 
 **Prompt:** The forces of the enemy are so great that we cannot despise them.
-**Key:** TODO
+**Key:** Cōpiae hostium tantae sunt ut eās dēspicere nōn possīmus.
 
 **Prompt:** We were so greatly terrified that we all fied.
-**Key:** TODO
+**Key:** Adeō territī sumus ut omnēs fugerēmus.
 
 **Prompt:** So many men were killed that we did not fight again.
-**Key:** TODO
+**Key:** Tot hominēs occīsī sunt ut nōn rūrsus pugnārēmus.
 
 **Prompt:** They are such cowards (so cowardly) as not to dare to return into battle.
-**Key:** TODO
+**Key:** Tam ignāvī sunt ut in proelium redīre nōn audeant.
 
 **Prompt:** We are strong enough to save you.
-**Key:** TODO
+**Key:** Satis validī sumus ut tē servēmus.
 
 **Prompt:** We were not strong enough to fight against them.
-**Key:** TODO
+**Key:** Nōn satis validī erāmus ut contrā eōs pugnārēmus.
 
 **Prompt:** They are so strong that they are always willing to work, and do not become weary.
-**Key:** TODO
+**Key:** Tam validī sunt ut labōrāre semper velint, neque fessī fīant.
 
 ### Exercise 9 [B]
 
+**Vocabulary:**
+- leave, **relinquō, relinquere, relīquī, relictum**
+- home, homewards, acc. of **domus, -ūs**, f.
+
 **Prompt:** The tree was so high that it fell.
-**Key:** TODO
+**Key:** Arbor tam alta erat ut ceciderit.
 
 **Prompt:** The sea is so great that we cannot cross it.
-**Key:** TODO
+**Key:** Mare tantum est ut id trānsīre nōn possīmus.
 
 **Prompt:** Will the snow be so deep that we cannot set out?
-**Key:** TODO
+**Key:** Tam alta erit nix ut proficīscī nōn possīmus?
 
 **Prompt:** The sailors were so terrified that they left the ship.
-**Key:** TODO
+**Key:** Nautae adeō territī sunt ut nāvem relīquerint.
 
 **Prompt:** He was so brave that he crossed the sea, and returned home.
-**Key:** TODO
+**Key:** Tam fortis erat ut mare trānsīret et domum redīret.
 
 **Prompt:** The hill is so high that we cannot climb it.
-**Key:** TODO
+**Key:** Collis tam altus est ut eum ascendere nōn possīmus.
 
 **Prompt:** The boys were so idle that I did not praise them.
-**Key:** TODO
+**Key:** Puerī tam ignāvī erant ut eōs nōn laudārem.
 
 **Prompt:** He is so brave that he ought to be praised.
-**Key:** TODO
+**Key:** Tam fortis est ut laudārī dēbeat.
 
 **Prompt:** Such was his courage that all men praised him.
-**Key:** TODO
+**Key:** Tanta erat virtūs eius ut omnēs eum laudārent.
 
 **Prompt:** The island is of such a kind that I do not wish to see it.
-**Key:** TODO
+**Key:** Īnsula tālis est ut nōlim eam vidēre.
 
 **Prompt:** They worked so well that they became rich, and were praised by all.
-**Key:** TODO
+**Key:** Tam bene labōrābant ut dīvitēs fierent et ab omnibus laudārentur.
 
 ## Final and Consecutive Sentences
 
 ### Exercise 10 [A]
+
+**Vocabulary:**
+- defend, **dēfendō, dēfendere, dēfendī, dēfēnsum**
+- walls, **mūrī**, m.; **moenia**, n. pl.
+- alone, **sōlus**
+- law, **lēx, lēgis**, f.
+- speak, **loquor, loquī, locūtus sum**
+- die, **morior, morī, mortuus sum**
+- hunger, **famēs, -is**, f.
+- hurt, **laedō, laedere, laesī, laesum**
 
 **Prompt:** We have come to defend the walls.
 **Key:** TODO
@@ -1030,6 +1147,15 @@ go, **eō, īre, īvī, itum**
 
 ### Exercise 11 [A]
 
+**Vocabulary:**
+- citizen, **cīvis, -is**
+- messenger, **nūntius, -ī**
+- go away, **abeō, abīre, abiī, abitum** (like **eō**)
+- cold, **frīgus, -oris**, n.
+- seem, **videor, vidērī, vīsus sum**
+- ditch, trench, **fossa**
+- soldier, **mīles, -itis**
+
 **Prompt:** He was sent to ask for peace, that the citizens might not die of hunger.
 **Key:** TODO
 
@@ -1061,6 +1187,14 @@ go, **eō, īre, īvī, itum**
 **Key:** TODO
 
 ### Exercise 12 [B]
+
+**Vocabulary:**
+- weapon, **tēlum**
+- throw, **iaciō, iacere, iēcī, iactum**
+- place, **locus, -ī**, m.
+- shield, **scūtum**
+- repel, **repellō, repellere, reppulī, repulsum**
+- call, **appellō, appellāre, appellāvī, appellātum**
 
 **Prompt:** So many weapons were thrown that no place was safe.
 **Key:** TODO
@@ -1094,6 +1228,10 @@ go, **eō, īre, īvī, itum**
 
 ### Exercise 13 [B]
 
+**Vocabulary:**
+- few, **paucī**
+- bear, **ferō, ferre, tulī, lātum**
+
 **Prompt:** He sent so few men that we could not defend the walls.
 **Key:** TODO
 
@@ -1126,30 +1264,94 @@ go, **eō, īre, īvī, itum**
 
 ### Exercise 14 [A]
 
+**Vocabulary:**
+- mule, **mūlus, -ī**, m.
+- lead, **dūcō, dūcere, dūxī, ductum**
+- laden, **onerātus**
+- gold, **aurum**
+- long (of time), **diū**; longer, **diūtius**
+- burden, **onus, -eris**, n.
+- compel, **cōgō, cōgere, coēgī, coāctum**
+- carry, **portō, portāre, portāvī, portātum**
+- by chance, **cāsū, forte**
+- follow, **sequor, sequī, secūtus sum**
+- admire, **mīror, mīrārī, mīrātus sum**
+- kindness, **beneficentia, hūmānitās, -tātis**, f.
+- try, **cōnor, cōnārī, cōnātus sum**, followed by Inf.
+
 **Prompt:** A poor soldier was one day leading a mule laden with gold which had been sent to Alexander the Great. The mule was so tired that it could no longer bear the burden, and the soldier was compelled to carry the gold himself. But by chance Alexander himself was following the man, and he admired his kindness so much that he said, "My friend, try to carry the gold home, for I give it all to you."
 **Key:** TODO
 
 ### Exercise 15 [A]
+
+**Vocabulary:**
+- hardly, **vix**
+- reinforcements, **supplēmentum, novae cōpiae**
+- resolve, **cōnstituō, cōnstituere, cōnstituī, cōnstitūtum**
+- resist, **resistō, resistere, restitī**, dat.
+- attack (onset, charge), **impetus, -ūs**, m.
+- almost, **paene, prope**
+- at length, **tandem**
+- joy, **gaudium, laetitia**
+- temple, **templum, aedēs**, f. [sing. only]
+- gift, **dōnum**
+- go, **sē cōnferō, cōnferre, contulī, collātum**
+- god, **deus, deī**
 
 **Prompt:** The enemy advanced quickly to capture the city. There were so few soldiers in the city that they were hardly able to defend the walls. But reinforcements were advancing, and they resolved to resist bravely, that these might arrive and defeat the enemy. The attack was so fierce that the walls were almost taken, but at length the fresh forces arrived, and the enemy retreated. So great was the joy of the citizens that they went to the temples, and gave many gifts to the gods.
 **Key:** TODO
 
 ### Exercise 16 [A]
 
+**Vocabulary:**
+- hill, **collis, -is**, m.
+- throw away, **abiciō, abicere, abiēcī, abiectum**
+- some...others, **aliī...aliī**
+- exhausted, **cōnfectus labōre**
+- hide, **cēlō, cēlāre, cēlāvī, cēlātum**
+
 **Prompt:** The soldiers, who had been marching all day, were so tired that they could scarcely climb the hill. Some, in order to march quickly, threw away their arms; others were so exhausted that their friends carried them. But their courage was so great that at last they came to the top of the hill, and saw the enemy's camp. Here they hid themselves that they might not be seen by the enemy.
 **Key:** TODO
 
 ### Exercise 17 [B]
+
+**Vocabulary:**
+- hostage, **obses, -idis**, c.
+- near, **prope**, acc.
+- army, **exercitus, -ūs**, m.
+- night, **nox, noctis**, f.
 
 **Prompt:** They had been so often defeated by Caesar that they sent messengers to him and asked for peace. In order that they might not wish to fight again, Caesar asked them for hostages, which they gave him. But the army of the Gauls was so great that Caesar was not willing to remain near them, and he went away. Lest the enemy should follow he led his soldiers very quickly, and before night they came into their camp.
 **Key:** TODO
 
 ### Exercise 18 [B]
 
+**Vocabulary:**
+- banish, **expellō, expellere, expulī, expulsum**
+- bring, **afferō, afferre, attulī, allātum**; (of persons) **addūcō, addūcere, addūxī, adductum**
+- take away, **auferō, auferre, abstulī, ablātum**
+- money, **pecūnia**
+- friendship, **amīcitia**
+- sell, **vēndō, vēndere, vēndidī, vēnditum**
+- buy, **emō, emere, ēmī, ēmptum**
+- silver, **argentum**
+
 **Prompt:** A Persian, who had been banished from Persia, came to the city of Athens to see Cimon. He brought much gold and silver, in order by presents to make Cimon his friend. "Do you bring this money to buy my friendship?" asked Cimon. "I wish to make you my friend," replied the Persian. "Take away the money," Cimon said, "lest I should think you an enemy. Friendship is not bought and sold."
 **Key:** TODO
 
 ### Exercise 19 [B]
+
+**Vocabulary:**
+- Greek, **Graecus**
+- general, **dux, ducis**; **imperātor, -ōris**
+- betray, **prōdō, prōdere, prōdidī, prōditum**
+- present, **dōnum**
+- tempt, **temptō, temptāre, temptāvī, temptātum**
+- receive, **accipiō, accipere, accēpī, acceptum**
+- reward, **praemium**
+- upright, **probus**
+- send back, **reddō, reddere, reddidī, redditum** (like **prōdō**)
+- punish, **pūniō, pūnīre, pūnīvī, pūnītum**
 
 **Prompt:** Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might betray the Roman army. But no present was great enough to tempt Fabricius. A Greek came to the Roman camp that he might receive a reward, and then kill the king. But so upright was Fabricius that he sent the man back to the king to be punished by him.
 **Key:** TODO

@@ -3,7 +3,7 @@
   "title": "Latin Prose Composition (WORK IN PROGRESS)",
   "author": "M. A. North and A. E. Hillard",
   "year": 1913,
-  "blurb": "North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. Only the preliminary exercises are finished and carefully proofread. This note will be removed after careful manual review.*",
+  "blurb": "North and Hillard's *Latin Prose Composition for the Middle Forms of Schools* was one of the most widely used Latin Prose Composition books, and remains popular to this day. *Note that the current content was automatically scraped from scans, and contains many errors. It has been proofread only up to Exercise 9.*",
   "chapters": [
     {
       "id": "ch01",
@@ -1259,230 +1259,245 @@
             },
             {
               "kind": "vocabulary",
-              "body": "go, **eō, īre, īvī, itum**"
+              "body": "- go, **eō, īre, īvī, itum**\n- city, **urbs, urbis**, f.\n- buy, **emō, emere, ēmī, ēmptum**\n- bread, **pānis, -is**, m.\n- see, **videō, vidēre, vīdī, vīsum**\n- home, **domus, -ūs**, f.\n- friend, **amīcus, -ī**\n- ask for, **rogō, rogāre, rogāvī, rogātum**\n- peace, **pāx, pācis**, f.\n- send, **mittō, mittere, mīsī, missum**\n- run, **currō, currere, cucurrī, cursum**\n- fast, quick, **celer**; adv. **celeriter**\n- catch, take, capture, **capiō, capere, cēpī, captum**\n- horse, **equus, -ī**, m.\n- tired, weary, **fessus, dēfessus**\n- sword, **gladius, -ī**, m.\n- kill, put to death, **interficiō, interficere, interfēcī, interfectum**; **occīdō, occīdere, occīdī, occīsum**\n- give, **dō, dare, dedī, datum**\n- king, **rēx, rēgis**\n- son, **fīlius, -ī**"
             }
           ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "I am going to the city to buy bread.",
-              "key": "TODO"
+              "key": "Ad urbem eō ut pānem ēmam."
             },
             {
               "id": "ex02",
               "prompt": "He went to the city lest he should see his father.",
-              "key": "TODO"
+              "key": "Ad urbem īvit nē patrem vidēret."
             },
             {
               "id": "ex03",
-              "prompt": "We have gone homel to see our friends.",
-              "key": "TODO"
+              "prompt": "We have gone home to see our friends.",
+              "key": "Domum īvimus ut amīcōs videāmus."
             },
             {
               "id": "ex04",
               "prompt": "We shall go to Caesar to ask for peace.",
-              "key": "TODO"
+              "key": "Ad Caesarem ībimus ut pācem rogēmus."
             },
             {
               "id": "ex05",
               "prompt": "Do not send me to ask for peace.",
-              "key": "TODO"
+              "key": "Nē mē mīserīs ut pācem rogem."
             },
             {
               "id": "ex06",
               "prompt": "We were running fast that we might not be caught.",
-              "key": "TODO"
+              "key": "Celeriter currēbāmus nē caperēmur."
             },
             {
               "id": "ex07",
               "prompt": "I have bought a horse that I may not be tired.",
-              "key": "TODO"
+              "key": "Equum ēmī nē fessus sim."
             },
             {
               "id": "ex08",
               "prompt": "Give him a sword that he may not be killed.",
-              "key": "TODO"
+              "key": "Date eī gladium nē interficiātur."
             },
             {
               "id": "ex09",
               "prompt": "You had gone to Italy to see the king's son.",
-              "key": "TODO"
+              "key": "Ad Italiam ierātis ut fīlium rēgis vidērētis."
             },
             {
               "id": "ex10",
               "prompt": "We were sent to ask for peace.",
-              "key": "TODO"
+              "key": "Missī sumus ut pācem rogārēmus."
             }
           ]
         },
         {
           "id": "s02",
           "title": "Exercise 3 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- retreat, **sē recipiō, recipere, recēpī, receptum**; **pedem referō, referre, rettulī** or **retulī, relātum**\n- avoid, **vītō, vītāre, vītāvī, vītātum**\n- battle, **pugna, proelium**\n- hinder, **impediō, impedīre, impedīvī, impedītum**\n- march, n. **iter, itineris**, n.\n- march, v. **iter faciō, facere, fēcī, factum**; **contendō, contendere, contendī, contentum**\n- learn (=discover), **cognōscō, cognōscere, cognōvī, cognitum**\n- plan, **cōnsilium**, n.\n- advance, **prōgredior, prōgredī, prōgressus sum**; **prōcēdō, prōcēdere, prōcessī, prōcessum** (so conjugate **cēdō** and all its compounds)\n- camp, **castra, -ōrum**, n. pl.\n- accuse, **accūsō, accūsāre, accūsāvī, accūsātum**\n- work, v. **labōrō, labōrāre, labōrāvī, labōrātum**\n- work, n. **labor, -ōris**, m.; **opus, -eris**, n.\n- become, **fīō, fierī, factus sum**\n- rich, **dīves, -itis**\n- arms, **arma**, n. pl.\n- think, **putō, putāre, putāvī, putātum**\n- coward, **ignāvus**\n- brave, strong, **fortis, validus**\n- poor (a poor man), **pauper, -eris**\n- consul, **cōnsul, -ulis**\n- ought, **dēbeō, dēbēre, dēbuī, dēbitum**\n- praise, **laudō, laudāre, laudāvī, laudātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "The enemy retreated in order to avoid a battle.",
-              "key": "TODO"
+              "key": "Hostēs sē recēpērunt ut pugnam vītārent."
             },
             {
               "id": "ex02",
               "prompt": "We shall send 200 men in order that we may hinder the enemy's march,",
-              "key": "TODO"
+              "key": "Ducentōs mittēmus ut hostium iter impediāmus."
             },
             {
               "id": "ex03",
               "prompt": "They marched quickly so that the enemy might not learn their plans.",
-              "key": "TODO"
+              "key": "Celeriter iter fēcērunt nē hostēs cōnsilia sua cognōscerent."
             },
             {
               "id": "ex04",
               "prompt": "We advanced to the top of the hill to see the enemy's camp.",
-              "key": "TODO"
+              "key": "Ad summum collem prōcessimus ut hostium castra vidērēmus."
             },
             {
               "id": "ex05",
               "prompt": "He is marching with Caesar so that he may not be accused by us.",
-              "key": "TODO"
+              "key": "Cum Caesare iter facit nē ā nōbīs accūsētur."
             },
             {
               "id": "ex06",
               "prompt": "We work in order to become rich.",
-              "key": "TODO"
+              "key": "Labōrāmus ut dīvitēs fīāmus."
             },
             {
               "id": "ex07",
               "prompt": "They have come to ask for arms from us.",
-              "key": "TODO"
+              "key": "Vēnērunt ut arma nōs rogent."
             },
             {
               "id": "ex08",
               "prompt": "In order that we may not think you a coward, fight bravely.",
-              "key": "TODO"
+              "key": "Nē ignāvum tē putēmus, fortiter pugnā."
             },
             {
               "id": "ex09",
               "prompt": "He did this in order that a poor man might not be consul.",
-              "key": "TODO"
+              "key": "Hoc fēcit nē pauper cōnsul esset."
             },
             {
               "id": "ex10",
               "prompt": "We ought not to do this to be praised.",
-              "key": "TODO"
+              "key": "Nōn dēbēmus hoc facere ut laudēmur."
             }
           ]
         },
         {
           "id": "s03",
           "title": "Exercise 4 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- help, **iuvō, iuvāre, iūvī, iūtum**, acc.; **subveniō, subvenīre, subvēnī, subventum**, dat.\n- sick, **aeger, -ra, -rum**\n- suffer, **patior, patī, passus sum**\n- pain, **dolor, -ōris**, m.\n- plain, **campus, -ī**, m."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "I was sent to ask for peace.",
-              "key": "TODO"
+              "key": "Missus sum ut pācem rogārem."
             },
             {
               "id": "ex02",
               "prompt": "I shall do this in order to help my friends.",
-              "key": "TODO"
+              "key": "Hoc faciam ut amīcōs iuvem."
             },
             {
               "id": "ex03",
               "prompt": "They have gone away lest they should be seen.",
-              "key": "TODO"
+              "key": "Abiērunt nē videantur."
             },
             {
               "id": "ex04",
               "prompt": "They had gone away that they might not be seen.",
-              "key": "TODO"
+              "key": "Abierant nē vidērentur."
             },
             {
               "id": "ex05",
               "prompt": "We will leave the sick that we may not be hindered.",
-              "key": "TODO"
+              "key": "Aegrōs relinquēmus nē impediāmur."
             },
             {
               "id": "ex06",
               "prompt": "To help our friends we are willing to suffer pain.",
-              "key": "TODO"
+              "key": "Ut amīcōs iuvēmus dolōrem patī volumus."
             },
             {
               "id": "ex07",
               "prompt": "To help us they had marched very quickly.",
-              "key": "TODO"
+              "key": "Ut nōs iuvārent celerrimē contenderant."
             },
             {
               "id": "ex08",
               "prompt": "He did this in order to become consul.",
-              "key": "TODO"
+              "key": "Hoc fēcit ut cōnsul fieret."
             },
             {
               "id": "ex09",
               "prompt": "They retreated that they might not be killed.",
-              "key": "TODO"
+              "key": "Sē recēpērunt nē occīderentur."
             },
             {
               "id": "ex10",
               "prompt": "Let us go to the top of the hill to see the plain.",
-              "key": "TODO"
+              "key": "Ad summum collem eāmus ut campum videāmus."
             }
           ]
         },
         {
           "id": "s04",
           "title": "Exercise 5 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- safe, **tūtus**\n- stay, remain, **maneō, manēre, mānsī, mānsum**\n- save, **servō, servāre, servāvī, servātum**\n- whole, **tōtus, omnis**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "In order not to be accused myself, I accused my friend.",
-              "key": "TODO"
+              "key": "Nē ipse accūsārer, amīcum meum accūsāvī."
             },
             {
               "id": "ex02",
               "prompt": "We ought to praise good men to make others good.",
-              "key": "TODO"
+              "key": "Bonōs laudāre dēbēmus ut aliōs bonōs faciāmus."
             },
             {
               "id": "ex03",
               "prompt": "To avoid the enemy march very quickly.",
-              "key": "TODO"
+              "key": "Ut hostēs vītētis celerrimē contendite."
             },
             {
               "id": "ex04",
               "prompt": "We left the sick so that we might not be hindered.",
-              "key": "TODO"
+              "key": "Aegrōs relīquimus nē impedīrēmur."
             },
             {
               "id": "ex05",
               "prompt": "I have not come to avoid my enemies.",
-              "key": "TODO"
+              "key": "Nōn vēnī ut inimīcōs vītem."
             },
             {
               "id": "ex06",
               "prompt": "To be safe stay in the city.",
-              "key": "TODO"
+              "key": "Ut tūtus sīs manē in urbe."
             },
             {
               "id": "ex07",
-              "prompt": "All of us will come with you, 2 so that you may be safe.",
-              "key": "TODO"
+              "prompt": "All of us will come with you, so that you may be safe.",
+              "key": "Nōs omnēs tēcum veniēmus, ut tūtus sīs."
             },
             {
               "id": "ex08",
               "prompt": "Do not come in order to save me.",
-              "key": "TODO"
+              "key": "Nē vēnerīs ut mē servēs."
             },
             {
               "id": "ex09",
               "prompt": "In order that the enemy might not take the city the whole of the army set out.",
-              "key": "TODO"
+              "key": "Nē hostēs urbem caperent tōtus exercitus profectus est."
             },
             {
               "id": "ex10",
               "prompt": "That they may not be caught by the enemy do not send many men.",
-              "key": "TODO"
+              "key": "Nē ab hostibus capiantur nōlī multōs mittere."
             }
           ]
         }
@@ -1496,238 +1511,258 @@
         {
           "id": "s01",
           "title": "Exercise 6 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- so great, **tantus**\n- such, **tālis**\n- so many, **tot** (an indecl. adj.)\n- so often, **totiēs**\n- so (with adv. and adj.), **tam**\n- so (=in such a way), **ita**\n- so (=to such an extent), **adeō**\n- conquer, defeat, **vincō, vincere, vīcī, victum**\n- be afraid, fear, **timeō, timēre, timuī**\n- our men, **nostrī** [omit *men*]\n- escape, **effugiō, effugere, effūgī, effugitum**\n- fierce, **ferōx**; adv. **ferōciter**\n- danger, **perīculum**\n- ship, **nāvis, -is**, f.\n- deep, high, **altus**\n- river, **flūmen, -inis**, n.; **fluvius, -ī**, m.\n- cross, **trānseō, trānsīre, trānsiī, trānsitum**\n- despise, **dēspiciō, dēspicere, dēspexī, dēspectum**\n- fear, **metus, -ūs**, m.; **timor, -ōris**, m.\n- dare, **audeō, audēre, ausus sum**\n- storm, **tempestās, -tātis**, f.\n- arise, **coorior, coorīrī, coortus sum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "The soldiers are so brave that they always conquer the enemy.",
-              "key": "TODO"
+              "key": "Tam fortēs sunt mīlitēs ut semper hostem vincant."
             },
             {
               "id": "ex02",
               "prompt": "He has done this in such a way that we do not praise him.",
-              "key": "TODO"
+              "key": "Ita hoc fēcit ut nōn eum laudēmus."
             },
             {
               "id": "ex03",
               "prompt": "The enemy were so many that all our men were afraid.",
-              "key": "TODO"
+              "key": "Tot erant hostēs ut nostrī omnēs timērent."
             },
             {
               "id": "ex04",
               "prompt": "He escaped so quickly that no one 1 could catch him.",
-              "key": "TODO"
+              "key": "Tam celeriter effūgit ut nēmō eum capere posset."
             },
             {
               "id": "ex05",
               "prompt": "The battle was fought so fiercely that all the soldiers were killed.",
-              "key": "TODO"
+              "key": "Tam ferōciter pugnātum est ut omnēs mīlitēs occīsī sint."
             },
             {
               "id": "ex06",
               "prompt": "The danger is so great that no ships can be saved.",
-              "key": "TODO"
+              "key": "Tantum est perīculum ut nūllae nāvēs servārī possint."
             },
             {
               "id": "ex07",
               "prompt": "So deep is the river that no one can cross it.",
-              "key": "TODO"
+              "key": "Tam altum est flūmen ut nēmō id possit trānsīre."
             },
             {
               "id": "ex08",
               "prompt": "They have conquered the enemy so often that now they despise them.",
-              "key": "TODO"
+              "key": "Totiēs hostēs vīcērunt ut nunc eōs dēspiciant."
             },
             {
               "id": "ex09",
               "prompt": "Their fear was so great that they did not dare to cross the river.",
-              "key": "TODO"
+              "key": "Tantus erat eōrum timor ut nōn audērent flūmen trānsīre."
             },
             {
               "id": "ex10",
               "prompt": "So great a storm had arisen that all the sailors were terrified.",
-              "key": "TODO"
+              "key": "Tanta tempestās coorta erat ut omnēs nautae timērent."
             }
           ]
         },
         {
           "id": "s02",
           "title": "Exercise 7 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- enough, **satis**\n- snow, **nix, nivis**, f.\n- set out, **proficīscor, proficīscī, profectus sum**\n- easily, **facile**\n- tree, **arbor, -oris**, f.\n- fall, **cadō, cadere, cecidī, cāsum**\n- lie, **iaceō, iacēre, iacuī, iacitūrus**\n- return, **redeō, redīre, rediī, reditum**\n- courage, **virtūs, -tūtis**, f.\n- climb, **ascendō, ascendere, ascendī, ascēnsum**\n- follow, **sequor, sequī, secūtus sum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "We were so tired that we remained in the plain.",
-              "key": "TODO"
+              "key": "Adeō erāmus dēfessī ut in campō manērēmus."
             },
             {
               "id": "ex02",
               "prompt": "Are you strong enough to defeat the enemy?",
-              "key": "TODO"
+              "key": "Satisne estis fortēs ut hostem vincātis?"
             },
             {
               "id": "ex03",
               "prompt": "The snow was so deep that we did not set out, but remained in the camp.",
-              "key": "TODO"
+              "key": "Tam alta nix erat ut nōn proficīscerēmur sed in castrīs manērēmus."
             },
             {
               "id": "ex04",
               "prompt": "He has said this so often that now I am weary.",
-              "key": "TODO"
+              "key": "Totiēs hoc dīxit ut iam dēfessus sim."
             },
             {
               "id": "ex05",
               "prompt": "So numerous were the enemy that they easily took the city.",
-              "key": "TODO"
+              "key": "Tot erant hostēs ut facile urbem cēperint."
             },
             {
               "id": "ex06",
               "prompt": "The tree was so high that it fell, and lay on the ground.",
-              "key": "TODO"
+              "key": "Tam alta erat arbor ut ceciderit et humī iacēret."
             },
             {
               "id": "ex07",
               "prompt": "We were not brave enough to return to the battle.",
-              "key": "TODO"
+              "key": "Nōn satis fortēs erāmus ut in pugnam redīrēmus."
             },
             {
               "id": "ex08",
               "prompt": "Such was his courage that all men praised him, and wished to follow him.",
-              "key": "TODO"
+              "key": "Tanta erat eius fortitūdō ut omnēs eum laudārent vellentque eum sequī."
             },
             {
               "id": "ex09",
               "prompt": "He has done this so easily that he is not tired.",
-              "key": "TODO"
+              "key": "Tam facile hoc fēcit ut nōn dēfessus sit."
             },
             {
               "id": "ex10",
               "prompt": "These trees were of such a kind that we could not climb them.",
-              "key": "TODO"
+              "key": "Tālēs erant hae arborēs ut nōn eās ascendere possēmus."
             }
           ]
         },
         {
           "id": "s03",
           "title": "Exercise 8 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- arrive, **adveniō, advenīre, advēnī, adventum**\n- full, **plēnus**\n- sea, **mare, -is**, n.\n- book, **liber, -rī**, m.\n- fly, **fugiō, fugere, fūgī, fugitum**\n- again, **rūrsus**\n- idle, cowardly, **ignāvus**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "Let us work in such a way that all men may praise us,",
-              "key": "TODO"
+              "key": "Ita labōrēmus ut omnēs nōs laudent."
             },
             {
               "id": "ex02",
               "prompt": "So many soldiers had arrived that the camp was full.",
-              "key": "TODO"
+              "key": "Tot mīlitēs advēnerant ut castra plēna essent."
             },
             {
               "id": "ex03",
               "prompt": "We have crossed the sea so often that we do not fear storms.",
-              "key": "TODO"
+              "key": "Totiēs mare trānsīvimus ut tempestātēs nōn timeāmus."
             },
             {
               "id": "ex04",
               "prompt": "He asked me so often that I gave him the book.",
-              "key": "TODO"
+              "key": "Totiēs mē rogāvit ut librum eī dederim."
             },
             {
               "id": "ex05",
               "prompt": "The forces of the enemy are so great that we cannot despise them.",
-              "key": "TODO"
+              "key": "Cōpiae hostium tantae sunt ut eās dēspicere nōn possīmus."
             },
             {
               "id": "ex06",
               "prompt": "We were so greatly terrified that we all fied.",
-              "key": "TODO"
+              "key": "Adeō territī sumus ut omnēs fugerēmus."
             },
             {
               "id": "ex07",
               "prompt": "So many men were killed that we did not fight again.",
-              "key": "TODO"
+              "key": "Tot hominēs occīsī sunt ut nōn rūrsus pugnārēmus."
             },
             {
               "id": "ex08",
               "prompt": "They are such cowards (so cowardly) as not to dare to return into battle.",
-              "key": "TODO"
+              "key": "Tam ignāvī sunt ut in proelium redīre nōn audeant."
             },
             {
               "id": "ex09",
               "prompt": "We are strong enough to save you.",
-              "key": "TODO"
+              "key": "Satis validī sumus ut tē servēmus."
             },
             {
               "id": "ex10",
               "prompt": "We were not strong enough to fight against them.",
-              "key": "TODO"
+              "key": "Nōn satis validī erāmus ut contrā eōs pugnārēmus."
             },
             {
               "id": "ex11",
               "prompt": "They are so strong that they are always willing to work, and do not become weary.",
-              "key": "TODO"
+              "key": "Tam validī sunt ut labōrāre semper velint, neque fessī fīant."
             }
           ]
         },
         {
           "id": "s04",
           "title": "Exercise 9 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- leave, **relinquō, relinquere, relīquī, relictum**\n- home, homewards, acc. of **domus, -ūs**, f."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
               "prompt": "The tree was so high that it fell.",
-              "key": "TODO"
+              "key": "Arbor tam alta erat ut ceciderit."
             },
             {
               "id": "ex02",
               "prompt": "The sea is so great that we cannot cross it.",
-              "key": "TODO"
+              "key": "Mare tantum est ut id trānsīre nōn possīmus."
             },
             {
               "id": "ex03",
               "prompt": "Will the snow be so deep that we cannot set out?",
-              "key": "TODO"
+              "key": "Tam alta erit nix ut proficīscī nōn possīmus?"
             },
             {
               "id": "ex04",
               "prompt": "The sailors were so terrified that they left the ship.",
-              "key": "TODO"
+              "key": "Nautae adeō territī sunt ut nāvem relīquerint."
             },
             {
               "id": "ex05",
               "prompt": "He was so brave that he crossed the sea, and returned home.",
-              "key": "TODO"
+              "key": "Tam fortis erat ut mare trānsīret et domum redīret."
             },
             {
               "id": "ex06",
               "prompt": "The hill is so high that we cannot climb it.",
-              "key": "TODO"
+              "key": "Collis tam altus est ut eum ascendere nōn possīmus."
             },
             {
               "id": "ex07",
               "prompt": "The boys were so idle that I did not praise them.",
-              "key": "TODO"
+              "key": "Puerī tam ignāvī erant ut eōs nōn laudārem."
             },
             {
               "id": "ex08",
               "prompt": "He is so brave that he ought to be praised.",
-              "key": "TODO"
+              "key": "Tam fortis est ut laudārī dēbeat."
             },
             {
               "id": "ex09",
               "prompt": "Such was his courage that all men praised him.",
-              "key": "TODO"
+              "key": "Tanta erat virtūs eius ut omnēs eum laudārent."
             },
             {
               "id": "ex10",
               "prompt": "The island is of such a kind that I do not wish to see it.",
-              "key": "TODO"
+              "key": "Īnsula tālis est ut nōlim eam vidēre."
             },
             {
               "id": "ex11",
               "prompt": "They worked so well that they became rich, and were praised by all.",
-              "key": "TODO"
+              "key": "Tam bene labōrābant ut dīvitēs fierent et ab omnibus laudārentur."
             }
           ]
         }
@@ -1741,7 +1776,12 @@
         {
           "id": "s01",
           "title": "Exercise 10 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- defend, **dēfendō, dēfendere, dēfendī, dēfēnsum**\n- walls, **mūrī**, m.; **moenia**, n. pl.\n- alone, **sōlus**\n- law, **lēx, lēgis**, f.\n- speak, **loquor, loquī, locūtus sum**\n- die, **morior, morī, mortuus sum**\n- hunger, **famēs, -is**, f.\n- hurt, **laedō, laedere, laesī, laesum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1798,7 +1838,12 @@
         {
           "id": "s02",
           "title": "Exercise 11 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- citizen, **cīvis, -is**\n- messenger, **nūntius, -ī**\n- go away, **abeō, abīre, abiī, abitum** (like **eō**)\n- cold, **frīgus, -oris**, n.\n- seem, **videor, vidērī, vīsus sum**\n- ditch, trench, **fossa**\n- soldier, **mīles, -itis**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1855,7 +1900,12 @@
         {
           "id": "s03",
           "title": "Exercise 12 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- weapon, **tēlum**\n- throw, **iaciō, iacere, iēcī, iactum**\n- place, **locus, -ī**, m.\n- shield, **scūtum**\n- repel, **repellō, repellere, reppulī, repulsum**\n- call, **appellō, appellāre, appellāvī, appellātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1912,7 +1962,12 @@
         {
           "id": "s04",
           "title": "Exercise 13 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- few, **paucī**\n- bear, **ferō, ferre, tulī, lātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1969,7 +2024,12 @@
         {
           "id": "s05",
           "title": "Exercise 14 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- mule, **mūlus, -ī**, m.\n- lead, **dūcō, dūcere, dūxī, ductum**\n- laden, **onerātus**\n- gold, **aurum**\n- long (of time), **diū**; longer, **diūtius**\n- burden, **onus, -eris**, n.\n- compel, **cōgō, cōgere, coēgī, coāctum**\n- carry, **portō, portāre, portāvī, portātum**\n- by chance, **cāsū, forte**\n- follow, **sequor, sequī, secūtus sum**\n- admire, **mīror, mīrārī, mīrātus sum**\n- kindness, **beneficentia, hūmānitās, -tātis**, f.\n- try, **cōnor, cōnārī, cōnātus sum**, followed by Inf."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1981,7 +2041,12 @@
         {
           "id": "s06",
           "title": "Exercise 15 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- hardly, **vix**\n- reinforcements, **supplēmentum, novae cōpiae**\n- resolve, **cōnstituō, cōnstituere, cōnstituī, cōnstitūtum**\n- resist, **resistō, resistere, restitī**, dat.\n- attack (onset, charge), **impetus, -ūs**, m.\n- almost, **paene, prope**\n- at length, **tandem**\n- joy, **gaudium, laetitia**\n- temple, **templum, aedēs**, f. [sing. only]\n- gift, **dōnum**\n- go, **sē cōnferō, cōnferre, contulī, collātum**\n- god, **deus, deī**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1993,7 +2058,12 @@
         {
           "id": "s07",
           "title": "Exercise 16 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- hill, **collis, -is**, m.\n- throw away, **abiciō, abicere, abiēcī, abiectum**\n- some...others, **aliī...aliī**\n- exhausted, **cōnfectus labōre**\n- hide, **cēlō, cēlāre, cēlāvī, cēlātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2005,7 +2075,12 @@
         {
           "id": "s08",
           "title": "Exercise 17 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- hostage, **obses, -idis**, c.\n- near, **prope**, acc.\n- army, **exercitus, -ūs**, m.\n- night, **nox, noctis**, f."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2017,7 +2092,12 @@
         {
           "id": "s09",
           "title": "Exercise 18 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- banish, **expellō, expellere, expulī, expulsum**\n- bring, **afferō, afferre, attulī, allātum**; (of persons) **addūcō, addūcere, addūxī, adductum**\n- take away, **auferō, auferre, abstulī, ablātum**\n- money, **pecūnia**\n- friendship, **amīcitia**\n- sell, **vēndō, vēndere, vēndidī, vēnditum**\n- buy, **emō, emere, ēmī, ēmptum**\n- silver, **argentum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2029,7 +2109,12 @@
         {
           "id": "s10",
           "title": "Exercise 19 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- Greek, **Graecus**\n- general, **dux, ducis**; **imperātor, -ōris**\n- betray, **prōdō, prōdere, prōdidī, prōditum**\n- present, **dōnum**\n- tempt, **temptō, temptāre, temptāvī, temptātum**\n- receive, **accipiō, accipere, accēpī, acceptum**\n- reward, **praemium**\n- upright, **probus**\n- send back, **reddō, reddere, reddidī, redditum** (like **prōdō**)\n- punish, **pūniō, pūnīre, pūnīvī, pūnītum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
