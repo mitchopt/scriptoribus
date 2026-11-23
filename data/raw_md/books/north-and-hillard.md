@@ -1264,30 +1264,94 @@ A second paragraph, to check that paragraphs stay apart.
 
 ### Exercise 14 [A]
 
+**Vocabulary:**
+- mule, **mūlus, -ī**, m.
+- lead, **dūcō, dūcere, dūxī, ductum**
+- laden, **onerātus**
+- gold, **aurum**
+- long (of time), **diū**; longer, **diūtius**
+- burden, **onus, -eris**, n.
+- compel, **cōgō, cōgere, coēgī, coāctum**
+- carry, **portō, portāre, portāvī, portātum**
+- by chance, **cāsū, forte**
+- follow, **sequor, sequī, secūtus sum**
+- admire, **mīror, mīrārī, mīrātus sum**
+- kindness, **beneficentia, hūmānitās, -tātis**, f.
+- try, **cōnor, cōnārī, cōnātus sum**, followed by Inf.
+
 **Prompt:** A poor soldier was one day leading a mule laden with gold which had been sent to Alexander the Great. The mule was so tired that it could no longer bear the burden, and the soldier was compelled to carry the gold himself. But by chance Alexander himself was following the man, and he admired his kindness so much that he said, "My friend, try to carry the gold home, for I give it all to you."
 **Key:** TODO
 
 ### Exercise 15 [A]
+
+**Vocabulary:**
+- hardly, **vix**
+- reinforcements, **supplēmentum, novae cōpiae**
+- resolve, **cōnstituō, cōnstituere, cōnstituī, cōnstitūtum**
+- resist, **resistō, resistere, restitī**, dat.
+- attack (onset, charge), **impetus, -ūs**, m.
+- almost, **paene, prope**
+- at length, **tandem**
+- joy, **gaudium, laetitia**
+- temple, **templum, aedēs**, f. [sing. only]
+- gift, **dōnum**
+- go, **sē cōnferō, cōnferre, contulī, collātum**
+- god, **deus, deī**
 
 **Prompt:** The enemy advanced quickly to capture the city. There were so few soldiers in the city that they were hardly able to defend the walls. But reinforcements were advancing, and they resolved to resist bravely, that these might arrive and defeat the enemy. The attack was so fierce that the walls were almost taken, but at length the fresh forces arrived, and the enemy retreated. So great was the joy of the citizens that they went to the temples, and gave many gifts to the gods.
 **Key:** TODO
 
 ### Exercise 16 [A]
 
+**Vocabulary:**
+- hill, **collis, -is**, m.
+- throw away, **abiciō, abicere, abiēcī, abiectum**
+- some...others, **aliī...aliī**
+- exhausted, **cōnfectus labōre**
+- hide, **cēlō, cēlāre, cēlāvī, cēlātum**
+
 **Prompt:** The soldiers, who had been marching all day, were so tired that they could scarcely climb the hill. Some, in order to march quickly, threw away their arms; others were so exhausted that their friends carried them. But their courage was so great that at last they came to the top of the hill, and saw the enemy's camp. Here they hid themselves that they might not be seen by the enemy.
 **Key:** TODO
 
 ### Exercise 17 [B]
+
+**Vocabulary:**
+- hostage, **obses, -idis**, c.
+- near, **prope**, acc.
+- army, **exercitus, -ūs**, m.
+- night, **nox, noctis**, f.
 
 **Prompt:** They had been so often defeated by Caesar that they sent messengers to him and asked for peace. In order that they might not wish to fight again, Caesar asked them for hostages, which they gave him. But the army of the Gauls was so great that Caesar was not willing to remain near them, and he went away. Lest the enemy should follow he led his soldiers very quickly, and before night they came into their camp.
 **Key:** TODO
 
 ### Exercise 18 [B]
 
+**Vocabulary:**
+- banish, **expellō, expellere, expulī, expulsum**
+- bring, **afferō, afferre, attulī, allātum**; (of persons) **addūcō, addūcere, addūxī, adductum**
+- take away, **auferō, auferre, abstulī, ablātum**
+- money, **pecūnia**
+- friendship, **amīcitia**
+- sell, **vēndō, vēndere, vēndidī, vēnditum**
+- buy, **emō, emere, ēmī, ēmptum**
+- silver, **argentum**
+
 **Prompt:** A Persian, who had been banished from Persia, came to the city of Athens to see Cimon. He brought much gold and silver, in order by presents to make Cimon his friend. "Do you bring this money to buy my friendship?" asked Cimon. "I wish to make you my friend," replied the Persian. "Take away the money," Cimon said, "lest I should think you an enemy. Friendship is not bought and sold."
 **Key:** TODO
 
 ### Exercise 19 [B]
+
+**Vocabulary:**
+- Greek, **Graecus**
+- general, **dux, ducis**; **imperātor, -ōris**
+- betray, **prōdō, prōdere, prōdidī, prōditum**
+- present, **dōnum**
+- tempt, **temptō, temptāre, temptāvī, temptātum**
+- receive, **accipiō, accipere, accēpī, acceptum**
+- reward, **praemium**
+- upright, **probus**
+- send back, **reddō, reddere, reddidī, redditum** (like **prōdō**)
+- punish, **pūniō, pūnīre, pūnīvī, pūnītum**
 
 **Prompt:** Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might betray the Roman army. But no present was great enough to tempt Fabricius. A Greek came to the Roman camp that he might receive a reward, and then kill the king. But so upright was Fabricius that he sent the man back to the king to be punished by him.
 **Key:** TODO

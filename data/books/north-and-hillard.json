@@ -2024,7 +2024,12 @@
         {
           "id": "s05",
           "title": "Exercise 14 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- mule, **mūlus, -ī**, m.\n- lead, **dūcō, dūcere, dūxī, ductum**\n- laden, **onerātus**\n- gold, **aurum**\n- long (of time), **diū**; longer, **diūtius**\n- burden, **onus, -eris**, n.\n- compel, **cōgō, cōgere, coēgī, coāctum**\n- carry, **portō, portāre, portāvī, portātum**\n- by chance, **cāsū, forte**\n- follow, **sequor, sequī, secūtus sum**\n- admire, **mīror, mīrārī, mīrātus sum**\n- kindness, **beneficentia, hūmānitās, -tātis**, f.\n- try, **cōnor, cōnārī, cōnātus sum**, followed by Inf."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2036,7 +2041,12 @@
         {
           "id": "s06",
           "title": "Exercise 15 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- hardly, **vix**\n- reinforcements, **supplēmentum, novae cōpiae**\n- resolve, **cōnstituō, cōnstituere, cōnstituī, cōnstitūtum**\n- resist, **resistō, resistere, restitī**, dat.\n- attack (onset, charge), **impetus, -ūs**, m.\n- almost, **paene, prope**\n- at length, **tandem**\n- joy, **gaudium, laetitia**\n- temple, **templum, aedēs**, f. [sing. only]\n- gift, **dōnum**\n- go, **sē cōnferō, cōnferre, contulī, collātum**\n- god, **deus, deī**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2048,7 +2058,12 @@
         {
           "id": "s07",
           "title": "Exercise 16 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- hill, **collis, -is**, m.\n- throw away, **abiciō, abicere, abiēcī, abiectum**\n- some...others, **aliī...aliī**\n- exhausted, **cōnfectus labōre**\n- hide, **cēlō, cēlāre, cēlāvī, cēlātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2060,7 +2075,12 @@
         {
           "id": "s08",
           "title": "Exercise 17 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- hostage, **obses, -idis**, c.\n- near, **prope**, acc.\n- army, **exercitus, -ūs**, m.\n- night, **nox, noctis**, f."
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2072,7 +2092,12 @@
         {
           "id": "s09",
           "title": "Exercise 18 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- banish, **expellō, expellere, expulī, expulsum**\n- bring, **afferō, afferre, attulī, allātum**; (of persons) **addūcō, addūcere, addūxī, adductum**\n- take away, **auferō, auferre, abstulī, ablātum**\n- money, **pecūnia**\n- friendship, **amīcitia**\n- sell, **vēndō, vēndere, vēndidī, vēnditum**\n- buy, **emō, emere, ēmī, ēmptum**\n- silver, **argentum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -2084,7 +2109,12 @@
         {
           "id": "s10",
           "title": "Exercise 19 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- Greek, **Graecus**\n- general, **dux, ducis**; **imperātor, -ōris**\n- betray, **prōdō, prōdere, prōdidī, prōditum**\n- present, **dōnum**\n- tempt, **temptō, temptāre, temptāvī, temptātum**\n- receive, **accipiō, accipere, accēpī, acceptum**\n- reward, **praemium**\n- upright, **probus**\n- send back, **reddō, reddere, reddidī, redditum** (like **prōdō**)\n- punish, **pūniō, pūnīre, pūnīvī, pūnītum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
