@@ -1786,52 +1786,52 @@
             {
               "id": "ex01",
               "prompt": "We have come to defend the walls.",
-              "key": "TODO"
+              "key": "Vēnimus ut mūrōs dēfendāmus."
             },
             {
               "id": "ex02",
               "prompt": "There is no one here so brave as to climb the walls alone.",
-              "key": "TODO"
+              "key": "Tam fortis adest nēmō ut sōlus mūrōs ascendat."
             },
             {
               "id": "ex03",
               "prompt": "The wall was made so high that no one might ever climb it.",
-              "key": "TODO"
+              "key": "Mūrus tam altus factus est nē quis umquam eum ascenderet."
             },
             {
               "id": "ex04",
               "prompt": "The wall was made so high that no one could ever climb it.",
-              "key": "TODO"
+              "key": "Mūrus tam altus factus est ut nēmō umquam eum posset ascendere."
             },
             {
               "id": "ex05",
               "prompt": "I am so tired that I cannot work.",
-              "key": "TODO"
+              "key": "Tam dēfessus sum ut nōn possim labōrāre."
             },
             {
               "id": "ex06",
               "prompt": "The messengers, who were sent to ask for peace, have returned.",
-              "key": "TODO"
+              "key": "Nūntiī quī missī sunt ut pācem rogārent rediērunt."
             },
             {
               "id": "ex07",
-              "prompt": "The laws which the Romans made were so good that no one wished to break  them.",
-              "key": "TODO"
+              "prompt": "The laws which the Romans made were so good that no one wished to break them.",
+              "key": "Lēgēs quās Rōmānī fēcērunt tam bonae erant ut nēmō eās violāre vellet."
             },
             {
               "id": "ex08",
-              "prompt": "Speak about 2 me so that he may never accuse me again.",
-              "key": "TODO"
+              "prompt": "Speak about me so that he may never accuse me again.",
+              "key": "Loquere dē mē nē umquam rūrsus mē accūset."
             },
             {
               "id": "ex09",
-              "prompt": "The rich helped the poor so that they might not die of  hunger.",
-              "key": "TODO"
+              "prompt": "The rich helped the poor so that they might not die of hunger.",
+              "key": "Dīvitēs pauperēs iūvērunt nē famē morerentur."
             },
             {
               "id": "ex10",
               "prompt": "He was so hurt that he died.",
-              "key": "TODO"
+              "key": "Adeō laesus est ut mortuus sit."
             }
           ]
         },

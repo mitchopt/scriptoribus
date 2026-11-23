@@ -1116,34 +1116,34 @@ A second paragraph, to check that paragraphs stay apart.
 - hurt, **laedō, laedere, laesī, laesum**
 
 **Prompt:** We have come to defend the walls.
-**Key:** TODO
+**Key:** Vēnimus ut mūrōs dēfendāmus.
 
 **Prompt:** There is no one here so brave as to climb the walls alone.
-**Key:** TODO
+**Key:** Tam fortis adest nēmō ut sōlus mūrōs ascendat.
 
 **Prompt:** The wall was made so high that no one might ever climb it.
-**Key:** TODO
+**Key:** Mūrus tam altus factus est nē quis umquam eum ascenderet.
 
 **Prompt:** The wall was made so high that no one could ever climb it.
-**Key:** TODO
+**Key:** Mūrus tam altus factus est ut nēmō umquam eum posset ascendere.
 
 **Prompt:** I am so tired that I cannot work.
-**Key:** TODO
+**Key:** Tam dēfessus sum ut nōn possim labōrāre.
 
 **Prompt:** The messengers, who were sent to ask for peace, have returned.
-**Key:** TODO
+**Key:** Nūntiī quī missī sunt ut pācem rogārent rediērunt.
 
-**Prompt:** The laws which the Romans made were so good that no one wished to break  them.
-**Key:** TODO
+**Prompt:** The laws which the Romans made were so good that no one wished to break them.
+**Key:** Lēgēs quās Rōmānī fēcērunt tam bonae erant ut nēmō eās violāre vellet.
 
-**Prompt:** Speak about 2 me so that he may never accuse me again.
-**Key:** TODO
+**Prompt:** Speak about me so that he may never accuse me again.
+**Key:** Loquere dē mē nē umquam rūrsus mē accūset.
 
-**Prompt:** The rich helped the poor so that they might not die of  hunger.
-**Key:** TODO
+**Prompt:** The rich helped the poor so that they might not die of hunger.
+**Key:** Dīvitēs pauperēs iūvērunt nē famē morerentur.
 
 **Prompt:** He was so hurt that he died.
-**Key:** TODO
+**Key:** Adeō laesus est ut mortuus sit.
 
 ### Exercise 11 [A]
 
