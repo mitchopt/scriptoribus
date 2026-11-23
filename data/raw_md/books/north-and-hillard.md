@@ -1069,41 +1069,51 @@ A second paragraph, to check that paragraphs stay apart.
 - home, homewards, acc. of **domus, -ūs**, f.
 
 **Prompt:** The tree was so high that it fell.
-**Key:** TODO
+**Key:** Arbor tam alta erat ut ceciderit.
 
 **Prompt:** The sea is so great that we cannot cross it.
-**Key:** TODO
+**Key:** Mare tantum est ut id trānsīre nōn possīmus.
 
 **Prompt:** Will the snow be so deep that we cannot set out?
-**Key:** TODO
+**Key:** Tam alta erit nix ut proficīscī nōn possīmus?
 
 **Prompt:** The sailors were so terrified that they left the ship.
-**Key:** TODO
+**Key:** Nautae adeō territī sunt ut nāvem relīquerint.
 
 **Prompt:** He was so brave that he crossed the sea, and returned home.
-**Key:** TODO
+**Key:** Tam fortis erat ut mare trānsīret et domum redīret.
 
 **Prompt:** The hill is so high that we cannot climb it.
-**Key:** TODO
+**Key:** Collis tam altus est ut eum ascendere nōn possīmus.
 
 **Prompt:** The boys were so idle that I did not praise them.
-**Key:** TODO
+**Key:** Puerī tam ignāvī erant ut eōs nōn laudārem.
 
 **Prompt:** He is so brave that he ought to be praised.
-**Key:** TODO
+**Key:** Tam fortis est ut laudārī dēbeat.
 
 **Prompt:** Such was his courage that all men praised him.
-**Key:** TODO
+**Key:** Tanta erat virtūs eius ut omnēs eum laudārent.
 
 **Prompt:** The island is of such a kind that I do not wish to see it.
-**Key:** TODO
+**Key:** Īnsula tālis est ut nōlim eam vidēre.
 
 **Prompt:** They worked so well that they became rich, and were praised by all.
-**Key:** TODO
+**Key:** Tam bene labōrābant ut dīvitēs fierent et ab omnibus laudārentur.
 
 ## Final and Consecutive Sentences
 
 ### Exercise 10 [A]
+
+**Vocabulary:**
+- defend, **dēfendō, dēfendere, dēfendī, dēfēnsum**
+- walls, **mūrī**, m.; **moenia**, n. pl.
+- alone, **sōlus**
+- law, **lēx, lēgis**, f.
+- speak, **loquor, loquī, locūtus sum**
+- die, **morior, morī, mortuus sum**
+- hunger, **famēs, -is**, f.
+- hurt, **laedō, laedere, laesī, laesum**
 
 **Prompt:** We have come to defend the walls.
 **Key:** TODO
@@ -1137,6 +1147,15 @@ A second paragraph, to check that paragraphs stay apart.
 
 ### Exercise 11 [A]
 
+**Vocabulary:**
+- citizen, **cīvis, -is**
+- messenger, **nūntius, -ī**
+- go away, **abeō, abīre, abiī, abitum** (like **eō**)
+- cold, **frīgus, -oris**, n.
+- seem, **videor, vidērī, vīsus sum**
+- ditch, trench, **fossa**
+- soldier, **mīles, -itis**
+
 **Prompt:** He was sent to ask for peace, that the citizens might not die of hunger.
 **Key:** TODO
 
@@ -1169,6 +1188,14 @@ A second paragraph, to check that paragraphs stay apart.
 
 ### Exercise 12 [B]
 
+**Vocabulary:**
+- weapon, **tēlum**
+- throw, **iaciō, iacere, iēcī, iactum**
+- place, **locus, -ī**, m.
+- shield, **scūtum**
+- repel, **repellō, repellere, reppulī, repulsum**
+- call, **appellō, appellāre, appellāvī, appellātum**
+
 **Prompt:** So many weapons were thrown that no place was safe.
 **Key:** TODO
 
@@ -1200,6 +1227,10 @@ A second paragraph, to check that paragraphs stay apart.
 **Key:** TODO
 
 ### Exercise 13 [B]
+
+**Vocabulary:**
+- few, **paucī**
+- bear, **ferō, ferre, tulī, lātum**
 
 **Prompt:** He sent so few men that we could not defend the walls.
 **Key:** TODO

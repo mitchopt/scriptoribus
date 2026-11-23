@@ -1712,57 +1712,57 @@
             {
               "id": "ex01",
               "prompt": "The tree was so high that it fell.",
-              "key": "TODO"
+              "key": "Arbor tam alta erat ut ceciderit."
             },
             {
               "id": "ex02",
               "prompt": "The sea is so great that we cannot cross it.",
-              "key": "TODO"
+              "key": "Mare tantum est ut id trānsīre nōn possīmus."
             },
             {
               "id": "ex03",
               "prompt": "Will the snow be so deep that we cannot set out?",
-              "key": "TODO"
+              "key": "Tam alta erit nix ut proficīscī nōn possīmus?"
             },
             {
               "id": "ex04",
               "prompt": "The sailors were so terrified that they left the ship.",
-              "key": "TODO"
+              "key": "Nautae adeō territī sunt ut nāvem relīquerint."
             },
             {
               "id": "ex05",
               "prompt": "He was so brave that he crossed the sea, and returned home.",
-              "key": "TODO"
+              "key": "Tam fortis erat ut mare trānsīret et domum redīret."
             },
             {
               "id": "ex06",
               "prompt": "The hill is so high that we cannot climb it.",
-              "key": "TODO"
+              "key": "Collis tam altus est ut eum ascendere nōn possīmus."
             },
             {
               "id": "ex07",
               "prompt": "The boys were so idle that I did not praise them.",
-              "key": "TODO"
+              "key": "Puerī tam ignāvī erant ut eōs nōn laudārem."
             },
             {
               "id": "ex08",
               "prompt": "He is so brave that he ought to be praised.",
-              "key": "TODO"
+              "key": "Tam fortis est ut laudārī dēbeat."
             },
             {
               "id": "ex09",
               "prompt": "Such was his courage that all men praised him.",
-              "key": "TODO"
+              "key": "Tanta erat virtūs eius ut omnēs eum laudārent."
             },
             {
               "id": "ex10",
               "prompt": "The island is of such a kind that I do not wish to see it.",
-              "key": "TODO"
+              "key": "Īnsula tālis est ut nōlim eam vidēre."
             },
             {
               "id": "ex11",
               "prompt": "They worked so well that they became rich, and were praised by all.",
-              "key": "TODO"
+              "key": "Tam bene labōrābant ut dīvitēs fierent et ab omnibus laudārentur."
             }
           ]
         }
@@ -1776,7 +1776,12 @@
         {
           "id": "s01",
           "title": "Exercise 10 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- defend, **dēfendō, dēfendere, dēfendī, dēfēnsum**\n- walls, **mūrī**, m.; **moenia**, n. pl.\n- alone, **sōlus**\n- law, **lēx, lēgis**, f.\n- speak, **loquor, loquī, locūtus sum**\n- die, **morior, morī, mortuus sum**\n- hunger, **famēs, -is**, f.\n- hurt, **laedō, laedere, laesī, laesum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1833,7 +1838,12 @@
         {
           "id": "s02",
           "title": "Exercise 11 [A]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- citizen, **cīvis, -is**\n- messenger, **nūntius, -ī**\n- go away, **abeō, abīre, abiī, abitum** (like **eō**)\n- cold, **frīgus, -oris**, n.\n- seem, **videor, vidērī, vīsus sum**\n- ditch, trench, **fossa**\n- soldier, **mīles, -itis**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1890,7 +1900,12 @@
         {
           "id": "s03",
           "title": "Exercise 12 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- weapon, **tēlum**\n- throw, **iaciō, iacere, iēcī, iactum**\n- place, **locus, -ī**, m.\n- shield, **scūtum**\n- repel, **repellō, repellere, reppulī, repulsum**\n- call, **appellō, appellāre, appellāvī, appellātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
@@ -1947,7 +1962,12 @@
         {
           "id": "s04",
           "title": "Exercise 13 [B]",
-          "boxes": [],
+          "boxes": [
+            {
+              "kind": "vocabulary",
+              "body": "- few, **paucī**\n- bear, **ferō, ferre, tulī, lātum**"
+            }
+          ],
           "exercises": [
             {
               "id": "ex01",
