@@ -1157,34 +1157,34 @@ A second paragraph, to check that paragraphs stay apart.
 - soldier, **mīles, -itis**
 
 **Prompt:** He was sent to ask for peace, that the citizens might not die of hunger.
-**Key:** TODO
+**Key:** Ut pācem rogāret missus est nē cīvēs famē morerentur.
 
 **Prompt:** The messengers arrived so quickly that no one died.
-**Key:** TODO
+**Key:** Tam celeriter nūntiī advēnērunt ut nēmō mortuus sit.
 
 **Prompt:** Go away quickly that no one may see you.
-**Key:** TODO
+**Key:** Abītō celeriter nē quis tē videat.
 
 **Prompt:** We defended the walls so well that the enemy retreated, and did not take the city.
-**Key:** TODO
+**Key:** Tam bene mūrōs dēfendēbāmus ut hostis sē reciperet neque urbem caperet.
 
 **Prompt:** The snow was so deep that many men died of cold.
-**Key:** TODO
+**Key:** Tam alta nix erat ut multī frīgore morerentur.
 
 **Prompt:** Set out quickly that no one may see you.
-**Key:** TODO
+**Key:** Celeriter proficīscere nē quis tē videat.
 
 **Prompt:** Are you brave enough to set out alone?
-**Key:** TODO
+**Key:** Satisne fortis es ut sōlus proficīscāris?
 
 **Prompt:** Do not do this, lest you should seem to be a coward.
-**Key:** TODO
+**Key:** Nē hoc fēcerīs nē ignāvus esse videāris.
 
 **Prompt:** We have made the ditch deep that no one may cross it.
-**Key:** TODO
+**Key:** Altam fossam fēcimus nē quis eam trānseat.
 
 **Prompt:** The ditch was made so deep that no soldiers could cross it.
-**Key:** TODO
+**Key:** Tam alta fossa facta est ut nūllī mīlitēs eam trānsīre possent.
 
 ### Exercise 12 [B]
 
