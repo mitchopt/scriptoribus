@@ -1233,34 +1233,34 @@ A second paragraph, to check that paragraphs stay apart.
 - bear, **ferō, ferre, tulī, lātum**
 
 **Prompt:** He sent so few men that we could not defend the walls.
-**Key:** TODO
+**Key:** Tam paucōs mīsit ut mūrōs dēfendere nōn possēmus.
 
 **Prompt:** We shall return so quickly that you ought not to fear danger.
-**Key:** TODO
+**Key:** Tam celeriter redibimus ut nōn dēbeās mortem timēre.
 
-**Prompt:** The man who 1 dares to despise his enemies is brave enough to conquer them.
-**Key:** TODO
+**Prompt:** The man who dares to despise his enemies is brave enough to conquer them.
+**Key:** Is quī audet hostēs dēspicere satis fortis est ut eōs vincat.
 
 **Prompt:** No man is so brave that he is never afraid.
-**Key:** TODO
+**Key:** Nēmō tam fortis est ut numquam timeat.
 
 **Prompt:** We have come to help you so that nothing may hinder the work.
-**Key:** TODO
+**Key:** Subvēnimus vōbīs nē quid opus impediat.
 
 **Prompt:** He bore a shield so that no weapon might hurt him.
-**Key:** TODO
+**Key:** Scūtum ferēbat nē ūllum tēlum sē laederet.
 
 **Prompt:** He bore so big a shield that no weapon could hurt him.
-**Key:** TODO
+**Key:** Scūtum tantum ferēbat ut nūllum tēlum eum laedere posset.
 
 **Prompt:** They all were put to death so that no messenger might ever return home.
-**Key:** TODO
+**Key:** Omnēs interfectī sunt, nē ūllus nūntius domum umquam redīret.
 
 **Prompt:** I am accused by so many men that I dare not defend myself.
-**Key:** TODO
+**Key:** Ā tot virīs accūsor ut mē ipsum dēfendere nōn possim.
 
 **Prompt:** In order never to be conquered never be afraid.
-**Key:** TODO
+**Key:** Nē umquam vincāris nē timuerīs umquam.
 
 ### Exercise 14 [A]
 
