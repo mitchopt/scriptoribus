@@ -1280,7 +1280,7 @@ A second paragraph, to check that paragraphs stay apart.
 - try, **cōnor, cōnārī, cōnātus sum**, followed by Inf.
 
 **Prompt:** A poor soldier was one day leading a mule laden with gold which had been sent to Alexander the Great. The mule was so tired that it could no longer bear the burden, and the soldier was compelled to carry the gold himself. But by chance Alexander himself was following the man, and he admired his kindness so much that he said, "My friend, try to carry the gold home, for I give it all to you."
-**Key:** TODO
+**Key:** Mīles pauper aliquandō mūlum dūcēbat aurō onerātum quod ad Alexandrum Magnum missum erat. Tam fessus erat mūlus ut nōn diūtius onus ferre posset et mīles aurum ipse portāre cōgerētur. Sed cāsū ipse Alexander illum sequēbātur adeōque hūmānitātem eius mīrābātur ut dīceret "Cōnāre, mī amīce, domum aurum portāre, nam dō tibi omne."
 
 ### Exercise 15 [A]
 
