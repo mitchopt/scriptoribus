@@ -1197,34 +1197,34 @@ A second paragraph, to check that paragraphs stay apart.
 - call, **appellō, appellāre, appellāvī, appellātum**
 
 **Prompt:** So many weapons were thrown that no place was safe.
-**Key:** TODO
+**Key:** Tot tēla missa sunt ut nūllus locus tūtus esset.
 
 **Prompt:** His shield was large enough to defend him.
-**Key:** TODO
+**Key:** Scūtum satis magnum erat ut eum dēfenderet.
 
 **Prompt:** That no one may be idle, this work has been given to all.
-**Key:** TODO
+**Key:** Nē quis ignāvus sit hoc opus omnibus datum est.
 
 **Prompt:** They were so cowardly that they retreated, and did not defend the city.
-**Key:** TODO
+**Key:** Tam ignāvī erant ut sē reciperent neque urbem dēfenderent.
 
 **Prompt:** Our forces are great enough to repel the enemy.
-**Key:** TODO
+**Key:** Cōpiae nostrae satis magnae sunt ut hostēs repellant.
 
 **Prompt:** We put him to death that he might not hurt us.
-**Key:** TODO
+**Key:** Eum interfēcimus nē nōs laederet.
 
 **Prompt:** He is so brave that he does not fear the enemy, but loves battles.
-**Key:** TODO
+**Key:** Tam fortis est ut hostēs nōn timeat sed pugnās amet.
 
 **Prompt:** He did the work in such a way that all men praised it.
-**Key:** TODO
+**Key:** Hoc opus ita fēcit ut omnēs id laudārent.
 
 **Prompt:** Be brave that we may praise you and call you a friend.
-**Key:** TODO
+**Key:** Fortis estō ut tē laudēmus et amīcum appellēmus.
 
 **Prompt:** He went away so quickly that we never saw him again.
-**Key:** TODO
+**Key:** Tam celeriter abiit ut numquam rūrsus eum vidērēmus.
 
 ### Exercise 13 [B]
 
