@@ -1299,7 +1299,7 @@ A second paragraph, to check that paragraphs stay apart.
 - god, **deus, deī**
 
 **Prompt:** The enemy advanced quickly to capture the city. There were so few soldiers in the city that they were hardly able to defend the walls. But reinforcements were advancing, and they resolved to resist bravely, that these might arrive and defeat the enemy. The attack was so fierce that the walls were almost taken, but at length the fresh forces arrived, and the enemy retreated. So great was the joy of the citizens that they went to the temples, and gave many gifts to the gods.
-**Key:** TODO
+**Key:** Celeriter hostēs prōgressī sunt ut urbem caperent. Tam paucī mīlitēs in urbe erant ut vix mūrōs dēfendere possent. Sed novae cōpiae prōgrediēbantur et illī cōnstituērunt fortiter resistere, ut hae advēnīrent hostēsque vincerent. Tam ferōx erat impetus ut mūrī paene caperentur; sed tandem novae cōpiae advēnērunt et hostēs sē recēpēre. Tanta erat cīvium laetitia ut in templa sē cōnferrent et dīs multa dōna darent.
 
 ### Exercise 16 [A]
 
